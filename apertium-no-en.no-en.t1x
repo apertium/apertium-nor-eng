@@ -15,9 +15,18 @@
     <def-cat n="vblex">
       <cat-item tags="vblex.*"/>
     </def-cat>
+    <def-cat n="cnjcoo">
+      <cat-item tags="cnjcoo"/>
+      <cat-item tags="cnjcoo.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_cnj">
+      <attr-item tags="cnjcoo"/>
+      <attr-item tags="cnjsub"/>
+      <attr-item tags="cnjadv"/>
+    </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
       <attr-item tags="np"/>
@@ -52,7 +61,7 @@
 
     <!-- Sintagmas nominales -->
 
-    <rule comment="REGLA: NOM">
+    <rule comment="REGLA: nom">
       <pattern>
         <pattern-item n="nom"/>
       </pattern>
@@ -69,6 +78,27 @@
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
               <clip pos="1" side="tl" part="nbr" link-to="2"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: cnjcoo">
+      <pattern>
+        <pattern-item n="cnjcoo"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="cnjcoo" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="CC"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_cnj"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
