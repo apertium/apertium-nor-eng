@@ -1,1 +1,3 @@
 * text=auto !eol
+/Makefile -text
+/apertium-no-en.no-en.dix -text
