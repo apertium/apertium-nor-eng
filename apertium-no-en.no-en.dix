@@ -1,7 +1,25 @@
 <dictionary>
   <alphabet/>
   <sdefs>
+    <sdef n="n"          c="Noun"/>
+    <sdef n="pr"         c="Preposition"/>
+    <sdef n="adj"        c="Adjective"/>
+    <sdef n="adv"        c="Adverb"/>
     <sdef n="cnjcoo"     c="Coordinating conjunction"/>
+    <sdef n="cnjsub"     c="Subordinating conjunction"/>
+    <sdef n="det"        c="Determiner"/>
+    <sdef n="num"        c="Numeral"/>
+    <sdef n="prn"        c="Pronoun"/>
+
+    <sdef n="sint"       c="Synthetic"/>
+
+    <sdef n="ind"        c="Indefinite"/>
+    <sdef n="qnt"        c="Quantifier"/>
+    <sdef n="def"        c="Definite"/>
+
+    <sdef n="m"          c="Masculine"/>
+
+    <sdef n="sent"       c="Sentence boundary"/>
   </sdefs>
 
   <section id="main" type="standard">
