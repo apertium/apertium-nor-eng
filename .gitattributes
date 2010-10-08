@@ -5,5 +5,10 @@
 /apertium-no-en.no-en.t1x -text
 /apertium-no-en.no-en.t2x -text
 /apertium-no-en.no-en.t3x -text
+dev/generation-test.sh -text
+dev/inconsistency-summary.sh -text
+dev/inconsistency.sh -text
+dev/missing-bidix-freq.sh -text
+dev/testvoc.sh -text
 /modes.xml -text
 /no-en.prob -text
