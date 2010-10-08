@@ -27,12 +27,23 @@
     <sdef n="nt"         c="Neuter"/>
     <sdef n="mf"         c="Masculine / feminine"/>
 
+    <sdef n="p1"         c="First person"/>
+    <sdef n="p2"         c="Second person"/>
+    <sdef n="p3"         c="Third person"/>
+
+    <sdef n="pret"       c="Preterite"/>
+    <sdef n="past"       c="Past"/>
+
     <sdef n="sent"       c="Sentence boundary"/>
     <sdef n="clb"        c="Clause boundary"/>
     <sdef n="cm"         c="Comma"/>
   </sdefs>
 
   <pardefs>
+    <pardef n="vblex_vblex">
+      <e> <p><l><s n="pret"/></l>	<r><s n="past"/></r></p></e>
+    </pardef>
+
     <pardef n="m_LR_f">
       <e> <p><l><s n="m"/></l>	<r></r></p></e>
       <e r="LR"><p><l><s n="f"/></l>	<r></r></p></e>
@@ -62,6 +73,7 @@
 
     <!-- Pronouns -->
 
+    <e><p><l>det<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
 
     <!-- Determiners -->
 
@@ -813,17 +825,23 @@
 
     <!-- Adjectives -->
 
-    <e><p><l>god<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>god<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>tom<s n="adj"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
 
     <!-- Adverbs -->
 
-    <e><p><l>bra<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
-    <e><p><l>også<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>bra<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>også<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>da<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
 
     <!-- Verbs -->
 
     <e><p><l>være<s n="vblex"/></l><r>be<s n="vbser"/></r></p></e>
-    <e><p><l>skape<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
+
+    <e c="  0"><p><l>bli<s n="vblex"/></l><r>become<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skape<s n="vblex"/></l><r>create<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ligge<s n="vblex"/></l><r>lie<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>si<s n="vblex"/></l><r>say<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
     <!-- Interjections -->
 

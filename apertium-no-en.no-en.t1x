@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="prnpers">
+      <cat-item tags="prn.p1.*"/>
+      <cat-item tags="prn.p2.*"/>
+      <cat-item tags="prn.p3.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
     </def-cat>
-    <def-cat n="adj">
+    <def-cat n="adjec">
       <cat-item tags="adj"/>
       <cat-item tags="adj.*"/>
-    </def-cat>
-    <def-cat n="genitive">
-      <cat-item tags="gen"/>
     </def-cat>
     <def-cat n="vblex">
       <cat-item tags="vblex.*"/>
@@ -27,9 +29,24 @@
       <attr-item tags="cnjsub"/>
       <attr-item tags="cnjadv"/>
     </def-attr>
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
+      <attr-item tags="adj.sint"/>
+      <attr-item tags="adj.ord"/>
+    </def-attr>
+    <def-attr n="a_prn">
+      <attr-item tags="prn"/>
+      <attr-item tags="prn.subj"/>
+      <attr-item tags="prn.obj"/>
+      <attr-item tags="prn.dem"/>
+    </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
       <attr-item tags="np"/>
+    </def-attr>
+    <def-attr n="grau">
+      <attr-item tags="comp"/>
+      <attr-item tags="sup"/>
     </def-attr>
     <def-attr n="gen">
       <attr-item tags="m"/>
@@ -37,6 +54,17 @@
       <attr-item tags="nt"/>
       <attr-item tags="mf"/>
       <attr-item tags="GD"/>
+    </def-attr>
+    <def-attr n="pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
+    </def-attr>
+    <def-attr n="case">
+      <attr-item tags="nom"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="gen"/>
     </def-attr>
     <def-attr n="nbr">
       <attr-item tags="sg"/>
@@ -47,6 +75,7 @@
     <def-attr n="temps">
       <attr-item tags="pres"/>
       <attr-item tags="past"/>
+      <attr-item tags="pret"/>
       <attr-item tags="inf"/>
     </def-attr>
   </section-def-attrs>
@@ -60,6 +89,27 @@
   <section-rules>
 
     <!-- Sintagmas nominales -->
+
+    <rule comment="REGLA: adjec">
+      <pattern>
+        <pattern-item n="adjec"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="adj" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <clip pos="1" side="tl" part="grau"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: nom">
       <pattern>
@@ -78,6 +128,52 @@
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
               <clip pos="1" side="tl" part="nbr" link-to="2"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: prnpers">
+      <pattern>
+        <pattern-item n="prnpers"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="case"/>
+                <lit-tag v="acc"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <lit-tag v="prn.obj"/>
+            </let>
+          </when>
+          <otherwise>
+            <let>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <lit-tag v="prn.subj"/>
+            </let>
+          </otherwise>
+        </choose>
+        <out>
+          <chunk name="prn" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <clip pos="1" side="tl" part="pers" link-to="2"/>
+              <clip pos="1" side="tl" part="gen" link-to="3"/>
+              <clip pos="1" side="tl" part="nbr" link-to="4"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
