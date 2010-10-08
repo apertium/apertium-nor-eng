@@ -10,6 +10,40 @@
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>eller<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
 
+    <!-- Prepositions -->
+
+    <e><p><l>med<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+
+    <!-- Pronouns -->
+
+
+    <!-- Determiners -->
+
+    <e><p><l>en<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
+
+    <!-- Numerals -->
+
+    <e><p><l>en<s n="det"/><s n="qnt"/></l><r>one<s n="num"/></r></p></e>
+
+    <!-- Nouns -->
+
+    <e><p><l>bil<s n="n"/><s n="m"/></l><r>car<s n="n"/></r></p></e>
+
+    <!-- Adjectives -->
+
+    <e><p><l>god<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+
+    <!-- Adverbs -->
+
+    <e><p><l>bra<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
+
+    <!-- Verbs -->
+
+
+    <!-- Interjections -->
+
+
+    <!-- Punctuation -->
 
 
 
