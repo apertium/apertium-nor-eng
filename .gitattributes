@@ -2,6 +2,7 @@
 /Makefile -text
 /apertium-no-en.no-en.dix -text
 /apertium-no-en.no-en.lex -text
+/apertium-no-en.no-en.t1x -text
 /apertium-no-en.no-en.t2x -text
 /apertium-no-en.no-en.t3x -text
 /modes.xml -text
