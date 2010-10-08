@@ -1,6 +1,6 @@
 
 all:
-	lt-comp lr ../../trunk/apertium-nn-nb/apertium-nn-nb.nb.dix no-en.automorf.bin
+	lt-comp lr apertium-no-en.nb.dix no-en.automorf.bin
 	cg-comp ../../trunk/apertium-nn-nb/apertium-nn-nb.nb-nn.rlx no-en.rlx.bin
 	cg-comp apertium-no-en.no-en.lex no-en.lex.bin
 	if [ ! -d .deps ]; then mkdir .deps; fi
