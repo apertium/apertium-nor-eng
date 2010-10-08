@@ -42,6 +42,7 @@
   <pardefs>
     <pardef n="vblex_vblex">
       <e> <p><l><s n="pret"/></l>	<r><s n="past"/></r></p></e>
+      <e> <p><l></l>	<r></r></p></e>
     </pardef>
 
     <pardef n="m_LR_f">
@@ -57,9 +58,13 @@
     <e><p><l>eller<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>men<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
 
+    <e><p><l>at<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+
     <!-- Prepositions -->
 
     <e c="  0"><p><l>med<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>fra<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>i<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e slr="1"><p><l>i<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
@@ -74,6 +79,7 @@
     <!-- Pronouns -->
 
     <e><p><l>det<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
+    <e><p><l>han<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
 
     <!-- Determiners -->
 
@@ -842,6 +848,10 @@
     <e c="  0"><p><l>skape<s n="vblex"/></l><r>create<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>ligge<s n="vblex"/></l><r>lie<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>si<s n="vblex"/></l><r>say<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>se<s n="vblex"/></l><r>see<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skille<s n="vblex"/></l><r>split<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>skille<s n="vblex"/></l><r>separate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kalle<s n="vblex"/></l><r>call<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
     <!-- Interjections -->
 
