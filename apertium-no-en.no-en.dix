@@ -8,9 +8,13 @@
     <sdef n="adv"        c="Adverb"/>
     <sdef n="cnjcoo"     c="Coordinating conjunction"/>
     <sdef n="cnjsub"     c="Subordinating conjunction"/>
+    <sdef n="cnjadv"     c="Adverbial conjunction"/>
     <sdef n="det"        c="Determiner"/>
     <sdef n="num"        c="Numeral"/>
     <sdef n="vblex"      c="Verb"/>
+    <sdef n="vaux"       c="Auxilliary verb"/>
+    <sdef n="vbmod"      c="Modal verb"/>
+    <sdef n="vbhaver"    c="Verb 'to have'"/>
     <sdef n="vbser"      c="Verb 'to be'"/>
     <sdef n="prn"        c="Pronoun"/>
 
@@ -18,9 +22,14 @@
 
     <sdef n="sint"       c="Synthetic"/>
 
+    <sdef n="ord"        c="Ordinal"/>
+    <sdef n="dem"        c="Demonstrative"/>
     <sdef n="ind"        c="Indefinite"/>
     <sdef n="qnt"        c="Quantifier"/>
     <sdef n="def"        c="Definite"/>
+
+    <sdef n="sg"         c="Singular"/>
+    <sdef n="pl"         c="Plural"/>
 
     <sdef n="m"          c="Masculine"/>
     <sdef n="f"          c="Feminine"/>
@@ -33,6 +42,10 @@
 
     <sdef n="pret"       c="Preterite"/>
     <sdef n="past"       c="Past"/>
+
+    <sdef n="GD"         c="Gender to be determined"/>
+    <sdef n="ND"         c="Number to be determined"/>
+    <sdef n="PD"         c="Person to be determined"/>
 
     <sdef n="sent"       c="Sentence boundary"/>
     <sdef n="clb"        c="Clause boundary"/>
@@ -53,6 +66,18 @@
       <e> <p><l><s n="m"/></l>	<r></r></p></e>
       <e r="LR"><p><l><s n="f"/></l>	<r></r></p></e>
     </pardef>
+    <pardef n="qnt_num">
+      <e r="LR"> <p><l><s n="sg"/></l>	<r></r></p></e>
+      <e r="LR"><p><l><s n="pl"/></l>	<r></r></p></e>
+      <e r="RL"><p><l><s n="ND"/></l>	<r></r></p></e>
+    </pardef>
+    <pardef n="dem_dem">
+      <e r="LR"> <p><l><s n="m"/></l>	<r></r></p></e>
+      <e r="LR"><p><l><s n="nt"/></l>	<r></r></p></e>
+      <e r="LR"><p><l><s n="f"/></l>	<r></r></p></e>
+      <e r="RL"><p><l><s n="GD"/></l>	<r></r></p></e>
+    </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
@@ -61,8 +86,10 @@
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>eller<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>men<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e><p><l>så<s n="cnjcoo"/></l><r>so<s n="cnjadv"/></r></p></e>
 
     <e><p><l>at<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>som<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
 
     <!-- Prepositions -->
 
@@ -80,14 +107,33 @@
     <e c="  0"><p><l>til<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e slr="1"><p><l>til<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
 
+    <e c="  0"><p><l>for<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>fram<s n="pr"/></l><r>forth<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>på<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>av<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>mellom<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
+
     <!-- Pronouns -->
 
+    <e><p><l>jeg<s n="prn"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="p1"/></r></p></e>
+    <e><p><l>vi<s n="prn"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="p1"/></r></p></e>
+    <e><p><l>De<s n="prn"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="p2"/></r></p></e>
+
     <e><p><l>det<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
+    <e><p><l>den<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
     <e><p><l>han<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
+    <e><p><l>dere<s n="prn"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="p2"/></r></p></e>
 
     <!-- Determiners -->
 
     <e><p><l>en<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>annen<s n="det"/><s n="dem"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>den<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p><par n="dem_dem"/></e>
+    <e><p><l>all<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
 
     <!-- Numerals -->
 
@@ -1153,6 +1199,8 @@
 <e>        <p><l>dyp<s n="n"/><s n="nt"/></l><r>depth<s n="n"/></r></p></e>
 <e>        <p><l>dyr<s n="n"/><s n="nt"/></l><r>animal<s n="n"/></r></p></e>
 <e slr="1"><p><l>dyr<s n="n"/><s n="nt"/></l><r>beast<s n="n"/></r></p></e>
+<e c="  0"><p><l>sjødyr<s n="n"/><s n="nt"/></l><r>sea<b/>creature<s n="n"/></r></p></e>
+<e slr="1"><p><l>sjødyr<s n="n"/><s n="nt"/></l><r>sea<b/>animal<s n="n"/></r></p></e>
 <e>        <p><l>dyrepark<s n="n"/><s n="m"/></l><r>zoo<s n="n"/></r></p></e>
 <e>        <p><l>dyrlege<s n="n"/><s n="m"/></l><r>vet<s n="n"/></r></p></e>
 <e>        <p><l>dyst<s n="n"/><s n="m"/></l><r>battle<s n="n"/></r></p></e>
@@ -1572,7 +1620,7 @@
 <e>        <p><l>flukt<s n="n"/></l>         <r>escape<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>flukt<s n="n"/></l>         <r>flight<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>fluor<s n="n"/><s n="nt"/></l><r>fluoride<s n="n"/></r></p></e>
-<e>        <p><l>fly<s n="n"/><s n="nt"/></l><r>airplane<s n="n"/></r></p></e>
+<e>        <p><l>fly<s n="n"/><s n="nt"/></l><r>aeroplane<s n="n"/></r></p></e>
 <e>        <p><l>flygel<s n="n"/><s n="nt"/></l><r>grand<b/>piano<s n="n"/></r></p></e>
 <e>        <p><l>flygning<s n="n"/><s n="m"/></l><r>flight<s n="n"/></r></p></e>
 <e>        <p><l>flyktning<s n="n"/><s n="m"/></l><r>fugitive<s n="n"/></r></p></e>
@@ -2157,25 +2205,61 @@
 <e c="  0"><p><l>himmel<s n="n"/><s n="m"/></l><r>heaven<s n="n"/></r></p></e>
 <e slr="1"><p><l>himmel<s n="n"/><s n="m"/></l><r>sky<s n="n"/></r></p></e>
 <e c="  0"><p><l>jord<s n="n"/><s n="m"/></l><r>earth<s n="n"/></r></p></e>
+<e c="  0"><p><l>kveld<s n="n"/><s n="m"/></l><r>evening<s n="n"/></r></p></e>
+<e c="  0"><p><l>morgen<s n="n"/><s n="m"/></l><r>morning<s n="n"/></r></p></e>
+<e c="  0"><p><l>mørke<s n="n"/><s n="nt"/></l><r>dark<s n="n"/></r></p></e>
+<e c="  0"><p><l>lys<s n="n"/><s n="nt"/></l><r>light<s n="n"/></r></p></e>
+<e c="  0"><p><l>hav<s n="n"/><s n="nt"/></l><r>sea<s n="n"/></r></p></e>
+<e c="  0"><p><l>vann<s n="n"/><s n="nt"/></l><r>water<s n="n"/></r></p></e>
+<e c="  0"><p><l>år<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
+<e c="  0"><p><l>svar<s n="n"/><s n="nt"/></l><r>answer<s n="n"/></r></p></e>
+<e c="  0"><p><l>natt<s n="n"/></l><r>night<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>stjerne<s n="n"/></l><r>star<s n="n"/></r></p><par n="m_LR_f"/></e>
     
     <!-- Proper nouns -->
 
-    <e><p><l>Gud<s n="np"/></l><r>God<s n="np"/><s n="al"/></r></p></e>
+    <e><p><l>Gud<s n="np"/></l><r>God<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
 
     <!-- Adjectives -->
 
+    <e c="  0"><p><l>første<s n="adj"/><s n="ord"/></l><r>first<s n="adj"/><s n="ord"/></r></p></e>
+    <e c="  0"><p><l>andre<s n="adj"/><s n="ord"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
+    <e c="  0"><p><l>tredje<s n="adj"/><s n="ord"/></l><r>third<s n="adj"/><s n="ord"/></r></p></e>
+    <e c="  0"><p><l>fjerde<s n="adj"/><s n="ord"/></l><r>fourth<s n="adj"/><s n="ord"/></r></p></e>
+    <e c="  0"><p><l>femte<s n="adj"/><s n="ord"/></l><r>fifth<s n="adj"/><s n="ord"/></r></p></e>
+    <e c="  0"><p><l>sjette<s n="adj"/><s n="ord"/></l><r>sixth<s n="adj"/><s n="ord"/></r></p></e>
+
     <e c="  0"><p><l>god<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>stor<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>tom<s n="adj"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>hel<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>fast<s n="adj"/></l><r>solid<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>fast<s n="adj"/></l><r>steady<s n="adj"/><s n="sint"/></r></p></e>
+    <e slr="2"><p><l>fast<s n="adj"/></l><r>firm<s n="adj"/><s n="sint"/></r></p></e>
 
     <!-- Adverbs -->
 
+    <e c="  0"><p><l>ikke<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
     <e c="  0"><p><l>bra<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>godt<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
     <e c="  0"><p><l>også<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e c="  0"><p><l>da<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
 
+    <e c="  0"><p><l>ut<s n="adv"/></l><r>out<s n="adv"/></r></p></e>
+
+    <e c="  0"><p><l>slik<s n="adv"/></l><r>so<s n="cnjadv"/></r></p></e>
+    <e slr="1"><p><l>slik<s n="adv"/></l><r>in<b/>this<b/>way<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>slik<s n="adv"/></l><r>like<b/>that<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>slik<s n="adv"/></l><r>that<b/>way<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>slik<s n="adv"/></l><r>like<b/>this<s n="adv"/></r></p></e>
+    <e slr="5"><p><l>slik<s n="adv"/></l><r>such<s n="adv"/></r></p></e>
+
     <!-- Verbs -->
 
-    <e><p><l>være<s n="vblex"/></l><r>be<s n="vbser"/></r></p></e>
+    <e c="  0"><p><l>være<s n="vblex"/></l><r>be<s n="vbser"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ha<s n="vblex"/></l><r>have<s n="vbhaver"/></r></p><par n="vblex_vblex"/></e>
+
+    <e c="  0"><p><l>skulle<s n="vblex"/></l><r>shall<s n="vaux"/></r></p></e>
 
     <e c="  0"><p><l>bli<s n="vblex"/></l><r>become<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>skape<s n="vblex"/></l><r>create<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -2185,11 +2269,39 @@
     <e c="  0"><p><l>skille<s n="vblex"/></l><r>split<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>skille<s n="vblex"/></l><r>separate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>kalle<s n="vblex"/></l><r>call<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>gjøre<s n="vblex"/></l><r>make<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>komme<s n="vblex"/></l><r>come<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>samle<s n="vblex"/></l><r>collect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>syne<s n="vblex"/></l><r>show<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>syne<s n="vblex"/></l><r>inspect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>syne<s n="vblex"/></l><r>examine<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>syne<s n="vblex"/></l><r>appraise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="4"><p><l>syne<s n="vblex"/></l><r>look<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>gi<s n="vblex"/></l><r>give<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>gå<s n="vblex"/></l><r>go<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>bære<s n="vblex"/></l><r>bear<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fly<s n="vblex"/></l><r>fly<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ta<s n="vblex"/></l><r>take<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kunne<s n="vblex"/></l><r>know<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>høre<s n="vblex"/></l><r>hear<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>spise<s n="vblex"/></l><r>eat<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e srl="1"><p><l>ete<s n="vblex"/></l><r>eat<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sende<s n="vblex"/></l><r>send<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>svare<s n="vblex"/></l><r>ask<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dø<s n="vblex"/></l><r>die<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fare<s n="vblex"/></l><r>travel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
+    <e c="  0"><p><l>vente<s n="vblex"/></l><r>expect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>vente<s n="vblex"/></l><r>stay<g><b/>put</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>vente<s n="vblex"/></l><r>wait<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>vente<s n="vblex"/></l><r>delay<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
     <!-- Interjections -->
 
 
     <!-- Punctuation -->
+
+    <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="det"/><s n="qnt"/></l><r><s n="num"/></r></p><par n="qnt_num"/></e>
 
     <e><re>[.\?;:!·]+</re><p><l><s n="sent"/><s n="clb"/></l><r><s n="sent"/></r></p></e>
     <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>

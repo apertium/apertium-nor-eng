@@ -1,0 +1,12 @@
+    552 ^@fordi<cnjsub>$
+    546 ^@både<cnjcoo>$
+    161 ^@hvis<cnjsub>$
+    150 ^@Hvis<cnjsub>$
+    119 ^@Fordi<cnjsub>$
+    108 ^@Dersom<cnjsub>$
+     85 ^@dersom<cnjsub>$
+     83 ^@enten<cnjcoo>$
+     55 ^@Både<cnjcoo>$
+     15 ^@Enten<cnjcoo>$
+      1 ^@Ettersom<cnjsub>$
+      1 ^@ettersom<cnjsub>$

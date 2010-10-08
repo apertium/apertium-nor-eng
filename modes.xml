@@ -100,6 +100,32 @@
     </pipeline>
   </mode>
 
+  <mode name="no-en-postchunk-nocg"> <!-- For generation test script -->
+    <pipeline>
+      <program name="lt-proc">
+        <file name="no-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="no-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-no-en.no-en.t1x"/>
+        <file name="no-en.t1x.bin"/>
+        <file name="no-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-no-en.no-en.t2x"/>
+        <file name="no-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-no-en.no-en.t3x"/>
+        <file name="no-en.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
   <mode name="no-en-postchunk">
     <pipeline>
       <program name="lt-proc -w">

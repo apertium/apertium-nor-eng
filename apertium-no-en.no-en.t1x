@@ -21,6 +21,10 @@
       <cat-item tags="cnjcoo"/>
       <cat-item tags="cnjcoo.*"/>
     </def-cat>
+    <def-cat n="coma">
+      <cat-item tags="cm"/>
+      <cat-item tags="cm.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -201,6 +205,28 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: coma">
+      <pattern>
+        <pattern-item n="coma"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="coma" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="cm"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <lit-tag v="cm"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
 
 

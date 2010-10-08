@@ -1,0 +1,245 @@
+===============================================================================
+Multiple surface forms for a single lexical form
+===============================================================================
+
+===============================================================================
+Multiple bidix entries for a single source language lexical form
+===============================================================================
+
+===============================================================================
+Tag mismatch between transfer and generation
+===============================================================================
+   9156 #shall\<vaux\>\<pres\>	^shall<vaux><pres>$
+   6483 #prpers\<prn\>\<subj\>\<p3\>\<mf\>\<sg\>	^prpers<prn><subj><p3><mf><sg>$
+   3604 #one\<num\>\<m\>\<sg\>	^one<num><m><sg>$
+   3069 #prpers\<prn\>\<obj\>\<p3\>\<mf\>\<sg\>	^prpers<prn><obj><p3><mf><sg>$
+   2303 #Prpers\<prn\>\<subj\>\<p3\>\<mf\>\<sg\>	^Prpers<prn><subj><p3><mf><sg>$
+   1936 #come\<vblex\>\<imp\>	^come<vblex><imp>$
+   1394 #forth\<pr\>	^forth<pr>$
+   1129 #become\<vblex\>\<imp\>	^become<vblex><imp>$
+   1055 #one\<num\>\<nt\>\<sg\>	^one<num><nt><sg>$
+    916 #go\<vblex\>\<imp\>	^go<vblex><imp>$
+    847 #see\<vblex\>\<imp\>	^see<vblex><imp>$
+    742 #give\<vblex\>\<imp\>	^give<vblex><imp>$
+    727 #God\<np\>\<sg\>	^God<np><sg>$
+    648 #say\<vblex\>\<imp\>	^say<vblex><imp>$
+    615 #have\<vbhaver\>\<imp\>	^have<vbhaver><imp>$
+    517 #children\<n\>\<pl\>	^children<n><pl>$
+    441 #See\<vblex\>\<imp\>	^See<vblex><imp>$
+    313 #all\<det\>\<qnt\>\<m\>\<sg\>	^all<det><qnt><m><sg>$
+    294 #other\<det\>\<ind\>\<m\>\<sg\>\<ind\>	^other<det><ind><m><sg><ind>$
+    260 #Come\<vblex\>\<imp\>	^Come<vblex><imp>$
+    259 #One\<num\>\<m\>\<sg\>	^One<num><m><sg>$
+    256 #Go\<vblex\>\<imp\>	^Go<vblex><imp>$
+    249 #senior\<n\>\<pl\>	^senior<n><pl>$
+    218 #disciple\<n\>\<pl\>	^disciple<n><pl>$
+    176 #Be\<vbser\>\<imp\>	^Be<vbser><imp>$
+    132 #other\<det\>\<ind\>\<nt\>\<sg\>\<ind\>	^other<det><ind><nt><sg><ind>$
+    131 #Say\<vblex\>\<imp\>	^Say<vblex><imp>$
+    112 #Give\<vblex\>\<imp\>	^Give<vblex><imp>$
+     96 #spoil\<n\>\<sg\>	^spoil<n><sg>$
+     92 #be\<vbser\>\<imp\>	^be<vbser><imp>$
+     89 #drink\<n\>\<sp\>	^drink<n><sp>$
+     88 #call\<vblex\>\<inf\>	^call<vblex><inf><pass>$
+     76 #collect\<vblex\>\<imp\>	^collect<vblex><imp>$
+     64 #well\<n\>\<sg\>	^well<n><sg>$
+     63 #Shall\<vaux\>\<pres\>	^Shall<vaux><pres>$
+     62 #drift\<n\>\<pl\>	^drift<n><pl>$
+     60 #find\<n\>\<sg\>	^find<n><sg>$
+     59 #grasp\<n\>\<sg\>	^grasp<n><sg>$
+     58 #girdle\<n\>\<sg\>	^girdle<n><sg>$
+     55 #show\<vblex\>\<inf\>	^show<vblex><inf><pass>$
+     51 #drift\<n\>\<sg\>	^drift<n><sg>$
+     51 #children\<n\>\<sg\>	^children<n><sg>$
+     48 #Become\<vblex\>\<imp\>	^Become<vblex><imp>$
+     46 #own\<n\>\<pl\>	^own<n><pl>$
+     45 #umpire\<n\>\<pl\>	^umpire<n><pl>$
+     45 #peril\<n\>\<pl\>	^peril<n><pl>$
+     45 #own\<n\>\<sg\>	^own<n><sg>$
+     43 #venom\<n\>\<sg\>	^venom<n><sg>$
+     39 #Have\<vbhaver\>\<imp\>	^Have<vbhaver><imp>$
+     38 #peril\<n\>\<sg\>	^peril<n><sg>$
+     36 #goblet\<n\>\<pl\>	^goblet<n><pl>$
+     33 #dread\<n\>\<sg\>	^dread<n><sg>$
+     32 #spike\<n\>\<pl\>	^spike<n><pl>$
+     32 #make\<vblex\>\<inf\>	^make<vblex><inf><pass>$
+     32 #collect\<vblex\>\<inf\>	^collect<vblex><inf><pass>$
+     30 #goblet\<n\>\<sg\>	^goblet<n><sg>$
+     29 #Disciple\<n\>\<pl\>	^Disciple<n><pl>$
+     29 #bear\<vblex\>\<inf\>	^bear<vblex><inf><pass>$
+     28 #pelvis\<n\>\<pl\>	^pelvis<n><pl>$
+     28 #dread\<n\>\<pl\>	^dread<n><pl>$
+     25 #disciple\<n\>\<sg\>	^disciple<n><sg>$
+     25 #All\<det\>\<qnt\>\<m\>\<sg\>	^All<det><qnt><m><sg>$
+     24 #tumult\<n\>\<sg\>	^tumult<n><sg>$
+     23 #gravel\<n\>\<pl\>	^gravel<n><pl>$
+     23 #bitter\<n\>\<sg\>	^bitter<n><sg>$
+     20 #fig tree\<n\>\<pl\>	^fig tree<n><pl>$
+     19 #give\<vblex\>\<inf\>	^give<vblex><inf><pass>$
+     18 #liberty\<n\>\<sg\>	^liberty<n><sg>$
+     18 #christening\<n\>\<sg\>	^christening<n><sg>$
+     17 #Call\<vblex\>\<imp\>	^Call<vblex><imp>$
+     17 #breadth\<n\>\<sg\>	^breadth<n><sg>$
+     17 #beverage\<n\>\<pl\>	^beverage<n><pl>$
+     17 #balm\<n\>\<sg\>	^balm<n><sg>$
+     16 #reimburse\<n\>\<pl\>	^reimburse<n><pl>$
+     16 #ashes\<n\>\<sg\>	^ashes<n><sg>$
+     15 #fig tree\<n\>\<sg\>	^fig tree<n><sg>$
+     15 #barley\<n\>\<pl\>	^barley<n><pl>$
+     14 #loathe\<n\>\<sg\>	^loathe<n><sg>$
+     14 #hind\<n\>\<pl\>	^hind<n><pl>$
+     14 #glee\<n\>\<sg\>	^glee<n><sg>$
+     14 #bear\<vblex\>\<imp\>	^bear<vblex><imp>$
+     13 #well\<n\>\<pl\>	^well<n><pl>$
+     13 #silliness\<n\>\<sg\>	^silliness<n><sg>$
+     13 #One\<num\>\<nt\>\<sg\>	^One<num><nt><sg>$
+     13 #abscess\<n\>\<pl\>	^abscess<n><pl>$
+     12 #offset\<n\>\<sg\>	^offset<n><sg>$
+     12 #fellowship\<n\>\<pl\>	^fellowship<n><pl>$
+     12 #beverage\<n\>\<sg\>	^beverage<n><sg>$
+     11 #zest\<n\>\<pl\>	^zest<n><pl>$
+     11 #umpire\<n\>\<sg\>	^umpire<n><sg>$
+     11 #say\<vblex\>\<inf\>	^say<vblex><inf><pass>$
+     11 #reimburse\<n\>\<sg\>	^reimburse<n><sg>$
+     11 #manslaughter\<n\>\<sg\>	^manslaughter<n><sg>$
+     11 #Bear\<vblex\>\<imp\>	^Bear<vblex><imp>$
+     10 #fly\<vblex\>\<imp\>	^fly<vblex><imp>$
+     10 #Children\<n\>\<pl\>	^Children<n><pl>$
+      9 #precinct\<n\>\<sg\>	^precinct<n><sg>$
+      9 #jeweller\<n\>\<sg\>	^jeweller<n><sg>$
+      9 #gallows\<n\>\<sg\>	^gallows<n><sg>$
+      9 #all\<det\>\<qnt\>\<pl\>\<gen\>	^all<det><qnt><pl><gen>$
+      8 #torch\<n\>\<pl\>	^torch<n><pl>$
+      8 #Split\<vblex\>\<imp\>	^Split<vblex><imp>$
+      8 #shrub\<n\>\<sg\>	^shrub<n><sg>$
+      8 #scorn\<n\>\<pl\>	^scorn<n><pl>$
+      8 #grasp\<n\>\<pl\>	^grasp<n><pl>$
+      8 #fullness\<n\>\<sg\>	^fullness<n><sg>$
+      8 #foetus\<n\>\<pl\>	^foetus<n><pl>$
+      8 #false\<n\>\<sg\>	^false<n><sg>$
+      7 #renunciation\<n\>\<pl\>	^renunciation<n><pl>$
+      7 #parting\<n\>\<sg\>	^parting<n><sg>$
+      6 #muck\<n\>\<sg\>	^muck<n><sg>$
+      6 #madness\<n\>\<sg\>	^madness<n><sg>$
+      6 #foetus\<n\>\<sg\>	^foetus<n><sg>$
+      5 #venom\<n\>\<pl\>	^venom<n><pl>$
+      5 #Spike\<n\>\<pl\>	^Spike<n><pl>$
+      5 #show\<vblex\>\<imp\>	^show<vblex><imp>$
+      5 #shelves\<n\>\<pl\>	^shelves<n><pl>$
+      5 #scorn\<n\>\<sg\>	^scorn<n><sg>$
+      5 #manslaughter\<n\>\<pl\>	^manslaughter<n><pl>$
+      5 #hoard\<n\>\<pl\>	^hoard<n><pl>$
+      5 #call\<vblex\>\<imp\>	^call<vblex><imp>$
+      5 #abscess\<n\>\<sg\>	^abscess<n><sg>$
+      4 #torch\<n\>\<sg\>	^torch<n><sg>$
+      4 #Show\<vblex\>\<inf\>	^Show<vblex><inf><pass>$
+      4 #lie\<vblex\>\<imp\>	^lie<vblex><imp>$
+      4 #liaison\<n\>\<sg\>	^liaison<n><sg>$
+      4 #grate\<n\>\<pl\>	^grate<n><pl>$
+      4 #girdle\<n\>\<pl\>	^girdle<n><pl>$
+      4 #footing\<n\>\<sg\>	^footing<n><sg>$
+      4 #drip\<n\>\<sg\>	^drip<n><sg>$
+      4 #Children\<n\>\<sg\>	^Children<n><sg>$
+      4 #breadth\<n\>\<pl\>	^breadth<n><pl>$
+      4 #accuser\<n\>\<pl\>	^accuser<n><pl>$
+      3 #shelves\<n\>\<sg\>	^shelves<n><sg>$
+      3 #redemption\<n\>\<sg\>	^redemption<n><sg>$
+      3 #peer\<n\>\<pl\>	^peer<n><pl>$
+      3 #Girdle\<n\>\<sg\>	^Girdle<n><sg>$
+      3 #gall\<n\>\<sg\>	^gall<n><sg>$
+      3 #felony\<n\>\<sg\>	^felony<n><sg>$
+      3 #Dread\<n\>\<sg\>	^Dread<n><sg>$
+      3 #culprit\<n\>\<sg\>	^culprit<n><sg>$
+      3 #crescent moon\<n\>\<pl\>	^crescent moon<n><pl>$
+      3 #barb\<n\>\<sg\>	^barb<n><sg>$
+      2 #Umpire\<n\>\<pl\>	^Umpire<n><pl>$
+      2 #tombstone\<n\>\<sg\>	^tombstone<n><sg>$
+      2 #split\<vblex\>\<inf\>	^split<vblex><inf><pass>$
+      2 #sparkle\<n\>\<pl\>	^sparkle<n><pl>$
+      2 #Silliness\<n\>\<sg\>	^Silliness<n><sg>$
+      2 #shrub\<n\>\<pl\>	^shrub<n><pl>$
+      2 #shaft\<n\>\<pl\>	^shaft<n><pl>$
+      2 #sea creature\<n\>\<pl\>	^sea creature<n><pl>$
+      2 #rind\<n\>\<sg\>	^rind<n><sg>$
+      2 #remote spot\<n\>\<sg\>	^remote spot<n><sg>$
+      2 #puff\<n\>\<pl\>	^puff<n><pl>$
+      2 #lunatic\<n\>\<sg\>	^lunatic<n><sg>$
+      2 #jeweller\<n\>\<pl\>	^jeweller<n><pl>$
+      2 #inherit\<n\>\<sg\>	^inherit<n><sg>$
+      2 #hibernation\<n\>\<sg\>	^hibernation<n><sg>$
+      2 #Forth\<pr\>	^Forth<pr>$
+      2 #float\<n\>\<pl\>	^float<n><pl>$
+      2 #Fig tree\<n\>\<sg\>	^Fig tree<n><sg>$
+      2 #fellowship\<n\>\<sg\>	^fellowship<n><sg>$
+      2 #falls\<n\>\<pl\>	^falls<n><pl>$
+      2 #dregs\<n\>\<sg\>	^dregs<n><sg>$
+      2 #Disciple\<n\>\<sg\>	^Disciple<n><sg>$
+      2 #deception\<n\>\<pl\>	^deception<n><pl>$
+      2 #dam\<n\>\<sg\>	^dam<n><sg>$
+      2 #Create\<vblex\>\<imp\>	^Create<vblex><imp>$
+      2 #blend\<n\>\<sg\>	^blend<n><sg>$
+      2 #Beverage\<n\>\<sg\>	^Beverage<n><sg>$
+      2 #airplane\<n\>\<pl\>	^airplane<n><pl>$
+      1 #waters\<n\>\<pl\>	^waters<n><pl>$
+      1 #Tumult\<n\>\<sg\>	^Tumult<n><sg>$
+      1 #Torch\<n\>\<pl\>	^Torch<n><pl>$
+      1 #suckle\<n\>\<sp\>	^suckle<n><sp>$
+      1 #spoil\<n\>\<sg\> 	^spoil<n><sg>$ 
+      1 #split\<vblex\>\<imp\>	^split<vblex><imp>$
+      1 #spike\<n\>\<sg\>	^spike<n><sg>$
+      1 #sparkle\<n\>\<sg\>	^sparkle<n><sg>$
+      1 #solid\<adj\>\<comp\>	^solid<adj><comp>$
+      1 #Shelves\<n\>\<sg\>	^Shelves<n><sg>$
+      1 #sheaf\<n\>\<pl\>	^sheaf<n><pl>$
+      1 #sentiment\<n\>\<pl\>	^sentiment<n><pl>$
+      1 #Senior\<n\>\<pl\>	^Senior<n><pl>$
+      1 #say\<vblex\>\<imp\> – 	^say<vblex><imp>$ – 
+      1 #rut\<n\>\<sg\>	^rut<n><sg>$
+      1 #repute\<n\>\<sg\>	^repute<n><sg>$
+      1 #repentance\<n\>\<sg\>	^repentance<n><sg>$
+      1 #repentance\<n\>\<pl\>	^repentance<n><pl>$
+      1 #precipitate\<n\>\<sg\>	^precipitate<n><sg>$
+      1 #Pod\<n\>\<sg\>	^Pod<n><sg>$
+      1 #Other\<det\>\<ind\>\<f\>\<sg\>\<ind\>	^Other<det><ind><f><sg><ind>$
+      1 #necklace\<n\>\<pl\>	^necklace<n><pl>$
+      1 #lunatic\<n\>\<pl\>	^lunatic<n><pl>$
+      1 #Lie\<vblex\>\<imp\>	^Lie<vblex><imp>$
+      1 #Liberty\<n\>\<sg\>	^Liberty<n><sg>$
+      1 #hippopotamus\<n\>\<sg\>	^hippopotamus<n><sg>$
+      1 #guest room\<n\>\<pl\>	^guest room<n><pl>$
+      1 #Grate\<n\>\<sg\>	^Grate<n><sg>$
+      1 #Goblet\<n\>\<sg\>	^Goblet<n><sg>$
+      1 #gnome\<n\>\<sg\>	^gnome<n><sg>$
+      1 #glee\<n\>\<sg\> 	^glee<n><sg>$ 
+      1 #glee\<n\>\<pl\>	^glee<n><pl>$
+      1 #garrison\<n\>\<sg\>	^garrison<n><sg>$
+      1 #fraternity\<n\>\<sg\>	^fraternity<n><sg>$
+      1 #fixative\<n\>\<pl\>	^fixative<n><pl>$
+      1 #fish hook\<n\>\<pl\>	^fish hook<n><pl>$
+      1 #felony\<n\>\<pl\>	^felony<n><pl>$
+      1 #False\<n\>\<sg\>	^False<n><sg>$
+      1 #dread\<n\>\<sg\> 	^dread<n><sg>$ 
+      1 #doorknob\<n\>\<sg\>	^doorknob<n><sg>$
+      1 #distaste\<n\>\<sg\>	^distaste<n><sg>$
+      1 #depict\<n\>\<sg\>	^depict<n><sg>$
+      1 #depict\<n\>\<pl\>	^depict<n><pl>$
+      1 #create\<vblex\>\<inf\>	^create<vblex><inf><pass>$
+      1 #Collect\<vblex\>\<imp\>	^Collect<vblex><imp>$
+      1 #Christening\<n\>\<sg\>	^Christening<n><sg>$
+      1 #Beet\<n\>\<sg\>	^Beet<n><sg>$
+      1 #beacon\<n\>\<pl\>	^beacon<n><pl>$
+      1 #barrister\<n\>\<sg\>	^barrister<n><sg>$
+      1 #Barley\<n\>\<sg\>	^Barley<n><sg>$
+      1 #barley\<n\>\<sg\>	^barley<n><sg>$
+      1 #barb\<n\>\<pl\>	^barb<n><pl>$
+      1 #All\<det\>\<qnt\>\<pl\>\<gen\>	^All<det><qnt><pl><gen>$
+      1 #accuser\<n\>\<sg\>	^accuser<n><sg>$
+      1 #Accuser\<n\>\<pl\>	^Accuser<n><pl>$
+
+===============================================================================
+Summary
+===============================================================================
+    0 /tmp/no-en.multiform
+    0 /tmp/no-en.multibidix
+  226 /tmp/no-en.tagmismatch
+  226 total
