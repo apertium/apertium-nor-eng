@@ -1,5 +1,6 @@
 * text=auto !eol
 /Makefile -text
+/apertium-no-en.nb.dix -text
 /apertium-no-en.no-en.dix -text
 /apertium-no-en.no-en.lex -text
 /apertium-no-en.no-en.t1x -text
