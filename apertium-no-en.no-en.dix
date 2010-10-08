@@ -2,6 +2,7 @@
   <alphabet/>
   <sdefs>
     <sdef n="n"          c="Noun"/>
+    <sdef n="np"         c="Proper noun"/>
     <sdef n="pr"         c="Preposition"/>
     <sdef n="adj"        c="Adjective"/>
     <sdef n="adv"        c="Adverb"/>
@@ -9,7 +10,10 @@
     <sdef n="cnjsub"     c="Subordinating conjunction"/>
     <sdef n="det"        c="Determiner"/>
     <sdef n="num"        c="Numeral"/>
+    <sdef n="vblex"      c="Verb"/>
     <sdef n="prn"        c="Pronoun"/>
+
+    <sdef n="al"         c="Altres"/>
 
     <sdef n="sint"       c="Synthetic"/>
 
@@ -31,7 +35,10 @@
 
     <!-- Prepositions -->
 
-    <e><p><l>med<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>med<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>i<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>i<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
 
     <!-- Pronouns -->
 
@@ -46,7 +53,15 @@
 
     <!-- Nouns -->
 
-    <e><p><l>bil<s n="n"/><s n="m"/></l><r>car<s n="n"/></r></p></e>
+    <e c="  0"><p><l>bil<s n="n"/><s n="m"/></l><r>car<s n="n"/></r></p></e>
+    <e c="  0"><p><l>begynnelse<s n="n"/><s n="m"/></l><r>beginning<s n="n"/></r></p></e>
+    <e c="  0"><p><l>himmel<s n="n"/><s n="m"/></l><r>heaven<s n="n"/></r></p></e>
+    <e slr="1"><p><l>himmel<s n="n"/><s n="m"/></l><r>sky<s n="n"/></r></p></e>
+    <e c="  0"><p><l>jord<s n="n"/><s n="m"/></l><r>earth<s n="n"/></r></p></e>
+    
+    <!-- Proper nouns -->
+
+    <e><p><l>Gud<s n="np"/></l><r>God<s n="np"/><s n="al"/></r></p></e>
 
     <!-- Adjectives -->
 
@@ -58,13 +73,14 @@
 
     <!-- Verbs -->
 
+    <e><p><l>skape<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
 
     <!-- Interjections -->
 
 
     <!-- Punctuation -->
 
-    <e><re>[.\?;:!·]</re><p><l><s n="sent"/><s n="clb"/></l><r><s n="sent"/></r></p></e>
+    <e><re>[.\?;:!·]+</re><p><l><s n="sent"/><s n="clb"/></l><r><s n="sent"/></r></p></e>
 
 
   </section>
