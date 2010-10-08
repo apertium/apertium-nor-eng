@@ -6,6 +6,15 @@
 /apertium-no-en.no-en.t1x -text
 /apertium-no-en.no-en.t2x -text
 /apertium-no-en.no-en.t3x -text
+dev/bidix/pending_adjectives.txt -text
+dev/bidix/pending_adverbs.txt -text
+dev/bidix/pending_nouns.txt -text
+dev/bidix/pending_numerals.txt -text
+dev/bidix/pending_prepositions.txt -text
+dev/bidix/pending_pronouns.txt -text
+dev/bidix/pending_proper_nouns.txt -text
+dev/bidix/pending_verbs.txt -text
+dev/bilingual-summary.txt -text
 dev/generation-test.sh -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text

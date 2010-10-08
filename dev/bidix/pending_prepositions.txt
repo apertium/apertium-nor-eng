@@ -1,0 +1,64 @@
+    196 ^@til<pr>$
+    124 ^@på<pr>$
+    102 ^@for<pr>$
+     93 ^@av<pr>$
+     64 ^@fra<pr>$
+     41 ^@etter<pr>$
+     40 ^@over<pr>$
+     27 ^@ut<pr>$
+     25 ^@om<pr>$
+     22 ^@som<pr>$
+     22 ^@mellom<pr>$
+     21 ^@ned<pr>$
+     20 ^@under<pr>$
+     19 ^@bort<pr>$
+     18 ^@mot<pr>$
+     17 ^@hos<pr>$
+     16 ^@der<pr>$
+     15 ^@fram<pr>$
+     12 ^@tilbake<pr>$
+     11 ^@ved<pr>$
+     11 ^@inn i<pr>$
+      8 ^@ut over<pr>$
+      7 ^@ut av<pr>$
+      7 ^@imot<pr>$
+      6 ^@før<pr>$
+      6 ^@enn<pr>$
+      5 ^@øst<pr>$
+      5 ^@opp til<pr>$
+      5 ^@inn til<pr>$
+      4 ^@øst for<pr>$
+      4 ^@inn<pr>$
+      3 ^@opp<pr>$
+      3 ^@oppe<pr>$
+      3 ^@omkring<pr>$
+      3 ^@ned i<pr>$
+      3 ^@dit<pr>$
+      3 ^@derfra<pr>$
+      3 ^@borte<pr>$
+      3 ^@blant<pr>$
+      2 ^@vest<pr>$
+      2 ^@utover<pr>$
+      2 ^@ut i<pr>$
+      2 ^@ute<pr>$
+      2 ^@utenfor<pr>$
+      2 ^@nord<pr>$
+      2 ^@inne<pr>$
+      2 ^@gjennom<pr>$
+      2 ^@foran<pr>$
+      2 ^@bort imot<pr>$
+      2 ^@bak<pr>$
+      1 ^@vekk<pr>$
+      1 ^@unna<pr>$
+      1 ^@rundt<pr>$
+      1 ^@østover<pr>$
+      1 ^@opp mot<pr>$
+      1 ^@nær<pr>$
+      1 ^@istedenfor<pr>$
+      1 ^@inntil<pr>$
+      1 ^@hjem<pr>$
+      1 ^@her<pr>$
+      1 ^@herfra<pr>$
+      1 ^@hen<pr>$
+      1 ^@framfor<pr>$
+      1 ^@forbi<pr>$
