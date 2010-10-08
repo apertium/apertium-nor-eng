@@ -29,6 +29,13 @@
     <sdef n="clb"        c="Clause boundary"/>
   </sdefs>
 
+  <pardefs>
+    <pardef n="m_LR_f">
+      <e> <p><l><s n="m"/></l>	<r></r></p></e>
+      <e r="LR"><p><l><s n="f"/></l>	<r></r></p></e>
+    </pardef>
+  </pardefs>
+
   <section id="main" type="standard">
 
     <!-- Conjunctions -->
@@ -55,529 +62,734 @@
 
     <!-- Nouns -->
 
-<e c="   "><p><l>abbed<s n="n"/><s n="m"/></l><r>abbot<s n="n"/></r></p></e>
-<e c="   "><p><l>abbedi<s n="n"/><s n="nt"/></l><r>abbey<s n="n"/></r></p></e>
-<e c="   "><p><l>abbedisse<s n="n"/></l>     <r>abbess<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>abbor<s n="n"/><s n="m"/></l><r>perch<s n="n"/></r></p></e>
-<e c="   "><p><l>abnormitet<s n="n"/><s n="m"/></l><r>abnormality<s n="n"/></r></p></e>
-<e c="   "><p><l>abonnement<s n="n"/><s n="nt"/></l><r>subscription<s n="n"/></r></p></e>
-<e c="   "><p><l>abonnent<s n="n"/><s n="m"/></l><r>subscriber<s n="n"/></r></p></e>
-<e c="   "><p><l>abort<s n="n"/><s n="m"/></l><r>miscarriage<s n="n"/></r></p></e>
+<e c="  0"><p><l>abbed<s n="n"/><s n="m"/></l><r>abbot<s n="n"/></r></p></e>
+<e c="  0"><p><l>abbedi<s n="n"/><s n="nt"/></l><r>abbey<s n="n"/></r></p></e>
+<e c="  0"><p><l>abbedisse<s n="n"/></l>     <r>abbess<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>abbor<s n="n"/><s n="m"/></l><r>perch<s n="n"/></r></p></e>
+<e c="  0"><p><l>abnormitet<s n="n"/><s n="m"/></l><r>abnormality<s n="n"/></r></p></e>
+<e c="  0"><p><l>abonnement<s n="n"/><s n="nt"/></l><r>subscription<s n="n"/></r></p></e>
+<e c="  0"><p><l>abonnent<s n="n"/><s n="m"/></l><r>subscriber<s n="n"/></r></p></e>
+<e c="  0"><p><l>abort<s n="n"/><s n="m"/></l><r>miscarriage<s n="n"/></r></p></e>
 <e slr="1"><p><l>abort<s n="n"/><s n="m"/></l><r>abortion<s n="n"/></r></p></e>
-<e c="   "><p><l>addisjon<s n="n"/><s n="m"/></l><r>addition<s n="n"/></r></p></e>
-<e c="   "><p><l>adel<s n="n"/><s n="m"/></l><r>nobility<s n="n"/></r></p></e>
-<e c="   "><p><l>adelsmann<s n="n"/><s n="m"/></l><r>peer<s n="n"/></r></p></e>
+<e c="  0"><p><l>addisjon<s n="n"/><s n="m"/></l><r>addition<s n="n"/></r></p></e>
+<e c="  0"><p><l>adel<s n="n"/><s n="m"/></l><r>nobility<s n="n"/></r></p></e>
+<e c="  0"><p><l>adelsmann<s n="n"/><s n="m"/></l><r>peer<s n="n"/></r></p></e>
 <e slr="1"><p><l>adelsmann<s n="n"/><s n="m"/></l><r>nobleman<s n="n"/></r></p></e>
-<e c="   "><p><l>adelsstand<s n="n"/><s n="m"/></l><r>peerage<s n="n"/></r></p></e>
-<e c="   "><p><l>adelstittel<s n="n"/><s n="m"/></l><r>peerage<s n="n"/></r></p></e>
-<e c="   "><p><l>adgang<s n="n"/><s n="m"/></l><r>access<s n="n"/></r></p></e>
+<e c="  0"><p><l>adelsstand<s n="n"/><s n="m"/></l><r>peerage<s n="n"/></r></p></e>
+<e c="  0"><p><l>adelstittel<s n="n"/><s n="m"/></l><r>peerage<s n="n"/></r></p></e>
+<e c="  0"><p><l>adgang<s n="n"/><s n="m"/></l><r>access<s n="n"/></r></p></e>
 <e slr="1"><p><l>adgang<s n="n"/><s n="m"/></l><r>entry<s n="n"/></r></p></e>
 <e slr="2"><p><l>adgang<s n="n"/><s n="m"/></l><r>admission<s n="n"/></r></p></e>
 <e slr="3"><p><l>adgang<s n="n"/><s n="m"/></l><r>entrance<s n="n"/></r></p></e>
-<e c="   "><p><l>adgangsbillett<s n="n"/><s n="nt"/></l><r>entrance<b/>ticket<s n="n"/></r></p></e>
-<e c="   "><p><l>adjø<s n="n"/><s n="nt"/></l><r>goodbye<s n="n"/></r></p></e>
-<e c="   "><p><l>adkomst<s n="n"/><s n="m"/></l><r>approach<s n="n"/></r></p></e>
-<e c="   "><p><l>administrasjon<s n="n"/><s n="m"/></l><r>management<s n="n"/></r></p></e>
-<e c="   "><p><l>adresse<s n="n"/></l>       <r>address<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>adressebok<s n="n"/></l>    <r>address<b/>book<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>advarsel<s n="n"/><s n="m"/></l><r>warning<s n="n"/></r></p></e>
-<e c="   "><p><l>advokat<s n="n"/><s n="m"/></l><r>barrister<s n="n"/></r></p></e>
+<e c="  0"><p><l>adgangsbillett<s n="n"/><s n="nt"/></l><r>entrance<b/>ticket<s n="n"/></r></p></e>
+<e c="  0"><p><l>adjø<s n="n"/><s n="nt"/></l><r>goodbye<s n="n"/></r></p></e>
+<e c="  0"><p><l>adkomst<s n="n"/><s n="m"/></l><r>approach<s n="n"/></r></p></e>
+<e c="  0"><p><l>administrasjon<s n="n"/><s n="m"/></l><r>management<s n="n"/></r></p></e>
+<e c="  0"><p><l>adresse<s n="n"/></l>       <r>address<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>adressebok<s n="n"/></l>    <r>address<b/>book<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>advarsel<s n="n"/><s n="m"/></l><r>warning<s n="n"/></r></p></e>
+<e c="  0"><p><l>advokat<s n="n"/><s n="m"/></l><r>barrister<s n="n"/></r></p></e>
 <e slr="1"><p><l>advokat<s n="n"/><s n="m"/></l><r>advocate<s n="n"/></r></p></e>
 <e slr="2"><p><l>advokat<s n="n"/><s n="m"/></l><r>lawyer<s n="n"/></r></p></e>
 <e slr="3"><p><l>advokat<s n="n"/><s n="m"/></l><r>attorney<s n="n"/></r></p></e>
-<e c="   "><p><l>affeksjonsverdi<s n="n"/><s n="m"/></l><r>sentimental<b/>value<s n="n"/></r></p></e>
-<e c="   "><p><l>affekterthet<s n="n"/></l>  <r>mannerism<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>affære<s n="n"/><s n="m"/></l><r>affair<s n="n"/></r></p></e>
-<e c="   "><p><l>aften<s n="n"/><s n="m"/></l><r>eve<s n="n"/></r></p></e>
-<e c="   "><p><l>aftens<s n="n"/><s n="m"/></l><r>supper<s n="n"/></r></p></e>
+<e c="  0"><p><l>affeksjonsverdi<s n="n"/><s n="m"/></l><r>sentimental<b/>value<s n="n"/></r></p></e>
+<e c="  0"><p><l>affekterthet<s n="n"/></l>  <r>mannerism<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>affære<s n="n"/><s n="m"/></l><r>affair<s n="n"/></r></p></e>
+<e c="  0"><p><l>aften<s n="n"/><s n="m"/></l><r>eve<s n="n"/></r></p></e>
+<e c="  0"><p><l>aftens<s n="n"/><s n="m"/></l><r>supper<s n="n"/></r></p></e>
 <e slr="1"><p><l>aftens<s n="n"/><s n="m"/></l><r>evening<b/>meal<s n="n"/></r></p></e>
-<e c="   "><p><l>agentur<s n="n"/><s n="nt"/></l><r>agency<s n="n"/></r></p></e>
-<e c="   "><p><l>aggresjon<s n="n"/><s n="m"/></l><r>aggression<s n="n"/></r></p></e>
-<e c="   "><p><l>agn<s n="n"/><s n="nt"/></l><r>bait<s n="n"/></r></p></e>
-<e c="   "><p><l>agrar<s n="n"/><s n="m"/></l><r>agrarian<s n="n"/></r></p></e>
-<e c="   "><p><l>agurk<s n="n"/><s n="m"/></l><r>cucumber<s n="n"/></r></p></e>
-<e c="   "><p><l>akademiker<s n="n"/><s n="m"/></l><r>academic<s n="n"/></r></p></e>
-<e c="   "><p><l>akkar<s n="n"/><s n="m"/></l><r>octopus<s n="n"/></r></p></e>
-<e c="   "><p><l>akkord<s n="n"/><s n="m"/></l><r>chord<s n="n"/></r></p></e>
+<e c="  0"><p><l>agentur<s n="n"/><s n="nt"/></l><r>agency<s n="n"/></r></p></e>
+<e c="  0"><p><l>aggresjon<s n="n"/><s n="m"/></l><r>aggression<s n="n"/></r></p></e>
+<e c="  0"><p><l>agn<s n="n"/><s n="nt"/></l><r>bait<s n="n"/></r></p></e>
+<e c="  0"><p><l>agrar<s n="n"/><s n="m"/></l><r>agrarian<s n="n"/></r></p></e>
+<e c="  0"><p><l>agurk<s n="n"/><s n="m"/></l><r>cucumber<s n="n"/></r></p></e>
+<e c="  0"><p><l>akademiker<s n="n"/><s n="m"/></l><r>academic<s n="n"/></r></p></e>
+<e c="  0"><p><l>akkar<s n="n"/><s n="m"/></l><r>octopus<s n="n"/></r></p></e>
+<e c="  0"><p><l>akkord<s n="n"/><s n="m"/></l><r>chord<s n="n"/></r></p></e>
 <e slr="1"><p><l>akkord<s n="n"/><s n="m"/></l><r>accord<s n="n"/></r></p></e>
-<e c="   "><p><l>akkumulator<s n="n"/><s n="m"/></l><r>accumulator<s n="n"/></r></p></e>
+<e c="  0"><p><l>akkumulator<s n="n"/><s n="m"/></l><r>accumulator<s n="n"/></r></p></e>
 <e slr="1"><p><l>akkumulator<s n="n"/><s n="m"/></l><r>storage<b/>battery<s n="n"/></r></p></e>
-<e c="   "><p><l>akrobat<s n="n"/><s n="m"/></l><r>tumbler<s n="n"/></r></p></e>
+<e c="  0"><p><l>akrobat<s n="n"/><s n="m"/></l><r>tumbler<s n="n"/></r></p></e>
 <e c="grass"><p><l>aks<s n="n"/><s n="nt"/></l><r>spike<s n="n"/></r></p></e>
-<e c="   "><p><l>aksel<s n="n"/></l>         <r>shaft<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>aksel<s n="n"/></l>         <r>shaft<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>aksel<s n="n"/></l>         <r>axle<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>aksel<s n="n"/></l>         <r>axis<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>akselerator<s n="n"/><s n="m"/></l><r>accelerator<s n="n"/></r></p></e>
-<e c="   "><p><l>aksent<s n="n"/><s n="m"/></l><r>accent<s n="n"/></r></p></e>
-<e c="   "><p><l>aksentuering<s n="n"/></l>  <r>accentuation<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>akseptant<s n="n"/><s n="m"/></l><r>acceptor<s n="n"/></r></p></e>
-<e c="   "><p><l>aksje<s n="n"/><s n="m"/></l><r>stock<s n="n"/></r></p></e>
+<e c="  0"><p><l>akselerator<s n="n"/><s n="m"/></l><r>accelerator<s n="n"/></r></p></e>
+<e c="  0"><p><l>aksent<s n="n"/><s n="m"/></l><r>accent<s n="n"/></r></p></e>
+<e c="  0"><p><l>aksentuering<s n="n"/></l>  <r>accentuation<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>akseptant<s n="n"/><s n="m"/></l><r>acceptor<s n="n"/></r></p></e>
+<e c="  0"><p><l>aksje<s n="n"/><s n="m"/></l><r>stock<s n="n"/></r></p></e>
 <e slr="1"><p><l>aksje<s n="n"/><s n="m"/></l><r>share<s n="n"/></r></p></e>
-<e c="   "><p><l>aksjefond<s n="n"/><s n="nt"/></l><r>mutual<b/>fund<s n="n"/></r></p></e>
-<e c="   "><p><l>aksjemekler<s n="n"/><s n="m"/></l><r>stockbroker<s n="n"/></r></p></e>
-<e c="   "><p><l>aksjeselskap<s n="n"/><s n="nt"/></l><r>limited<b/>company<s n="n"/></r></p></e>
-<e c="   "><p><l>aksjonær<s n="n"/><s n="m"/></l><r>shareholder<s n="n"/></r></p></e>
-<e c="   "><p><l>akt<s n="n"/></l>           <r>act<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>aktelse<s n="n"/><s n="m"/></l><r>esteem<s n="n"/></r></p></e>
+<e c="  0"><p><l>aksjefond<s n="n"/><s n="nt"/></l><r>mutual<b/>fund<s n="n"/></r></p></e>
+<e c="  0"><p><l>aksjemekler<s n="n"/><s n="m"/></l><r>stockbroker<s n="n"/></r></p></e>
+<e c="  0"><p><l>aksjeselskap<s n="n"/><s n="nt"/></l><r>limited<b/>company<s n="n"/></r></p></e>
+<e c="  0"><p><l>aksjonær<s n="n"/><s n="m"/></l><r>shareholder<s n="n"/></r></p></e>
+<e c="  0"><p><l>akt<s n="n"/></l>           <r>act<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>aktelse<s n="n"/><s n="m"/></l><r>esteem<s n="n"/></r></p></e>
 <e slr="1"><p><l>aktelse<s n="n"/><s n="m"/></l><r>estimation<s n="n"/></r></p></e>
 <e slr="2"><p><l>aktelse<s n="n"/><s n="m"/></l><r>respect<s n="n"/></r></p></e>
 <e slr="3"><p><l>aktelse<s n="n"/><s n="m"/></l><r>regard<s n="n"/></r></p></e>
 <e c="part of a ship!"><p><l>akterdekk<s n="n"/><s n="nt"/></l><r>poop<s n="n"/></r></p></e>
-<e c="   "><p><l>aktiv<s n="n"/><s n="m"/></l><r>active<s n="n"/></r></p></e>
-<e c="   "><p><l>aktivitet<s n="n"/><s n="m"/></l><r>activity<s n="n"/></r></p></e>
-<e c="   "><p><l>aktor<s n="n"/><s n="m"/></l><r>prosecutor<s n="n"/></r></p></e>
-<e c="   "><p><l>akustikk<s n="n"/><s n="m"/></l><r>acoustics<s n="n"/></r></p></e>
-<e c="   "><p><l>akvarell<s n="n"/><s n="m"/></l><r>watercolour<s n="n"/></r></p></e>
-<e c="   "><p><l>albaner<s n="n"/><s n="m"/></l><r>albanian<s n="n"/></r></p></e>
-<e c="   "><p><l>albue<s n="n"/><s n="m"/></l><r>elbow<s n="n"/></r></p></e>
-<e c="   "><p><l>alder<s n="n"/><s n="m"/></l><r>age<s n="n"/></r></p></e>
-<e c="   "><p><l>alfabet<s n="n"/><s n="nt"/></l><r>alphabet<s n="n"/></r></p></e>
-<e c="   "><p><l>allergi<s n="n"/><s n="m"/></l><r>allergy<s n="n"/></r></p></e>
-<e c="   "><p><l>allé<s n="n"/><s n="m"/></l><r>avenue<s n="n"/></r></p></e>
+<e c="  0"><p><l>aktiv<s n="n"/><s n="m"/></l><r>active<s n="n"/></r></p></e>
+<e c="  0"><p><l>aktivitet<s n="n"/><s n="m"/></l><r>activity<s n="n"/></r></p></e>
+<e c="  0"><p><l>aktor<s n="n"/><s n="m"/></l><r>prosecutor<s n="n"/></r></p></e>
+<e c="  0"><p><l>akustikk<s n="n"/><s n="m"/></l><r>acoustics<s n="n"/></r></p></e>
+<e c="  0"><p><l>akvarell<s n="n"/><s n="m"/></l><r>watercolour<s n="n"/></r></p></e>
+<e c="  0"><p><l>albaner<s n="n"/><s n="m"/></l><r>albanian<s n="n"/></r></p></e>
+<e c="  0"><p><l>albue<s n="n"/><s n="m"/></l><r>elbow<s n="n"/></r></p></e>
+<e c="  0"><p><l>alder<s n="n"/><s n="m"/></l><r>age<s n="n"/></r></p></e>
+<e c="  0"><p><l>alfabet<s n="n"/><s n="nt"/></l><r>alphabet<s n="n"/></r></p></e>
+<e c="  0"><p><l>allergi<s n="n"/><s n="m"/></l><r>allergy<s n="n"/></r></p></e>
+<e c="  0"><p><l>allé<s n="n"/><s n="m"/></l><r>avenue<s n="n"/></r></p></e>
 <e slr="1"><p><l>allé<s n="n"/><s n="m"/></l><r>alley<s n="n"/></r></p></e>
-<e c="   "><p><l>alm<s n="n"/><s n="m"/></l> <r>elm<s n="n"/></r></p></e>
-<e c="   "><p><l>almisse<s n="n"/></l>       <r>alms<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>altan<s n="n"/><s n="m"/></l><r>balcony<s n="n"/></r></p></e>
-<e c="   "><p><l>alter<s n="n"/><s n="nt"/></l><r>altar<s n="n"/></r></p></e>
-<e c="   "><p><l>altmuligmann<s n="n"/><s n="m"/></l><r>handyman<s n="n"/></r></p></e>
-<e c="   "><p><l>aluminium<s n="n"/><s n="nt"/></l><r>aluminium<s n="n"/></r></p></e>
+<e c="  0"><p><l>alm<s n="n"/><s n="m"/></l> <r>elm<s n="n"/></r></p></e>
+<e c="  0"><p><l>almisse<s n="n"/></l>       <r>alms<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>altan<s n="n"/><s n="m"/></l><r>balcony<s n="n"/></r></p></e>
+<e c="  0"><p><l>alter<s n="n"/><s n="nt"/></l><r>altar<s n="n"/></r></p></e>
+<e c="  0"><p><l>altmuligmann<s n="n"/><s n="m"/></l><r>handyman<s n="n"/></r></p></e>
+<e c="  0"><p><l>aluminium<s n="n"/><s n="nt"/></l><r>aluminium<s n="n"/></r></p></e>
 <e slr="1"><p><l>aluminium<s n="n"/><s n="nt"/></l><r>aluminum<s n="n"/></r></p></e>
-<e c="   "><p><l>alun<s n="n"/><s n="nt"/></l><r>alum<s n="n"/></r></p></e>
-<e c="   "><p><l>alvor<s n="n"/><s n="nt"/></l><r>gravity<s n="n"/></r></p></e>
-<e c="   "><p><l>ambassade<s n="n"/><s n="m"/></l><r>embassy<s n="n"/></r></p></e>
-<e c="   "><p><l>ambassadør<s n="n"/><s n="m"/></l><r>ambassador<s n="n"/></r></p></e>
-<e c="   "><p><l>ambolt<s n="n"/><s n="m"/></l><r>anvil<s n="n"/></r></p></e>
-<e c="   "><p><l>amme<s n="n"/></l>          <r>wet-nurse<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>alun<s n="n"/><s n="nt"/></l><r>alum<s n="n"/></r></p></e>
+<e c="  0"><p><l>alvor<s n="n"/><s n="nt"/></l><r>gravity<s n="n"/></r></p></e>
+<e c="  0"><p><l>ambassade<s n="n"/><s n="m"/></l><r>embassy<s n="n"/></r></p></e>
+<e c="  0"><p><l>ambassadør<s n="n"/><s n="m"/></l><r>ambassador<s n="n"/></r></p></e>
+<e c="  0"><p><l>ambolt<s n="n"/><s n="m"/></l><r>anvil<s n="n"/></r></p></e>
+<e c="  0"><p><l>amme<s n="n"/></l>          <r>wet-nurse<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>amme<s n="n"/></l>          <r>nurse<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>amulett<s n="n"/><s n="m"/></l><r>charm<s n="n"/></r></p></e>
-<e c="   "><p><l>analfabet<s n="n"/><s n="m"/></l><r>illiterate<s n="n"/></r></p></e>
-<e c="   "><p><l>analfabetisme<s n="n"/><s n="m"/></l><r>illiteracy<s n="n"/></r></p></e>
-<e c="   "><p><l>analogi<s n="n"/><s n="m"/></l><r>analogy<s n="n"/></r></p></e>
-<e c="   "><p><l>analyse<s n="n"/><s n="m"/></l><r>analysis<s n="n"/></r></p></e>
-<e c="   "><p><l>ananas<s n="n"/><s n="m"/></l><r>pineapple<s n="n"/></r></p></e>
-<e c="   "><p><l>anatomi<s n="n"/><s n="m"/></l><r>anatomy<s n="n"/></r></p></e>
-<e c="   "><p><l>anbefaling<s n="n"/></l>    <r>recommendation<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>anbringelse<s n="n"/><s n="m"/></l><r>application<s n="n"/></r></p></e>
-<e c="   "><p><l>anbud<s n="n"/><s n="nt"/></l><r>tender<s n="n"/></r></p></e>
-<e c="   "><p><l>and<s n="n"/></l>           <r>duck<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>andel<s n="n"/><s n="m"/></l><r>portion<s n="n"/></r></p></e>
+<e c="  0"><p><l>amulett<s n="n"/><s n="m"/></l><r>charm<s n="n"/></r></p></e>
+<e c="  0"><p><l>analfabet<s n="n"/><s n="m"/></l><r>illiterate<s n="n"/></r></p></e>
+<e c="  0"><p><l>analfabetisme<s n="n"/><s n="m"/></l><r>illiteracy<s n="n"/></r></p></e>
+<e c="  0"><p><l>analogi<s n="n"/><s n="m"/></l><r>analogy<s n="n"/></r></p></e>
+<e c="  0"><p><l>analyse<s n="n"/><s n="m"/></l><r>analysis<s n="n"/></r></p></e>
+<e c="  0"><p><l>ananas<s n="n"/><s n="m"/></l><r>pineapple<s n="n"/></r></p></e>
+<e c="  0"><p><l>anatomi<s n="n"/><s n="m"/></l><r>anatomy<s n="n"/></r></p></e>
+<e c="  0"><p><l>anbefaling<s n="n"/></l>    <r>recommendation<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>anbringelse<s n="n"/><s n="m"/></l><r>application<s n="n"/></r></p></e>
+<e c="  0"><p><l>anbud<s n="n"/><s n="nt"/></l><r>tender<s n="n"/></r></p></e>
+<e c="  0"><p><l>and<s n="n"/></l>           <r>duck<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>andel<s n="n"/><s n="m"/></l><r>portion<s n="n"/></r></p></e>
 <e slr="1"><p><l>andel<s n="n"/><s n="m"/></l><r>part<s n="n"/></r></p></e>
 <e slr="2"><p><l>andel<s n="n"/><s n="m"/></l><r>quota<s n="n"/></r></p></e>
 <e slr="3"><p><l>andel<s n="n"/><s n="m"/></l><r>proportion<s n="n"/></r></p></e>
-<e c="   "><p><l>ane<s n="n"/><s n="m"/></l> <r>suspect<s n="n"/></r></p></e>
-<e c="   "><p><l>anelse<s n="n"/><s n="m"/></l><r>inkling<s n="n"/></r></p></e>
+<e c="  0"><p><l>ane<s n="n"/><s n="m"/></l> <r>suspect<s n="n"/></r></p></e>
+<e c="  0"><p><l>anelse<s n="n"/><s n="m"/></l><r>inkling<s n="n"/></r></p></e>
 <e slr="1"><p><l>anelse<s n="n"/><s n="m"/></l><r>hunch<s n="n"/></r></p></e>
 <e slr="2"><p><l>anelse<s n="n"/><s n="m"/></l><r>notion<s n="n"/></r></p></e>
-<e c="   "><p><l>anerkjennelse<s n="n"/><s n="m"/></l><r>recognition<s n="n"/></r></p></e>
+<e c="  0"><p><l>anerkjennelse<s n="n"/><s n="m"/></l><r>recognition<s n="n"/></r></p></e>
 <e slr="1"><p><l>anerkjennelse<s n="n"/><s n="m"/></l><r>acknowledgement<s n="n"/></r></p></e>
-<e c="   "><p><l>anfører<s n="n"/><s n="m"/></l><r>ring<b/>leader<s n="n"/></r></p></e>
-<e c="   "><p><l>anførselstegn<s n="n"/><s n="nt"/></l><r>quotation<b/>mark<s n="n"/></r></p></e>
-<e c="   "><p><l>angel<s n="n"/><s n="m"/></l><r>angle<s n="n"/></r></p></e>
-<e c="   "><p><l>angelsakser<s n="n"/><s n="m"/></l><r>saxon<s n="n"/></r></p></e>
+<e c="  0"><p><l>anfører<s n="n"/><s n="m"/></l><r>ring<b/>leader<s n="n"/></r></p></e>
+<e c="  0"><p><l>anførselstegn<s n="n"/><s n="nt"/></l><r>quotation<b/>mark<s n="n"/></r></p></e>
+<e c="  0"><p><l>angel<s n="n"/><s n="m"/></l><r>angle<s n="n"/></r></p></e>
+<e c="  0"><p><l>angelsakser<s n="n"/><s n="m"/></l><r>saxon<s n="n"/></r></p></e>
 <e c="language"><p><l>angelsaksisk<s n="n"/><s n="m"/></l><r>saxon<s n="n"/></r></p></e>
-<e c="   "><p><l>anger<s n="n"/><s n="m"/></l><r>repentance<s n="n"/></r></p></e>
+<e c="  0"><p><l>anger<s n="n"/><s n="m"/></l><r>repentance<s n="n"/></r></p></e>
 <e slr="1"><p><l>anger<s n="n"/><s n="m"/></l><r>regret<s n="n"/></r></p></e>
-<e c="   "><p><l>angiver<s n="n"/><s n="m"/></l><r>informer<s n="n"/></r></p></e>
-<e c="   "><p><l>angiveri<s n="n"/><s n="nt"/></l><r>denunciation<s n="n"/></r></p></e>
-<e c="   "><p><l>angrep<s n="n"/><s n="nt"/></l><r>attack<s n="n"/></r></p></e>
+<e c="  0"><p><l>angiver<s n="n"/><s n="m"/></l><r>informer<s n="n"/></r></p></e>
+<e c="  0"><p><l>angiveri<s n="n"/><s n="nt"/></l><r>denunciation<s n="n"/></r></p></e>
+<e c="  0"><p><l>angrep<s n="n"/><s n="nt"/></l><r>attack<s n="n"/></r></p></e>
 <e slr="1"><p><l>angrep<s n="n"/><s n="nt"/></l><r>onset<s n="n"/></r></p></e>
-<e c="   "><p><l>anheng<s n="n"/><s n="nt"/></l><r>pendant<s n="n"/></r></p></e>
-<e c="   "><p><l>ankel<s n="n"/><s n="m"/></l><r>ankle<s n="n"/></r></p></e>
-<e c="   "><p><l>anker<s n="n"/><s n="nt"/></l><r>anchor<s n="n"/></r></p></e>
-<e c="   "><p><l>ankerplass<s n="n"/><s n="m"/></l><r>berth<s n="n"/></r></p></e>
+<e c="  0"><p><l>anheng<s n="n"/><s n="nt"/></l><r>pendant<s n="n"/></r></p></e>
+<e c="  0"><p><l>ankel<s n="n"/><s n="m"/></l><r>ankle<s n="n"/></r></p></e>
+<e c="  0"><p><l>anker<s n="n"/><s n="nt"/></l><r>anchor<s n="n"/></r></p></e>
+<e c="  0"><p><l>ankerplass<s n="n"/><s n="m"/></l><r>berth<s n="n"/></r></p></e>
 <e slr="1"><p><l>ankerplass<s n="n"/><s n="m"/></l><r>anchorage<s n="n"/></r></p></e>
-<e c="   "><p><l>anklage<s n="n"/><s n="m"/></l><r>accusation<s n="n"/></r></p></e>
+<e c="  0"><p><l>anklage<s n="n"/><s n="m"/></l><r>accusation<s n="n"/></r></p></e>
 <e slr="1"><p><l>anklage<s n="n"/><s n="m"/></l><r>charge<s n="n"/></r></p></e>
-<e c="   "><p><l>anklagebenk<s n="n"/><s n="m"/></l><r>dock<s n="n"/></r></p></e>
-<e c="   "><p><l>anklager<s n="n"/><s n="m"/></l><r>accuser<s n="n"/></r></p></e>
-<e c="   "><p><l>ankomst<s n="n"/><s n="m"/></l><r>arrival<s n="n"/></r></p></e>
-<e c="   "><p><l>anledning<s n="n"/><s n="m"/></l><r>occasion<s n="n"/></r></p></e>
+<e c="  0"><p><l>anklagebenk<s n="n"/><s n="m"/></l><r>dock<s n="n"/></r></p></e>
+<e c="  0"><p><l>anklager<s n="n"/><s n="m"/></l><r>accuser<s n="n"/></r></p></e>
+<e c="  0"><p><l>ankomst<s n="n"/><s n="m"/></l><r>arrival<s n="n"/></r></p></e>
+<e c="  0"><p><l>anledning<s n="n"/><s n="m"/></l><r>occasion<s n="n"/></r></p></e>
 <e slr="1"><p><l>anledning<s n="n"/><s n="m"/></l><r>opportunity<s n="n"/></r></p></e>
-<e c="   "><p><l>anlegg<s n="n"/><s n="nt"/></l><r>gift<s n="n"/></r></p></e>
+<e c="  0"><p><l>anlegg<s n="n"/><s n="nt"/></l><r>gift<s n="n"/></r></p></e>
 <e slr="1"><p><l>anlegg<s n="n"/><s n="nt"/></l><r>talent<s n="n"/></r></p></e>
 <e slr="2"><p><l>anlegg<s n="n"/><s n="nt"/></l><r>capacity<s n="n"/></r></p></e>
 <e slr="3"><p><l>anlegg<s n="n"/><s n="nt"/></l><r>facility<s n="n"/></r></p></e>
 <e slr="4"><p><l>anlegg<s n="n"/><s n="nt"/></l><r>building<s n="n"/></r></p></e>
-<e c="   "><p><l>anliggende<s n="n"/><s n="nt"/></l><r>case<s n="n"/></r></p></e>
+<e c="  0"><p><l>anliggende<s n="n"/><s n="nt"/></l><r>case<s n="n"/></r></p></e>
 <e slr="1"><p><l>anliggende<s n="n"/><s n="nt"/></l><r>affair<s n="n"/></r></p></e>
 <e slr="2"><p><l>anliggende<s n="n"/><s n="nt"/></l><r>business<s n="n"/></r></p></e>
-<e c="   "><p><l>anmarsj<s n="n"/><s n="m"/></l><r>approach<s n="n"/></r></p></e>
-<e c="   "><p><l>anmeldelse<s n="n"/><s n="m"/></l><r>review<s n="n"/></r></p></e>
-<e c="   "><p><l>anmelder<s n="n"/><s n="m"/></l><r>reviewer<s n="n"/></r></p></e>
-<e c="   "><p><l>anmodning<s n="n"/><s n="m"/></l><r>request<s n="n"/></r></p></e>
-<e c="   "><p><l>annenplass<s n="n"/><s n="m"/></l><r>runner-up<s n="n"/></r></p></e>
-<e c="   "><p><l>annonse<s n="n"/><s n="m"/></l><r>ad<s n="n"/></r></p></e>
+<e c="  0"><p><l>anmarsj<s n="n"/><s n="m"/></l><r>approach<s n="n"/></r></p></e>
+<e c="  0"><p><l>anmeldelse<s n="n"/><s n="m"/></l><r>review<s n="n"/></r></p></e>
+<e c="  0"><p><l>anmelder<s n="n"/><s n="m"/></l><r>reviewer<s n="n"/></r></p></e>
+<e c="  0"><p><l>anmodning<s n="n"/><s n="m"/></l><r>request<s n="n"/></r></p></e>
+<e c="  0"><p><l>annenplass<s n="n"/><s n="m"/></l><r>runner-up<s n="n"/></r></p></e>
+<e c="  0"><p><l>annonse<s n="n"/><s n="m"/></l><r>ad<s n="n"/></r></p></e>
 <e slr="1"><p><l>annonse<s n="n"/><s n="m"/></l><r>advertisement<s n="n"/></r></p></e>
-<e c="   "><p><l>anonymitet<s n="n"/><s n="m"/></l><r>anonymity<s n="n"/></r></p></e>
-<e c="   "><p><l>anseelse<s n="n"/><s n="m"/></l><r>repute<s n="n"/></r></p></e>
+<e c="  0"><p><l>anonymitet<s n="n"/><s n="m"/></l><r>anonymity<s n="n"/></r></p></e>
+<e c="  0"><p><l>anseelse<s n="n"/><s n="m"/></l><r>repute<s n="n"/></r></p></e>
 <e slr="1"><p><l>anseelse<s n="n"/><s n="m"/></l><r>standing<s n="n"/></r></p></e>
 <e slr="2"><p><l>anseelse<s n="n"/><s n="m"/></l><r>esteem<s n="n"/></r></p></e>
 <e slr="3"><p><l>anseelse<s n="n"/><s n="m"/></l><r>reputation<s n="n"/></r></p></e>
-<e c="   "><p><l>ansikt<s n="n"/><s n="nt"/></l><r>face<s n="n"/></r></p></e>
-<e c="   "><p><l>ansiktsløftning<s n="n"/><s n="m"/></l><r>facelift<s n="n"/></r></p></e>
-<e c="   "><p><l>ansiktsmaske<s n="n"/></l>  <r>facepack<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>ansjos<s n="n"/><s n="m"/></l><r>anchovy<s n="n"/></r></p></e>
-<e c="   "><p><l>anstendighet<s n="n"/></l>  <r>propriety<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>anstrengelse<s n="n"/><s n="m"/></l><r>effort<s n="n"/></r></p></e>
-<e c="   "><p><l>anstrøk<s n="n"/><s n="nt"/></l><r>tinge<s n="n"/></r></p></e>
+<e c="  0"><p><l>ansikt<s n="n"/><s n="nt"/></l><r>face<s n="n"/></r></p></e>
+<e c="  0"><p><l>ansiktsløftning<s n="n"/><s n="m"/></l><r>facelift<s n="n"/></r></p></e>
+<e c="  0"><p><l>ansiktsmaske<s n="n"/></l>  <r>facepack<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>ansjos<s n="n"/><s n="m"/></l><r>anchovy<s n="n"/></r></p></e>
+<e c="  0"><p><l>anstendighet<s n="n"/></l>  <r>propriety<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>anstrengelse<s n="n"/><s n="m"/></l><r>effort<s n="n"/></r></p></e>
+<e c="  0"><p><l>anstrøk<s n="n"/><s n="nt"/></l><r>tinge<s n="n"/></r></p></e>
 <e slr="1"><p><l>anstrøk<s n="n"/><s n="nt"/></l><r>touch<s n="n"/></r></p></e>
 <e slr="2"><p><l>anstrøk<s n="n"/><s n="nt"/></l><r>hue<s n="n"/></r></p></e>
 <e slr="3"><p><l>anstrøk<s n="n"/><s n="nt"/></l><r>tincture<s n="n"/></r></p></e>
-<e c="   "><p><l>ansvar<s n="n"/><s n="nt"/></l><r>responsibility<s n="n"/></r></p></e>
-<e c="   "><p><l>ansvarlighet<s n="n"/></l>  <r>responsibility<s n="n"/></r></p><par n="m_LR_f"/></e>
-<!-- <e c="   "><p><l>ansvarsfrihet<s n="n"/></l> <r>freedom<b/>from<b/>responsibility<s n="n"/></r></p><par n="m_LR_f"/></e> -->
+<e c="  0"><p><l>ansvar<s n="n"/><s n="nt"/></l><r>responsibility<s n="n"/></r></p></e>
+<e c="  0"><p><l>ansvarlighet<s n="n"/></l>  <r>responsibility<s n="n"/></r></p><par n="m_LR_f"/></e>
+<!-- <e c="  0"><p><l>ansvarsfrihet<s n="n"/></l> <r>freedom<b/>from<b/>responsibility<s n="n"/></r></p><par n="m_LR_f"/></e> -->
 <!-- <e slr="1"><p><l>ansvarsfrihet<s n="n"/></l> <r>freedom<b/>from<b/>liability<s n="n"/></r></p><par n="m_LR_f"/></e> -->
-<e c="   "><p><l>antagelse<s n="n"/><s n="m"/></l><r>supposition<s n="n"/></r></p></e>
+<e c="  0"><p><l>antagelse<s n="n"/><s n="m"/></l><r>supposition<s n="n"/></r></p></e>
 <e slr="1"><p><l>antagelse<s n="n"/><s n="m"/></l><r>presumption<s n="n"/></r></p></e>
-<e c="   "><p><l>antall<s n="n"/><s n="nt"/></l><r>number<s n="n"/></r></p></e>
-<e c="   "><p><l>antenne<s n="n"/></l>       <r>antenna<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>antikk<s n="n"/><s n="m"/></l><r>antique<s n="n"/></r></p></e>
-<e c="   "><p><l>antikvar<s n="n"/><s n="m"/></l><r>antiquarian<s n="n"/></r></p></e>
-<e c="   "><p><l>antikvitet<s n="n"/><s n="m"/></l><r>antique<s n="n"/></r></p></e>
-<e c="   "><p><l>antilope<s n="n"/><s n="m"/></l><r>antelope<s n="n"/></r></p></e>
-<e c="   "><p><l>antiluftskyts<s n="n"/><s n="nt"/></l><r>flak<s n="n"/></r></p></e>
-<e c="   "><p><l>antipati<s n="n"/><s n="m"/></l><r>antipathy<s n="n"/></r></p></e>
-<e c="   "><p><l>antrekk<s n="n"/><s n="nt"/></l><r>dress<s n="n"/></r></p></e>
-<e c="   "><p><l>antydning<s n="n"/><s n="m"/></l><r>hint<s n="n"/></r></p></e>
+<e c="  0"><p><l>antall<s n="n"/><s n="nt"/></l><r>number<s n="n"/></r></p></e>
+<e c="  0"><p><l>antenne<s n="n"/></l>       <r>antenna<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>antikk<s n="n"/><s n="m"/></l><r>antique<s n="n"/></r></p></e>
+<e c="  0"><p><l>antikvar<s n="n"/><s n="m"/></l><r>antiquarian<s n="n"/></r></p></e>
+<e c="  0"><p><l>antikvitet<s n="n"/><s n="m"/></l><r>antique<s n="n"/></r></p></e>
+<e c="  0"><p><l>antilope<s n="n"/><s n="m"/></l><r>antelope<s n="n"/></r></p></e>
+<e c="  0"><p><l>antiluftskyts<s n="n"/><s n="nt"/></l><r>flak<s n="n"/></r></p></e>
+<e c="  0"><p><l>antipati<s n="n"/><s n="m"/></l><r>antipathy<s n="n"/></r></p></e>
+<e c="  0"><p><l>antrekk<s n="n"/><s n="nt"/></l><r>dress<s n="n"/></r></p></e>
+<e c="  0"><p><l>antydning<s n="n"/><s n="m"/></l><r>hint<s n="n"/></r></p></e>
 <e slr="1"><p><l>antydning<s n="n"/><s n="m"/></l><r>suggestion<s n="n"/></r></p></e>
-<e c="   "><p><l>anvendelse<s n="n"/><s n="m"/></l><r>use<s n="n"/></r></p></e>
+<e c="  0"><p><l>anvendelse<s n="n"/><s n="m"/></l><r>use<s n="n"/></r></p></e>
 <e slr="1"><p><l>anvendelse<s n="n"/><s n="m"/></l><r>application<s n="n"/></r></p></e>
-<e c="   "><p><l>anvisning<s n="n"/><s n="m"/></l><r>instruction<s n="n"/></r></p></e>
-<e c="   "><p><l>ape<s n="n"/></l>           <r>ape<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>anvisning<s n="n"/><s n="m"/></l><r>instruction<s n="n"/></r></p></e>
+<e c="  0"><p><l>ape<s n="n"/></l>           <r>ape<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>ape<s n="n"/></l>           <r>monkey<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>apostel<s n="n"/><s n="m"/></l><r>apostle<s n="n"/></r></p></e>
-<e c="   "><p><l>apotek<s n="n"/><s n="nt"/></l><r>pharmacy<s n="n"/></r></p></e>
+<e c="  0"><p><l>apostel<s n="n"/><s n="m"/></l><r>apostle<s n="n"/></r></p></e>
+<e c="  0"><p><l>apotek<s n="n"/><s n="nt"/></l><r>pharmacy<s n="n"/></r></p></e>
 <e slr="1"><p><l>apotek<s n="n"/><s n="nt"/></l><r>chemist's<s n="n"/></r></p></e>
 <e slr="2"><p><l>apotek<s n="n"/><s n="nt"/></l><r>drugstore<s n="n"/></r></p></e>
-<e c="   "><p><l>apoteker<s n="n"/><s n="m"/></l><r>chemist<s n="n"/></r></p></e>
-<e c="   "><p><l>apparat<s n="n"/><s n="nt"/></l><r>apparatus<s n="n"/></r></p></e>
-<e c="   "><p><l>appell<s n="n"/><s n="m"/></l><r>appeal<s n="n"/></r></p></e>
+<e c="  0"><p><l>apoteker<s n="n"/><s n="m"/></l><r>chemist<s n="n"/></r></p></e>
+<e c="  0"><p><l>apparat<s n="n"/><s n="nt"/></l><r>apparatus<s n="n"/></r></p></e>
+<e c="  0"><p><l>appell<s n="n"/><s n="m"/></l><r>appeal<s n="n"/></r></p></e>
 <e slr="1"><p><l>appell<s n="n"/><s n="m"/></l><r>plea<s n="n"/></r></p></e>
-<e c="   "><p><l>appelsin<s n="n"/><s n="m"/></l><r>orange<s n="n"/></r></p></e>
+<e c="  0"><p><l>appelsin<s n="n"/><s n="m"/></l><r>orange<s n="n"/></r></p></e>
 <e slr="1"><p><l>appelsin<s n="n"/><s n="m"/></l><r>orange<s n="n"/></r></p></e>
-<e c="   "><p><l>appetitt<s n="n"/><s n="m"/></l><r>appetite<s n="n"/></r></p></e>
-<e c="   "><p><l>applaus<s n="n"/><s n="m"/></l><r>applause<s n="n"/></r></p></e>
-<e c="   "><p><l>aprikos<s n="n"/><s n="m"/></l><r>apricot<s n="n"/></r></p></e>
-<e c="   "><p><l>aquavit<s n="n"/><s n="m"/></l><r>aquavit<s n="n"/></r></p></e>
-<e c="   "><p><l>arbeid<s n="n"/><s n="nt"/></l><r>work<s n="n"/></r></p></e>
+<e c="  0"><p><l>appetitt<s n="n"/><s n="m"/></l><r>appetite<s n="n"/></r></p></e>
+<e c="  0"><p><l>applaus<s n="n"/><s n="m"/></l><r>applause<s n="n"/></r></p></e>
+<e c="  0"><p><l>aprikos<s n="n"/><s n="m"/></l><r>apricot<s n="n"/></r></p></e>
+<e c="  0"><p><l>aquavit<s n="n"/><s n="m"/></l><r>aquavit<s n="n"/></r></p></e>
+<e c="  0"><p><l>arbeid<s n="n"/><s n="nt"/></l><r>work<s n="n"/></r></p></e>
 <e slr="1"><p><l>arbeid<s n="n"/><s n="nt"/></l><r>chores<s n="n"/></r></p></e>
 <e slr="2"><p><l>arbeid<s n="n"/><s n="nt"/></l><r>employment<s n="n"/></r></p></e>
 <e slr="3"><p><l>arbeid<s n="n"/><s n="nt"/></l><r>job<s n="n"/></r></p></e>
-<e c="   "><p><l>arbeide<s n="n"/><s n="nt"/></l><r>work<s n="n"/></r></p></e>
+<e c="  0"><p><l>arbeide<s n="n"/><s n="nt"/></l><r>work<s n="n"/></r></p></e>
 <e slr="1"><p><l>arbeide<s n="n"/><s n="nt"/></l><r>labour<s n="n"/></r></p></e>
-<e c="   "><p><l>arbeider<s n="n"/><s n="m"/></l><r>worker<s n="n"/></r></p></e>
+<e c="  0"><p><l>arbeider<s n="n"/><s n="m"/></l><r>worker<s n="n"/></r></p></e>
 <e slr="1"><p><l>arbeider<s n="n"/><s n="m"/></l><r>workman<s n="n"/></r></p></e>
-<e c="   "><p><l>arbeidskraft<s n="n"/></l>  <r>labour<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>arbeidskraft<s n="n"/></l>  <r>labour<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>arbeidskraft<s n="n"/></l>  <r>manpower<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>arbeidslag<s n="n"/><s n="nt"/></l><r>gang<s n="n"/></r></p></e>
-<e c="   "><p><l>arbeidsledighet<s n="n"/></l><r>unemployment<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>arbeidsledighetstrygd<s n="n"/></l><r>dole<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>arbeidslag<s n="n"/><s n="nt"/></l><r>gang<s n="n"/></r></p></e>
+<e c="  0"><p><l>arbeidsledighet<s n="n"/></l><r>unemployment<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>arbeidsledighetstrygd<s n="n"/></l><r>dole<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>arbeidsledighetstrygd<s n="n"/></l><r>unemployment<b/>benefit<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>arbeidsmengde<s n="n"/><s n="m"/></l><r>workload<s n="n"/></r></p></e>
-<e c="   "><p><l>arbeidstaker<s n="n"/><s n="m"/></l><r>employee<s n="n"/></r></p></e>
-<e c="   "><p><l>arbeidsuførhet<s n="n"/></l><r>incapacity<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>arbeidsværelse<s n="n"/><s n="nt"/></l><r>study<s n="n"/></r></p></e>
-<e c="   "><p><l>areal<s n="n"/><s n="nt"/></l><r>area<s n="n"/></r></p></e>
+<e c="  0"><p><l>arbeidsmengde<s n="n"/><s n="m"/></l><r>workload<s n="n"/></r></p></e>
+<e c="  0"><p><l>arbeidstaker<s n="n"/><s n="m"/></l><r>employee<s n="n"/></r></p></e>
+<e c="  0"><p><l>arbeidsuførhet<s n="n"/></l><r>incapacity<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>arbeidsværelse<s n="n"/><s n="nt"/></l><r>study<s n="n"/></r></p></e>
+<e c="  0"><p><l>areal<s n="n"/><s n="nt"/></l><r>area<s n="n"/></r></p></e>
 <e slr="1"><p><l>areal<s n="n"/><s n="nt"/></l><r>space<s n="n"/></r></p></e>
-<e c="   "><p><l>arena<s n="n"/><s n="m"/></l><r>ring<s n="n"/></r></p></e>
-<e c="   "><p><l>argumentering<s n="n"/></l> <r>reasoning<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>ark<s n="n"/><s n="nt"/></l><r>sheet<s n="n"/></r></p></e>
-<e c="   "><p><l>arkeolog<s n="n"/><s n="m"/></l><r>archaeologist<s n="n"/></r></p></e>
-<e c="   "><p><l>arkeologi<s n="n"/><s n="m"/></l><r>archaeology<s n="n"/></r></p></e>
-<e c="   "><p><l>arkipel<s n="n"/><s n="nt"/></l><r>archipelago<s n="n"/></r></p></e>
-<e c="   "><p><l>arkitekt<s n="n"/><s n="m"/></l><r>architect<s n="n"/></r></p></e>
-<e c="   "><p><l>arkiv<s n="n"/><s n="nt"/></l><r>file<s n="n"/></r></p></e>
-<e c="   "><p><l>arm<s n="n"/><s n="m"/></l> <r>arm<s n="n"/></r></p></e>
-<e c="   "><p><l>armatur<s n="n"/><s n="m"/></l><r>fittings<s n="n"/></r></p></e>
-<e c="   "><p><l>armbånd<s n="n"/><s n="nt"/></l><r>bracelet<s n="n"/></r></p></e>
-<e c="   "><p><l>armbåndsur<s n="n"/><s n="nt"/></l><r>watch<s n="n"/></r></p></e>
+<e c="  0"><p><l>arena<s n="n"/><s n="m"/></l><r>ring<s n="n"/></r></p></e>
+<e c="  0"><p><l>argumentering<s n="n"/></l> <r>reasoning<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>ark<s n="n"/><s n="nt"/></l><r>sheet<s n="n"/></r></p></e>
+<e c="  0"><p><l>arkeolog<s n="n"/><s n="m"/></l><r>archaeologist<s n="n"/></r></p></e>
+<e c="  0"><p><l>arkeologi<s n="n"/><s n="m"/></l><r>archaeology<s n="n"/></r></p></e>
+<e c="  0"><p><l>arkipel<s n="n"/><s n="nt"/></l><r>archipelago<s n="n"/></r></p></e>
+<e c="  0"><p><l>arkitekt<s n="n"/><s n="m"/></l><r>architect<s n="n"/></r></p></e>
+<e c="  0"><p><l>arkiv<s n="n"/><s n="nt"/></l><r>file<s n="n"/></r></p></e>
+<e c="  0"><p><l>arm<s n="n"/><s n="m"/></l> <r>arm<s n="n"/></r></p></e>
+<e c="  0"><p><l>armatur<s n="n"/><s n="m"/></l><r>fittings<s n="n"/></r></p></e>
+<e c="  0"><p><l>armbånd<s n="n"/><s n="nt"/></l><r>bracelet<s n="n"/></r></p></e>
+<e c="  0"><p><l>armbåndsur<s n="n"/><s n="nt"/></l><r>watch<s n="n"/></r></p></e>
 <e slr="1"><p><l>armbåndsur<s n="n"/><s n="nt"/></l><r>wrist<b/>watch<s n="n"/></r></p></e>
-<e c="   "><p><l>armering<s n="n"/></l>      <r>reinforcement<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>armheving<s n="n"/></l>     <r>push-up<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>arne<s n="n"/><s n="m"/></l><r>hearth<s n="n"/></r></p></e>
-<e c="   "><p><l>aroma<s n="n"/><s n="m"/></l><r>savour<s n="n"/></r></p></e>
+<e c="  0"><p><l>armering<s n="n"/></l>      <r>reinforcement<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>armheving<s n="n"/></l>     <r>push-up<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>arne<s n="n"/><s n="m"/></l><r>hearth<s n="n"/></r></p></e>
+<e c="  0"><p><l>aroma<s n="n"/><s n="m"/></l><r>savour<s n="n"/></r></p></e>
 <e slr="1"><p><l>aroma<s n="n"/><s n="m"/></l><r>flavour<s n="n"/></r></p></e>
-<e c="   "><p><l>arr<s n="n"/><s n="nt"/></l><r>scar<s n="n"/></r></p></e>
-<e c="   "><p><l>arrangør<s n="n"/><s n="m"/></l><r>organizer<s n="n"/></r></p></e>
-<e c="   "><p><l>arrest<s n="n"/><s n="m"/></l><r>detention<s n="n"/></r></p></e>
-<e c="   "><p><l>art<s n="n"/></l>           <r>species<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>artikkel<s n="n"/><s n="m"/></l><r>item<s n="n"/></r></p></e>
+<e c="  0"><p><l>arr<s n="n"/><s n="nt"/></l><r>scar<s n="n"/></r></p></e>
+<e c="  0"><p><l>arrangør<s n="n"/><s n="m"/></l><r>organizer<s n="n"/></r></p></e>
+<e c="  0"><p><l>arrest<s n="n"/><s n="m"/></l><r>detention<s n="n"/></r></p></e>
+<e c="  0"><p><l>art<s n="n"/></l>           <r>species<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>artikkel<s n="n"/><s n="m"/></l><r>item<s n="n"/></r></p></e>
 <e slr="1"><p><l>artikkel<s n="n"/><s n="m"/></l><r>paragraph<s n="n"/></r></p></e>
-<e c="   "><p><l>artilleri<s n="n"/><s n="nt"/></l><r>ordnance<s n="n"/></r></p></e>
-<e c="   "><p><l>arv<s n="n"/><s n="m"/></l> <r>inheritance<s n="n"/></r></p></e>
+<e c="  0"><p><l>artilleri<s n="n"/><s n="nt"/></l><r>ordnance<s n="n"/></r></p></e>
+<e c="  0"><p><l>arv<s n="n"/><s n="m"/></l> <r>inheritance<s n="n"/></r></p></e>
 <e slr="1"><p><l>arv<s n="n"/><s n="m"/></l> <r>heritage<s n="n"/></r></p></e>
-<e c="   "><p><l>arve<s n="n"/><s n="m"/></l><r>inherit<s n="n"/></r></p></e>
+<e c="  0"><p><l>arve<s n="n"/><s n="m"/></l><r>inherit<s n="n"/></r></p></e>
 <e slr="1"><p><l>arve<s n="n"/><s n="m"/></l><r>succeed<b/>to<s n="n"/></r></p></e>
-<e c="   "><p><l>arvefølge<s n="n"/><s n="m"/></l><r>succession<s n="n"/></r></p></e>
-<e c="   "><p><l>arvelighet<s n="n"/></l>    <r>heredity<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>arvestykke<s n="n"/><s n="nt"/></l><r>heirloom<s n="n"/></r></p></e>
-<e c="   "><p><l>arving<s n="n"/><s n="m"/></l><r>heir<s n="n"/></r></p></e>
+<e c="  0"><p><l>arvefølge<s n="n"/><s n="m"/></l><r>succession<s n="n"/></r></p></e>
+<e c="  0"><p><l>arvelighet<s n="n"/></l>    <r>heredity<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>arvestykke<s n="n"/><s n="nt"/></l><r>heirloom<s n="n"/></r></p></e>
+<e c="  0"><p><l>arving<s n="n"/><s n="m"/></l><r>heir<s n="n"/></r></p></e>
 <e slr="1"><p><l>arving<s n="n"/><s n="m"/></l><r>heiress<s n="n"/></r></p></e>
-<e c="   "><p><l>asfaltdekke<s n="n"/><s n="nt"/></l><r>tarmac<s n="n"/></r></p></e>
-<e c="   "><p><l>ask<s n="n"/><s n="m"/></l> <r>ash<s n="n"/></r></p></e>
-<e c="   "><p><l>aske<s n="n"/></l>          <r>ashes<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>askebeger<s n="n"/><s n="nt"/></l><r>ash<b/>tray<s n="n"/></r></p></e>
-<e c="   "><p><l>askeonsdag<s n="n"/><s n="m"/></l><r>ash<b/>Wednesday<s n="n"/></r></p></e>
-<e c="   "><p><l>asparges<s n="n"/><s n="m"/></l><r>asparagus<s n="n"/></r></p></e>
-<e c="   "><p><l>asyl<s n="n"/><s n="nt"/></l><r>sanctuary<s n="n"/></r></p></e>
+<e c="  0"><p><l>asfaltdekke<s n="n"/><s n="nt"/></l><r>tarmac<s n="n"/></r></p></e>
+<e c="  0"><p><l>ask<s n="n"/><s n="m"/></l> <r>ash<s n="n"/></r></p></e>
+<e c="  0"><p><l>aske<s n="n"/></l>          <r>ashes<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>askebeger<s n="n"/><s n="nt"/></l><r>ash<b/>tray<s n="n"/></r></p></e>
+<e c="  0"><p><l>askeonsdag<s n="n"/><s n="m"/></l><r>ash<b/>Wednesday<s n="n"/></r></p></e>
+<e c="  0"><p><l>asparges<s n="n"/><s n="m"/></l><r>asparagus<s n="n"/></r></p></e>
+<e c="  0"><p><l>asyl<s n="n"/><s n="nt"/></l><r>sanctuary<s n="n"/></r></p></e>
 <e slr="1"><p><l>asyl<s n="n"/><s n="nt"/></l><r>asylum<s n="n"/></r></p></e>
-<e c="   "><p><l>asylsøker<s n="n"/><s n="m"/></l><r>asylum<b/>seeker<s n="n"/></r></p></e>
-<e c="   "><p><l>atelier<s n="n"/><s n="nt"/></l><r>studio<s n="n"/></r></p></e>
-<e c="   "><p><l>atlask<s n="n"/><s n="m"/></l><r>satin<s n="n"/></r></p></e>
-<e c="   "><p><l>atom<s n="n"/><s n="nt"/></l><r>nuclear<s n="n"/></r></p></e>
-<e c="   "><p><l>atomkraftverk<s n="n"/><s n="nt"/></l><r>nuclear<b/>power<b/>station<s n="n"/></r></p></e>
-<e c="   "><p><l>atskillelse<s n="n"/><s n="m"/></l><r>separation<s n="n"/></r></p></e>
-<e c="   "><p><l>atspredelse<s n="n"/><s n="m"/></l><r>recreation<s n="n"/></r></p></e>
+<e c="  0"><p><l>asylsøker<s n="n"/><s n="m"/></l><r>asylum<b/>seeker<s n="n"/></r></p></e>
+<e c="  0"><p><l>atelier<s n="n"/><s n="nt"/></l><r>studio<s n="n"/></r></p></e>
+<e c="  0"><p><l>atlask<s n="n"/><s n="m"/></l><r>satin<s n="n"/></r></p></e>
+<e c="  0"><p><l>atom<s n="n"/><s n="nt"/></l><r>nuclear<s n="n"/></r></p></e>
+<e c="  0"><p><l>atomkraftverk<s n="n"/><s n="nt"/></l><r>nuclear<b/>power<b/>station<s n="n"/></r></p></e>
+<e c="  0"><p><l>atskillelse<s n="n"/><s n="m"/></l><r>separation<s n="n"/></r></p></e>
+<e c="  0"><p><l>atspredelse<s n="n"/><s n="m"/></l><r>recreation<s n="n"/></r></p></e>
 <e slr="1"><p><l>atspredelse<s n="n"/><s n="m"/></l><r>sport<s n="n"/></r></p></e>
-<e c="   "><p><l>attest<s n="n"/><s n="m"/></l><r>certificate<s n="n"/></r></p></e>
+<e c="  0"><p><l>attest<s n="n"/><s n="m"/></l><r>certificate<s n="n"/></r></p></e>
 <e slr="1"><p><l>attest<s n="n"/><s n="m"/></l><r>reference<s n="n"/></r></p></e>
 <e slr="2"><p><l>attest<s n="n"/><s n="m"/></l><r>testimonial<s n="n"/></r></p></e>
-<e c="   "><p><l>attføring<s n="n"/></l>     <r>rehabilitation<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>attraksjon<s n="n"/><s n="m"/></l><r>feature<s n="n"/></r></p></e>
-<e c="   "><p><l>auditorium<s n="n"/><s n="nt"/></l><r>theatre<s n="n"/></r></p></e>
-<e c="   "><p><l>auksjon<s n="n"/><s n="m"/></l><r>auction<s n="n"/></r></p></e>
-<e c="   "><p><l>aure<s n="n"/><s n="m"/></l><r>trout<s n="n"/></r></p></e>
-<e c="   "><p><l>automat<s n="n"/><s n="m"/></l><r>automoton<s n="n"/></r></p></e>
-<e c="   "><p><l>automatgir<s n="n"/><s n="nt"/></l><r>automatic<b/>transmission<s n="n"/></r></p></e>
-<e c="   "><p><l>avart<s n="n"/></l>         <r>variant<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avbetaling<s n="n"/></l>    <r>hire<b/>purchase<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avbilde<s n="n"/><s n="nt"/></l><r>depict<s n="n"/></r></p></e>
-<e c="   "><p><l>avbrytelse<s n="n"/><s n="m"/></l><r>intermission<s n="n"/></r></p></e>
+<e c="  0"><p><l>attføring<s n="n"/></l>     <r>rehabilitation<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>attraksjon<s n="n"/><s n="m"/></l><r>feature<s n="n"/></r></p></e>
+<e c="  0"><p><l>auditorium<s n="n"/><s n="nt"/></l><r>theatre<s n="n"/></r></p></e>
+<e c="  0"><p><l>auksjon<s n="n"/><s n="m"/></l><r>auction<s n="n"/></r></p></e>
+<e c="  0"><p><l>aure<s n="n"/><s n="m"/></l><r>trout<s n="n"/></r></p></e>
+<e c="  0"><p><l>automat<s n="n"/><s n="m"/></l><r>automoton<s n="n"/></r></p></e>
+<e c="  0"><p><l>automatgir<s n="n"/><s n="nt"/></l><r>automatic<b/>transmission<s n="n"/></r></p></e>
+<e c="  0"><p><l>avart<s n="n"/></l>         <r>variant<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avbetaling<s n="n"/></l>    <r>hire<b/>purchase<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avbilde<s n="n"/><s n="nt"/></l><r>depict<s n="n"/></r></p></e>
+<e c="  0"><p><l>avbrytelse<s n="n"/><s n="m"/></l><r>intermission<s n="n"/></r></p></e>
 <e slr="1"><p><l>avbrytelse<s n="n"/><s n="m"/></l><r>stop<s n="n"/></r></p></e>
 <e slr="2"><p><l>avbrytelse<s n="n"/><s n="m"/></l><r>interruption<s n="n"/></r></p></e>
 <e slr="3"><p><l>avbrytelse<s n="n"/><s n="m"/></l><r>break<s n="n"/></r></p></e>
-<e c="   "><p><l>avdeling<s n="n"/></l>      <r>department<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avdeling<s n="n"/></l>      <r>department<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>avdeling<s n="n"/></l>      <r>ward<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>avdeling<s n="n"/></l>      <r>branch<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="3"><p><l>avdeling<s n="n"/></l>      <r>compartment<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avdrag<s n="n"/><s n="nt"/></l><r>instalment<s n="n"/></r></p></e>
-<e c="   "><p><l>aversjon<s n="n"/><s n="m"/></l><r>aversion<s n="n"/></r></p></e>
-<e c="   "><p><l>avfall<s n="n"/><s n="nt"/></l><r>waste<s n="n"/></r></p></e>
+<e c="  0"><p><l>avdrag<s n="n"/><s n="nt"/></l><r>instalment<s n="n"/></r></p></e>
+<e c="  0"><p><l>aversjon<s n="n"/><s n="m"/></l><r>aversion<s n="n"/></r></p></e>
+<e c="  0"><p><l>avfall<s n="n"/><s n="nt"/></l><r>waste<s n="n"/></r></p></e>
 <e slr="1"><p><l>avfall<s n="n"/><s n="nt"/></l><r>garbage<s n="n"/></r></p></e>
 <e slr="2"><p><l>avfall<s n="n"/><s n="nt"/></l><r>refuse<s n="n"/></r></p></e>
 <e slr="3"><p><l>avfall<s n="n"/><s n="nt"/></l><r>scrap<s n="n"/></r></p></e>
 <e slr="4"><p><l>avfall<s n="n"/><s n="nt"/></l><r>rubbish<s n="n"/></r></p></e>
-<e c="   "><p><l>avfallsplass<s n="n"/><s n="m"/></l><r>tip<s n="n"/></r></p></e>
-<e c="   "><p><l>avfyring<s n="n"/></l>      <r>firing<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avføring<s n="n"/></l>      <r>stools<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avføringsmiddel<s n="n"/><s n="nt"/></l><r>laxative<s n="n"/></r></p></e>
+<e c="  0"><p><l>avfallsplass<s n="n"/><s n="m"/></l><r>tip<s n="n"/></r></p></e>
+<e c="  0"><p><l>avfyring<s n="n"/></l>      <r>firing<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avføring<s n="n"/></l>      <r>stools<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avføringsmiddel<s n="n"/><s n="nt"/></l><r>laxative<s n="n"/></r></p></e>
 <e slr="1"><p><l>avføringsmiddel<s n="n"/><s n="nt"/></l><r>purgative<s n="n"/></r></p></e>
-<e c="   "><p><l>avgang<s n="n"/><s n="m"/></l><r>departure<s n="n"/></r></p></e>
-<e c="   "><p><l>avgangseksamen<s n="n"/><s n="m"/></l><r>finals<s n="n"/></r></p></e>
+<e c="  0"><p><l>avgang<s n="n"/><s n="m"/></l><r>departure<s n="n"/></r></p></e>
+<e c="  0"><p><l>avgangseksamen<s n="n"/><s n="m"/></l><r>finals<s n="n"/></r></p></e>
 <e slr="1"><p><l>avgangseksamen<s n="n"/><s n="m"/></l><r>final<b/>exam<s n="n"/></r></p></e>
-<e c="   "><p><l>avgift<s n="n"/></l>        <r>licence<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avgift<s n="n"/></l>        <r>licence<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>avgift<s n="n"/></l>        <r>charge<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>avgift<s n="n"/></l>        <r>levy<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avgjørelse<s n="n"/><s n="m"/></l><r>decision<s n="n"/></r></p></e>
-<e c="   "><p><l>avgrunn<s n="n"/><s n="m"/></l><r>abyss<s n="n"/></r></p></e>
+<e c="  0"><p><l>avgjørelse<s n="n"/><s n="m"/></l><r>decision<s n="n"/></r></p></e>
+<e c="  0"><p><l>avgrunn<s n="n"/><s n="m"/></l><r>abyss<s n="n"/></r></p></e>
 <e slr="1"><p><l>avgrunn<s n="n"/><s n="m"/></l><r>gulf<s n="n"/></r></p></e>
-<e c="   "><p><l>avgud<s n="n"/><s n="m"/></l><r>idol<s n="n"/></r></p></e>
-<e c="   "><p><l>avhandling<s n="n"/></l>    <r>treatise<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avgud<s n="n"/><s n="m"/></l><r>idol<s n="n"/></r></p></e>
+<e c="  0"><p><l>avhandling<s n="n"/></l>    <r>treatise<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>avhandling<s n="n"/></l>    <r>dissertation<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>avhandling<s n="n"/></l>    <r>thesis<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avhengighet<s n="n"/></l>   <r>addiction<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avhengighet<s n="n"/></l>   <r>addiction<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>avhengighet<s n="n"/></l>   <r>dependence<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avholdsmann<s n="n"/><s n="m"/></l><r>teetotaller<s n="n"/></r></p></e>
-<e c="   "><p><l>avhopp<s n="n"/><s n="nt"/></l><r>defection<s n="n"/></r></p></e>
-<e c="   "><p><l>avhopper<s n="n"/><s n="m"/></l><r>defector<s n="n"/></r></p></e>
-<e c="   "><p><l>avhør<s n="n"/><s n="nt"/></l><r>questioning<s n="n"/></r></p></e>
-<e c="   "><p><l>avis<s n="n"/></l>          <r>daily<b/>paper<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avholdsmann<s n="n"/><s n="m"/></l><r>teetotaller<s n="n"/></r></p></e>
+<e c="  0"><p><l>avhopp<s n="n"/><s n="nt"/></l><r>defection<s n="n"/></r></p></e>
+<e c="  0"><p><l>avhopper<s n="n"/><s n="m"/></l><r>defector<s n="n"/></r></p></e>
+<e c="  0"><p><l>avhør<s n="n"/><s n="nt"/></l><r>questioning<s n="n"/></r></p></e>
+<e c="  0"><p><l>avis<s n="n"/></l>          <r>daily<b/>paper<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>avis<s n="n"/></l>          <r>journal<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>avis<s n="n"/></l>          <r>newspaper<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>aviskiosk<s n="n"/><s n="m"/></l><r>newsstand<s n="n"/></r></p></e>
-<e c="   "><p><l>avisutklipp<s n="n"/><s n="nt"/></l><r>press<b/>clip<s n="n"/></r></p></e>
+<e c="  0"><p><l>aviskiosk<s n="n"/><s n="m"/></l><r>newsstand<s n="n"/></r></p></e>
+<e c="  0"><p><l>avisutklipp<s n="n"/><s n="nt"/></l><r>press<b/>clip<s n="n"/></r></p></e>
 <e slr="1"><p><l>avisutklipp<s n="n"/><s n="nt"/></l><r>news<b/>clip<s n="n"/></r></p></e>
-<e c="   "><p><l>avkall<s n="n"/><s n="nt"/></l><r>renunciation<s n="n"/></r></p></e>
-<e c="   "><p><l>avkobling<s n="n"/></l>     <r>relaxation<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avkom<s n="n"/><s n="nt"/></l><r>offspring<s n="n"/></r></p></e>
+<e c="  0"><p><l>avkall<s n="n"/><s n="nt"/></l><r>renunciation<s n="n"/></r></p></e>
+<e c="  0"><p><l>avkobling<s n="n"/></l>     <r>relaxation<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avkom<s n="n"/><s n="nt"/></l><r>offspring<s n="n"/></r></p></e>
 <e c="todo better"><p><l>avkrok<s n="n"/><s n="m"/></l><r>remote<b/>spot<s n="n"/></r></p></e>
-<e c="   "><p><l>avl<s n="n"/><s n="m"/></l> <r>breeding<s n="n"/></r></p></e>
+<e c="  0"><p><l>avl<s n="n"/><s n="m"/></l> <r>breeding<s n="n"/></r></p></e>
 <e slr="1"><p><l>avl<s n="n"/><s n="m"/></l> <r>rearing<s n="n"/></r></p></e>
-<e c="   "><p><l>avledning<s n="n"/><s n="m"/></l><r>diversion<s n="n"/></r></p></e>
-<e c="   "><p><l>avleiring<s n="n"/></l>     <r>deposit<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avling<s n="n"/></l>        <r>harvest<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avledning<s n="n"/><s n="m"/></l><r>diversion<s n="n"/></r></p></e>
+<e c="  0"><p><l>avleiring<s n="n"/></l>     <r>deposit<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avling<s n="n"/></l>        <r>harvest<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>avling<s n="n"/></l>        <r>crop<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avlsdyr<s n="n"/><s n="nt"/></l><r>stock<s n="n"/></r></p></e>
+<e c="  0"><p><l>avlsdyr<s n="n"/><s n="nt"/></l><r>stock<s n="n"/></r></p></e>
 <e slr="1"><p><l>avlsdyr<s n="n"/><s n="nt"/></l><r>breeding<b/>stock<s n="n"/></r></p></e>
-<e c="   "><p><l>avlukke<s n="n"/><s n="nt"/></l><r>box<s n="n"/></r></p></e>
-<e c="   "><p><l>avløp<s n="n"/><s n="nt"/></l><r>drain<s n="n"/></r></p></e>
-<e c="   "><p><l>avmønstring<s n="n"/></l>   <r>discharge<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avregning<s n="n"/></l>     <r>statement<b/>of<b/>account<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avreise<s n="n"/></l>       <r>leave<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avlukke<s n="n"/><s n="nt"/></l><r>box<s n="n"/></r></p></e>
+<e c="  0"><p><l>avløp<s n="n"/><s n="nt"/></l><r>drain<s n="n"/></r></p></e>
+<e c="  0"><p><l>avmønstring<s n="n"/></l>   <r>discharge<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avregning<s n="n"/></l>     <r>statement<b/>of<b/>account<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avreise<s n="n"/></l>       <r>leave<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>avreise<s n="n"/></l>       <r>departure<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avsats<s n="n"/><s n="m"/></l><r>shelves<s n="n"/></r></p></e>
+<e c="  0"><p><l>avsats<s n="n"/><s n="m"/></l><r>shelves<s n="n"/></r></p></e>
 <e slr="1"><p><l>avsats<s n="n"/><s n="m"/></l><r>shelf<s n="n"/></r></p></e>
-<e c="   "><p><l>avsendelse<s n="n"/><s n="m"/></l><r>dispatch<s n="n"/></r></p></e>
-<e c="   "><p><l>avsender<s n="n"/><s n="m"/></l><r>sender<s n="n"/></r></p></e>
-<e c="   "><p><l>avsetning<s n="n"/><s n="m"/></l><r>earnings<s n="n"/></r></p></e>
-<e c="   "><p><l>avskjed<s n="n"/><s n="m"/></l><r>parting<s n="n"/></r></p></e>
+<e c="  0"><p><l>avsendelse<s n="n"/><s n="m"/></l><r>dispatch<s n="n"/></r></p></e>
+<e c="  0"><p><l>avsender<s n="n"/><s n="m"/></l><r>sender<s n="n"/></r></p></e>
+<e c="  0"><p><l>avsetning<s n="n"/><s n="m"/></l><r>earnings<s n="n"/></r></p></e>
+<e c="  0"><p><l>avskjed<s n="n"/><s n="m"/></l><r>parting<s n="n"/></r></p></e>
 <e slr="1"><p><l>avskjed<s n="n"/><s n="m"/></l><r>farewell<s n="n"/></r></p></e>
 <e slr="2"><p><l>avskjed<s n="n"/><s n="m"/></l><r>dismissal<s n="n"/></r></p></e>
-<e c="   "><p><l>avskjedigelse<s n="n"/><s n="m"/></l><r>layoff<s n="n"/></r></p></e>
+<e c="  0"><p><l>avskjedigelse<s n="n"/><s n="m"/></l><r>layoff<s n="n"/></r></p></e>
 <e slr="1"><p><l>avskjedigelse<s n="n"/><s n="m"/></l><r>removal<s n="n"/></r></p></e>
-<e c="   "><p><l>avskoging<s n="n"/></l>     <r>deforestation<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avskrift<s n="n"/></l>      <r>copy<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avskrivning<s n="n"/><s n="m"/></l><r>depreciation<s n="n"/></r></p></e>
-<e c="   "><p><l>avskum<s n="n"/><s n="nt"/></l><r>scum<s n="n"/></r></p></e>
-<e c="   "><p><l>avsky<s n="n"/><s n="m"/></l><r>loathe<s n="n"/></r></p></e>
+<e c="  0"><p><l>avskoging<s n="n"/></l>     <r>deforestation<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avskrift<s n="n"/></l>      <r>copy<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avskrivning<s n="n"/><s n="m"/></l><r>depreciation<s n="n"/></r></p></e>
+<e c="  0"><p><l>avskum<s n="n"/><s n="nt"/></l><r>scum<s n="n"/></r></p></e>
+<e c="  0"><p><l>avsky<s n="n"/><s n="m"/></l><r>loathe<s n="n"/></r></p></e>
 <e slr="1"><p><l>avsky<s n="n"/><s n="m"/></l><r>abomination<s n="n"/></r></p></e>
 <e slr="2"><p><l>avsky<s n="n"/><s n="m"/></l><r>disgust<s n="n"/></r></p></e>
 <e slr="3"><p><l>avsky<s n="n"/><s n="m"/></l><r>repugnance<s n="n"/></r></p></e>
 <e slr="4"><p><l>avsky<s n="n"/><s n="m"/></l><r>loathing<s n="n"/></r></p></e>
-<e c="   "><p><l>avskyelighet<s n="n"/></l>  <r>abomination<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avskygning<s n="n"/><s n="m"/></l><r>shade<s n="n"/></r></p></e>
-<e c="   "><p><l>avslag<s n="n"/><s n="nt"/></l><r>rejection<s n="n"/></r></p></e>
+<e c="  0"><p><l>avskyelighet<s n="n"/></l>  <r>abomination<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avskygning<s n="n"/><s n="m"/></l><r>shade<s n="n"/></r></p></e>
+<e c="  0"><p><l>avslag<s n="n"/><s n="nt"/></l><r>rejection<s n="n"/></r></p></e>
 <e slr="1"><p><l>avslag<s n="n"/><s n="nt"/></l><r>denial<s n="n"/></r></p></e>
 <e slr="2"><p><l>avslag<s n="n"/><s n="nt"/></l><r>rebuff<s n="n"/></r></p></e>
 <e slr="3"><p><l>avslag<s n="n"/><s n="nt"/></l><r>refusal<s n="n"/></r></p></e>
-<e c="   "><p><l>avslapping<s n="n"/></l>    <r>relaxation<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avslutning<s n="n"/><s n="m"/></l><r>termination<s n="n"/></r></p></e>
+<e c="  0"><p><l>avslapping<s n="n"/></l>    <r>relaxation<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avslutning<s n="n"/><s n="m"/></l><r>termination<s n="n"/></r></p></e>
 <e slr="1"><p><l>avslutning<s n="n"/><s n="m"/></l><r>ending<s n="n"/></r></p></e>
-<e c="   "><p><l>avsløring<s n="n"/></l>     <r>disclosure<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avsløring<s n="n"/></l>     <r>disclosure<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>avsløring<s n="n"/></l>     <r>revelation<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>avsløring<s n="n"/></l>     <r>exposure<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avsmak<s n="n"/><s n="m"/></l><r>distaste<s n="n"/></r></p></e>
-<e c="   "><p><l>avsnitt<s n="n"/><s n="nt"/></l><r>paragraph<s n="n"/></r></p></e>
+<e c="  0"><p><l>avsmak<s n="n"/><s n="m"/></l><r>distaste<s n="n"/></r></p></e>
+<e c="  0"><p><l>avsnitt<s n="n"/><s n="nt"/></l><r>paragraph<s n="n"/></r></p></e>
 <e slr="1"><p><l>avsnitt<s n="n"/><s n="nt"/></l><r>passage<s n="n"/></r></p></e>
 <e slr="2"><p><l>avsnitt<s n="n"/><s n="nt"/></l><r>section<s n="n"/></r></p></e>
-<e c="   "><p><l>avspilling<s n="n"/></l>    <r>playback<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avsporing<s n="n"/></l>     <r>derailment<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avstamning<s n="n"/><s n="m"/></l><r>extraction<s n="n"/></r></p></e>
-<e c="   "><p><l>avstand<s n="n"/><s n="m"/></l><r>offset<s n="n"/></r></p></e>
+<e c="  0"><p><l>avspilling<s n="n"/></l>    <r>playback<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avsporing<s n="n"/></l>     <r>derailment<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avstamning<s n="n"/><s n="m"/></l><r>extraction<s n="n"/></r></p></e>
+<e c="  0"><p><l>avstand<s n="n"/><s n="m"/></l><r>offset<s n="n"/></r></p></e>
 <e slr="1"><p><l>avstand<s n="n"/><s n="m"/></l><r>distance<s n="n"/></r></p></e>
 <e slr="2"><p><l>avstand<s n="n"/><s n="m"/></l><r>mileage<s n="n"/></r></p></e>
-<e c="   "><p><l>avstandsmåler<s n="n"/><s n="m"/></l><r>rangefinder<s n="n"/></r></p></e>
-<e c="   "><p><l>avtale<s n="n"/><s n="m"/></l><r>engagement<s n="n"/></r></p></e>
+<e c="  0"><p><l>avstandsmåler<s n="n"/><s n="m"/></l><r>rangefinder<s n="n"/></r></p></e>
+<e c="  0"><p><l>avtale<s n="n"/><s n="m"/></l><r>engagement<s n="n"/></r></p></e>
 <e slr="1"><p><l>avtale<s n="n"/><s n="m"/></l><r>deal<s n="n"/></r></p></e>
 <e slr="2"><p><l>avtale<s n="n"/><s n="m"/></l><r>fix<s n="n"/></r></p></e>
 <e slr="3"><p><l>avtale<s n="n"/><s n="m"/></l><r>accommodation<s n="n"/></r></p></e>
 <e slr="4"><p><l>avtale<s n="n"/><s n="m"/></l><r>appointment<s n="n"/></r></p></e>
-<e c="   "><p><l>avtrekker<s n="n"/><s n="m"/></l><r>trigger<s n="n"/></r></p></e>
-<e c="   "><p><l>avtrykk<s n="n"/><s n="nt"/></l><r>imprint<s n="n"/></r></p></e>
+<e c="  0"><p><l>avtrekker<s n="n"/><s n="m"/></l><r>trigger<s n="n"/></r></p></e>
+<e c="  0"><p><l>avtrykk<s n="n"/><s n="nt"/></l><r>imprint<s n="n"/></r></p></e>
 <e slr="1"><p><l>avtrykk<s n="n"/><s n="nt"/></l><r>impression<s n="n"/></r></p></e>
 <e slr="2"><p><l>avtrykk<s n="n"/><s n="nt"/></l><r>stamp<s n="n"/></r></p></e>
 <e slr="3"><p><l>avtrykk<s n="n"/><s n="nt"/></l><r>impress<s n="n"/></r></p></e>
-<e c="   "><p><l>avveksling<s n="n"/></l>    <r>variety<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avveksling<s n="n"/></l>    <r>variety<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>avveksling<s n="n"/></l>    <r>time<b/>off<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>avvik<s n="n"/><s n="nt"/></l><r>deviation<s n="n"/></r></p></e>
+<e c="  0"><p><l>avvik<s n="n"/><s n="nt"/></l><r>deviation<s n="n"/></r></p></e>
 <e slr="1"><p><l>avvik<s n="n"/><s n="nt"/></l><r>aberration<s n="n"/></r></p></e>
 <e slr="2"><p><l>avvik<s n="n"/><s n="nt"/></l><r>departure<s n="n"/></r></p></e>
 <e slr="3"><p><l>avvik<s n="n"/><s n="nt"/></l><r>anomaly<s n="n"/></r></p></e>
-<e c="   "><p><l>avvæpning<s n="n"/></l>     <r>disarmament<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>babord<s n="n"/><s n="mf"/></l><r>port<s n="n"/></r></p></e>
-<e c="   "><p><l>bad<s n="n"/><s n="nt"/></l><r>bath<s n="n"/></r></p></e>
-<e c="   "><p><l>badebukse<s n="n"/></l>     <r>swimming<b/>trunks<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>avvæpning<s n="n"/></l>     <r>disarmament<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>babord<s n="n"/><s n="mf"/></l><r>port<s n="n"/></r></p></e>
+<e c="  0"><p><l>bad<s n="n"/><s n="nt"/></l><r>bath<s n="n"/></r></p></e>
+<e c="  0"><p><l>badebukse<s n="n"/></l>     <r>swimming<b/>trunks<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>badebukse<s n="n"/></l>     <r>bathing<b/>trunks<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>badedrakt<s n="n"/></l>     <r>bathing<b/>suit<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>badekar<s n="n"/><s n="nt"/></l><r>bathtub<s n="n"/></r></p></e>
+<e c="  0"><p><l>badedrakt<s n="n"/></l>     <r>bathing<b/>suit<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>badekar<s n="n"/><s n="nt"/></l><r>bathtub<s n="n"/></r></p></e>
 <e slr="1"><p><l>badekar<s n="n"/><s n="nt"/></l><r>bath<s n="n"/></r></p></e>
-<e c="   "><p><l>badetøy<s n="n"/><s n="nt"/></l><r>swimwear<s n="n"/></r></p></e>
-<e c="   "><p><l>badeværelse<s n="n"/><s n="nt"/></l><r>bathroom<s n="n"/></r></p></e>
-<e c="   "><p><l>badstue<s n="n"/></l>       <r>sauna<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>bag<s n="n"/><s n="m"/></l> <r>bag<s n="n"/></r></p></e>
-<e c="   "><p><l>bagasje<s n="n"/><s n="m"/></l><r>baggage<s n="n"/></r></p></e>
+<e c="  0"><p><l>badetøy<s n="n"/><s n="nt"/></l><r>swimwear<s n="n"/></r></p></e>
+<e c="  0"><p><l>badeværelse<s n="n"/><s n="nt"/></l><r>bathroom<s n="n"/></r></p></e>
+<e c="  0"><p><l>badstue<s n="n"/></l>       <r>sauna<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>bag<s n="n"/><s n="m"/></l> <r>bag<s n="n"/></r></p></e>
+<e c="  0"><p><l>bagasje<s n="n"/><s n="m"/></l><r>baggage<s n="n"/></r></p></e>
 <e slr="1"><p><l>bagasje<s n="n"/><s n="m"/></l><r>luggage<s n="n"/></r></p></e>
-<e c="   "><p><l>bagasjehylle<s n="n"/></l>  <r>luggage<b/>rack<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>bagatell<s n="n"/><s n="m"/></l><r>trifle<s n="n"/></r></p></e>
-<e c="   "><p><l>bajas<s n="n"/><s n="m"/></l><r>buffoon<s n="n"/></r></p></e>
-<e c="   "><p><l>bak<s n="n"/><s n="nt"/></l><r>hind<s n="n"/></r></p></e>
-<e c="   "><p><l>bak<s n="n"/><s n="nt"/></l><r>posterior<s n="n"/></r></p></e>
+<e c="  0"><p><l>bagasjehylle<s n="n"/></l>  <r>luggage<b/>rack<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>bagatell<s n="n"/><s n="m"/></l><r>trifle<s n="n"/></r></p></e>
+<e c="  0"><p><l>bajas<s n="n"/><s n="m"/></l><r>buffoon<s n="n"/></r></p></e>
+<e c="  0"><p><l>bak<s n="n"/><s n="nt"/></l><r>hind<s n="n"/></r></p></e>
+<e c="  0"><p><l>bak<s n="n"/><s n="nt"/></l><r>posterior<s n="n"/></r></p></e>
 <e slr="1"><p><l>bak<s n="n"/><s n="nt"/></l><r>behind<s n="n"/></r></p></e>
 <e slr="1"><p><l>bak<s n="n"/><s n="nt"/></l><r>rear<s n="n"/></r></p></e>
-<e c="   "><p><l>bakdel<s n="n"/><s n="m"/></l><r>haunches<s n="n"/></r></p></e>
+<e c="  0"><p><l>bakdel<s n="n"/><s n="m"/></l><r>haunches<s n="n"/></r></p></e>
 <e slr="1"><p><l>bakdel<s n="n"/><s n="m"/></l><r>rump<s n="n"/></r></p></e>
-<e c="   "><p><l>bakende<s n="n"/><s n="m"/></l><r>tail<s n="n"/></r></p></e>
+<e c="  0"><p><l>bakende<s n="n"/><s n="m"/></l><r>tail<s n="n"/></r></p></e>
 <e slr="1"><p><l>bakende<s n="n"/><s n="m"/></l><r>posterior<s n="n"/></r></p></e>
-<e c="   "><p><l>baker<s n="n"/><s n="m"/></l><r>baker<s n="n"/></r></p></e>
-<e c="   "><p><l>bakeri<s n="n"/><s n="nt"/></l><r>bakery<s n="n"/></r></p></e>
-<e c="   "><p><l>bakevje<s n="n"/></l>       <r>backwater<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>bakgrunn<s n="n"/><s n="m"/></l><r>background<s n="n"/></r></p></e>
-<e c="   "><p><l>bakhjul<s n="n"/><s n="nt"/></l><r>back<b/>wheel<s n="n"/></r></p></e>
+<e c="  0"><p><l>baker<s n="n"/><s n="m"/></l><r>baker<s n="n"/></r></p></e>
+<e c="  0"><p><l>bakeri<s n="n"/><s n="nt"/></l><r>bakery<s n="n"/></r></p></e>
+<e c="  0"><p><l>bakevje<s n="n"/></l>       <r>backwater<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>bakgrunn<s n="n"/><s n="m"/></l><r>background<s n="n"/></r></p></e>
+<e c="  0"><p><l>bakhjul<s n="n"/><s n="nt"/></l><r>back<b/>wheel<s n="n"/></r></p></e>
 <e slr="1"><p><l>bakhjul<s n="n"/><s n="nt"/></l><r>rear<b/>wheel<s n="n"/></r></p></e>
 <e slr="2"><p><l>bakhjul<s n="n"/><s n="nt"/></l><r>hind<b/>wheel<s n="n"/></r></p></e>
-<e c="   "><p><l>bakke<s n="n"/><s n="m"/></l><r>hill<s n="n"/></r></p></e>
-<e c="   "><p><l>baklomme<s n="n"/></l>      <r>hip-pocket<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>baklys<s n="n"/><s n="nt"/></l><r>tail-light<s n="n"/></r></p></e>
-<e c="   "><p><l>bakrus<s n="n"/><s n="nt"/></l><r>hangover<s n="n"/></r></p></e>
-<e c="   "><p><l>bakside<s n="n"/></l>       <r>rear<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>bakterie<s n="n"/><s n="m"/></l><r>germ<s n="n"/></r></p></e>
-<e c="   "><p><l>bakvaskelse<s n="n"/><s n="m"/></l><r>slander<s n="n"/></r></p></e>
-<e c="   "><p><l>baldakin<s n="n"/><s n="m"/></l><r>canopy<s n="n"/></r></p></e>
-<e c="   "><p><l>balje<s n="n"/></l>         <r>tub<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>balkong<s n="n"/><s n="m"/></l><r>balcony<s n="n"/></r></p></e>
-<e c="   "><p><l>ball<s n="n"/><s n="nt"/></l><r>ball<s n="n"/></r></p></e>
-<e c="   "><p><l>ballong<s n="n"/><s n="m"/></l><r>balloon<s n="n"/></r></p></e>
-<e c="   "><p><l>balltre<s n="n"/><s n="nt"/></l><r>bat<s n="n"/></r></p></e>
-<e c="   "><p><l>balsam<s n="n"/><s n="m"/></l><r>balm<s n="n"/></r></p></e>
-<e c="   "><p><l>bambus<s n="n"/><s n="m"/></l><r>bamboo<s n="n"/></r></p></e>
-<e c="   "><p><l>banan<s n="n"/><s n="m"/></l><r>banana<s n="n"/></r></p></e>
-<e c="   "><p><l>bande<s n="n"/><s n="m"/></l><r>gang<s n="n"/></r></p></e>
-<e c="   "><p><l>bane<s n="n"/><s n="m"/></l><r>track<s n="n"/></r></p></e>
+<e c="  0"><p><l>bakke<s n="n"/><s n="m"/></l><r>hill<s n="n"/></r></p></e>
+<e c="  0"><p><l>baklomme<s n="n"/></l>      <r>hip-pocket<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>baklys<s n="n"/><s n="nt"/></l><r>tail-light<s n="n"/></r></p></e>
+<e c="  0"><p><l>bakrus<s n="n"/><s n="nt"/></l><r>hangover<s n="n"/></r></p></e>
+<e c="  0"><p><l>bakside<s n="n"/></l>       <r>rear<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>bakterie<s n="n"/><s n="m"/></l><r>germ<s n="n"/></r></p></e>
+<e c="  0"><p><l>bakvaskelse<s n="n"/><s n="m"/></l><r>slander<s n="n"/></r></p></e>
+<e c="  0"><p><l>baldakin<s n="n"/><s n="m"/></l><r>canopy<s n="n"/></r></p></e>
+<e c="  0"><p><l>balje<s n="n"/></l>         <r>tub<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>balkong<s n="n"/><s n="m"/></l><r>balcony<s n="n"/></r></p></e>
+<e c="  0"><p><l>ball<s n="n"/><s n="nt"/></l><r>ball<s n="n"/></r></p></e>
+<e c="  0"><p><l>ballong<s n="n"/><s n="m"/></l><r>balloon<s n="n"/></r></p></e>
+<e c="  0"><p><l>balltre<s n="n"/><s n="nt"/></l><r>bat<s n="n"/></r></p></e>
+<e c="  0"><p><l>balsam<s n="n"/><s n="m"/></l><r>balm<s n="n"/></r></p></e>
+<e c="  0"><p><l>bambus<s n="n"/><s n="m"/></l><r>bamboo<s n="n"/></r></p></e>
+<e c="  0"><p><l>banan<s n="n"/><s n="m"/></l><r>banana<s n="n"/></r></p></e>
+<e c="  0"><p><l>bande<s n="n"/><s n="m"/></l><r>gang<s n="n"/></r></p></e>
+<e c="  0"><p><l>bane<s n="n"/><s n="m"/></l><r>track<s n="n"/></r></p></e>
 <e slr="1"><p><l>bane<s n="n"/><s n="m"/></l><r>way<s n="n"/></r></p></e>
 <e slr="2"><p><l>bane<s n="n"/><s n="m"/></l><r>path<s n="n"/></r></p></e>
 <e slr="3"><p><l>bane<s n="n"/><s n="m"/></l><r>orbit<s n="n"/></r></p></e>
 <e slr="4"><p><l>bane<s n="n"/><s n="m"/></l><r>course<s n="n"/></r></p></e>
-<e c="   "><p><l>bank<s n="n"/><s n="nt"/></l><r>bank<s n="n"/></r></p></e>
-<e c="   "><p><l>banke<s n="n"/><s n="m"/></l><r>throb<s n="n"/></r></p></e>
-<e c="   "><p><l>banking<s n="n"/></l>       <r>throb<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>bank<s n="n"/><s n="nt"/></l><r>bank<s n="n"/></r></p></e>
+<e c="  0"><p><l>banke<s n="n"/><s n="m"/></l><r>throb<s n="n"/></r></p></e>
+<e c="  0"><p><l>banking<s n="n"/></l>       <r>throb<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>banking<s n="n"/></l>       <r>palpitation<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="todo hyperonym"><p><l>bankkort<s n="n"/><s n="nt"/></l><r>credit<b/>card<s n="n"/></r></p></e>
 <e slr="1"><p><l>bankkort<s n="n"/><s n="nt"/></l><r>debit<b/>card<s n="n"/></r></p></e>
-<e c="   "><p><l>banning<s n="n"/></l>       <r>oath<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>banning<s n="n"/></l>       <r>oath<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>banning<s n="n"/></l>       <r>profanities<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>bar<s n="n"/><s n="nt"/></l><r>bar<s n="n"/></r></p></e>
-<e c="   "><p><l>barbar<s n="n"/><s n="m"/></l><r>savage<s n="n"/></r></p></e>
-<e c="   "><p><l>barberblad<s n="n"/><s n="nt"/></l><r>razorblade<s n="n"/></r></p></e>
-<e c="   "><p><l>barberhøvel<s n="n"/><s n="m"/></l><r>safety<b/>razor<s n="n"/></r></p></e>
-<e c="   "><p><l>barbering<s n="n"/></l>     <r>shave<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>barberkniv<s n="n"/><s n="m"/></l><r>razor<s n="n"/></r></p></e>
-<e c="   "><p><l>barberkost<s n="n"/><s n="m"/></l><r>shaving<b/>brush<s n="n"/></r></p></e>
-<e c="   "><p><l>barbermaskin<s n="n"/></l>  <r>electric<b/>razor<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>barberskum<s n="n"/><s n="nt"/></l><r>shaving<b/>foam<s n="n"/></r></p></e>
-<e c="   "><p><l>barfrost<s n="n"/><s n="m"/></l><r>black<b/>frost<s n="n"/></r></p></e>
-<e c="   "><p><l>bark<s n="n"/><s n="m"/></l><r>rind<s n="n"/></r></p></e>
-<e c="   "><p><l>barlind<s n="n"/></l>       <r>yew<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>barm<s n="n"/><s n="m"/></l><r>bosom<s n="n"/></r></p></e>
-<e c="   "><p><l>barmhjertighet<s n="n"/></l><r>mercy<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="   "><p><l>barn<s n="n"/><s n="nt"/></l><r>children<s n="n"/></r></p></e>
+<e c="  0"><p><l>bar<s n="n"/><s n="nt"/></l><r>bar<s n="n"/></r></p></e>
+<e c="  0"><p><l>barbar<s n="n"/><s n="m"/></l><r>savage<s n="n"/></r></p></e>
+<e c="  0"><p><l>barberblad<s n="n"/><s n="nt"/></l><r>razorblade<s n="n"/></r></p></e>
+<e c="  0"><p><l>barberhøvel<s n="n"/><s n="m"/></l><r>safety<b/>razor<s n="n"/></r></p></e>
+<e c="  0"><p><l>barbering<s n="n"/></l>     <r>shave<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>barberkniv<s n="n"/><s n="m"/></l><r>razor<s n="n"/></r></p></e>
+<e c="  0"><p><l>barberkost<s n="n"/><s n="m"/></l><r>shaving<b/>brush<s n="n"/></r></p></e>
+<e c="  0"><p><l>barbermaskin<s n="n"/></l>  <r>electric<b/>razor<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>barberskum<s n="n"/><s n="nt"/></l><r>shaving<b/>foam<s n="n"/></r></p></e>
+<e c="  0"><p><l>barfrost<s n="n"/><s n="m"/></l><r>black<b/>frost<s n="n"/></r></p></e>
+<e c="  0"><p><l>bark<s n="n"/><s n="m"/></l><r>rind<s n="n"/></r></p></e>
+<e c="  0"><p><l>barlind<s n="n"/></l>       <r>yew<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>barm<s n="n"/><s n="m"/></l><r>bosom<s n="n"/></r></p></e>
+<e c="  0"><p><l>barmhjertighet<s n="n"/></l><r>mercy<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>barn<s n="n"/><s n="nt"/></l><r>children<s n="n"/></r></p></e>
 <e slr="1"><p><l>barn<s n="n"/><s n="nt"/></l><r>child<s n="n"/></r></p></e>
-<e c="   "><p><l>barndom<s n="n"/><s n="m"/></l><r>childhood<s n="n"/></r></p></e>
+<e c="  0"><p><l>barndom<s n="n"/><s n="m"/></l><r>childhood<s n="n"/></r></p></e>
 <e slr="1"><p><l>barndom<s n="n"/><s n="m"/></l><r>infancy<s n="n"/></r></p></e>
-<e c="   "><p><l>barnebarn<s n="n"/><s n="nt"/></l><r>grandchild<s n="n"/></r></p></e>
-<e c="   "><p><l>barnehage<s n="n"/><s n="m"/></l><r>kindergarten<s n="n"/></r></p></e>
-<e c="   "><p><l>barneskole<s n="n"/><s n="m"/></l><r>preliminary<b/>school<s n="n"/></r></p></e>
-<e c="   "><p><l>barometer<s n="n"/><s n="nt"/></l><r>barometer<s n="n"/></r></p></e>
-<e c="   "><p><l>bart<s n="n"/><s n="m"/></l><r>moustache<s n="n"/></r></p></e>
-<e c="   "><p><l>basis<s n="n"/><s n="m"/></l><r>basis<s n="n"/></r></p></e>
-<e c="   "><p><l>bass<s n="n"/><s n="m"/></l><r>bass<s n="n"/></r></p></e>
-<e c="   "><p><l>basseng<s n="n"/><s n="nt"/></l><r>pool<s n="n"/></r></p></e>
+<e c="  0"><p><l>barnebarn<s n="n"/><s n="nt"/></l><r>grandchild<s n="n"/></r></p></e>
+<e c="  0"><p><l>barnehage<s n="n"/><s n="m"/></l><r>kindergarten<s n="n"/></r></p></e>
+<e c="  0"><p><l>barneskole<s n="n"/><s n="m"/></l><r>preliminary<b/>school<s n="n"/></r></p></e>
+<e c="  0"><p><l>barometer<s n="n"/><s n="nt"/></l><r>barometer<s n="n"/></r></p></e>
+<e c="  0"><p><l>bart<s n="n"/><s n="m"/></l><r>moustache<s n="n"/></r></p></e>
+<e c="  0"><p><l>basis<s n="n"/><s n="m"/></l><r>basis<s n="n"/></r></p></e>
+<e c="  0"><p><l>bass<s n="n"/><s n="m"/></l><r>bass<s n="n"/></r></p></e>
+<e c="  0"><p><l>basseng<s n="n"/><s n="nt"/></l><r>pool<s n="n"/></r></p></e>
 <e slr="1"><p><l>basseng<s n="n"/><s n="nt"/></l><r>basin<s n="n"/></r></p></e>
-<e c="   "><p><l>basun<s n="n"/><s n="m"/></l><r>trombone<s n="n"/></r></p></e>
-<e c="   "><p><l>batteri<s n="n"/><s n="nt"/></l><r>battery<s n="n"/></r></p></e>
-<e c="   "><p><l>baug<s n="n"/><s n="m"/></l><r>bow<s n="n"/></r></p></e>
+<e c="  0"><p><l>basun<s n="n"/><s n="m"/></l><r>trombone<s n="n"/></r></p></e>
+<e c="  0"><p><l>batteri<s n="n"/><s n="nt"/></l><r>battery<s n="n"/></r></p></e>
+<e c="  0"><p><l>baug<s n="n"/><s n="m"/></l><r>bow<s n="n"/></r></p></e>
 <e slr="1"><p><l>baug<s n="n"/><s n="m"/></l><r>prow<s n="n"/></r></p></e>
-<e c="   "><p><l>bedrag<s n="n"/><s n="nt"/></l><r>deception<s n="n"/></r></p></e>
+<e c="  0"><p><l>bedrag<s n="n"/><s n="nt"/></l><r>deception<s n="n"/></r></p></e>
 <e slr="1"><p><l>bedrag<s n="n"/><s n="nt"/></l><r>deceit<s n="n"/></r></p></e>
 <e slr="2"><p><l>bedrag<s n="n"/><s n="nt"/></l><r>imposition<s n="n"/></r></p></e>
-<e c="   "><p><l>bedrageri<s n="n"/><s n="nt"/></l><r>fraud<s n="n"/></r></p></e>
+<e c="  0"><p><l>bedrageri<s n="n"/><s n="nt"/></l><r>fraud<s n="n"/></r></p></e>
 <e slr="1"><p><l>bedrageri<s n="n"/><s n="nt"/></l><r>imposture<s n="n"/></r></p></e>
-<e c="   "><p><l>bedrift<s n="n"/><s n="m"/></l><r>achievement<s n="n"/></r></p></e>
+<e c="  0"><p><l>bedrift<s n="n"/><s n="m"/></l><r>achievement<s n="n"/></r></p></e>
 <e slr="1"><p><l>bedrift<s n="n"/><s n="m"/></l><r>enterprise<s n="n"/></r></p></e>
 <e slr="2"><p><l>bedrift<s n="n"/><s n="m"/></l><r>exploit<s n="n"/></r></p></e>
-<e c="   "><p><l>bedømmelse<s n="n"/><s n="m"/></l><r>appreciation<s n="n"/></r></p></e>
-<e c="   "><p><l>befolkning<s n="n"/><s n="m"/></l><r>population<s n="n"/></r></p></e>
+<e c="  0"><p><l>bedømmelse<s n="n"/><s n="m"/></l><r>appreciation<s n="n"/></r></p></e>
+<e c="  0"><p><l>befolkning<s n="n"/><s n="m"/></l><r>population<s n="n"/></r></p></e>
 <e slr="1"><p><l>befolkning<s n="n"/><s n="m"/></l><r>population<s n="n"/></r></p></e>
-<e c="   "><p><l>beger<s n="n"/><s n="nt"/></l><r>goblet<s n="n"/></r></p></e>
-<e c="   "><p><l>begravelse<s n="n"/><s n="m"/></l><r>burial<s n="n"/></r></p></e>
+<e c="  0"><p><l>beger<s n="n"/><s n="nt"/></l><r>goblet<s n="n"/></r></p></e>
+<e c="  0"><p><l>begravelse<s n="n"/><s n="m"/></l><r>burial<s n="n"/></r></p></e>
 <e slr="1"><p><l>begravelse<s n="n"/><s n="m"/></l><r>funeral<s n="n"/></r></p></e>
-<e c="   "><p><l>begrensning<s n="n"/><s n="m"/></l><r>restriction<s n="n"/></r></p></e>
+<e c="  0"><p><l>begrensning<s n="n"/><s n="m"/></l><r>restriction<s n="n"/></r></p></e>
 <e slr="1"><p><l>begrensning<s n="n"/><s n="m"/></l><r>limitation<s n="n"/></r></p></e>
-<e c="   "><p><l>begrep<s n="n"/><s n="nt"/></l><r>concept<s n="n"/></r></p></e>
+<e c="  0"><p><l>begrep<s n="n"/><s n="nt"/></l><r>concept<s n="n"/></r></p></e>
 <e slr="1"><p><l>begrep<s n="n"/><s n="nt"/></l><r>notion<s n="n"/></r></p></e>
 <e slr="2"><p><l>begrep<s n="n"/><s n="nt"/></l><r>idea<s n="n"/></r></p></e>
-<e c="   "><p><l>begynnelse<s n="n"/><s n="m"/></l><r>beginning<s n="n"/></r></p></e>
+<e c="  0"><p><l>begynnelse<s n="n"/><s n="m"/></l><r>beginning<s n="n"/></r></p></e>
 <e slr="1"><p><l>begynnelse<s n="n"/><s n="m"/></l><r>outset<s n="n"/></r></p></e>
 <e slr="2"><p><l>begynnelse<s n="n"/><s n="m"/></l><r>start<s n="n"/></r></p></e>
+<e>        <p><l>behag<s n="n"/><s n="nt"/></l><r>zest<s n="n"/></r></p></e>
+<e>        <p><l>behandling<s n="n"/></l>    <r>processing<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>behandling<s n="n"/></l>    <r>usage<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>behandling<s n="n"/></l>    <r>treatment<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>beholder<s n="n"/><s n="m"/></l><r>container<s n="n"/></r></p></e>
+<e>        <p><l>behov<s n="n"/><s n="nt"/></l><r>need<s n="n"/></r></p></e>
+<e slr="1"><p><l>behov<s n="n"/><s n="nt"/></l><r>requirement<s n="n"/></r></p></e>
+<e>        <p><l>bek<s n="n"/><s n="nt"/></l><r>pitch<s n="n"/></r></p></e>
+<e>        <p><l>bekk<s n="n"/><s n="m"/></l><r>stream<s n="n"/></r></p></e>
+<e slr="1"><p><l>bekk<s n="n"/><s n="m"/></l><r>brook<s n="n"/></r></p></e>
+<e>        <p><l>bekken<s n="n"/><s n="nt"/></l><r>pelvis<s n="n"/></r></p></e>
+<e>        <p><l>bekostning<s n="n"/><s n="m"/></l><r>cost<s n="n"/></r></p></e>
+<e slr="1"><p><l>bekostning<s n="n"/><s n="m"/></l><r>expense<s n="n"/></r></p></e>
+<e>        <p><l>belg<s n="n"/><s n="m"/></l><r>pod<s n="n"/></r></p></e>
+<e slr="1"><p><l>belg<s n="n"/><s n="m"/></l><r>hull<s n="n"/></r></p></e>
+<e>        <p><l>beliggenhet<s n="n"/></l>   <r>locality<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>beliggenhet<s n="n"/></l>   <r>situation<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>beliggenhet<s n="n"/></l>   <r>site<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>belte<s n="n"/><s n="nt"/></l><r>girdle<s n="n"/></r></p></e>
+<e>        <p><l>beløp<s n="n"/><s n="nt"/></l><r>sum<s n="n"/></r></p></e>
+<e slr="1"><p><l>beløp<s n="n"/><s n="nt"/></l><r>amount<s n="n"/></r></p></e>
+<e>        <p><l>ben<s n="n"/><s n="nt"/></l><r>leg<s n="n"/></r></p></e>
+<e slr="1"><p><l>ben<s n="n"/><s n="nt"/></l><r>bone<s n="n"/></r></p></e>
+<e>        <p><l>benk<s n="n"/><s n="m"/></l><r>seat<s n="n"/></r></p></e>
+<e slr="1"><p><l>benk<s n="n"/><s n="m"/></l><r>bench<s n="n"/></r></p></e>
+<e>        <p><l>bensin<s n="n"/><s n="m"/></l><r>gasoline<s n="n"/></r></p></e>
+<e slr="1"><p><l>bensin<s n="n"/><s n="m"/></l><r>petrol<s n="n"/></r></p></e>
+<e slr="2"><p><l>bensin<s n="n"/><s n="m"/></l><r>gasolene<s n="n"/></r></p></e>
+<e>        <p><l>bensinstasjon<s n="n"/><s n="m"/></l><r>gas<b/>station<s n="n"/></r></p></e>
+<e>        <p><l>berg<s n="n"/><s n="nt"/></l><r>hill<s n="n"/></r></p></e>
+<e>        <p><l>berging<s n="n"/></l>       <r>rescue<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>berme<s n="n"/><s n="m"/></l><r>dregs<s n="n"/></r></p></e>
+<e>        <p><l>berømmelse<s n="n"/><s n="m"/></l><r>fame<s n="n"/></r></p></e>
+<e slr="1"><p><l>berømmelse<s n="n"/><s n="m"/></l><r>renown<s n="n"/></r></p></e>
+<e>        <p><l>besetning<s n="n"/><s n="m"/></l><r>crew<s n="n"/></r></p></e>
+<e>        <p><l>beskjed<s n="n"/><s n="m"/></l><r>message<s n="n"/></r></p></e>
+<e slr="1"><p><l>beskjed<s n="n"/><s n="m"/></l><r>word<s n="n"/></r></p></e>
+<e>        <p><l>beskjeftigelse<s n="n"/><s n="m"/></l><r>occupation<s n="n"/></r></p></e>
+<e slr="1"><p><l>beskjeftigelse<s n="n"/><s n="m"/></l><r>pursuit<s n="n"/></r></p></e>
+<e>        <p><l>beskrivelse<s n="n"/><s n="m"/></l><r>description<s n="n"/></r></p></e>
+<e>        <p><l>beskyttelse<s n="n"/><s n="m"/></l><r>safeguard<s n="n"/></r></p></e>
+<e slr="1"><p><l>beskyttelse<s n="n"/><s n="m"/></l><r>shield<s n="n"/></r></p></e>
+<e slr="2"><p><l>beskyttelse<s n="n"/><s n="m"/></l><r>protection<s n="n"/></r></p></e>
+<e>        <p><l>beskytter<s n="n"/><s n="m"/></l><r>guardian<s n="n"/></r></p></e>
+<e slr="1"><p><l>beskytter<s n="n"/><s n="m"/></l><r>patron<s n="n"/></r></p></e>
+<e slr="2"><p><l>beskytter<s n="n"/><s n="m"/></l><r>protector<s n="n"/></r></p></e>
+<e>        <p><l>bestand<s n="n"/><s n="nt"/></l><r>stock<s n="n"/></r></p></e>
+<e slr="1"><p><l>bestand<s n="n"/><s n="nt"/></l><r>population<s n="n"/></r></p></e>
+<e>        <p><l>bestefar<s n="n"/><s n="m"/></l><r>grand-father<s n="n"/></r></p></e>
+<e>        <p><l>bestemmelse<s n="n"/><s n="m"/></l><r>rule<s n="n"/></r></p></e>
+<e slr="1"><p><l>bestemmelse<s n="n"/><s n="m"/></l><r>condition<s n="n"/></r></p></e>
+<e slr="2"><p><l>bestemmelse<s n="n"/><s n="m"/></l><r>provision<s n="n"/></r></p></e>
+<e>        <p><l>bestemor<s n="n"/></l>      <r>grandmother<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>bestikk<s n="n"/><s n="nt"/></l><r>cutlery<s n="n"/></r></p></e>
+<e>        <p><l>besøk<s n="n"/><s n="nt"/></l><r>visit<s n="n"/></r></p></e>
+<e>        <p><l>betaling<s n="n"/></l>      <r>payment<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>bete<s n="n"/></l>          <r>beet<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>betennelse<s n="n"/><s n="m"/></l><r>inflammation<s n="n"/></r></p></e>
+<e>        <p><l>betong<s n="n"/><s n="m"/></l><r>concrete<s n="n"/></r></p></e>
+<e>        <p><l>betydning<s n="n"/><s n="m"/></l><r>significance<s n="n"/></r></p></e>
+<e slr="1"><p><l>betydning<s n="n"/><s n="m"/></l><r>meaning<s n="n"/></r></p></e>
+<e slr="2"><p><l>betydning<s n="n"/><s n="m"/></l><r>sense<s n="n"/></r></p></e>
+<e>        <p><l>bevegelse<s n="n"/><s n="m"/></l><r>motion<s n="n"/></r></p></e>
+<e slr="1"><p><l>bevegelse<s n="n"/><s n="m"/></l><r>movement<s n="n"/></r></p></e>
+<e>        <p><l>bevilgning<s n="n"/><s n="m"/></l><r>grant<s n="n"/></r></p></e>
+<e slr="1"><p><l>bevilgning<s n="n"/><s n="m"/></l><r>appropriation<s n="n"/></r></p></e>
+<e>        <p><l>bevilling<s n="n"/><s n="m"/></l><r>licence<s n="n"/></r></p></e>
+<e>        <p><l>bevis<s n="n"/><s n="nt"/></l><r>evidence<s n="n"/></r></p></e>
+<e slr="1"><p><l>bevis<s n="n"/><s n="nt"/></l><r>proof<s n="n"/></r></p></e>
+<e>        <p><l>bevissthet<s n="n"/></l>    <r>consciousness<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>bibliotek<s n="n"/><s n="nt"/></l><r>library<s n="n"/></r></p></e>
+<e>        <p><l>bibliotekar<s n="n"/><s n="m"/></l><r>librarian<s n="n"/></r></p></e>
+<e>        <p><l>bidragsyter<s n="n"/><s n="m"/></l><r>subscriber<s n="n"/></r></p></e>
+<e slr="1"><p><l>bidragsyter<s n="n"/><s n="m"/></l><r>contributor<s n="n"/></r></p></e>
+<e>        <p><l>biff<s n="n"/><s n="m"/></l><r>beefsteak<s n="n"/></r></p></e>
+<e slr="1"><p><l>biff<s n="n"/><s n="m"/></l><r>steak<s n="n"/></r></p></e>
+<e slr="2"><p><l>biff<s n="n"/><s n="m"/></l><r>beef<s n="n"/></r></p></e>
+<e>        <p><l>bigami<s n="n"/><s n="nt"/></l><r>bigamy<s n="n"/></r></p></e>
+<e>        <p><l>bikube<s n="n"/><s n="m"/></l><r>beehive<s n="n"/></r></p></e>
+<e slr="1"><p><l>bikube<s n="n"/><s n="m"/></l><r>hive<s n="n"/></r></p></e>
+<e>        <p><l>bil<s n="n"/><s n="m"/></l> <r>car<s n="n"/></r></p></e>
+<e>        <p><l>bilbelte<s n="n"/><s n="nt"/></l><r>seatbelt<s n="n"/></r></p></e>
+<e>        <p><l>bilbølle<s n="n"/></l>      <r>motorhead<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>bilbølle<s n="n"/></l>      <r>road-hog<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>bilde<s n="n"/><s n="nt"/></l><r>picture<s n="n"/></r></p></e>
+<e slr="1"><p><l>bilde<s n="n"/><s n="nt"/></l><r>image<s n="n"/></r></p></e>
+<e>        <p><l>bilhorn<s n="n"/><s n="nt"/></l><r>hooter<s n="n"/></r></p></e>
+<e>        <p><l>bilist<s n="n"/><s n="m"/></l><r>motorist<s n="n"/></r></p></e>
+<e>        <p><l>biljard<s n="n"/><s n="m"/></l><r>billiards<s n="n"/></r></p></e>
+<e>        <p><l>billett<s n="n"/><s n="m"/></l><r>ticket<s n="n"/></r></p></e>
+<e slr="1"><p><l>billett<s n="n"/><s n="m"/></l><r>bill<s n="n"/></r></p></e>
+<e>        <p><l>billettkontor<s n="n"/><s n="nt"/></l><r>box<b/>office<s n="n"/></r></p></e>
+<e>        <p><l>billettkontrollør<s n="n"/><s n="m"/></l><r>ticket<b/>collector<s n="n"/></r></p></e>
+<e>        <p><l>billettpris<s n="n"/><s n="m"/></l><r>fare<s n="n"/></r></p></e>
+<e>        <p><l>billøp<s n="n"/><s n="nt"/></l><r>car<b/>race<s n="n"/></r></p></e>
+<e>        <p><l>bind<s n="n"/><s n="nt"/></l><r>volume<s n="n"/></r></p></e>
+<e slr="1"><p><l>bind<s n="n"/><s n="nt"/></l><r>bandage<s n="n"/></r></p></e>
+<e>        <p><l>bindemiddel<s n="n"/><s n="nt"/></l><r>fixative<s n="n"/></r></p></e>
+<e slr="1"><p><l>bindemiddel<s n="n"/><s n="nt"/></l><r>cement<s n="n"/></r></p></e>
+<e>        <p><l>binders<s n="n"/><s n="m"/></l><r>paper<b/>clip<s n="n"/></r></p></e>
+<e>        <p><l>binding<s n="n"/></l>       <r>fixation<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>binge<s n="n"/><s n="m"/></l><r>bin<s n="n"/></r></p></e>
+<e>        <p><l>biografi<s n="n"/><s n="m"/></l><r>biography<s n="n"/></r></p></e>
+<e>        <p><l>biolog<s n="n"/><s n="m"/></l><r>biologist<s n="n"/></r></p></e>
+<e>        <p><l>biologi<s n="n"/><s n="m"/></l><r>biology<s n="n"/></r></p></e>
+<e>        <p><l>biskop<s n="n"/><s n="m"/></l><r>bishop<s n="n"/></r></p></e>
+<e>        <p><l>bispedømme<s n="n"/><s n="nt"/></l><r>diocese<s n="n"/></r></p></e>
+<e>        <p><l>bispeembete<s n="n"/><s n="nt"/></l><r>episcopate<s n="n"/></r></p></e>
+<e>        <p><l>bitt<s n="n"/><s n="nt"/></l><r>bite<s n="n"/></r></p></e>
+<e>        <p><l>bitter<s n="n"/><s n="m"/></l><r>bitter<s n="n"/></r></p></e>
+<e slr="1"><p><l>bitter<s n="n"/><s n="m"/></l><r>pungent<s n="n"/></r></p></e>
+<e slr="2"><p><l>bitter<s n="n"/><s n="m"/></l><r>virulent<s n="n"/></r></p></e>
+<e>        <p><l>bjeff<s n="n"/><s n="nt"/></l><r>bark<s n="n"/></r></p></e>
+<e>        <p><l>bjelke<s n="n"/><s n="m"/></l><r>beam<s n="n"/></r></p></e>
+<e slr="1"><p><l>bjelke<s n="n"/><s n="m"/></l><r>girder<s n="n"/></r></p></e>
+<e>        <p><l>bjørk<s n="n"/></l>         <r>birch<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>bjørn<s n="n"/><s n="m"/></l><r>bear<s n="n"/></r></p></e>
+<e>        <p><l>bjørnebær<s n="n"/><s n="nt"/></l><r>blackberry<s n="n"/></r></p></e>
+<e>        <p><l>blad<s n="n"/><s n="nt"/></l><r>leaf<s n="n"/></r></p></e>
+<e slr="1"><p><l>blad<s n="n"/><s n="nt"/></l><r>sheet<s n="n"/></r></p></e>
+<e>        <p><l>bladsalat<s n="n"/><s n="m"/></l><r>lettuce<s n="n"/></r></p></e>
+<e>        <p><l>blanding<s n="n"/></l>      <r>blend<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>blanding<s n="n"/></l>      <r>mixture<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>blanding<s n="n"/></l>      <r>medley<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>blasfemi<s n="n"/><s n="m"/></l><r>blasphemy<s n="n"/></r></p></e>
+<e>        <p><l>blek<s n="n"/></l>          <r>white<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>blek<s n="n"/></l>          <r>pallid<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>blek<s n="n"/></l>          <r>pale<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>blekemiddel<s n="n"/><s n="nt"/></l><r>bleach<s n="n"/></r></p></e>
+<e>        <p><l>blekksprut<s n="n"/><s n="m"/></l><r>octopus<s n="n"/></r></p></e>
+<e slr="1"><p><l>blekksprut<s n="n"/><s n="m"/></l><r>cuttlefish<s n="n"/></r></p></e>
+<e>        <p><l>blikk<s n="n"/><s n="nt"/></l><r>look<s n="n"/></r></p></e>
+<e slr="1"><p><l>blikk<s n="n"/><s n="nt"/></l><r>glare<s n="n"/></r></p></e>
+<e>        <p><l>blindpassasjer<s n="n"/><s n="m"/></l><r>stowaway<s n="n"/></r></p></e>
+<e>        <p><l>blindtarm<s n="n"/><s n="m"/></l><r>appendix<s n="n"/></r></p></e>
+<e>        <p><l>blindvei<s n="n"/><s n="m"/></l><r>cul-de-sac<s n="n"/></r></p></e>
+<e slr="1"><p><l>blindvei<s n="n"/><s n="m"/></l><r>blind<b/>alley<s n="n"/></r></p></e>
+<e>        <p><l>blinklys<s n="n"/><s n="nt"/></l><r>flasher<s n="n"/></r></p></e>
+<e>        <p><l>blod<s n="n"/><s n="nt"/></l><r>blood<s n="n"/></r></p></e>
+<e>        <p><l>blodbad<s n="n"/><s n="nt"/></l><r>slaughter<s n="n"/></r></p></e>
+<e>        <p><l>blodkar<s n="n"/><s n="nt"/></l><r>bloodvessel<s n="n"/></r></p></e>
+<e>        <p><l>blodmangel<s n="n"/><s n="m"/></l><r>anaemia<s n="n"/></r></p></e>
+<e>        <p><l>blokk<s n="n"/></l>         <r>apartment<b/>building<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>blokkering<s n="n"/></l>    <r>obstruction<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>blokkering<s n="n"/></l>    <r>jam<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>blomkål<s n="n"/><s n="m"/></l><r>cauliflower<s n="n"/></r></p></e>
+<e>        <p><l>blomst<s n="n"/><s n="m"/></l><r>flower<s n="n"/></r></p></e>
+<e>        <p><l>bluse<s n="n"/></l>         <r>blouse<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>bluss<s n="n"/><s n="nt"/></l><r>flare<s n="n"/></r></p></e>
+<e>        <p><l>bly<s n="n"/><s n="nt"/></l><r>lead<s n="n"/></r></p></e>
+<e>        <p><l>blyant<s n="n"/><s n="m"/></l><r>pencil<s n="n"/></r></p></e>
+<e>        <p><l>blåbær<s n="n"/><s n="nt"/></l><r>blueberry<s n="n"/></r></p></e>
+<e>        <p><l>blåkopi<s n="n"/><s n="m"/></l><r>blueprint<s n="n"/></r></p></e>
+<e>        <p><l>bo<s n="n"/><s n="nt"/></l> <r>estate<s n="n"/></r></p></e>
+<e slr="1"><p><l>bo<s n="n"/><s n="nt"/></l> <r>room<s n="n"/></r></p></e>
+<e>        <p><l>bod<s n="n"/><s n="m"/></l> <r>stand<s n="n"/></r></p></e>
+<e slr="1"><p><l>bod<s n="n"/><s n="m"/></l> <r>store<b/>room<s n="n"/></r></p></e>
+<e slr="2"><p><l>bod<s n="n"/><s n="m"/></l> <r>booth<s n="n"/></r></p></e>
+<e c="ham"><p><l>bog<s n="n"/><s n="m"/></l> <r>shoulder<s n="n"/></r></p></e>
+<e>        <p><l>bok<s n="n"/></l>           <r>book<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>bokhandel<s n="n"/><s n="m"/></l><r>bookshop<s n="n"/></r></p></e>
+<e>        <p><l>bokrygg<s n="n"/><s n="m"/></l><r>spine<s n="n"/></r></p></e>
+<e>        <p><l>boks<s n="n"/><s n="m"/></l><r>tin<s n="n"/></r></p></e>
+<e slr="1"><p><l>boks<s n="n"/><s n="m"/></l><r>can<s n="n"/></r></p></e>
+<e>        <p><l>bokstav<s n="n"/><s n="m"/></l><r>letter<s n="n"/></r></p></e>
+<e>        <p><l>bolig<s n="n"/><s n="m"/></l><r>housing<s n="n"/></r></p></e>
+<e slr="1"><p><l>bolig<s n="n"/><s n="m"/></l><r>dwelling<s n="n"/></r></p></e>
+<e>        <p><l>bom<s n="n"/><s n="m"/></l> <r>miss<s n="n"/></r></p></e>
+<e>        <p><l>bommert<s n="n"/><s n="m"/></l><r>blunder<s n="n"/></r></p></e>
+<e>        <p><l>bomull<s n="n"/></l>        <r>cotton<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>bomvei<s n="n"/><s n="m"/></l><r>toll<b/>road<s n="n"/></r></p></e>
+<e>        <p><l>bonde<s n="n"/><s n="m"/></l><r>farmer<s n="n"/></r></p></e>
+<e slr="1"><p><l>bonde<s n="n"/><s n="m"/></l><r>pawn<s n="n"/></r></p></e>
+<e slr="2"><p><l>bonde<s n="n"/><s n="m"/></l><r>peasant<s n="n"/></r></p></e>
+<e>        <p><l>bonus<s n="n"/><s n="m"/></l><r>premium<s n="n"/></r></p></e>
+<e>        <p><l>bor<s n="n"/><s n="nt"/></l><r>drill<s n="n"/></r></p></e>
+<e>        <p><l>bord<s n="n"/><s n="nt"/></l><r>table<s n="n"/></r></p></e>
+<e>        <p><l>bordduk<s n="n"/><s n="m"/></l><r>table<b/>cloth<s n="n"/></r></p></e>
+<e>        <p><l>bordtennis<s n="n"/><s n="m"/></l><r>table<b/>tennis<s n="n"/></r></p></e>
+<e>        <p><l>boretårn<s n="n"/><s n="nt"/></l><r>derrick<s n="n"/></r></p></e>
+<e>        <p><l>borger<s n="n"/><s n="m"/></l><r>citizen<s n="n"/></r></p></e>
+<e>        <p><l>borgermester<s n="n"/><s n="m"/></l><r>mayor<s n="n"/></r></p></e>
+<e>        <p><l>bosetning<s n="n"/><s n="m"/></l><r>settlement<s n="n"/></r></p></e>
+<e>        <p><l>bosted<s n="n"/><s n="nt"/></l><r>residence<s n="n"/></r></p></e>
+<e>        <p><l>bot<s n="n"/></l>           <r>penalty<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>bot<s n="n"/></l>           <r>fine<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>brak<s n="n"/><s n="nt"/></l><r>smash<s n="n"/></r></p></e>
+<e>        <p><l>brann<s n="n"/><s n="m"/></l><r>fire<s n="n"/></r></p></e>
+<e>        <p><l>bransje<s n="n"/><s n="m"/></l><r>trade<s n="n"/></r></p></e>
+<e>        <p><l>bratsj<s n="n"/><s n="m"/></l><r>viola<s n="n"/></r></p></e>
+<e>        <p><l>bredde<s n="n"/><s n="m"/></l><r>breadth<s n="n"/></r></p></e>
+<e slr="1"><p><l>bredde<s n="n"/><s n="m"/></l><r>width<s n="n"/></r></p></e>
+<e>        <p><l>breddegrad<s n="n"/><s n="m"/></l><r>latitude<s n="n"/></r></p></e>
+<e>        <p><l>bregne<s n="n"/></l>        <r>fern<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>breiflabb<s n="n"/><s n="m"/></l><r>angler<b/>fish<s n="n"/></r></p></e>
+<e>        <p><l>brekkjern<s n="n"/><s n="nt"/></l><r>crowbar<s n="n"/></r></p></e>
+<e>        <p><l>brekkmiddel<s n="n"/><s n="nt"/></l><r>emetic<s n="n"/></r></p></e>
+<e>        <p><l>brems<s n="n"/><s n="m"/></l><r>brake<s n="n"/></r></p></e>
+<e slr="1"><p><l>brems<s n="n"/><s n="m"/></l><r>gadfly<s n="n"/></r></p></e>
+<e>        <p><l>brennemerke<s n="n"/><s n="nt"/></l><r>brand<s n="n"/></r></p></e>
+<e>        <p><l>brennevin<s n="n"/><s n="nt"/></l><r>liquor<s n="n"/></r></p></e>
+<e>        <p><l>brennpunkt<s n="n"/><s n="nt"/></l><r>focus<s n="n"/></r></p></e>
+<e>        <p><l>brensel<s n="n"/><s n="nt"/></l><r>fuel<s n="n"/></r></p></e>
+<e>        <p><l>bresje<s n="n"/><s n="m"/></l><r>vanguard<s n="n"/></r></p></e>
+<e>        <p><l>brett<s n="n"/><s n="nt"/></l><r>tray<s n="n"/></r></p></e>
 
 <e c="  0"><p><l>bil<s n="n"/><s n="m"/></l><r>car<s n="n"/></r></p></e>
 <e c="  0"><p><l>himmel<s n="n"/><s n="m"/></l><r>heaven<s n="n"/></r></p></e>
