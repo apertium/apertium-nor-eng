@@ -10,6 +10,7 @@ all:
 	apertium-preprocess-transfer apertium-no-en.no-en.t2x no-en.t2x.bin
 	apertium-preprocess-transfer apertium-no-en.no-en.t3x no-en.t3x.bin
 	apertium-gen-modes modes.xml
+	cp *.mode modes/
 
 clean:
 	rm -rf modes no-en.automorf.bin no-en.rlx.bin no-en.lex.bin no-en.autobil.bin no-en.autogen.bin no-en.autopgen.bin
