@@ -20,6 +20,7 @@
     <sdef n="m"          c="Masculine"/>
 
     <sdef n="sent"       c="Sentence boundary"/>
+    <sdef n="clb"        c="Clause boundary"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -63,6 +64,7 @@
 
     <!-- Punctuation -->
 
+    <e><re>[.\?;:!·]</re><p><l><s n="sent"/><s n="clb"/></l><r><s n="sent"/></r></p></e>
 
 
   </section>
