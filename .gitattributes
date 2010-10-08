@@ -11,5 +11,6 @@ dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/missing-bidix-freq.sh -text
 dev/testvoc.sh -text
+/lexchoicebil.xsl -text
 /modes.xml -text
 /no-en.prob -text
