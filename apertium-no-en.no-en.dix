@@ -22,6 +22,8 @@
     <sdef n="def"        c="Definite"/>
 
     <sdef n="m"          c="Masculine"/>
+    <sdef n="f"          c="Feminine"/>
+    <sdef n="nt"         c="Neuter"/>
 
     <sdef n="sent"       c="Sentence boundary"/>
     <sdef n="clb"        c="Clause boundary"/>
