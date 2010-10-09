@@ -5202,6 +5202,246 @@
 <e slr="1"><p><l>ryggsekk<s n="n"/><s n="m"/></l><r>rucksack<s n="n"/></r></p></e>
 <e slr="2"><p><l>ryggsekk<s n="n"/><s n="m"/></l><r>knapsack<s n="n"/></r></p></e>
 <e slr="3"><p><l>ryggsekk<s n="n"/><s n="m"/></l><r>satchel<s n="n"/></r></p></e>
+<e>        <p><l>ryggvirvel<s n="n"/><s n="m"/></l><r>vertebral<s n="n"/></r></p></e>
+<e>        <p><l>rykk<s n="n"/><s n="nt"/></l><r>twitch<s n="n"/></r></p></e>
+<e slr="1"><p><l>rykk<s n="n"/><s n="nt"/></l><r>pull<s n="n"/></r></p></e>
+<e slr="2"><p><l>rykk<s n="n"/><s n="nt"/></l><r>jerk<s n="n"/></r></p></e>
+<e slr="3"><p><l>rykk<s n="n"/><s n="nt"/></l><r>haul<s n="n"/></r></p></e>
+<e slr="4"><p><l>rykk<s n="n"/><s n="nt"/></l><r>tug<s n="n"/></r></p></e>
+<e>        <p><l>rykte<s n="n"/><s n="nt"/></l><r>reputation<s n="n"/></r></p></e>
+<e slr="1"><p><l>rykte<s n="n"/><s n="nt"/></l><r>rumour<s n="n"/></r></p></e>
+<e slr="2"><p><l>rykte<s n="n"/><s n="nt"/></l><r>repute<s n="n"/></r></p></e>
+<e>        <p><l>rysj<s n="n"/><s n="m"/></l><r>ruffle<s n="n"/></r></p></e>
+<e>        <p><l>rytme<s n="n"/><s n="m"/></l><r>rhythm<s n="n"/></r></p></e>
+<e>        <p><l>råd<s n="n"/><s n="nt"/></l><r>advice<s n="n"/></r></p></e>
+<e slr="1"><p><l>råd<s n="n"/><s n="nt"/></l><r>council<s n="n"/></r></p></e>
+<e>        <p><l>råde<s n="n"/><s n="m"/></l><r>prevail<s n="n"/></r></p></e>
+<e>        <p><l>rådgiver<s n="n"/><s n="m"/></l><r>advisor<s n="n"/></r></p></e>
+<e>        <p><l>rådhus<s n="n"/><s n="nt"/></l><r>town<b/>hall<s n="n"/></r></p></e>
+<e slr="1"><p><l>rådhus<s n="n"/><s n="nt"/></l><r>city<b/>hall<s n="n"/></r></p></e>
+<e>        <p><l>rådyr<s n="n"/><s n="nt"/></l><r>roe<s n="n"/></r></p></e>
+<e>        <p><l>råolje<s n="n"/></l>        <r>crude<b/>oil<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>råskinn<s n="n"/><s n="nt"/></l><r>roughneck<s n="n"/></r></p></e>
+<e>        <p><l>råte<s n="n"/><s n="m"/></l><r>rot<s n="n"/></r></p></e>
+<e>        <p><l>rømling<s n="n"/><s n="m"/></l><r>runaway<s n="n"/></r></p></e>
+<e>        <p><l>rømme<s n="n"/><s n="m"/></l><r>sour<b/>cream<s n="n"/></r></p></e>
+<e>        <p><l>røntgen<s n="n"/><s n="m"/></l><r>x-ray<s n="n"/></r></p></e>
+<e>        <p><l>røntgenbilde<s n="n"/><s n="nt"/></l><r>x-ray<b/>image<s n="n"/></r></p></e>
+<e>        <p><l>rør<s n="n"/><s n="nt"/></l><r>pipe<s n="n"/></r></p></e>
+<e slr="1"><p><l>rør<s n="n"/><s n="nt"/></l><r>valve<s n="n"/></r></p></e>
+<e slr="2"><p><l>rør<s n="n"/><s n="nt"/></l><r>tube<s n="n"/></r></p></e>
+<e>        <p><l>røyk<s n="n"/><s n="m"/></l><r>smoke<s n="n"/></r></p></e>
+<e slr="1"><p><l>røyk<s n="n"/><s n="m"/></l><r>fume<s n="n"/></r></p></e>
+<e>        <p><l>røyskatt<s n="n"/><s n="m"/></l><r>ermine<s n="n"/></r></p></e>
+<e>        <p><l>sabel<s n="n"/><s n="m"/></l><r>sabre<s n="n"/></r></p></e>
+<e slr="1"><p><l>sabel<s n="n"/><s n="m"/></l><r>sword<s n="n"/></r></p></e>
+<e>        <p><l>safir<s n="n"/><s n="m"/></l><r>sapphire<s n="n"/></r></p></e>
+<e>        <p><l>sagblad<s n="n"/><s n="nt"/></l><r>saw<b/>blade<s n="n"/></r></p></e>
+<e>        <p><l>sagbruk<s n="n"/><s n="nt"/></l><r>sawmill<s n="n"/></r></p></e>
+<e>        <p><l>sagmugg<s n="n"/><s n="nt"/></l><r>sawdust<s n="n"/></r></p></e>
+<e>        <p><l>sagn<s n="n"/><s n="nt"/></l><r>legend<s n="n"/></r></p></e>
+<e>        <p><l>sak<s n="n"/></l>           <r>issue<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>sak<s n="n"/></l>           <r>subject<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>sak<s n="n"/></l>           <r>matter<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="3"><p><l>sak<s n="n"/></l>           <r>trial<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="4"><p><l>sak<s n="n"/></l>           <r>affair<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="5"><p><l>sak<s n="n"/></l>           <r>case<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sakristi<s n="n"/><s n="nt"/></l><r>vestry<s n="n"/></r></p></e>
+<e>        <p><l>sakresti<s n="n"/><s n="nt"/></l><r>vestry<s n="n"/></r></p></e>
+<e>        <p><l>sal<s n="n"/><s n="m"/></l> <r>hall<s n="n"/></r></p></e>
+<e slr="1"><p><l>sal<s n="n"/><s n="m"/></l> <r>ward<s n="n"/></r></p></e>
+<e slr="2"><p><l>sal<s n="n"/><s n="m"/></l> <r>salon<s n="n"/></r></p></e>
+<e>        <p><l>salat<s n="n"/><s n="m"/></l><r>salad<s n="n"/></r></p></e>
+<e>        <p><l>salg<s n="n"/><s n="nt"/></l><r>sale<s n="n"/></r></p></e>
+<e>        <p><l>salme<s n="n"/><s n="m"/></l><r>psalm<s n="n"/></r></p></e>
+<e slr="1"><p><l>salme<s n="n"/><s n="m"/></l><r>hymn<s n="n"/></r></p></e>
+<e>        <p><l>salong<s n="n"/><s n="m"/></l><r>lounge<s n="n"/></r></p></e>
+<e slr="1"><p><l>salong<s n="n"/><s n="m"/></l><r>couch<s n="n"/></r></p></e>
+<e slr="2"><p><l>salong<s n="n"/><s n="m"/></l><r>saloon<s n="n"/></r></p></e>
+<e>        <p><l>salpeter<s n="n"/><s n="m"/></l><r>saltpetre<s n="n"/></r></p></e>
+<e slr="1"><p><l>salpeter<s n="n"/><s n="m"/></l><r>nitre<s n="n"/></r></p></e>
+<e>        <p><l>salt<s n="n"/><s n="nt"/></l><r>salt<s n="n"/></r></p></e>
+<e>        <p><l>saltkar<s n="n"/><s n="nt"/></l><r>salt<b/>cellar<s n="n"/></r></p></e>
+<e>        <p><l>saltomortale<s n="n"/><s n="m"/></l><r>somersault<s n="n"/></r></p></e>
+<e>        <p><l>salutt<s n="n"/><s n="m"/></l><r>salute<s n="n"/></r></p></e>
+<e>        <p><l>salve<s n="n"/></l>         <r>liniment<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>salve<s n="n"/></l>         <r>volley<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>samarbeid<s n="n"/><s n="nt"/></l><r>collaboration<s n="n"/></r></p></e>
+<e slr="1"><p><l>samarbeid<s n="n"/><s n="nt"/></l><r>cooperation<s n="n"/></r></p></e>
+<e>        <p><l>samarbeide<s n="n"/><s n="nt"/></l><r>collaboration<s n="n"/></r></p></e>
+<e slr="1"><p><l>samarbeide<s n="n"/><s n="nt"/></l><r>cooperation<s n="n"/></r></p></e>
+<e>        <p><l>samband<s n="n"/><s n="nt"/></l><r>liaison<s n="n"/></r></p></e>
+<e>        <p><l>samfunn<s n="n"/><s n="nt"/></l><r>society<s n="n"/></r></p></e>
+<e>        <p><l>samfunnsfiende<s n="n"/><s n="m"/></l><r>public<b/>enemy<s n="n"/></r></p></e>
+<e>        <p><l>samisk<s n="n"/><s n="m"/></l><r>sámi<s n="n"/></r></p></e>
+<e>        <p><l>samkvem<s n="n"/><s n="nt"/></l><r>connection<s n="n"/></r></p></e>
+<e>        <p><l>samleie<s n="n"/><s n="nt"/></l><r>intercourse<s n="n"/></r></p></e>
+<e>        <p><l>samling<s n="n"/></l>       <r>gathering<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>samling<s n="n"/></l>       <r>rally<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>samling<s n="n"/></l>       <r>session<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="3"><p><l>samling<s n="n"/></l>       <r>assemblage<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="4"><p><l>samling<s n="n"/></l>       <r>unification<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sammenheng<s n="n"/><s n="m"/></l><r>context<s n="n"/></r></p></e>
+<e slr="1"><p><l>sammenheng<s n="n"/><s n="m"/></l><r>coherence<s n="n"/></r></p></e>
+<e slr="2"><p><l>sammenheng<s n="n"/><s n="m"/></l><r>running<s n="n"/></r></p></e>
+<e>        <p><l>sammenligning<s n="n"/></l> <r>comparison<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>sammenligning<s n="n"/></l> <r>simile<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sammenslåing<s n="n"/></l>  <r>merger<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>samsvar<s n="n"/><s n="nt"/></l><r>accord<s n="n"/></r></p></e>
+<e slr="1"><p><l>samsvar<s n="n"/><s n="nt"/></l><r>compatibility<s n="n"/></r></p></e>
+<e slr="2"><p><l>samsvar<s n="n"/><s n="nt"/></l><r>compliance<s n="n"/></r></p></e>
+<e>        <p><l>samtale<s n="n"/><s n="m"/></l><r>interview<s n="n"/></r></p></e>
+<e slr="1"><p><l>samtale<s n="n"/><s n="m"/></l><r>talk<s n="n"/></r></p></e>
+<e slr="2"><p><l>samtale<s n="n"/><s n="m"/></l><r>conversation<s n="n"/></r></p></e>
+<e slr="3"><p><l>samtale<s n="n"/><s n="m"/></l><r>dialogue<s n="n"/></r></p></e>
+<e>        <p><l>samtykke<s n="n"/><s n="nt"/></l><r>assent<s n="n"/></r></p></e>
+<e>        <p><l>samvirkelag<s n="n"/><s n="nt"/></l><r>co-op<s n="n"/></r></p></e>
+<e>        <p><l>samvittighet<s n="n"/></l>  <r>conscience<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sand<s n="n"/><s n="m"/></l><r>sand<s n="n"/></r></p></e>
+<e>        <p><l>sandbanke<s n="n"/><s n="m"/></l><r>dune<s n="n"/></r></p></e>
+<e>        <p><l>sandkorn<s n="n"/><s n="nt"/></l><r>grain<g><b/>of<b/>sand</g><s n="n"/></r></p></e>
+<e slr="1"><p><l>sandkorn<s n="n"/><s n="nt"/></l><r>grit<s n="n"/></r></p></e>
+<e>        <p><l>sang<s n="n"/><s n="m"/></l><r>song<s n="n"/></r></p></e>
+<e>        <p><l>sanger<s n="n"/><s n="m"/></l><r>singer<s n="n"/></r></p></e>
+<e>        <p><l>sanitetsbind<s n="n"/><s n="nt"/></l><r>sanitary<b/>towel<s n="n"/></r></p></e>
+<e>        <p><l>sanksjon<s n="n"/><s n="m"/></l><r>sanction<s n="n"/></r></p></e>
+<e>        <p><l>sankthansbål<s n="n"/><s n="nt"/></l><r>Midsummer's<b/>Eve<b/>bonfire<s n="n"/></r></p></e>
+<e>        <p><l>sannhet<s n="n"/></l>       <r>truth<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>sannhet<s n="n"/></l>       <r>verity<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sans<s n="n"/><s n="m"/></l><r>sense<s n="n"/></r></p></e>
+<e>        <p><l>sansing<s n="n"/></l>       <r>sense<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sardin<s n="n"/><s n="m"/></l><r>sardine<s n="n"/></r></p></e>
+<e>        <p><l>sarkasme<s n="n"/><s n="m"/></l><r>sarcasm<s n="n"/></r></p></e>
+<e>        <p><l>satellitt<s n="n"/><s n="m"/></l><r>satellite<s n="n"/></r></p></e>
+<e>        <p><l>sateng<s n="n"/><s n="m"/></l><r>satin<s n="n"/></r></p></e>
+<e>        <p><l>sats<s n="n"/><s n="m"/></l><r>rate<s n="n"/></r></p></e>
+<e slr="1"><p><l>sats<s n="n"/><s n="m"/></l><r>run-up<s n="n"/></r></p></e>
+<e>        <p><l>sau<s n="n"/><s n="m"/></l> <r>sheep<s n="n"/></r></p></e>
+<e>        <p><l>saus<s n="n"/><s n="m"/></l><r>gravy<s n="n"/></r></p></e>
+<e slr="1"><p><l>saus<s n="n"/><s n="m"/></l><r>sauce<s n="n"/></r></p></e>
+<e>        <p><l>scene<s n="n"/><s n="m"/></l><r>scene<s n="n"/></r></p></e>
+<e>        <p><l>score<s n="n"/><s n="m"/></l><r>score<s n="n"/></r></p></e>
+<e>        <p><l>sebra<s n="n"/><s n="m"/></l><r>zebra<s n="n"/></r></p></e>
+<e>        <p><l>sedvane<s n="n"/><s n="m"/></l><r>usage<s n="n"/></r></p></e>
+<e slr="1"><p><l>sedvane<s n="n"/><s n="m"/></l><r>habit<s n="n"/></r></p></e>
+<e>        <p><l>segl<s n="n"/><s n="nt"/></l><r>seal<s n="n"/></r></p></e>
+<e>        <p><l>seidel<s n="n"/><s n="m"/></l><r>tankard<s n="n"/></r></p></e>
+<e>        <p><l>seier<s n="n"/><s n="m"/></l><r>victory<s n="n"/></r></p></e>
+<e>        <p><l>sekk<s n="n"/><s n="m"/></l><r>bag<s n="n"/></r></p></e>
+<e slr="1"><p><l>sekk<s n="n"/><s n="m"/></l><r>sack<s n="n"/></r></p></e>
+<e>        <p><l>sekresjon<s n="n"/><s n="m"/></l><r>secretion<s n="n"/></r></p></e>
+<e>        <p><l>sekret<s n="n"/><s n="nt"/></l><r>secretion<s n="n"/></r></p></e>
+<e>        <p><l>sekretær<s n="n"/><s n="m"/></l><r>secretary<s n="n"/></r></p></e>
+<e>        <p><l>seksjon<s n="n"/><s n="m"/></l><r>section<s n="n"/></r></p></e>
+<e slr="1"><p><l>seksjon<s n="n"/><s n="m"/></l><r>unit<s n="n"/></r></p></e>
+<e>        <p><l>sekt<s n="n"/></l>          <r>sect<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sekterist<s n="n"/><s n="m"/></l><r>sectarian<s n="n"/></r></p></e>
+<e>        <p><l>sekundant<s n="n"/><s n="m"/></l><r>second<s n="n"/></r></p></e>
+<e>        <p><l>sekvens<s n="n"/><s n="m"/></l><r>sequence<s n="n"/></r></p></e>
+<e>        <p><l>sel<s n="n"/><s n="nt"/></l><r>seal<s n="n"/></r></p></e>
+<e>        <p><l>seletøy<s n="n"/><s n="nt"/></l><r>harness<s n="n"/></r></p></e>
+<e c="seal hunting?"><p><l>selfangst<s n="n"/><s n="m"/></l><r>sealing<s n="n"/></r></p></e>
+<e>        <p><l>selger<s n="n"/><s n="m"/></l><r>vendor<s n="n"/></r></p></e>
+<e slr="1"><p><l>selger<s n="n"/><s n="m"/></l><r>salesman<s n="n"/></r></p></e>
+<e slr="2"><p><l>selger<s n="n"/><s n="m"/></l><r>seller<s n="n"/></r></p></e>
+<e>        <p><l>selleri<s n="n"/><s n="m"/></l><r>celery<s n="n"/></r></p></e>
+<e>        <p><l>selskap<s n="n"/><s n="nt"/></l><r>party<s n="n"/></r></p></e>
+<e slr="1"><p><l>selskap<s n="n"/><s n="nt"/></l><r>society<s n="n"/></r></p></e>
+<e>        <p><l>selv<s n="n"/><s n="nt"/></l><r>self<s n="n"/></r></p></e>
+<e>        <p><l>selvmord<s n="n"/><s n="nt"/></l><r>suicide<s n="n"/></r></p></e>
+<e>        <p><l>selvstyre<s n="n"/><s n="nt"/></l><r>self-government<s n="n"/></r></p></e>
+<e>        <p><l>sement<s n="n"/><s n="m"/></l><r>cement<s n="n"/></r></p></e>
+<e>        <p><l>semester<s n="n"/><s n="nt"/></l><r>term<s n="n"/></r></p></e>
+<e slr="1"><p><l>semester<s n="n"/><s n="nt"/></l><r>semester<s n="n"/></r></p></e>
+<e>        <p><l>semitt<s n="n"/><s n="m"/></l><r>Semite<s n="n"/></r></p></e>
+<e>        <p><l>semittisk<s n="n"/><s n="m"/></l><r>Semite<s n="n"/></r></p></e>
+<e>        <p><l>semule<s n="n"/><s n="m"/></l><r>semolina<s n="n"/></r></p></e>
+<e>        <p><l>sen<s n="n"/></l>           <r>tendon<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>senat<s n="n"/><s n="nt"/></l><r>senate<s n="n"/></r></p></e>
+<e>        <p><l>sender<s n="n"/><s n="m"/></l><r>sender<s n="n"/></r></p></e>
+<e slr="1"><p><l>sender<s n="n"/><s n="m"/></l><r>transmitter<s n="n"/></r></p></e>
+<e>        <p><l>sending<s n="n"/></l>       <r>shipment<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>senebetennelse<s n="n"/><s n="m"/></l><r>tendonitis<s n="n"/></r></p></e>
+<e>        <p><l>senestrekk<s n="n"/><s n="nt"/></l><r>pulled<b/>ligament<s n="n"/></r></p></e>
+<e>        <p><l>seng<s n="n"/></l>          <r>bed<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sennep<s n="n"/><s n="m"/></l><r>mustard<s n="n"/></r></p></e>
+<e>        <p><l>sensasjon<s n="n"/><s n="m"/></l><r>sensation<s n="n"/></r></p></e>
+<e>        <p><l>sensor<s n="n"/><s n="m"/></l><r>censor<s n="n"/></r></p></e>
+<e>        <p><l>sensualitet<s n="n"/><s n="m"/></l><r>sensuality<s n="n"/></r></p></e>
+<e>        <p><l>sensur<s n="n"/><s n="m"/></l><r>censorship<s n="n"/></r></p></e>
+<e>        <p><l>sentral<s n="n"/><s n="m"/></l><r>central<s n="n"/></r></p></e>
+<e>        <p><l>sentralbord<s n="n"/><s n="nt"/></l><r>switchboard<s n="n"/></r></p></e>
+<e>        <p><l>sentralvarme<s n="n"/><s n="m"/></l><r>central<b/>heating<s n="n"/></r></p></e>
+<e>        <p><l>sentrifuge<s n="n"/><s n="m"/></l><r>spin-drier<s n="n"/></r></p></e>
+<e>        <p><l>sentrum<s n="n"/><s n="nt"/></l><r>centre<s n="n"/></r></p></e>
+<e slr="1"><p><l>sentrum<s n="n"/><s n="nt"/></l><r>center<s n="n"/></r></p></e>
+<e>        <p><l>september<s n="n"/><s n="m"/></l><r>September<s n="n"/></r></p></e>
+<e>        <p><l>septer<s n="n"/><s n="nt"/></l><r>scepter<s n="n"/></r></p></e>
+<e>        <p><l>seremoni<s n="n"/><s n="m"/></l><r>ceremony<s n="n"/></r></p></e>
+<e>        <p><l>serie<s n="n"/><s n="m"/></l><r>series<s n="n"/></r></p></e>
+<e slr="1"><p><l>serie<s n="n"/><s n="m"/></l><r>serial<s n="n"/></r></p></e>
+<e>        <p><l>serpentin<s n="n"/><s n="m"/></l><r>serpentine<s n="n"/></r></p></e>
+<e>        <p><l>sersjant<s n="n"/><s n="m"/></l><r>sergeant<s n="n"/></r></p></e>
+<e>        <p><l>sertifikat<s n="n"/><s n="nt"/></l><r>certificate<s n="n"/></r></p></e>
+<e>        <p><l>serveringsbrett<s n="n"/><s n="nt"/></l><r>serving<b/>tray<s n="n"/></r></p></e>
+<e>        <p><l>serviett<s n="n"/><s n="m"/></l><r>napkin<s n="n"/></r></p></e>
+<e>        <p><l>servise<s n="n"/><s n="nt"/></l><r>crockery<b/>set<s n="n"/></r></p></e>
+<e>        <p><l>sesjon<s n="n"/><s n="m"/></l><r>session<s n="n"/></r></p></e>
+<e slr="1"><p><l>sesjon<s n="n"/><s n="m"/></l><r>sitting<s n="n"/></r></p></e>
+<e>        <p><l>sesong<s n="n"/><s n="m"/></l><r>season<s n="n"/></r></p></e>
+<e>        <p><l>sesongbillett<s n="n"/><s n="m"/></l><r>season<b/>ticket<s n="n"/></r></p></e>
+<e>        <p><l>sete<s n="n"/><s n="nt"/></l><r>seat<s n="n"/></r></p></e>
+<e slr="1"><p><l>sete<s n="n"/><s n="nt"/></l><r>rear<s n="n"/></r></p></e>
+<e>        <p><l>setefødsel<s n="n"/><s n="m"/></l><r>breech<b/>birth<s n="n"/></r></p></e>
+<e>        <p><l>setning<s n="n"/><s n="m"/></l><r>sentence<s n="n"/></r></p></e>
+<e>        <p><l>sett<s n="n"/><s n="nt"/></l><r>kit<s n="n"/></r></p></e>
+<e slr="1"><p><l>sett<s n="n"/><s n="nt"/></l><r>suite<s n="n"/></r></p></e>
+<e>        <p><l>sex<s n="n"/><s n="m"/></l> <r>sex<s n="n"/></r></p></e>
+<e>        <p><l>sfære<s n="n"/><s n="m"/></l><r>sphere<s n="n"/></r></p></e>
+<e>        <p><l>sheriff<s n="n"/><s n="m"/></l><r>sheriff<s n="n"/></r></p></e>
+<e>        <p><l>shorts<s n="n"/><s n="m"/></l><r>shorts<s n="n"/></r></p></e>
+<e>        <p><l>side<s n="n"/></l>          <r>page<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sidesprang<s n="n"/><s n="nt"/></l><r>escapade<s n="n"/></r></p></e>
+<e>        <p><l>siffer<s n="n"/><s n="nt"/></l><r>cipher<s n="n"/></r></p></e>
+<e>        <p><l>sig<s n="n"/><s n="nt"/></l><r>sag<s n="n"/></r></p></e>
+<e>        <p><l>sigar<s n="n"/><s n="m"/></l><r>cigar<s n="n"/></r></p></e>
+<e>        <p><l>sigarett<s n="n"/><s n="m"/></l><r>cigarette<s n="n"/></r></p></e>
+<e slr="1"><p><l>sigarett<s n="n"/><s n="m"/></l><r>smoke<s n="n"/></r></p></e>
+<e slr="2"><p><l>sigarett<s n="n"/><s n="m"/></l><r>fag<s n="n"/></r></p></e>
+<e>        <p><l>sigarettpapir<s n="n"/><s n="nt"/></l><r>cigarette<b/>paper<s n="n"/></r></p></e>
+<e>        <p><l>sigd<s n="n"/><s n="m"/></l><r>sickle<s n="n"/></r></p></e>
+<e>        <p><l>signal<s n="n"/><s n="nt"/></l><r>signal<s n="n"/></r></p></e>
+<e>        <p><l>signalement<s n="n"/><s n="nt"/></l><r>description<s n="n"/></r></p></e>
+<e>        <p><l>signet<s n="n"/><s n="nt"/></l><r>seal<s n="n"/></r></p></e>
+<e>        <p><l>sikkerhet<s n="n"/></l>     <r>security<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>sikkerhet<s n="n"/></l>     <r>warrant<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>sikkerhet<s n="n"/></l>     <r>safety<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sikring<s n="n"/></l>       <r>fuse<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sikringsanstalt<s n="n"/><s n="m"/></l><r>remand<b/>centre<s n="n"/></r></p></e>
+<e>        <p><l>sikringsskap<s n="n"/><s n="nt"/></l><r>fuse<b/>box<s n="n"/></r></p></e>
+<e>        <p><l>sikte<s n="n"/><s n="nt"/></l><r>aim<s n="n"/></r></p></e>
+<e>        <p><l>sil<s n="n"/><s n="m"/></l> <r>strainer<s n="n"/></r></p></e>
+<e slr="1"><p><l>sil<s n="n"/><s n="m"/></l> <r>sieve<s n="n"/></r></p></e>
+<e>        <p><l>silke<s n="n"/><s n="m"/></l><r>silk<s n="n"/></r></p></e>
+<e>        <p><l>silkepapir<s n="n"/><s n="nt"/></l><r>tissue<b/>paper<s n="n"/></r></p></e>
+<e>        <p><l>singel<s n="n"/><s n="nt"/></l><r>shingle<s n="n"/></r></p></e>
+<e>        <p><l>sinn<s n="n"/><s n="nt"/></l><r>mind<s n="n"/></r></p></e>
+<e>        <p><l>sinne<s n="n"/><s n="nt"/></l><r>anger<s n="n"/></r></p></e>
+<e>        <p><l>sinnelag<s n="n"/><s n="nt"/></l><r>spirit<s n="n"/></r></p></e>
+<e>        <p><l>sinnssykdom<s n="n"/><s n="m"/></l><r>insanity<s n="n"/></r></p></e>
+<e>        <p><l>sirkel<s n="n"/><s n="m"/></l><r>circle<s n="n"/></r></p></e>
+<e slr="1"><p><l>sirkel<s n="n"/><s n="m"/></l><r>ring<s n="n"/></r></p></e>
+<e>        <p><l>sirkus<s n="n"/><s n="nt"/></l><r>circus<s n="n"/></r></p></e>
+<e>        <p><l>sirup<s n="n"/><s n="m"/></l><r>treacle<s n="n"/></r></p></e>
+<e slr="1"><p><l>sirup<s n="n"/><s n="m"/></l><r>syrup<s n="n"/></r></p></e>
+<e>        <p><l>sisten<s n="n"/><s n="m"/></l><r>tag<s n="n"/></r></p></e>
+<e>        <p><l>sitar<s n="n"/><s n="m"/></l><r>sitar<s n="n"/></r></p></e>
+<e>        <p><l>sitat<s n="n"/><s n="nt"/></l><r>quote<s n="n"/></r></p></e>
+<e slr="1"><p><l>sitat<s n="n"/><s n="nt"/></l><r>quotation<s n="n"/></r></p></e>
+<e slr="1"><p><l>sitat<s n="n"/><s n="nt"/></l><r>citation<s n="n"/></r></p></e>
+<e>        <p><l>sitron<s n="n"/><s n="m"/></l><r>lemon<s n="n"/></r></p></e>
+<e>        <p><l>sitteplass<s n="n"/><s n="m"/></l><r>seat<s n="n"/></r></p></e>
+<e>        <p><l>situasjon<s n="n"/><s n="m"/></l><r>situation<s n="n"/></r></p></e>
 
 <e c="  0"><p><l>encyklopedi<s n="n"/><s n="m"/></l><r>encyclopaedia<s n="n"/></r></p></e>
 <e c="  0"><p><l>sjø<s n="n"/><s n="m"/></l><r>sea<s n="n"/></r></p></e>
