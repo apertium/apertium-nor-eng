@@ -33,6 +33,7 @@
     <sdef n="rel"        c="Relative"/>
     <sdef n="itg"        c="Interrogative"/>
     <sdef n="qnt"        c="Quantifier"/>
+    <sdef n="emph"       c="Emphatic"/>
     <sdef n="pos"        c="Possessive"/>
     <sdef n="def"        c="Definite"/>
 
@@ -137,6 +138,8 @@
     <e><p><l>fordi<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>hvis<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>at<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>slik<b/>at<s n="cnjsub"/></l><r>so<b/>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>enn<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e><p><l>som<b/>om<s n="cnjsub"/></l><r>as<b/>if<s n="cnjsub"/></r></p></e>
 
     <e c="rel"><p><l>som<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -334,6 +337,7 @@
     <e><p><l>hver<s n="det"/><s n="qnt"/></l><r>each<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
     <e><p><l>mange<s n="adj"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>mange<s n="det"/><s n="qnt"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>egen<s n="det"/><s n="emph"/></l><r>own<s n="adj"/></r></p><par n="dem_dem"/></e>
 
     <e><p><l>jeg<s n="det"/><s n="pos"/></l><r>my<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
     <e><p><l>du<s n="det"/><s n="pos"/></l><r>your<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
@@ -2171,9 +2175,10 @@
 <e>        <p><l>gamasje<s n="n"/><s n="m"/></l><r>gaiter<s n="n"/></r></p></e>
 <e c="horse"><p><l>gamp<s n="n"/><s n="m"/></l><r>nag<s n="n"/></r></p></e>
 <e>        <p><l>gane<s n="n"/><s n="m"/></l><r>palate<s n="n"/></r></p></e>
-<e>        <p><l>gang<s n="n"/><s n="m"/></l><r>hallway<s n="n"/></r></p></e>
+<e>        <p><l>gang<s n="n"/><s n="m"/></l><r>time<s n="n"/></r></p></e>
 <e slr="1"><p><l>gang<s n="n"/><s n="m"/></l><r>passage<s n="n"/></r></p></e>
 <e slr="2"><p><l>gang<s n="n"/><s n="m"/></l><r>seam<s n="n"/></r></p></e>
+<e slr="3"><p><l>gang<s n="n"/><s n="m"/></l><r>hallway<s n="n"/></r></p></e>
 <e>        <p><l>gangart<s n="n"/></l>       <r>gait<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>gangsti<s n="n"/><s n="m"/></l><r>footpath<s n="n"/></r></p></e>
 <e>        <p><l>gap<s n="n"/><s n="nt"/></l><r>jaw<s n="n"/></r></p></e>
@@ -9279,6 +9284,7 @@
 
     <e c="  0"><p><l>ikke<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
     <e c="  0"><p><l>bra<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>for<b/>eksempel<s n="adv"/></l><r>for<b/>example<s n="adv"/></r></p></e>
     <e c="  0"><p><l>godt<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
     <e c="  0"><p><l>også<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e c="  0"><p><l>da<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
