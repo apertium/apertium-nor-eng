@@ -174,10 +174,12 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="1" side="tl" part="a_nom"/>
-                <lit-tag v="np.ant"/>
-              </equal>
+              <not>
+                <equal>
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <lit-tag v="np.ant"/>
+                </equal>
+              </not>
             </test>
             <let>
               <clip pos="1" side="tl" part="gen"/>
