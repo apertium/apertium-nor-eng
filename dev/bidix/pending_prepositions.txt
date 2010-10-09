@@ -1,6 +1,5 @@
-   6086 ^@enn<pr>$
    5775 ^@blant<pr>$
-   5569 ^@der<pr>$
+   5570 ^@der<pr>$
    4290 ^@her<pr>$
    3688 ^@tilbake<pr>$
    3422 ^@inn i<pr>$
@@ -28,7 +27,7 @@
     364 ^@på vegne av<pr>$
     337 ^@dit<pr>$
     323 ^@hjemme<pr>$
-    317 ^@hittil<pr>$
+    316 ^@hittil<pr>$
     264 ^@etterpå<pr>$
     253 ^@foruten<pr>$
     252 ^@fremover<pr>$
@@ -93,7 +92,7 @@
      39 ^@frampå<pr>$
      37 ^@herunder<pr>$
      37 ^@eksklusive<pr>$
-     35 ^@øst<pr>$
+     36 ^@øst<pr>$
      34 ^@avgårde<pr>$
      31 ^@utenpå<pr>$
      30 ^@nedpå<pr>$

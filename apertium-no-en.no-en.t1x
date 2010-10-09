@@ -9,6 +9,10 @@
       <cat-item tags="prn.p2.*"/>
       <cat-item tags="prn.p3.*"/>
     </def-cat>
+    <def-cat n="det">
+      <cat-item tags="det.dem.*"/>
+      <cat-item tags="det.ind.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -56,6 +60,14 @@
       <attr-item tags="cnjsub"/>
       <attr-item tags="cnjadv"/>
       <attr-item tags="rel.adv"/>
+    </def-attr>
+    <def-attr n="a_det">
+      <attr-item tags="adj"/>
+      <attr-item tags="adj.ord"/>
+      <attr-item tags="num.ord"/>
+      <attr-item tags="det.qnt"/>
+      <attr-item tags="det.dem"/>
+      <attr-item tags="det.ind"/>
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
@@ -136,6 +148,42 @@
   <section-rules>
 
     <!-- Sintagmas nominales -->
+
+    <rule comment="REGLA: det">
+      <pattern>
+        <pattern-item n="det"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="a_det"/>
+                <lit-tag v="adj"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="nbr"/>
+              <lit v=""/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <chunk name="det" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NMOD"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_det"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: adjec">
       <pattern>

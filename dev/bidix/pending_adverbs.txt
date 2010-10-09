@@ -1,4 +1,4 @@
-   7213 ^@for<adv>$
+   7209 ^@for<adv>$
    4139 ^@ei<adv>$
    3549 ^@svært<adv>$
    2944 ^@imidlertid<adv>$
@@ -18,7 +18,6 @@
    1409 ^@i gang<adv>$
    1358 ^@selvsagt<adv>$
    1342 ^@faktisk<adv>$
-   1235 ^@for eksempel<adv>$
    1084 ^@ene<adv>$
    1036 ^@hjemme<adv>$
    1028 ^@foreløpig<adv>$
