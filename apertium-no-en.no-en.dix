@@ -211,20 +211,25 @@
 
     <!-- Determiners -->
 
-    <e><p><l>en<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>en<s n="det"/><s n="qnt"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>annen<s n="det"/><s n="dem"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>den<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p><par n="dem_dem"/></e>
     <e><p><l>all<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/></r></p><par n="all_all"/></e>
     <e><p><l>hver<s n="det"/><s n="qnt"/></l><r>each<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
     <e><p><l>mange<s n="adj"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
 
-    <e><p><l>jeg<s n="det"/><s n="pos"/></l><r>my<s n="det"/><s n="pos"/></r></p></e>
-    <e><p><l>du<s n="det"/><s n="pos"/></l><r>your<s n="det"/><s n="pos"/></r></p></e>
-    <e><p><l>vi<s n="det"/><s n="pos"/></l><r>our<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>jeg<s n="det"/><s n="pos"/></l><r>my<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
+    <e><p><l>du<s n="det"/><s n="pos"/></l><r>your<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
+    <e><p><l>vi<s n="det"/><s n="pos"/></l><r>our<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
+
+    <e><p><l>han<s n="det"/><s n="pos"/></l><r>his<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
+    <e><p><l>hun<s n="det"/><s n="pos"/></l><r>her<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
+
+    <e><p><l>seg<s n="det"/><s n="pos"/></l><r>his<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e> <!-- his/her/its -->
 
     <!-- Numerals -->
 
-    <e><p><l>en<s n="det"/><s n="qnt"/></l><r>one<s n="num"/></r></p></e>
+    <e><p><l>én<s n="det"/><s n="qnt"/></l><r>one<s n="num"/></r></p></e>
 
     <e><p><l>to<s n="det"/><s n="qnt"/></l><r>two<s n="num"/></r></p></e>
     <e><p><l>tre<s n="det"/><s n="qnt"/></l><r>three<s n="num"/></r></p></e>
@@ -3645,6 +3650,8 @@
 
     <e c="  0"><p><l>bygge<s n="vblex"/></l><r>make<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>bygge<s n="vblex"/></l><r>build<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+
+    <e c="  0"><p><l>hete<s n="vblex"/></l><r>be<g><b/>called</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
  
     <!-- Interjections -->
 

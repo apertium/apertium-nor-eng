@@ -1,3 +1,6 @@
+Corpus in: /home/fran/corpora/north_germanic_bibles/bible.nb
+Processing corpus for generation test... done.
+Translating corpus for generation test (this could take some time)... done.
 
 ===============================================================================
 Multiple surface forms for a single lexical form
@@ -7,6 +10,7 @@ Multiple surface forms for a single lexical form
 Multiple bidix entries for a single source language lexical form
 ===============================================================================
     910 #ask\<vblex\>\<past\>\/reply\<vblex\>\<past\>	^ask<vblex><past>/reply<vblex><past>$
+    477 #about\<pr\>\/around\<pr\>	^about<pr>/around<pr>$
     254 #Go\<vblex\>\<past\>\/Travel\<vblex\>\<past\>	^Go<vblex><past>/Travel<vblex><past>$
     215 #go\<vblex\>\<inf\>\/travel\<vblex\>\<inf\>	^go<vblex><inf>/travel<vblex><inf>$
     182 #go\<vblex\>\<past\>\/travel\<vblex\>\<past\>	^go<vblex><past>/travel<vblex><past>$
@@ -21,6 +25,7 @@ Multiple bidix entries for a single source language lexical form
       9 #show\<vblex\>\<pres\>\/inspect\<vblex\>\<pres\>	^show<vblex><pres>/inspect<vblex><pres>$
       8 #tempt\<vblex\>\<pp\>\/lure\<vblex\>\<pp\>	^tempt<vblex><pp>/lure<vblex><pp>$
       8 #go\<vblex\>\<pp\>\/travel\<vblex\>\<pp\>	^go<vblex><pp>/travel<vblex><pp>$
+      6 #About\<pr\>\/Around\<pr\>	^About<pr>/Around<pr>$
       5 #Ask\<vblex\>\<pres\>\/Reply\<vblex\>\<pres\>	^Ask<vblex><pres>/Reply<vblex><pres>$
       5 #ask\<vblex\>\<pp\>\/reply\<vblex\>\<pp\>	^ask<vblex><pp>/reply<vblex><pp>$
       4 #Show\<vblex\>\<inf\>\/Inspect\<vblex\>\<inf\>	^Show<vblex><inf><pass>/Inspect<vblex><inf><pass>$
@@ -49,7 +54,6 @@ Tag mismatch between transfer and generation
     492 #Christ\<np\>\<al\>\<m\>\<sg\>	^Christ<np><al><m><sg>$
     350 #spurt\<vblex\>\<inf\>	^spurt<vblex><inf>$
     345 #house\<vblex\>\<inf\>	^house<vblex><inf>$
-    313 #all\<det\>\<qnt\>\<m\>\<sg\>	^all<det><qnt><m><sg>$
     294 #other\<det\>\<ind\>\<m\>\<sg\>\<ind\>	^other<det><ind><m><sg><ind>$
     259 #One\<num\>\<m\>\<sg\>	^One<num><m><sg>$
     249 #senior\<n\>\<pl\>	^senior<n><pl>$
@@ -64,6 +68,7 @@ Tag mismatch between transfer and generation
      99 #our\<det\>\<pos\>\<nt\>\<sg\>	^our<det><pos><nt><sg>$
      98 #Must\<vblex\>\<inf\>	^Must<vblex><inf>$
      96 #spoil\<n\>\<sg\>	^spoil<n><sg>$
+     95 #flesh\<n\>\<pl\>	^flesh<n><pl>$
      92 #fourty\<num\>\<pl\>	^fourty<num><pl>$
      89 #drink\<n\>\<sp\>	^drink<n><sp>$
      88 #call\<vblex\>\<inf\>	^call<vblex><inf><pass>$
@@ -76,6 +81,7 @@ Tag mismatch between transfer and generation
      66 #many\<det\>\<qnt\>\<comp\>	^many<det><qnt><comp>$
      66 #house\<vblex\>\<pp\>	^house<vblex><pp>$
      64 #well\<n\>\<sg\>	^well<n><sg>$
+     64 #make\<vblex\>\<inf\>	^make<vblex><inf><pass>$
      64 #Galilee\<np\>\<top\>\<sg\>	^Galilee<np><top><sg>$
      62 #jubilate\<vblex\>\<inf\>	^jubilate<vblex><inf>$
      62 #haunches\<n\>\<sg\>	^haunches<n><sg>$
@@ -111,7 +117,6 @@ Tag mismatch between transfer and generation
      32 #steer\<vblex\>\<past\>	^steer<vblex><past>$
      32 #steer\<vblex\>\<inf\>	^steer<vblex><inf>$
      32 #spike\<n\>\<pl\>	^spike<n><pl>$
-     32 #make\<vblex\>\<inf\>	^make<vblex><inf><pass>$
      32 #collect\<vblex\>\<inf\>	^collect<vblex><inf><pass>$
      31 #Xerxes\<np\>\<ant\>\<sg\>	^Xerxes<np><ant><sg>$
      31 #fell\<vblex\>\<past\>	^fell<vblex><past>$
@@ -135,7 +140,6 @@ Tag mismatch between transfer and generation
      26 #flame\<vblex\>\<inf\>	^flame<vblex><inf>$
      25 #loot\<vblex\>\<pp\>	^loot<vblex><pp>$
      25 #disciple\<n\>\<sg\>	^disciple<n><sg>$
-     25 #All\<det\>\<qnt\>\<m\>\<sg\>	^All<det><qnt><m><sg>$
      24 #tumult\<n\>\<sg\>	^tumult<n><sg>$
      24 #Must\<vblex\>\<pres\>	^Must<vblex><pres>$
      24 #flame\<vblex\>\<pres\>	^flame<vblex><pres>$
@@ -392,6 +396,7 @@ Tag mismatch between transfer and generation
       3 #Berit\<np\>\<top\>\<f\>\<sg\>	^Berit<np><top><f><sg>$
       3 #barb\<n\>\<sg\>	^barb<n><sg>$
       3 #Aries\<np\>\<al\>\<m\>\<sg\>	^Aries<np><al><m><sg>$
+      3 #a\<n\>\<sg\>	^a<n><sg>$
       2 #Zeus\<np\>\<ant\>\<m\>\<sg\>	^Zeus<np><ant><m><sg>$
       2 #Umpire\<n\>\<pl\>	^Umpire<n><pl>$
       2 #tombstone\<n\>\<sg\>	^tombstone<n><sg>$
@@ -496,7 +501,6 @@ Tag mismatch between transfer and generation
       1 #spike\<n\>\<sg\>	^spike<n><sg>$
       1 #sparkle\<n\>\<sg\>	^sparkle<n><sg>$
       1 #Sow\<vblex\>\<pres\>	^Sow<vblex><pres>$
-      1 #solid\<adj\>\<comp\>	^solid<adj><comp>$
       1 #sneeze\<vblex\>\<pres\>	^sneeze<vblex><pres>$
       1 #sneeze\<vblex\>\<past\>	^sneeze<vblex><past>$
       1 #Slither\<vblex\>\<pres\>	^Slither<vblex><pres>$
@@ -624,6 +628,6 @@ Tag mismatch between transfer and generation
 Summary
 ===============================================================================
     0 /tmp/no-en.multiform
-   22 /tmp/no-en.multibidix
-  587 /tmp/no-en.tagmismatch
-  609 total
+   24 /tmp/no-en.multibidix
+  586 /tmp/no-en.tagmismatch
+  610 total

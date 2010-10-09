@@ -1,9 +1,7 @@
    3733 ^@å<n><f>$
    3504 ^@sønn<n><m>$
-   2217 ^@ialphabet<n><m>$
    1909 ^@kong<n><m>$
    1456 ^@herr<n><m>$
-   1374 ^@land<n><nt>$
    1156 ^@komme<n><nt>$
    1016 ^@alt<n><m>$
    1011 ^@men<n><nt>$
@@ -22,7 +20,6 @@
     614 ^@å<n><m>$
     601 ^@herre<n><m>$
     600 ^@ja<n><nt>$
-    537 ^@tre<n><nt>$
     517 ^@hjerte<n><nt>$
     508 ^@tid<n><m>$
     481 ^@øye<n><nt>$
@@ -122,7 +119,6 @@
     145 ^@leir<n><m>$
     145 ^@hjem<n><nt>$
     144 ^@lov<n><nt><sp>$
-    142 ^@kjøtt<n><nt>$
     140 ^@helt<n><m>$
     139 ^@munn<n><m>$
     139 ^@ligger<n><m>$
@@ -220,7 +216,6 @@
      81 ^@el<n><nt>$
      80 ^@si<n><m>$
      80 ^@pike<n><m>$
-     80 ^@kunnskap<n><m>$
      80 ^@kjerub<n><m>$
      79 ^@slått<n><m>$
      79 ^@dødsrike<n><nt>$
@@ -1310,7 +1305,6 @@
       5 ^@misnøye<n><m>$
       5 ^@mal<n><m>$
       5 ^@målestokk<n><m>$
-      5 ^@lyse<n><m>$
       5 ^@lokk<n><nt>$
       5 ^@leveår<n><nt>$
       5 ^@leke<n><f>$
@@ -1709,7 +1703,6 @@
       3 ^@anbefalingsbrev<n><nt>$
       3 ^@ametyst<n><m>$
       3 ^@alfa<n><m>$
-      3 ^@aalphabet<n><m>$
       2 ^@yndling<n><m>$
       2 ^@visse<n><f>$
       2 ^@vise<n><m>$
@@ -1915,7 +1908,6 @@
       2 ^@leide<n><nt>$
       2 ^@latskap<n><m>$
       2 ^@last<n><m>$
-      2 ^@land<n><nt>$ 
       2 ^@landegrense<n><m>$
       2 ^@kylling<n><m>$
       2 ^@kulde<n><f>$
@@ -2135,7 +2127,6 @@
       1 ^@tannkjøtt<n><nt>$
       1 ^@tanngard<n><m>$
       1 ^@tankebygning<n><m>$
-      1 ^@talphabet<n><m>$ú ^*veitst$
       1 ^@tall<n><m>$
       1 ^@tale<n><m>$ 
       1 ^@talemåte<n><m>$
@@ -2658,7 +2649,6 @@
       1 ^@ansiktsuttrykk<n><nt>$
       1 ^@anis<n><m>$
       1 ^@andakt<n><m>$
-      1 ^*alo$ë-^@tre<n><nt>$
       1 ^@allfarvei<n><m>$
       1 ^@akterskip<n><nt>$
       1 ^@akasie<n><m>$

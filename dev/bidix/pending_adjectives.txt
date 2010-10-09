@@ -11,14 +11,12 @@
     126 ^@brenne<adj>$
     118 ^@utvalgt<adj>$
     117 ^@fremme<adj>$
-    116 ^@sjuende<adj><ord>$
     116 ^@mektig<adj>$
     101 ^@hard<adj>$
      97 ^@vond<adj>$
      96 ^@veldig<adj>$
      94 ^@trofast<adj>$
      93 ^@ferdig<adj>$
-     89 ^@liten<adj>$
      89 ^@klok<adj>$
      88 ^@sist<adj>$
      84 ^@falsk<adj>$
@@ -70,14 +68,12 @@
      32 ^@ligge<adj>$
      31 ^@sikker<adj>$
      31 ^@dobbel<adj>$
-     30 ^@liten<adj><sup>$
      30 ^@kraftig<adj>$
      30 ^@frivillig<adj>$
      29 ^@nøyaktig<adj>$
      29 ^@from<adj>$
      28 ^@synlig<adj>$
      28 ^@flamme<adj>$
-     27 ^@liten<adj><comp>$
      27 ^@frekk<adj>$
      26 ^@dyktig<adj>$
      25 ^@pålitelig<adj>$

@@ -2,8 +2,6 @@
     847 ^@denne<prn><subj><p3><nt>$
     809 ^@noe<prn><subj><p3>$
     689 ^@noe<prn><subj><p3><nt>$
-    663 ^@hun<prn><subj><p3><f>$
-    613 ^@hun<prn><obj><p3><f>$
     514 ^@hvem<prn><itg>$
     210 ^@hverandre<prn><res>$
     166 ^@denne<prn><subj><p3><m>$

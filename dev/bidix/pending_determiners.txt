@@ -1,10 +1,7 @@
-   2343 ^@den<det><dem>$
    1905 ^@dere<det><pos>$
    1268 ^@seg<det><pos><m>$
-   1211 ^@Den<det><dem>$
    1029 ^@han<det><pos>$
     900 ^@ingen<det><qnt>$
-    596 ^@hver<det><qnt><m>$
     583 ^@seg<det><pos>$
     504 ^@denne<det><dem><m>$
     497 ^@samme<det><dem><m><sp><def>$
@@ -15,11 +12,9 @@
     215 ^@noe<det><qnt>$
     206 ^@hun<det><pos>$
     184 ^@Ingen<det><qnt>$
-    173 ^@hver<det><qnt><nt>$
     173 ^@egen<det><emph><nt>$
     173 ^@egen<det><emph><m>$
     155 ^@begge<det><qnt>$
-    152 ^@Hver<det><qnt><m>$
     149 ^@noe<det><qnt><nt>$
     114 ^@tjue<det><qnt>$
      98 ^@den<det><pos>$
@@ -34,7 +29,6 @@
      57 ^@enhver<det><qnt><m>$
      53 ^@Denne<det><dem>$
      50 ^@Han<det><pos>$
-     44 ^@Hver<det><qnt><nt>$
      40 ^@sytti<det><qnt>$
      40 ^@Samme<det><dem><m><sp><def>$
      34 ^@Enhver<det><qnt><m>$

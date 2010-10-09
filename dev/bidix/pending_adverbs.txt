@@ -5,11 +5,8 @@
    1067 ^@der<adv>$
    1007 ^@selv<adv>$
     960 ^@sammen<adv>$
-    893 ^@igjen<adv>$
     808 ^@hvor<adv>$
-    731 ^@derfor<adv>$
     721 ^@så<adv>$
-    702 ^@opp<adv>$
     558 ^@bare<adv>$
     413 ^@hvorfor<adv>$
     391 ^@herre<adv>$
@@ -91,7 +88,6 @@
      25 ^@aller<adv>$
      23 ^@likt<adv>$
      23 ^@lett<adv>$
-     22 ^@alene<adv>$
      21 ^@nemlig<adv>$
      21 ^@der omkring<adv>$
      20 ^@tilmed<adv>$

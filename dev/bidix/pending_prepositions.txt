@@ -1,25 +1,15 @@
   15144 ^@som<pr>$
-   1851 ^@mot<pr>$
-   1674 ^@ut<pr>$
-   1515 ^@ved<pr>$
    1133 ^@bort<pr>$
    1046 ^@ned<pr>$
-    939 ^@opp<pr>$
-    854 ^@hos<pr>$
     687 ^@tilbake<pr>$
     639 ^@der<pr>$
     615 ^@blant<pr>$
     534 ^@inn i<pr>$
     525 ^@imot<pr>$
     494 ^@ut av<pr>$
-    483 ^@omkring<pr>$
-    456 ^@uten<pr>$
     452 ^@inn<pr>$
     376 ^@foran<pr>$
     375 ^@enn<pr>$
-    374 ^@gjennom<pr>$
-    358 ^@før<pr>$
-    252 ^@a<pr>$
     248 ^@borte<pr>$
     237 ^@rundt<pr>$
     219 ^@dit<pr>$
@@ -35,7 +25,6 @@
     108 ^@iblant<pr>$
     106 ^@inn til<pr>$
     104 ^@opp mot<pr>$
-    102 ^@forbi<pr>$
      99 ^@derfra<pr>$
      86 ^@ved siden av<pr>$
      75 ^@inne<pr>$
@@ -53,12 +42,10 @@
      30 ^@hit til<pr>$
      29 ^@framfor<pr>$
      27 ^@bak<pr>$
-     25 ^@oppover<pr>$
      21 ^@innenfor<pr>$
      18 ^@bort imot<pr>$
      18 ^@bortenfor<pr>$
      16 ^@unntatt<pr>$
-     15 ^@overfor<pr>$
      14 ^@oppe på<pr>$
      14 ^@ner<pr>$
      14 ^@imellom<pr>$
@@ -132,7 +119,6 @@
       1 ^@innom<pr>$
       1 ^@innendørs<pr>$
       1 ^@innefra<pr>$
-      1 ^@ifølge<pr>$
       1 ^@hitover<pr>$
       1 ^@hermed<pr>$
       1 ^@fremover<pr>$
