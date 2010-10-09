@@ -9,14 +9,17 @@ Multiple surface forms for a single lexical form
 ===============================================================================
 Multiple bidix entries for a single source language lexical form
 ===============================================================================
+    847 #see\<vblex\>\<inf\>\/behold\<vblex\>\<inf\>	^see<vblex><inf>/behold<vblex><inf>$
+    441 #See\<vblex\>\<inf\>\/Behold\<vblex\>\<inf\>	^See<vblex><inf>/Behold<vblex><inf>$
     167 #must\<vblex\>\<inf\>\/have# to\<vblex\>\<inf\>	^must<vblex><inf>/have# to<vblex><inf>$
     138 #see\<vblex\>\<pp\>\/behold\<vblex\>\<pp\>	^see<vblex><pp>/behold<vblex><pp>$
     105 #know\<vblex\>\<pp\>\/feel\<vblex\>\<pp\>	^know<vblex><pp>/feel<vblex><pp>$
      98 #Must\<vblex\>\<inf\>\/Have# to\<vblex\>\<inf\>	^Must<vblex><inf>/Have# to<vblex><inf>$
      53 #See\<vblex\>\<pp\>\/Behold\<vblex\>\<pp\>	^See<vblex><pp>/Behold<vblex><pp>$
-     43 #know\<vblex\>\<inf\>\/feel\<vblex\>\<inf\>	^know<vblex><inf>/feel<vblex><inf>$
+     46 #know\<vblex\>\<inf\>\/feel\<vblex\>\<inf\>	^know<vblex><inf>/feel<vblex><inf>$
       7 #know\<vblex\>\<inf\>\/feel\<vblex\>\<inf\>	^know<vblex><inf><pass>/feel<vblex><inf><pass>$
       5 #must\<vblex\>\<pp\>\/have# to\<vblex\>\<pp\>	^must<vblex><pp>/have# to<vblex><pp>$
+      4 #Know\<vblex\>\<inf\>\/Feel\<vblex\>\<inf\>	^Know<vblex><inf>/Feel<vblex><inf>$
 
 ===============================================================================
 Tag mismatch between transfer and generation
@@ -26,23 +29,21 @@ Tag mismatch between transfer and generation
    2797 #sow\<vblex\>\<inf\>	^sow<vblex><inf>$
    1954 #Sow\<vblex\>\<inf\>	^Sow<vblex><inf>$
    1394 #forth\<pr\>	^forth<pr>$
+   1374 #its\<vblex\>\<inf\>	^its<vblex><inf>$
    1138 #beyond\<pr\>	^beyond<pr>$
    1054 #below\<pr\>	^below<pr>$
-   1041 #look\<vblex\>\<imp\>	^look<vblex><imp>$
     968 #Mister\<n\>\<sg\>	^Mister<n><sg>$
     917 #must\<vblex\>\<pres\># to	^must<vblex><pres># to$
-    883 #its\<vblex\>\<imp\>	^its<vblex><imp>$
     839 #when\<adv\>	^when<adv>$
     784 #something\<prn\>\<subj\>	^something<prn><subj>$
     753 #Judah\<np\>	^Judah<np>$
     683 #coming\<n\>\<sg\>	^coming<n><sg>$
     681 #something\<prn\>\<subj\>\<sg\>	^something<prn><subj><sg>$
+    617 #hallow\<vblex\>\<inf\>	^hallow<vblex><inf>$
     531 #Mash\<vblex\>\<inf\>	^Mash<vblex><inf><pass>$
     511 #When\<adv\>	^When<adv>$
     498 #alternately\<adv\>	^alternately<adv>$
     497 #same\<det\>\<ind\>\<m\>\<sp\>\<def\>	^same<det><ind><m><sp><def>$
-    491 #its\<vblex\>\<inf\>	^its<vblex><inf>$
-    440 #hallow\<vblex\>\<inf\>	^hallow<vblex><inf>$
     416 #coming\<n\>\<pl\>	^coming<n><pl>$
     383 #Yes\<n\>\<sg\>	^Yes<n><sg>$
     363 #house\<vblex\>\<inf\>	^house<vblex><inf>$
@@ -57,41 +58,37 @@ Tag mismatch between transfer and generation
     218 #disciple\<n\>\<pl\>	^disciple<n><pl>$
     216 #yes\<n\>\<sg\>	^yes<n><sg>$
     210 #each other\<prn\>\<ind\>\<pl\>	^each other<prn><ind><pl>$
+    209 #just\<vblex\>\<inf\>	^just<vblex><inf>$
     192 #himself\<prn\>\<p3\>\<sg\>	^himself<prn><p3><sg>$
+    188 #upstairs\<vblex\>\<inf\>	^upstairs<vblex><inf>$
     181 #Ephraim\<np\>	^Ephraim<np>$
     181 #become# quiet\<vblex\>\<inf\>	^become# quiet<vblex><inf>$
-    177 #hallow\<vblex\>\<imp\>	^hallow<vblex><imp>$
+    169 #indignation\<vblex\>\<inf\>	^indignation<vblex><inf>$
     168 #Zion\<np\>	^Zion<np>$
     157 #Manasseh\<np\>	^Manasseh<np>$
     154 #Christy\<np\>	^Christy<np>$
     149 #distress\<n\>\<sg\>	^distress<n><sg>$
-    149 #devoid\<vblex\>\<imp\>	^devoid<vblex><imp>$
+    149 #devoid\<vblex\>\<inf\>	^devoid<vblex><inf>$
     144 #Jeremiah\<np\>	^Jeremiah<np>$
-    143 #just\<vblex\>\<imp\>	^just<vblex><imp>$
     142 #Moab\<np\>	^Moab<np>$
     140 #Johanne\<np\>\<ant\>\<m\>\<sg\>	^Johanne<np><ant><m><sg>$
-    139 #three\<vblex\>\<imp\>	^three<vblex><imp>$
-    138 #Look\<vblex\>\<imp\>	^Look<vblex><imp>$
-    138 #kill\<vblex\>	^kill<vblex><pret>$
+    139 #three\<vblex\>\<inf\>	^three<vblex><inf>$
     132 #other\<det\>\<ind\>\<nt\>\<sg\>\<ind\>	^other<det><ind><nt><sg><ind>$
     131 #Hezekiah\<np\>	^Hezekiah<np>$
     131 #From\<adv\>	^From<adv>$
-    130 #commence\<vblex\>	^commence<vblex><pret>$
+    131 #chop\<vblex\>\<inf\>	^chop<vblex><inf>$
     120 #many\<det\>\<qnt\>\<pl\>	^many<det><qnt><pl><unc>$
-    119 #upstairs\<vblex\>\<imp\>	^upstairs<vblex><imp>$
     119 #out over\<pr\>	^out over<pr>$
-    118 #better\<vblex\>\<imp\>	^better<vblex><imp>$
+    118 #better\<vblex\>\<inf\>	^better<vblex><inf>$
     117 #Samaria\<np\>	^Samaria<np>$
     116 #that\<det\>\<dem\>\<sg\>\<gen\>	^that<det><dem><sg><gen>$
     114 #mighty\<adj\>	^mighty<adj>$
     113 #Elijah\<np\>	^Elijah<np>$
-    111 #indignation\<vblex\>\<inf\>	^indignation<vblex><inf>$
     110 #Edom\<np\>	^Edom<np>$
     105 #nevertheless\<adv\>	^nevertheless<adv>$
     100 #Esau\<np\>\<ant\>\<m\>\<sg\>	^Esau<np><ant><m><sg>$
      96 #Absalom\<np\>	^Absalom<np>$
      95 #spoil\<n\>\<sg\>	^spoil<n><sg>$
-     94 #chop\<vblex\>\<imp\>	^chop<vblex><imp>$
      93 #drink\<n\>\<sp\>	^drink<n><sp>$
      92 #Gad\<np\>	^Gad<np>$
      92 #fourty\<num\>\<pl\>	^fourty<num><pl>$
@@ -102,41 +99,37 @@ Tag mismatch between transfer and generation
      86 #Canaan\<np\>\<top\>\<sg\>	^Canaan<np><top><sg>$
      85 #find\<vblex\>\<inf\>	^find<vblex><inf><pass>$
      84 #measurment\<n\>\<sg\>	^measurment<n><sg>$
-     82 #govern\<vblex\>	^govern<vblex><pret>$
+     84 #jeer\<vblex\>\<inf\>	^jeer<vblex><inf>$
+     83 #invigorate\<vblex\>\<inf\>	^invigorate<vblex><inf>$
      81 #warrior\<n\>\<pl\>	^warrior<n><pl>$
-     80 #invigorate\<vblex\>\<inf\>	^invigorate<vblex><inf>$
      79 #Babylonia\<np\>\<top\>\<sg\>	^Babylonia<np><top><sg>$
-     78 #hide\<vblex\>	^hide<vblex><pret>$
      78 #gladness\<vblex\>\<inf\>	^gladness<vblex><inf>$
-     77 #fathom\<vblex\>\<imp\>	^fathom<vblex><imp>$
+     78 #fathom\<vblex\>\<inf\>	^fathom<vblex><inf>$
      74 #Babylon\<np\>\<top\>\<sg\>	^Babylon<np><top><sg>$
      72 #Jehoash\<np\>	^Jehoash<np>$
      72 #be# called\<vblex\>\<inf\>	^be# called<vblex><inf>$
      70 #With\<adv\>	^With<adv>$
-     70 #deduce\<vblex\>\<imp\>	^deduce<vblex><imp>$
-     69 #upstairs\<vblex\>\<inf\>	^upstairs<vblex><inf>$
+     69 #quarrel\<vblex\>\<inf\>	^quarrel<vblex><inf>$
      69 #find\<n\>\<sg\>	^find<n><sg>$
      67 #inside\<n\>\<sp\>	^inside<n><sp>$
      67 #grasp\<n\>\<sg\>	^grasp<n><sg>$
      67 #bronze\<vblex\>\<inf\>	^bronze<vblex><inf>$
      66 #many\<det\>\<qnt\>\<comp\>	^many<det><qnt><comp>$
-     66 #just\<vblex\>\<inf\>	^just<vblex><inf>$
+     66 #Hallow\<vblex\>\<inf\>	^Hallow<vblex><inf>$
      66 #bier\<vblex\>\<pp\>	^bier<vblex><pp>$
      65 #liniment\<vblex\>\<pp\>	^liniment<vblex><pp>$
      65 #house\<vblex\>\<pp\>	^house<vblex><pp>$
      64 #well\<n\>\<sg\>	^well<n><sg>$
      64 #make\<vblex\>\<inf\>	^make<vblex><inf><pass>$
-     64 #jeer\<vblex\>\<imp\>	^jeer<vblex><imp>$
      64 #goblet\<n\>\<sg\>	^goblet<n><sg>$
      64 #Galilee\<np\>\<top\>\<sg\>	^Galilee<np><top><sg>$
      64 #Abimelech\<np\>	^Abimelech<np>$
      63 #Abraham\<np\>	^Abraham<np>$
      62 #one\<num\>\<nt\>\<sg\>	^one<num><nt><sg>$
+     62 #Just\<vblex\>\<inf\>	^Just<vblex><inf>$
      62 #jubilate\<vblex\>\<inf\>	^jubilate<vblex><inf>$
      62 #Jehoram\<np\>	^Jehoram<np>$
      62 #haunches\<n\>\<sg\>	^haunches<n><sg>$
-     62 #happen\<vblex\>	^happen<vblex><pret>$
-     61 #Just\<vblex\>\<inf\>	^Just<vblex><inf>$
      60 #Zechariah\<np\>	^Zechariah<np>$
      60 #yourself\<prn\>\<p2\>\<sg\>	^yourself<prn><p2><sg>$
      60 #Nevertheless\<adv\>	^Nevertheless<adv>$
@@ -144,10 +137,9 @@ Tag mismatch between transfer and generation
      59 #inconvenience\<vblex\>\<pres\>	^inconvenience<vblex><pres>$
      59 #drift\<n\>\<pl\>	^drift<n><pl>$
      58 #Pilate\<np\>	^Pilate<np>$
-     58 #indignation\<vblex\>\<imp\>	^indignation<vblex><imp>$
      58 #girdle\<n\>\<sg\>	^girdle<n><sg>$
      57 #show\<vblex\>\<inf\>	^show<vblex><inf><pass>$
-     57 #continue\<vblex\>	^continue<vblex><pret>$
+     57 #hull\<vblex\>\<inf\>	^hull<vblex><inf>$
      56 #yourself\<prn\>\<p2\>\<pl\>	^yourself<prn><p2><pl>$
      56 #tank\<vblex\>\<pres\># up	^tank<vblex><pres># up$
      56 #stone\<vblex\>\<inf\>	^stone<vblex><inf>$
@@ -159,10 +151,7 @@ Tag mismatch between transfer and generation
      55 #diffuse\<vblex\>\<pp\>	^diffuse<vblex><pp>$
      54 #Rehoboam\<np\>	^Rehoboam<np>$
      54 #heathen\<n\>\<pl\>	^heathen<n><pl>$
-     54 #forgive\<vblex\>\<imp\>	^forgive<vblex><imp>$
-     53 #hull\<vblex\>\<inf\>	^hull<vblex><inf>$
      52 #labour\<vblex\>\<pp\>	^labour<vblex><pp>$
-     52 #Hallow\<vblex\>\<inf\>	^Hallow<vblex><inf>$
      52 #Euphrates\<np\>\<top\>\<sg\>	^Euphrates<np><top><sg>$
      51 #Zebulun\<np\>	^Zebulun<np>$
      51 #plague\<n\>\<sg\>	^plague<n><sg>$
@@ -175,31 +164,27 @@ Tag mismatch between transfer and generation
      49 #accordingly\<adv\>	^accordingly<adv>$
      48 #toss\<n\>\<sg\>	^toss<n><sg>$
      48 #Rachel\<np\>	^Rachel<np>$
-     47 #three\<vblex\>	^three<vblex><pret>$
-     47 #quarrel\<vblex\>\<inf\>	^quarrel<vblex><inf>$
+     47 #three\<vblex\>\<past\>	^three<vblex><past>$
+     47 #little\<vblex\>\<inf\>	^little<vblex><inf>$
      47 #Jesse\<np\>	^Jesse<np>$
      47 #camel\<n\>\<pl\>	^camel<n><pl>$
      46 #resemble\<vblex\>\<pres\>	^resemble<vblex><pres>$
      46 #own\<n\>\<pl\>	^own<n><pl>$
-     46 #little\<vblex\>\<imp\>	^little<vblex><imp>$
      46 #Korah\<np\>	^Korah<np>$
      46 #Il Sodoma\<np\>\<top\>\<sg\>	^Il Sodoma<np><top><sg>$
      46 #Gideon\<np\>	^Gideon<np>$
      45 #umpire\<n\>\<pl\>	^umpire<n><pl>$
+     45 #quake\<vblex\>\<inf\>	^quake<vblex><inf>$
      45 #peril\<n\>\<pl\>	^peril<n><pl>$
      45 #own\<n\>\<sg\>	^own<n><sg>$
-     45 #Fear\<vblex\>\<imp\>	^Fear<vblex><imp>$
      44 #Samson\<np\>	^Samson<np>$
-     44 #quake\<vblex\>\<inf\>	^quake<vblex><inf>$
      44 #Nathan\<np\>	^Nathan<np>$
      44 #Ester\<np\>	^Ester<np>$
-     44 #divide\<vblex\>\<imp\>	^divide<vblex><imp>$
      43 #sow\<vblex\>\<pp\>	^sow<vblex><pp>$
      43 #last\<adv\>	^last<adv>$
-     43 #diffuse\<vblex\>	^diffuse<vblex><pret>$
+     43 #diffuse\<vblex\>\<past\>	^diffuse<vblex><past>$
      43 #Ahaz\<np\>	^Ahaz<np>$
      42 #Satan\<np\>\<al\>\<sg\>	^Satan<np><al><sg>$
-     42 #fear\<vblex\>\<imp\>	^fear<vblex><imp>$
      41 #hull\<vblex\>\<pp\>	^hull<vblex><pp>$
      41 #adversary\<n\>\<pl\>	^adversary<n><pl>$
      40 #venom\<n\>\<sg\>	^venom<n><sg>$
@@ -207,36 +192,38 @@ Tag mismatch between transfer and generation
      40 #peril\<n\>\<sg\>	^peril<n><sg>$
      40 #eradicate\<vblex\>\<inf\>	^eradicate<vblex><inf><pass>$
      39 #resemble\<vblex\>\<pp\>	^resemble<vblex><pp>$
+     39 #lamb\<vblex\>\<inf\>	^lamb<vblex><inf>$
      38 #tub\<n\>\<sg\>	^tub<n><sg>$
      38 #stone\<vblex\>\<pres\>	^stone<vblex><pres>$
      38 #peer\<n\>\<sg\>	^peer<n><sg>$
-     38 #divide\<vblex\>	^divide<vblex><pret>$
      37 #humble\<vblex\>\<pp\>	^humble<vblex><pp>$
+     37 #humble\<vblex\>\<inf\>	^humble<vblex><inf>$
      37 #Eli\<np\>	^Eli<np>$
-     37 #chop\<vblex\>\<inf\>	^chop<vblex><inf>$
      37 #Ai\<np\>	^Ai<np>$
      36 #Uriah\<np\>	^Uriah<np>$
      36 #rake\<vblex\>\<pres\>	^rake<vblex><pres>$
-     36 #field\<vblex\>\<imp\>	^field<vblex><imp>$
+     36 #labour\<vblex\>\<inf\>	^labour<vblex><inf>$
+     36 #field\<vblex\>\<inf\>	^field<vblex><inf>$
      36 #exultation\<n\>\<sg\>	^exultation<n><sg>$
      36 #east of\<pr\>	^east of<pr>$
      36 #bother\<n\>\<pl\>	^bother<n><pl>$
      35 #revolt\<n\>\<sg\>	^revolt<n><sg>$
      35 #quake\<vblex\>\<pres\>	^quake<vblex><pres>$
-     35 #pick\<vblex\>	^pick<vblex><pret>$
      35 #jeer\<vblex\>\<pres\>	^jeer<vblex><pres>$
      35 #gully\<n\>\<pl\>	^gully<n><pl>$
+     35 #ensign\<vblex\>\<inf\>	^ensign<vblex><inf>$
      35 #Ashur\<np\>	^Ashur<np>$
      34 #Sinai\<np\>\<top\>\<sg\>	^Sinai<np><top><sg>$
-     34 #quake\<vblex\>	^quake<vblex><pret>$
-     34 #hillside\<vblex\>	^hillside<vblex><pret>$
-     34 #consolidate\<vblex\>\<imp\>	^consolidate<vblex><imp>$
+     34 #quake\<vblex\>\<past\>	^quake<vblex><past>$
+     34 #hillside\<vblex\>\<past\>	^hillside<vblex><past>$
      33 #Nile\<np\>\<top\>\<sg\>	^Nile<np><top><sg>$
      33 #myself\<prn\>\<p1\>\<sg\>	^myself<prn><p1><sg>$
      33 #law\<n\>\<sp\>	^law<n><sp>$
      33 #jeer\<vblex\>\<pp\>	^jeer<vblex><pp>$
      33 #fasten\<vblex\>\<pp\>	^fasten<vblex><pp>$
+     33 #excise\<vblex\>\<inf\>	^excise<vblex><inf>$
      33 #dread\<n\>\<sg\>	^dread<n><sg>$
+     33 #clay\<vblex\>\<inf\>	^clay<vblex><inf>$
      33 #Abia\<np\>	^Abia<np>$
      32 #Uzziah\<np\>	^Uzziah<np>$
      32 #steer\<vblex\>\<past\>	^steer<vblex><past>$
@@ -246,19 +233,14 @@ Tag mismatch between transfer and generation
      31 #Xerxes\<np\>\<ant\>\<m\>\<sg\>	^Xerxes<np><ant><m><sg>$
      31 #With that\<adv\>	^With that<adv>$
      31 #Tamar\<np\>	^Tamar<np>$
-     31 #instruct\<vblex\>	^instruct<vblex><pret>$
      31 #herd\<vblex\>\<pres\>	^herd<vblex><pres>$
      31 #fell\<vblex\>\<past\>	^fell<vblex><past>$
-     31 #excise\<vblex\>\<inf\>	^excise<vblex><inf>$
      31 #crucify\<vblex\>\<pp\>	^crucify<vblex><pp>$
-     31 #clay\<vblex\>\<imp\>	^clay<vblex><imp>$
      30 #Rebecca\<np\>	^Rebecca<np>$
      30 #pan\<n\>\<sg\>	^pan<n><sg>$
      30 #Jotham\<np\>	^Jotham<np>$
      30 #gladness\<vblex\>\<pp\>	^gladness<vblex><pp>$
-     30 #ensign\<vblex\>\<inf\>	^ensign<vblex><inf>$
-     30 #depose\<vblex\>\<imp\>	^depose<vblex><imp>$
-     30 #buckle\<vblex\>	^buckle<vblex><pret>$
+     30 #buckle\<vblex\>\<past\>	^buckle<vblex><past>$
      29 #shield\<vblex\>\<inf\>	^shield<vblex><inf>$
      29 #Lee\<n\>\<pl\>	^Lee<n><pl>$
      29 #hear\<vblex\>\<inf\>	^hear<vblex><inf><pass>$
@@ -269,25 +251,22 @@ Tag mismatch between transfer and generation
      28 #use\<vblex\>\<inf\>	^use<vblex><inf><pass>$
      28 #set\<vblex\>\<inf\>	^set<vblex><inf><pass>$
      28 #Jonah\<np\>	^Jonah<np>$
-     28 #hit\<vblex\>	^hit<vblex><pret>$
-     28 #gain\<vblex\>	^gain<vblex><pret>$
      28 #fig tree\<n\>\<sg\>	^fig tree<n><sg>$
+     28 #dupe\<vblex\>\<inf\>	^dupe<vblex><inf>$
      28 #dread\<n\>\<pl\>	^dread<n><pl>$
      27 #three\<vblex\>\<pres\>	^three<vblex><pres>$
-     27 #Greet\<vblex\>\<imp\>	^Greet<vblex><imp>$
+     27 #delude\<vblex\>\<inf\>	^delude<vblex><inf>$
      27 #chop\<vblex\>\<pp\>	^chop<vblex><pp>$
      27 #burn\<vblex\>\<inf\>	^burn<vblex><inf><pass>$
      26 #shop\<vblex\>\<pp\>	^shop<vblex><pp>$
      26 #rain\<vblex\>\<inf\>	^rain<vblex><inf><pass>$
-     26 #humble\<vblex\>\<inf\>	^humble<vblex><inf>$
-     26 #hang\<vblex\>	^hang<vblex><pret>$
      26 #hallow\<vblex\>\<pp\>	^hallow<vblex><pp>$
      26 #flame\<vblex\>\<inf\>	^flame<vblex><inf>$
      26 #fathom\<vblex\>\<pp\>	^fathom<vblex><pp>$
+     26 #fast\<vblex\>\<inf\>	^fast<vblex><inf>$
      26 #Elam\<np\>	^Elam<np>$
      26 #denigh\<vblex\>\<pp\>	^denigh<vblex><pp>$
      26 #bother\<n\>\<sg\>	^bother<n><sg>$
-     25 #wake\<vblex\>\<imp\>	^wake<vblex><imp>$
      25 #unite\<adj\>	^unite<adj>$
      25 #Timothy\<np\>	^Timothy<np>$
      25 #shadow\<vblex\>\<inf\>	^shadow<vblex><inf>$
@@ -295,36 +274,30 @@ Tag mismatch between transfer and generation
      25 #One\<num\>\<m\>\<sg\>	^One<num><m><sg>$
      25 #oil\<vblex\>\<inf\>	^oil<vblex><inf>$
      25 #loot\<vblex\>\<pp\>	^loot<vblex><pp>$
-     25 #dupe\<vblex\>\<imp\>	^dupe<vblex><imp>$
      25 #disciple\<n\>\<sg\>	^disciple<n><sg>$
      24 #tumult\<n\>\<sg\>	^tumult<n><sg>$
      24 #purple\<n\>\<sg\>	^purple<n><sg>$
      24 #Must\<vblex\>\<pres\># to	^Must<vblex><pres># to$
      24 #flame\<vblex\>\<pres\>	^flame<vblex><pres>$
-     24 #err\<vblex\>\<imp\>	^err<vblex><imp>$
-     24 #devoid\<vblex\>	^devoid<vblex><pret>$
-     24 #avenge\<vblex\>\<imp\>	^avenge<vblex><imp>$
+     24 #err\<vblex\>\<inf\>	^err<vblex><inf>$
+     24 #devoid\<vblex\>\<past\>	^devoid<vblex><past>$
      23 #spike\<n\>\<sg\>	^spike<n><sg>$
      23 #rake\<vblex\>\<inf\>	^rake<vblex><inf>$
      23 #mister\<n\>\<sg\>	^mister<n><sg>$
      23 #gravel\<n\>\<sg\>	^gravel<n><sg>$
-     23 #Glide\<vblex\>	^Glide<vblex><pret>$
      23 #gadget\<vblex\>\<inf\>	^gadget<vblex><inf>$
-     23 #diffuse\<vblex\>\<imp\>	^diffuse<vblex><imp>$
+     23 #fasten\<vblex\>\<inf\>	^fasten<vblex><inf>$
+     23 #diffuse\<vblex\>\<inf\>	^diffuse<vblex><inf>$
      23 #bitter\<n\>\<sg\>	^bitter<n><sg>$
      22 #weave\<vblex\>\<pp\>	^weave<vblex><pp>$
-     22 #quarrel\<vblex\>\<imp\>	^quarrel<vblex><imp>$
      22 #of all\<adv\>	^of all<adv>$
-     22 #labour\<vblex\>\<imp\>	^labour<vblex><imp>$
-     22 #inconvenience\<vblex\>	^inconvenience<vblex><pret>$
+     22 #inconvenience\<vblex\>\<past\>	^inconvenience<vblex><past>$
      22 #horrify\<vblex\>\<pp\>	^horrify<vblex><pp>$
      22 #hold\<vblex\>\<inf\>	^hold<vblex><inf><pass>$
-     22 #fix\<vblex\>\<imp\>	^fix<vblex><imp>$
-     22 #exalt\<vblex\>	^exalt<vblex><pret>$
+     22 #exalt\<vblex\>\<past\>	^exalt<vblex><past>$
      21 #that is\<adv\>	^that is<adv>$
      21 #screw\<vblex\>\<inf\>	^screw<vblex><inf>$
-     21 #forget\<vblex\>	^forget<vblex><pret>$
-     21 #external\<vblex\>\<imp\>	^external<vblex><imp>$
+     21 #external\<vblex\>\<inf\>	^external<vblex><inf>$
      21 #ensign\<vblex\>\<pp\>	^ensign<vblex><pp>$
      21 #diffuse\<vblex\>\<pres\>	^diffuse<vblex><pres>$
      21 #Cain\<np\>	^Cain<np>$
@@ -334,33 +307,30 @@ Tag mismatch between transfer and generation
      20 #recieve\<vblex\>\<pp\>	^recieve<vblex><pp>$
      20 #pain\<vblex\>\<inf\>	^pain<vblex><inf>$
      20 #lay\<vblex\>\<inf\>	^lay<vblex><inf><pass>$
-     20 #lamb\<vblex\>\<inf\>	^lamb<vblex><inf>$
-     20 #jeer\<vblex\>\<inf\>	^jeer<vblex><inf>$
-     20 #heed\<vblex\>\<imp\>	^heed<vblex><imp>$
+     20 #heed\<vblex\>\<inf\>	^heed<vblex><inf>$
      20 #flame\<vblex\>\<pp\>	^flame<vblex><pp>$
      20 #eat\<vblex\>\<inf\>	^eat<vblex><inf><pass>$
      20 #catch# or to capture\<vblex\>\<inf\>	^catch# or to capture<vblex><inf>$
-     19 #lamb\<vblex\>\<imp\>	^lamb<vblex><imp>$
+     19 #liniment\<vblex\>\<inf\>	^liniment<vblex><inf>$
      19 #Jeconiah\<np\>	^Jeconiah<np>$
      19 #hull\<vblex\>\<pres\>	^hull<vblex><pres>$
      19 #harp\<vblex\>\<inf\>	^harp<vblex><inf>$
      19 #hallow\<vblex\>\<inf\>	^hallow<vblex><inf><pass>$
      19 #give\<vblex\>\<inf\>	^give<vblex><inf><pass>$
-     19 #fast\<vblex\>\<inf\>	^fast<vblex><inf>$
      19 #farm animal\<n\>\<sg\>	^farm animal<n><sg>$
-     19 #fame\<vblex\>	^fame<vblex><pret>$
+     19 #fame\<vblex\>\<past\>	^fame<vblex><past>$
      19 #ensign\<vblex\>\<pres\>	^ensign<vblex><pres>$
      19 #devoid\<vblex\>\<pres\>	^devoid<vblex><pres>$
      19 #Antiochia\<np\>\<top\>\<sg\>	^Antiochia<np><top><sg>$
-     19 #ache\<vblex\>\<imp\>	^ache<vblex><imp>$
+     19 #ache\<vblex\>\<inf\>	^ache<vblex><inf>$
      18 #take\<vblex\>\<inf\>	^take<vblex><inf><pass>$
      18 #set\<vblex\>\<past\># alight	^set<vblex><past># alight$
      18 #Sarai\<np\>	^Sarai<np>$
      18 #liberty\<n\>\<sg\>	^liberty<n><sg>$
      18 #inaugurate\<vblex\>\<pp\>	^inaugurate<vblex><pp>$
+     18 #herd\<vblex\>\<inf\>	^herd<vblex><inf>$
      18 #gladness\<vblex\>\<pres\>	^gladness<vblex><pres>$
-     18 #Devoid\<vblex\>\<imp\>	^Devoid<vblex><imp>$
-     18 #demand\<vblex\>	^demand<vblex><pret>$
+     18 #Devoid\<vblex\>\<inf\>	^Devoid<vblex><inf>$
      18 #Cyrus\<np\>	^Cyrus<np>$
      18 #christening\<n\>\<sg\>	^christening<n><sg>$
      18 #catch\<vblex\>\<pres\># or to capture	^catch<vblex><pres># or to capture$
@@ -373,7 +343,6 @@ Tag mismatch between transfer and generation
      17 #Lazarus\<np\>\<top\>\<sg\>	^Lazarus<np><top><sg>$
      17 #kill\<vblex\>\<inf\>	^kill<vblex><inf><pass>$
      17 #invigorate\<vblex\>\<pp\>	^invigorate<vblex><pp>$
-     17 #herd\<vblex\>\<inf\>	^herd<vblex><inf>$
      17 #grievance\<n\>\<sg\>	^grievance<n><sg>$
      17 #fast\<vblex\>\<pp\>	^fast<vblex><pp>$
      17 #disgust\<vblex\>\<pres\>	^disgust<vblex><pres>$
@@ -383,21 +352,20 @@ Tag mismatch between transfer and generation
      17 #balm\<n\>\<sg\>	^balm<n><sg>$
      16 #rust\<vblex\>\<pp\>	^rust<vblex><pp>$
      16 #reimburse\<n\>\<pl\>	^reimburse<n><pl>$
-     16 #quell\<vblex\>	^quell<vblex><pret>$
      16 #Paul\<np\>	^Paul<np>$
      16 #manslaughter\<n\>\<sg\>	^manslaughter<n><sg>$
-     16 #liniment\<vblex\>\<inf\>	^liniment<vblex><inf>$
      16 #lead\<vblex\>\<inf\>	^lead<vblex><inf><pass>$
      16 #jubilate\<vblex\>\<pres\>	^jubilate<vblex><pres>$
      16 #impeachment\<vblex\>\<pres\>	^impeachment<vblex><pres>$
      16 #Hermon\<np\>	^Hermon<np>$
-     16 #herd\<vblex\>	^herd<vblex><pret>$
-     16 #gobble\<vblex\>	^gobble<vblex><pret>$
+     16 #herd\<vblex\>\<past\>	^herd<vblex><past>$
+     16 #gobble\<vblex\>\<past\>	^gobble<vblex><past>$
      16 #fill\<vblex\>\<inf\>	^fill<vblex><inf><pass>$
      16 #become\<vblex\>\<past\># quiet	^become<vblex><past># quiet$
      16 #ashes\<n\>\<sg\>	^ashes<n><sg>$
      16 #answer\<vblex\>\<inf\>	^answer<vblex><inf><pass>$
      15 #voice\<vblex\>\<past\>	^voice<vblex><past>$
+     15 #terrify\<vblex\>\<pp\>	^terrify<vblex><pp>$
      15 #sow\<vblex\>\<pres\>	^sow<vblex><pres>$
      15 #slave\<vblex\>\<pres\>	^slave<vblex><pres>$
      15 #scrutinise\<vblex\>\<inf\>	^scrutinise<vblex><inf>$
@@ -405,10 +373,8 @@ Tag mismatch between transfer and generation
      15 #Miriam\<np\>	^Miriam<np>$
      15 #Michael\<np\>	^Michael<np>$
      15 #Jaffa\<np\>\<top\>\<sg\>	^Jaffa<np><top><sg>$
-     15 #inhibit\<vblex\>\<imp\>	^inhibit<vblex><imp>$
-     15 #hurry\<vblex\>\<imp\>	^hurry<vblex><imp>$
      15 #hem# in\<vblex\>\<pp\>	^hem# in<vblex><pp>$
-     15 #Guard\<vblex\>\<imp\>	^Guard<vblex><imp>$
+     15 #grace\<vblex\>\<inf\>	^grace<vblex><inf>$
      15 #disgust\<vblex\>\<inf\>	^disgust<vblex><inf>$
      15 #devoid\<vblex\>\<pp\>	^devoid<vblex><pp>$
      15 #denigh\<vblex\>\<pres\>	^denigh<vblex><pres>$
@@ -418,23 +384,20 @@ Tag mismatch between transfer and generation
      15 #buckle\<vblex\>\<pres\>	^buckle<vblex><pres>$
      15 #brewing\<adv\>	^brewing<adv>$
      15 #barley\<n\>\<pl\>	^barley<n><pl>$
-     15 #appal\<vblex\>\<pp\>	^appal<vblex><pp>$
      14 #myself\<prn\>\<p1\>\<pl\>	^myself<prn><p1><pl>$
      14 #long ago\<adv\>	^long ago<adv>$
-     14 #labour\<vblex\>\<inf\>	^labour<vblex><inf>$
-     14 #Interlock\<vblex\>\<imp\>	^Interlock<vblex><imp>$
+     14 #Interlock\<vblex\>\<inf\>	^Interlock<vblex><inf>$
+     14 #interlock\<vblex\>\<inf\>	^interlock<vblex><inf>$
      14 #impeachment\<vblex\>\<inf\>	^impeachment<vblex><inf>$
-     14 #hide\<vblex\>\<imp\>	^hide<vblex><imp>$
-     14 #Hallow\<vblex\>\<imp\>	^Hallow<vblex><imp>$
      14 #groan\<vblex\>\<pres\>	^groan<vblex><pres>$
      14 #glee\<n\>\<sg\>	^glee<n><sg>$
      14 #frontpage\<n\>\<sg\>	^frontpage<n><sg>$
      14 #flog\<vblex\>\<inf\>	^flog<vblex><inf>$
      14 #fellowship\<n\>\<sg\>	^fellowship<n><sg>$
-     14 #Fasten\<vblex\>\<imp\>	^Fasten<vblex><imp>$
+     14 #Fasten\<vblex\>\<inf\>	^Fasten<vblex><inf>$
+     14 #fag\<vblex\>\<inf\>	^fag<vblex><inf>$
      14 #disown\<vblex\>\<inf\>	^disown<vblex><inf>$
-     14 #delude\<vblex\>\<imp\>	^delude<vblex><imp>$
-     14 #Buckle\<vblex\>\<imp\>	^Buckle<vblex><imp>$
+     14 #Buckle\<vblex\>\<inf\>	^Buckle<vblex><inf>$
      14 #break\<vblex\>\<inf\>	^break<vblex><inf><pass>$
      14 #be# queasy\<vblex\>\<inf\>	^be# queasy<vblex><inf>$
      13 #well\<n\>\<pl\>	^well<n><pl>$
@@ -449,27 +412,23 @@ Tag mismatch between transfer and generation
      13 #loot\<vblex\>\<inf\>	^loot<vblex><inf>$
      13 #Lamb\<vblex\>\<pp\>	^Lamb<vblex><pp>$
      13 #jubilate\<vblex\>\<pp\>	^jubilate<vblex><pp>$
-     13 #interlock\<vblex\>\<inf\>	^interlock<vblex><inf>$
      13 #impeachment\<vblex\>\<pp\>	^impeachment<vblex><pp>$
      13 #hind\<n\>\<sg\>	^hind<n><sg>$
      13 #harp\<vblex\>\<pres\>	^harp<vblex><pres>$
      13 #Hagar\<np\>	^Hagar<np>$
      13 #grab\<vblex\>\<inf\>	^grab<vblex><inf><pass>$
-     13 #gain\<vblex\>\<imp\>	^gain<vblex><imp>$
-     13 #gadget\<vblex\>	^gadget<vblex><pret>$
+     13 #gadget\<vblex\>\<past\>	^gadget<vblex><past>$
      13 #furiously\<adv\>	^furiously<adv>$
-     13 #fool\<vblex\>\<imp\>	^fool<vblex><imp>$
      13 #fluctuate\<vblex\>\<inf\>	^fluctuate<vblex><inf><pass>$
      13 #fell\<vblex\>\<inf\>	^fell<vblex><inf>$
-     13 #fasten\<vblex\>\<inf\>	^fasten<vblex><inf>$
      13 #dwindle\<vblex\>\<pres\>	^dwindle<vblex><pres>$
      13 #distress\<vblex\>\<pp\>	^distress<vblex><pp>$
-     13 #delude\<vblex\>\<inf\>	^delude<vblex><inf>$
+     13 #buckle\<vblex\>\<inf\>	^buckle<vblex><inf>$
      13 #Beyond\<pr\>	^Beyond<pr>$
      13 #Bathsheba\<np\>	^Bathsheba<np>$
      13 #abscess\<n\>\<pl\>	^abscess<n><pl>$
      12 #yearning\<n\>\<sg\>	^yearning<n><sg>$
-     12 #Three\<vblex\>\<imp\>	^Three<vblex><imp>$
+     12 #Three\<vblex\>\<inf\>	^Three<vblex><inf>$
      12 #strew\<vblex\>\<pres\>	^strew<vblex><pres>$
      12 #sparkle\<vblex\>\<pres\>	^sparkle<vblex><pres>$
      12 #sow\<vblex\>\<past\>	^sow<vblex><past>$
@@ -482,16 +441,13 @@ Tag mismatch between transfer and generation
      12 #might\<n\>\<pl\>	^might<n><pl>$
      12 #Melchizedek\<np\>	^Melchizedek<np>$
      12 #ledge\<vblex\>\<pp\>	^ledge<vblex><pp>$
-     12 #Hand\<vblex\>\<imp\>	^Hand<vblex><imp>$
      12 #frugalness\<n\>\<sg\>	^frugalness<n><sg>$
-     12 #Forgive\<vblex\>\<imp\>	^Forgive<vblex><imp>$
-     12 #Forget\<vblex\>\<imp\>	^Forget<vblex><imp>$
-     12 #forbid\<vblex\>	^forbid<vblex><pret>$
      12 #foetus\<n\>\<sg\>	^foetus<n><sg>$
      12 #fling\<vblex\>\<pp\>	^fling<vblex><pp>$
-     12 #fag\<vblex\>	^fag<vblex><pret>$
+     12 #fag\<vblex\>\<past\>	^fag<vblex><past>$
      12 #engender\<vblex\>\<pp\>	^engender<vblex><pp>$
      12 #disown\<vblex\>\<pp\>	^disown<vblex><pp>$
+     12 #denigh\<vblex\>\<inf\>	^denigh<vblex><inf>$
      12 #delude\<vblex\>\<pp\>	^delude<vblex><pp>$
      12 #creep\<n\>\<sg\>	^creep<n><sg>$
      12 #chop\<n\>\<sg\>	^chop<n><sg>$
@@ -508,27 +464,22 @@ Tag mismatch between transfer and generation
      11 #scrutinise\<vblex\>\<pres\>	^scrutinise<vblex><pres>$
      11 #say\<vblex\>\<inf\>	^say<vblex><inf><pass>$
      11 #reimburse\<n\>\<sg\>	^reimburse<n><sg>$
-     11 #Pick\<vblex\>\<imp\>	^Pick<vblex><imp>$
      11 #loathe\<n\>\<sg\>	^loathe<n><sg>$
      11 #little\<vblex\>\<pp\>	^little<vblex><pp>$
+     11 #ledge\<vblex\>\<inf\>	^ledge<vblex><inf>$
      11 #Japheth\<np\>	^Japheth<np>$
      11 #instigate\<vblex\>\<pp\>	^instigate<vblex><pp>$
-     11 #inconvenience\<vblex\>\<imp\>	^inconvenience<vblex><imp>$
-     11 #humble\<vblex\>\<imp\>	^humble<vblex><imp>$
-     11 #Hide\<vblex\>\<imp\>	^Hide<vblex><imp>$
+     11 #instigate\<vblex\>\<inf\>	^instigate<vblex><inf>$
+     11 #inconvenience\<vblex\>\<inf\>	^inconvenience<vblex><inf>$
      11 #hem\<vblex\>\<pres\># in	^hem<vblex><pres># in$
      11 #heal\<vblex\>\<inf\>	^heal<vblex><inf><pass>$
      11 #hallow\<vblex\>\<pres\>	^hallow<vblex><pres>$
      11 #gully\<n\>\<sg\>	^gully<n><sg>$
-     11 #grace\<vblex\>\<imp\>	^grace<vblex><imp>$
-     11 #glide\<vblex\>	^glide<vblex><pret>$
      11 #girdle\<vblex\>\<pp\>	^girdle<vblex><pp>$
-     11 #forsake\<vblex\>\<imp\>	^forsake<vblex><imp>$
-     11 #determine\<vblex\>	^determine<vblex><pret>$
+     11 #forsake\<vblex\>\<inf\>	^forsake<vblex><inf>$
+     11 #dip\<vblex\>\<inf\>	^dip<vblex><inf>$
      11 #Deborah\<np\>	^Deborah<np>$
      11 #catch# or to capture\<vblex\>\<pp\>	^catch# or to capture<vblex><pp>$
-     11 #buckle\<vblex\>\<inf\>	^buckle<vblex><inf>$
-     11 #appoint\<vblex\>	^appoint<vblex><pret>$
      11 #Ananias\<np\>	^Ananias<np>$
      11 #Accordingly\<adv\>	^Accordingly<adv>$
      10 #voice\<vblex\>\<inf\>	^voice<vblex><inf>$
@@ -540,19 +491,16 @@ Tag mismatch between transfer and generation
      10 #Set\<np\>	^Set<np>$
      10 #sell\<vblex\>\<inf\>	^sell<vblex><inf><pass>$
      10 #name\<vblex\>\<inf\>	^name<vblex><inf><pass>$
-     10 #ledge\<vblex\>\<inf\>	^ledge<vblex><inf>$
      10 #gobble\<vblex\>\<inf\>	^gobble<vblex><inf>$
+     10 #gnaw\<vblex\>\<inf\>	^gnaw<vblex><inf>$
      10 #fell\<vblex\>\<pres\>	^fell<vblex><pres>$
      10 #fasten\<vblex\>\<inf\>	^fasten<vblex><inf><pass>$
-     10 #fasten\<vblex\>\<imp\>	^fasten<vblex><imp>$
      10 #exultation\<n\>\<pl\>	^exultation<n><pl>$
      10 #excise\<vblex\>\<pp\>	^excise<vblex><pp>$
      10 #Elizabeth\<np\>	^Elizabeth<np>$
      10 #drip\<vblex\>\<pres\>	^drip<vblex><pres>$
      10 #down\<pr\>	^down<pr>$
      10 #disown\<vblex\>\<pres\>	^disown<vblex><pres>$
-     10 #dip\<vblex\>\<inf\>	^dip<vblex><inf>$
-     10 #denigh\<vblex\>\<inf\>	^denigh<vblex><inf>$
      10 #count\<vblex\>\<inf\>	^count<vblex><inf><pass>$
      10 #become\<vblex\>\<pres\># quiet	^become<vblex><pres># quiet$
       9 #wreath\<n\>\<sg\>	^wreath<n><sg>$
@@ -568,23 +516,17 @@ Tag mismatch between transfer and generation
       9 #Law\<np\>	^Law<np>$
       9 #jeweller\<n\>\<sg\>	^jeweller<n><sg>$
       9 #Jachin\<np\>	^Jachin<np>$
+      9 #Its\<vblex\>\<inf\>	^Its<vblex><inf>$
       9 #immerse\<vblex\>\<pp\>	^immerse<vblex><pp>$
       9 #horsefly\<n\>\<sg\>	^horsefly<n><sg>$
       9 #hillside\<vblex\>\<pp\>	^hillside<vblex><pp>$
       9 #gully\<vblex\>\<pp\>	^gully<vblex><pp>$
-      9 #guard\<vblex\>\<imp\>	^guard<vblex><imp>$
-      9 #greet\<vblex\>	^greet<vblex><pret>$
       9 #grace\<vblex\>\<pp\>	^grace<vblex><pp>$
       9 #gallows\<n\>\<sg\>	^gallows<n><sg>$
-      9 #fulfil\<vblex\>\<imp\>	^fulfil<vblex><imp>$
-      9 #found\<vblex\>	^found<vblex><pret>$
       9 #Felix\<np\>	^Felix<np>$
       9 #fasten\<vblex\>\<pres\>	^fasten<vblex><pres>$
-      9 #fall\<vblex\>\<imp\>	^fall<vblex><imp>$
-      9 #fag\<vblex\>\<inf\>	^fag<vblex><inf>$
-      9 #fade\<vblex\>\<imp\>	^fade<vblex><imp>$
       9 #Elon\<np\>	^Elon<np>$
-      9 #Chop\<vblex\>\<imp\>	^Chop<vblex><imp>$
+      9 #Chop\<vblex\>\<inf\>	^Chop<vblex><inf>$
       9 #As it were\<adv\>	^As it were<adv>$
       9 #all\<det\>\<qnt\>\<pl\>\<gen\>	^all<det><qnt><pl><gen>$
       9 #alert\<vblex\>\<pp\>	^alert<vblex><pp>$
@@ -593,27 +535,24 @@ Tag mismatch between transfer and generation
       8 #tub\<n\>\<pl\>	^tub<n><pl>$
       8 #torch\<n\>\<pl\>	^torch<n><pl>$
       8 #toast\<vblex\>\<pres\>	^toast<vblex><pres>$
-      8 #take\<vblex\>	^take<vblex><pret>$
       8 #strew\<vblex\>\<inf\>	^strew<vblex><inf>$
       8 #stone\<vblex\>\<inf\>	^stone<vblex><inf><pass>$
       8 #stay# overnight\<vblex\>\<inf\>	^stay# overnight<vblex><inf>$
       8 #shrub\<n\>\<sg\>	^shrub<n><sg>$
-      8 #rent\<vblex\># money	^rent<vblex><pret># money$
+      8 #rent\<vblex\>\<past\># money	^rent<vblex><past># money$
       8 #Onan\<np\>	^Onan<np>$
       8 #Kush\<np\>	^Kush<np>$
       8 #jerk\<vblex\>\<inf\>	^jerk<vblex><inf><pass>$
       8 #jar\<vblex\>\<pp\>	^jar<vblex><pp>$
-      8 #inaugurate\<vblex\>	^inaugurate<vblex><pret>$
+      8 #inaugurate\<vblex\>\<past\>	^inaugurate<vblex><past>$
       8 #ICE\<vblex\>\<pp\>	^ICE<vblex><pp>$
       8 #hull\<vblex\>\<inf\>	^hull<vblex><inf><pass>$
-      8 #handle\<vblex\>\<imp\>	^handle<vblex><imp>$
       8 #Goliath\<np\>	^Goliath<np>$
-      8 #giant\<vblex\>	^giant<vblex><pret>$
+      8 #giant\<vblex\>\<past\>	^giant<vblex><past>$
       8 #fullness\<n\>\<sg\>	^fullness<n><sg>$
-      8 #forsake\<vblex\>	^forsake<vblex><pret>$
+      8 #forsake\<vblex\>\<past\>	^forsake<vblex><past>$
       8 #Find\<vblex\>\<inf\>	^Find<vblex><inf><pass>$
       8 #false\<n\>\<sg\>	^false<n><sg>$
-      8 #fail\<vblex\>	^fail<vblex><pret>$
       8 #extort\<vblex\>\<pp\>	^extort<vblex><pp>$
       8 #Crucify\<vblex\>\<inf\>	^Crucify<vblex><inf>$
       8 #bully\<vblex\>\<inf\>	^bully<vblex><inf>$
@@ -632,14 +571,10 @@ Tag mismatch between transfer and generation
       7 #lee\<n\>\<sg\>	^lee<n><sg>$
       7 #ledge\<vblex\>\<pres\>	^ledge<vblex><pres>$
       7 #labour\<vblex\>\<pres\>	^labour<vblex><pres>$
-      7 #kill\<vblex\>\<imp\>	^kill<vblex><imp>$
-      7 #Its\<vblex\>\<imp\>	^Its<vblex><imp>$
-      7 #invite\<vblex\>	^invite<vblex><pret>$
       7 #interlock\<vblex\>\<pp\>	^interlock<vblex><pp>$
-      7 #instigate\<vblex\>\<inf\>	^instigate<vblex><inf>$
       7 #innermost\<n\>\<sg\>	^innermost<n><sg>$
       7 #inherit\<n\>\<sg\>	^inherit<n><sg>$
-      7 #Inconvenience\<vblex\>\<imp\>	^Inconvenience<vblex><imp>$
+      7 #Inconvenience\<vblex\>\<inf\>	^Inconvenience<vblex><inf>$
       7 #heal\<vblex\>\<pres\># up	^heal<vblex><pres># up$
       7 #Havilah\<np\>	^Havilah<np>$
       7 #haul\<vblex\>\<past\>	^haul<vblex><past>$
@@ -647,25 +582,23 @@ Tag mismatch between transfer and generation
       7 #groan\<vblex\>\<inf\>	^groan<vblex><inf>$
       7 #girdle\<vblex\>\<pres\>	^girdle<vblex><pres>$
       7 #frame\<vblex\>\<inf\>	^frame<vblex><inf><pass>$
-      7 #forget\<vblex\>\<imp\>	^forget<vblex><imp>$
-      7 #Flee\<vblex\>\<imp\>	^Flee<vblex><imp>$
       7 #fist\<n\>\<sg\>	^fist<n><sg>$
       7 #fig tree\<n\>\<pl\>	^fig tree<n><pl>$
-      7 #fast\<vblex\>\<imp\>	^fast<vblex><imp>$
       7 #fag\<vblex\>\<pres\>	^fag<vblex><pres>$
       7 #fag\<vblex\>\<pp\>	^fag<vblex><pp>$
-      7 #explain\<vblex\>	^explain<vblex><pret>$
+      7 #exalt\<vblex\>\<inf\>	^exalt<vblex><inf>$
       7 #Eilat\<np\>\<top\>\<sg\>	^Eilat<np><top><sg>$
+      7 #din\<vblex\>\<inf\>	^din<vblex><inf>$
       7 #Currant\<n\>\<sg\>	^Currant<n><sg>$
       7 #chop\<vblex\>\<inf\>	^chop<vblex><inf><pass>$
       7 #camel\<n\>\<sg\>	^camel<n><sg>$
       7 #bully\<vblex\>\<pres\>	^bully<vblex><pres>$
-      7 #boil\<vblex\>	^boil<vblex><pret>$
       7 #be\<vblex\>\<pres\># queasy	^be<vblex><pres># queasy$
       7 #bestow\<vblex\>\<pp\>	^bestow<vblex><pp>$
       7 #behold\<vblex\>\<inf\>	^behold<vblex><inf>$
       7 #as far as it goes\<adv\>	^as far as it goes<adv>$
       7 #Akan\<np\>	^Akan<np>$
+      7 #acquit\<vblex\>\<inf\>	^acquit<vblex><inf>$
       6 #write\<vblex\>\<inf\>	^write<vblex><inf><pass>$
       6 #weave\<vblex\>\<past\>	^weave<vblex><past>$
       6 #warden\<n\>\<sg\>	^warden<n><sg>$
@@ -676,7 +609,6 @@ Tag mismatch between transfer and generation
       6 #Sjur\<np\>\<ant\>\<m\>\<sg\>	^Sjur<np><ant><m><sg>$
       6 #sacrifice\<vblex\>\<inf\>	^sacrifice<vblex><inf><pass>$
       6 #resemble\<vblex\>\<inf\>	^resemble<vblex><inf>$
-      6 #repeat\<vblex\>	^repeat<vblex><pret>$
       6 #quarrel\<vblex\>\<pres\>	^quarrel<vblex><pres>$
       6 #proverb\<n\>\<sg\>	^proverb<n><sg>$
       6 #pouch\<n\>\<sg\>	^pouch<n><sg>$
@@ -689,10 +621,8 @@ Tag mismatch between transfer and generation
       6 #loot\<vblex\>\<inf\>	^loot<vblex><inf><pass>$
       6 #liken\<vblex\>\<inf\>	^liken<vblex><inf>$
       6 #lightning\<n\>\<pl\>	^lightning<n><pl>$
-      6 #leave\<vblex\>	^leave<vblex><pret>$
-      6 #kneel\<vblex\>	^kneel<vblex><pret>$
       6 #interlock\<vblex\>\<pres\>	^interlock<vblex><pres>$
-      6 #incitement\<vblex\>\<imp\>	^incitement<vblex><imp>$
+      6 #incitement\<vblex\>\<inf\>	^incitement<vblex><inf>$
       6 #in any case\<adv\>	^in any case<adv>$
       6 #House\<vblex\>\<pp\>	^House<vblex><pp>$
       6 #hillside\<vblex\>\<pres\>	^hillside<vblex><pres>$
@@ -701,45 +631,35 @@ Tag mismatch between transfer and generation
       6 #heed\<vblex\>\<pres\>	^heed<vblex><pres>$
       6 #hail\<vblex\>\<inf\>	^hail<vblex><inf>$
       6 #gobble\<vblex\>\<pres\>	^gobble<vblex><pres>$
-      6 #gnaw\<vblex\>\<imp\>	^gnaw<vblex><imp>$
       6 #gauge\<n\>\<sg\>	^gauge<n><sg>$
-      6 #Gain\<vblex\>\<imp\>	^Gain<vblex><imp>$
       6 #furthest back\<adv\>	^furthest back<adv>$
       6 #flare\<vblex\>\<inf\>	^flare<vblex><inf>$
       6 #fell\<vblex\>\<inf\>	^fell<vblex><inf><pass>$
       6 #fag\<vblex\>\<inf\>	^fag<vblex><inf><pass>$
       6 #exalt\<vblex\>\<pp\>	^exalt<vblex><pp>$
-      6 #exalt\<vblex\>\<inf\>	^exalt<vblex><inf>$
       6 #drum\<vblex\>\<inf\>	^drum<vblex><inf>$
       6 #dip\<vblex\>\<pp\>	^dip<vblex><pp>$
-      6 #din\<vblex\>\<imp\>	^din<vblex><imp>$
       6 #county\<vblex\>\<pres\>	^county<vblex><pres>$
-      6 #choke\<vblex\>	^choke<vblex><pret>$
+      6 #choke\<vblex\>\<past\>	^choke<vblex><past>$
       6 #chase\<vblex\>\<inf\>	^chase<vblex><inf><pass>$
       6 #calling\<n\>\<sg\>	^calling<n><sg>$
       6 #bless\<vblex\>\<inf\>	^bless<vblex><inf><pass>$
       6 #betroth\<vblex\>\<pp\>	^betroth<vblex><pp>$
       6 #be# able to\<vblex\>\<pp\>	^be# able to<vblex><pp>$
-      6 #appear\<vblex\>\<imp\>	^appear<vblex><imp>$
-      6 #admonish\<vblex\>	^admonish<vblex><pret>$
-      6 #acquit\<vblex\>\<inf\>	^acquit<vblex><inf>$
       5 #wallet\<n\>\<sg\>	^wallet<n><sg>$
-      5 #Wake\<vblex\>\<imp\>	^Wake<vblex><imp>$
       5 #venom\<n\>\<pl\>	^venom<n><pl>$
       5 #travel\<vblex\>\<inf\>	^travel<vblex><inf><pass>$
       5 #towards the north\<adv\>	^towards the north<adv>$
       5 #tie\<vblex\>\<inf\>	^tie<vblex><inf><pass>$
-      5 #ticket-window\<vblex\>	^ticket-window<vblex><pret>$
+      5 #ticket-window\<vblex\>\<past\>	^ticket-window<vblex><past>$
       5 #That\<det\>\<dem\>\<sg\>\<gen\>	^That<det><dem><sg><gen>$
       5 #stumble\<vblex\>\<pp\>	^stumble<vblex><pp>$
       5 #steer\<vblex\>\<pres\>	^steer<vblex><pres>$
-      5 #steal\<vblex\>	^steal<vblex><pret>$
       5 #shelves\<n\>\<pl\>	^shelves<n><pl>$
       5 #see-saw\<n\>\<sg\>	^see-saw<n><sg>$
       5 #scorn\<n\>\<sg\>	^scorn<n><sg>$
       5 #Rev\<vblex\>\<pp\>	^Rev<vblex><pp>$
       5 #recieve\<vblex\>\<pres\>	^recieve<vblex><pres>$
-      5 #receive\<vblex\>\<imp\>	^receive<vblex><imp>$
       5 #pile# up\<vblex\>\<pp\>	^pile# up<vblex><pp>$
       5 #Peer\<n\>\<sg\>	^Peer<n><sg>$
       5 #patch\<n\>\<sg\>	^patch<n><sg>$
@@ -750,7 +670,7 @@ Tag mismatch between transfer and generation
       5 #liken\<vblex\>\<inf\>	^liken<vblex><inf><pass>$
       5 #Leviathan\<np\>	^Leviathan<np>$
       5 #lament\<vblex\>\<pp\>	^lament<vblex><pp>$
-      5 #lament\<vblex\>\<imp\>	^lament<vblex><imp>$
+      5 #lament\<vblex\>\<inf\>	^lament<vblex><inf>$
       5 #lamb\<vblex\>\<pp\>	^lamb<vblex><pp>$
       5 #instigate\<vblex\>\<pres\>	^instigate<vblex><pres>$
       5 #inaugurate\<vblex\>\<inf\>	^inaugurate<vblex><inf>$
@@ -758,20 +678,17 @@ Tag mismatch between transfer and generation
       5 #hook\<vblex\>\<pres\>	^hook<vblex><pres>$
       5 #hoard\<n\>\<sg\>	^hoard<n><sg>$
       5 #henceforth\<adv\>	^henceforth<adv>$
-      5 #heed\<vblex\>	^heed<vblex><pret>$
+      5 #heed\<vblex\>\<past\>	^heed<vblex><past>$
       5 #headstrong\<vblex\>\<pres\>	^headstrong<vblex><pres>$
       5 #hate\<vblex\>\<inf\>	^hate<vblex><inf><pass>$
-      5 #gully\<vblex\>	^gully<vblex><pret>$
+      5 #gully\<vblex\>\<past\>	^gully<vblex><past>$
       5 #graft\<vblex\>\<pp\>	^graft<vblex><pp>$
-      5 #flower\<vblex\>\<imp\>	^flower<vblex><imp>$
       5 #fist\<n\>\<pl\>	^fist<n><pl>$
       5 #few\<comp\>	^few<comp>$
       5 #Fame\<vblex\>\<pp\>	^Fame<vblex><pp>$
-      5 #fag\<vblex\>\<imp\>	^fag<vblex><imp>$
       5 #evaluate\<vblex\>\<inf\>	^evaluate<vblex><inf><pass>$
-      5 #ensign\<vblex\>\<imp\>	^ensign<vblex><imp>$
       5 #Eder\<np\>	^Eder<np>$
-      5 #distress\<vblex\>\<imp\>	^distress<vblex><imp>$
+      5 #distress\<vblex\>\<inf\>	^distress<vblex><inf>$
       5 #Distress\<n\>\<sg\>	^Distress<n><sg>$
       5 #devastate\<vblex\>\<inf\>	^devastate<vblex><inf><pass>$
       5 #cultivate\<vblex\>\<inf\>	^cultivate<vblex><inf><pass>$
@@ -779,12 +696,9 @@ Tag mismatch between transfer and generation
       5 #crucify\<vblex\>\<inf\>	^crucify<vblex><inf>$
       5 #Crete\<np\>\<top\>\<sg\>	^Crete<np><top><sg>$
       5 #coronate\<vblex\>\<pp\>	^coronate<vblex><pp>$
-      5 #change\<vblex\>\<imp\>	^change<vblex><imp>$
       5 #can\<vaux\>\<pp\>	^can<vaux><pp>$
       5 #Caligula\<np\>	^Caligula<np>$
-      5 #Better\<vblex\>\<imp\>	^Better<vblex><imp>$
-      5 #bake\<vblex\>	^bake<vblex><pret>$
-      5 #bake\<vblex\>\<imp\>	^bake<vblex><imp>$
+      5 #Better\<vblex\>\<inf\>	^Better<vblex><inf>$
       5 #axe\<vblex\>\<inf\>	^axe<vblex><inf>$
       5 #Artemis\<np\>	^Artemis<np>$
       5 #ache\<vblex\>\<pp\>	^ache<vblex><pp>$
@@ -810,14 +724,12 @@ Tag mismatch between transfer and generation
       4 #scrub\<n\>\<sg\>	^scrub<n><sg>$
       4 #Sarepta\<np\>	^Sarepta<np>$
       4 #robber\<n\>\<sg\>	^robber<n><sg>$
-      4 #roast\<vblex\>	^roast<vblex><pret>$
       4 #reign\<n\>\<sg\>	^reign<n><sg>$
       4 #reek\<vblex\>\<pp\>	^reek<vblex><pp>$
       4 #reef\<n\>\<pl\>	^reef<n><pl>$
-      4 #recieve\<vblex\>	^recieve<vblex><pret>$
+      4 #recieve\<vblex\>\<past\>	^recieve<vblex><past>$
       4 #raw\<adj\>	^raw<adj>$
       4 #Rake\<vblex\>\<inf\>	^Rake<vblex><inf>$
-      4 #pick\<vblex\>\<imp\>	^pick<vblex><imp>$
       4 #pay\<vblex\>\<inf\>	^pay<vblex><inf><pass>$
       4 #pain\<vblex\>\<pres\>	^pain<vblex><pres>$
       4 #ornament\<n\>\<pl\>	^ornament<n><pl>$
@@ -825,61 +737,51 @@ Tag mismatch between transfer and generation
       4 #Noa\<np\>	^Noa<np>$
       4 #melt\<vblex\>\<inf\>	^melt<vblex><inf><pass>$
       4 #lye\<n\>\<sg\>	^lye<n><sg>$
-      4 #lug\<vblex\>	^lug<vblex><pret>$
+      4 #lug\<vblex\>\<past\>	^lug<vblex><past>$
       4 #lug\<vblex\>\<inf\>	^lug<vblex><inf><pass>$
       4 #liniment\<vblex\>\<pres\>	^liniment<vblex><pres>$
       4 #liaison\<n\>\<sg\>	^liaison<n><sg>$
+      4 #lap\<vblex\>\<inf\>	^lap<vblex><inf>$
       4 #lament\<vblex\>\<pres\>	^lament<vblex><pres>$
       4 #lair\<n\>\<sg\>	^lair<n><sg>$
       4 #knead\<vblex\>\<pp\>	^knead<vblex><pp>$
       4 #interpret\<vblex\>\<inf\>	^interpret<vblex><inf><pass>$
-      4 #instigate\<vblex\>\<imp\>	^instigate<vblex><imp>$
       4 #inflict\<vblex\>\<pp\>	^inflict<vblex><pp>$
       4 #in all\<adv\>	^in all<adv>$
-      4 #ice\<vblex\>\<imp\>	^ice<vblex><imp>$
-      4 #hull\<vblex\>\<imp\>	^hull<vblex><imp>$
+      4 #ice\<vblex\>\<inf\>	^ice<vblex><inf>$
       4 #highroad\<n\>\<sg\>	^highroad<n><sg>$
+      4 #hem# in\<vblex\>\<inf\>	^hem# in<vblex><inf>$
       4 #hearts\<n\>\<sg\>	^hearts<n><sg>$
       4 #Heal\<vblex\>\<inf\>	^Heal<vblex><inf><pass>$
-      4 #heal# up\<vblex\>\<imp\>	^heal# up<vblex><imp>$
+      4 #heal# up\<vblex\>\<inf\>	^heal# up<vblex><inf>$
       4 #headstrong\<vblex\>\<pp\>	^headstrong<vblex><pp>$
       4 #haul\<vblex\>\<pp\>	^haul<vblex><pp>$
       4 #haul\<vblex\>\<inf\>	^haul<vblex><inf>$
-      4 #hand\<vblex\>\<imp\>	^hand<vblex><imp>$
       4 #hail\<vblex\>\<pp\>	^hail<vblex><pp>$
       4 #gully\<vblex\>\<pres\>	^gully<vblex><pres>$
       4 #grudge\<vblex\>\<pres\>	^grudge<vblex><pres>$
       4 #grind\<vblex\>\<pp\>	^grind<vblex><pp>$
       4 #grate\<n\>\<sg\>	^grate<n><sg>$
-      4 #grace\<vblex\>\<inf\>	^grace<vblex><inf>$
       4 #gobble\<vblex\>\<pp\>	^gobble<vblex><pp>$
-      4 #gnaw\<vblex\>\<inf\>	^gnaw<vblex><inf>$
       4 #glade\<n\>\<sg\>	^glade<n><sg>$
       4 #girdle\<n\>\<pl\>	^girdle<n><pl>$
       4 #gadget\<vblex\>\<pres\>	^gadget<vblex><pres>$
       4 #fume\<vblex\>\<pres\>	^fume<vblex><pres>$
       4 #frizz\<vblex\>\<pp\>	^frizz<vblex><pp>$
       4 #free\<vblex\>\<inf\>	^free<vblex><inf><pass>$
-      4 #forgive\<vblex\>	^forgive<vblex><pret>$
       4 #footing\<n\>\<sg\>	^footing<n><sg>$
       4 #foliage\<n\>\<sg\>	^foliage<n><sg>$
-      4 #fling\<vblex\>	^fling<vblex><pret>$
-      4 #flee\<vblex\>\<imp\>	^flee<vblex><imp>$
+      4 #fling\<vblex\>\<past\>	^fling<vblex><past>$
       4 #flare\<vblex\>\<pres\>	^flare<vblex><pres>$
       4 #fence\<vblex\>\<inf\>	^fence<vblex><inf>$
       4 #fell\<vblex\>\<pp\>	^fell<vblex><pp>$
       4 #fame\<vblex\>\<pp\>	^fame<vblex><pp>$
       4 #encircle\<vblex\>\<inf\>	^encircle<vblex><inf>$
-      4 #earn\<vblex\>	^earn<vblex><pret>$
-      4 #dupe\<vblex\>	^dupe<vblex><pret>$
-      4 #disappear\<vblex\>	^disappear<vblex><pret>$
-      4 #denounce\<vblex\>	^denounce<vblex><pret>$
-      4 #Demand\<vblex\>\<imp\>	^Demand<vblex><imp>$
+      4 #dupe\<vblex\>\<past\>	^dupe<vblex><past>$
       4 #dedicate\<vblex\>\<inf\>	^dedicate<vblex><inf><pass>$
       4 #cow\<vblex\>\<pres\>	^cow<vblex><pres>$
       4 #Cow\<vblex\>\<inf\>	^Cow<vblex><inf>$
       4 #cow\<vblex\>\<inf\>	^cow<vblex><inf>$
-      4 #count\<vblex\>\<imp\>	^count<vblex><imp>$
       4 #contrivance\<n\>\<sg\>	^contrivance<n><sg>$
       4 #breadth\<n\>\<pl\>	^breadth<n><pl>$
       4 #blemish\<vblex\>\<inf\>	^blemish<vblex><inf><pass>$
@@ -887,9 +789,7 @@ Tag mismatch between transfer and generation
       4 #Bartholomew\<np\>	^Bartholomew<np>$
       4 #axe\<vblex\>\<pres\>	^axe<vblex><pres>$
       4 #authentic\<vblex\>\<inf\>	^authentic<vblex><inf>$
-      4 #attack\<vblex\>	^attack<vblex><pret>$
       4 #apprentice\<n\>\<sg\>	^apprentice<n><sg>$
-      4 #allow\<vblex\>	^allow<vblex><pret>$
       4 #\<adv\>	^<adv>$
       4 #accuser\<n\>\<pl\>	^accuser<n><pl>$
       3 #Zacchaeus\<np\>	^Zacchaeus<np>$
@@ -911,7 +811,6 @@ Tag mismatch between transfer and generation
       3 #scare\<vblex\>\<inf\>	^scare<vblex><inf><pass>$
       3 #Row\<vblex\>\<inf\>	^Row<vblex><inf><pass>$
       3 #resemble\<vblex\>\<inf\>	^resemble<vblex><inf><pass>$
-      3 #repeat\<vblex\>\<imp\>	^repeat<vblex><imp>$
       3 #reel\<vblex\>\<inf\>	^reel<vblex><inf>$
       3 #REEF\<n\>\<sg\>	^REEF<n><sg>$
       3 #redemption\<n\>\<sg\>	^redemption<n><sg>$
@@ -938,84 +837,68 @@ Tag mismatch between transfer and generation
       3 #mighty\<adj\>\<sup\>	^mighty<adj><sup>$
       3 #Lysias\<np\>	^Lysias<np>$
       3 #Long ago\<adv\>	^Long ago<adv>$
-      3 #locate\<vblex\>	^locate<vblex><pret>$
-      3 #locate\<vblex\>\<imp\>	^locate<vblex><imp>$
       3 #Little\<vblex\>\<pp\>	^Little<vblex><pp>$
-      3 #liniment\<vblex\>\<imp\>	^liniment<vblex><imp>$
       3 #lighten\<vblex\>\<pp\>	^lighten<vblex><pp>$
       3 #Last\<adv\>	^Last<adv>$
       3 #Labour\<vblex\>\<pp\>	^Labour<vblex><pp>$
-      3 #Kill\<vblex\>\<imp\>	^Kill<vblex><imp>$
       3 #Jose\<np\>	^Jose<np>$
       3 #jar\<vblex\>\<inf\>	^jar<vblex><inf>$
       3 #inwards\<adv\>	^inwards<adv>$
-      3 #invite\<vblex\>\<imp\>	^invite<vblex><imp>$
-      3 #invigorate\<vblex\>\<imp\>	^invigorate<vblex><imp>$
-      3 #Initiate\<vblex\>\<imp\>	^Initiate<vblex><imp>$
-      3 #initiate\<vblex\>\<imp\>	^initiate<vblex><imp>$
       3 #indignation\<vblex\>\<inf\>	^indignation<vblex><inf><pass>$
       3 #Inconvenience\<vblex\>\<pres\>	^Inconvenience<vblex><pres>$
       3 #inaugurate\<vblex\>\<pres\>	^inaugurate<vblex><pres>$
       3 #hurl\<vblex\>\<inf\>	^hurl<vblex><inf>$
       3 #heron\<n\>\<pl\>	^heron<n><pl>$
-      3 #hem# in\<vblex\>\<inf\>	^hem# in<vblex><inf>$
       3 #Hebrew\<adj\>	^Hebrew<adj>$
-      3 #headstrong\<vblex\>\<imp\>	^headstrong<vblex><imp>$
-      3 #hate\<vblex\>\<imp\>	^hate<vblex><imp>$
+      3 #headstrong\<vblex\>\<inf\>	^headstrong<vblex><inf>$
       3 #Hallow\<vblex\>\<pp\>	^Hallow<vblex><pp>$
+      3 #grudge\<vblex\>\<inf\>	^grudge<vblex><inf>$
       3 #Girdle\<n\>\<sg\>	^Girdle<n><sg>$
       3 #gall\<n\>\<sg\>	^gall<n><sg>$
       3 #gadget\<vblex\>\<pp\>	^gadget<vblex><pp>$
       3 #flour\<vblex\>\<inf\>	^flour<vblex><inf>$
       3 #flit\<vblex\>\<pres\>	^flit<vblex><pres>$
       3 #fling\<vblex\>\<pres\>	^fling<vblex><pres>$
-      3 #flat\<vblex\>\<imp\>	^flat<vblex><imp>$
+      3 #flat\<vblex\>\<inf\>	^flat<vblex><inf>$
       3 #flare\<vblex\>\<pp\>	^flare<vblex><pp>$
       3 #fetch\<vblex\>\<inf\>	^fetch<vblex><inf><pass>$
       3 #felony\<n\>\<sg\>	^felony<n><sg>$
       3 #farm animal\<n\>\<pl\>	^farm animal<n><pl>$
-      3 #fame\<vblex\>\<imp\>	^fame<vblex><imp>$
+      3 #fame\<vblex\>\<inf\>	^fame<vblex><inf>$
       3 #extort\<vblex\>\<pres\>	^extort<vblex><pres>$
       3 #extort\<vblex\>\<inf\>	^extort<vblex><inf>$
       3 #execute\<vblex\>\<inf\>	^execute<vblex><inf><pass>$
       3 #Excise\<vblex\>\<inf\>	^Excise<vblex><inf>$
       3 #exalt\<vblex\>\<pres\>	^exalt<vblex><pres>$
-      3 #Exalt\<vblex\>\<imp\>	^Exalt<vblex><imp>$
-      3 #Ensign\<vblex\>\<imp\>	^Ensign<vblex><imp>$
+      3 #Exalt\<vblex\>\<inf\>	^Exalt<vblex><inf>$
+      3 #Ensign\<vblex\>\<inf\>	^Ensign<vblex><inf>$
       3 #engrave\<vblex\>\<inf\>	^engrave<vblex><inf>$
-      3 #elevate\<vblex\>	^elevate<vblex><pret>$
       3 #ebb\<vblex\>\<pres\>	^ebb<vblex><pres>$
       3 #ebb\<vblex\>\<pp\>	^ebb<vblex><pp>$
       3 #dwindle\<vblex\>\<inf\>	^dwindle<vblex><inf>$
-      3 #dupe\<vblex\>\<inf\>	^dupe<vblex><inf>$
       3 #duck\<vblex\>\<pres\>	^duck<vblex><pres>$
       3 #drum\<vblex\>\<pres\>	^drum<vblex><pres>$
       3 #drip\<vblex\>\<inf\>	^drip<vblex><inf>$
       3 #Dread\<n\>\<sg\>	^Dread<n><sg>$
       3 #disgust\<vblex\>\<pp\>	^disgust<vblex><pp>$
-      3 #depose\<vblex\>	^depose<vblex><pret>$
-      3 #demand\<vblex\>\<imp\>	^demand<vblex><imp>$
       3 #delude\<vblex\>\<pres\>	^delude<vblex><pres>$
       3 #delete\<vblex\>\<inf\>	^delete<vblex><inf><pass>$
-      3 #defy\<vblex\>\<imp\>	^defy<vblex><imp>$
-      3 #Deduce\<vblex\>\<imp\>	^Deduce<vblex><imp>$
       3 #declare\<vblex\>\<inf\>	^declare<vblex><inf><pass>$
       3 #culprit\<n\>\<sg\>	^culprit<n><sg>$
       3 #crescent moon\<n\>\<pl\>	^crescent moon<n><pl>$
       3 #coronate\<vblex\>\<pres\>	^coronate<vblex><pres>$
-      3 #conciliate\<vblex\>	^conciliate<vblex><pret>$
       3 #clay\<vblex\>\<pp\>	^clay<vblex><pp>$
       3 #Claudius\<np\>	^Claudius<np>$
       3 #catch# or to capture\<vblex\>\<inf\>	^catch# or to capture<vblex><inf><pass>$
       3 #Calvary\<np\>\<top\>\<sg\>	^Calvary<np><top><sg>$
       3 #bury\<vblex\>\<inf\>	^bury<vblex><inf><pass>$
+      3 #bestow\<vblex\>\<inf\>	^bestow<vblex><inf>$
       3 #Berit\<np\>\<top\>\<sg\>	^Berit<np><top><sg>$
       3 #Berenice\<np\>	^Berenice<np>$
       3 #Below\<pr\>	^Below<pr>$
       3 #beautiful\<adj\>\<comp\>	^beautiful<adj><comp>$
       3 #barb\<n\>\<sg\>	^barb<n><sg>$
       3 #Aries\<np\>\<al\>\<sg\>	^Aries<np><al><sg>$
-      3 #appear\<vblex\>	^appear<vblex><pret>$
       3 #a\<n\>\<sg\>	^a<n><sg>$
       3 #Alpha\<np\>	^Alpha<np>$
       3 #agreed\<adv\>	^agreed<adv>$
@@ -1028,7 +911,7 @@ Tag mismatch between transfer and generation
       2 #warden\<n\>\<pl\>	^warden<n><pl>$
       2 #wallet\<n\>\<pl\>	^wallet<n><pl>$
       2 #wake\<vblex\>\<inf\>	^wake<vblex><inf><pass>$
-      2 #Upstairs\<vblex\>\<imp\>	^Upstairs<vblex><imp>$
+      2 #Upstairs\<vblex\>\<inf\>	^Upstairs<vblex><inf>$
       2 #Umpire\<n\>\<pl\>	^Umpire<n><pl>$
       2 #twig\<n\>\<sg\>	^twig<n><sg>$
       2 #tombstone\<n\>\<sg\>	^tombstone<n><sg>$
@@ -1070,7 +953,7 @@ Tag mismatch between transfer and generation
       2 #reel\<vblex\>\<pres\>	^reel<vblex><pres>$
       2 #reel\<vblex\>\<pp\>	^reel<vblex><pp>$
       2 #Red Sea\<np\>\<top\>\<sg\>	^Red Sea<np><top><sg>$
-      2 #recieve\<vblex\>\<imp\>	^recieve<vblex><imp>$
+      2 #recieve\<vblex\>\<inf\>	^recieve<vblex><inf>$
       2 #read\<vblex\>\<inf\>	^read<vblex><inf><pass>$
       2 #rake\<vblex\>\<inf\>	^rake<vblex><inf><pass>$
       2 #quieten\<vblex\>\<pp\>	^quieten<vblex><pp>$
@@ -1093,14 +976,12 @@ Tag mismatch between transfer and generation
       2 #Lydia\<np\>	^Lydia<np>$
       2 #lurch\<vblex\>\<pres\>	^lurch<vblex><pres>$
       2 #lunatic\<n\>\<sg\>	^lunatic<n><sg>$
-      2 #lap\<vblex\>\<inf\>	^lap<vblex><inf>$
-      2 #lap\<vblex\>\<imp\>	^lap<vblex><imp>$
       2 #lapse\<vblex\>\<inf\>	^lapse<vblex><inf>$
       2 #lance\<n\>\<sg\>	^lance<n><sg>$
       2 #lamb\<vblex\>\<inf\>	^lamb<vblex><inf><pass>$
-      2 #Labour\<vblex\>\<imp\>	^Labour<vblex><imp>$
+      2 #Labour\<vblex\>\<inf\>	^Labour<vblex><inf>$
       2 #knoll\<n\>\<pl\>	^knoll<n><pl>$
-      2 #knead\<vblex\>	^knead<vblex><pret>$
+      2 #knead\<vblex\>\<past\>	^knead<vblex><past>$
       2 #kettledrum\<n\>\<sg\>	^kettledrum<n><sg>$
       2 #Just\<vblex\>\<pp\>	^Just<vblex><pp>$
       2 #JO\<np\>\<ant\>\<m\>\<sg\>	^JO<np><ant><m><sg>$
@@ -1109,15 +990,15 @@ Tag mismatch between transfer and generation
       2 #jeweller\<n\>\<pl\>	^jeweller<n><pl>$
       2 #jeer\<vblex\>\<inf\>	^jeer<vblex><inf><pass>$
       2 #jar\<vblex\>\<pres\>	^jar<vblex><pres>$
-      2 #Its\<vblex\>\<inf\>	^Its<vblex><inf>$
       2 #irrespective of\<pr\>	^irrespective of<pr>$
-      2 #Invigorate\<vblex\>\<imp\>	^Invigorate<vblex><imp>$
-      2 #Instigate\<vblex\>\<imp\>	^Instigate<vblex><imp>$
+      2 #Invigorate\<vblex\>\<inf\>	^Invigorate<vblex><inf>$
+      2 #Instigate\<vblex\>\<inf\>	^Instigate<vblex><inf>$
       2 #injure\<vblex\>\<inf\>	^injure<vblex><inf><pass>$
       2 #initiate\<vblex\>\<inf\>	^initiate<vblex><inf><pass>$
       2 #in heaps\<adv\>	^in heaps<adv>$
+      2 #immerse\<vblex\>\<inf\>	^immerse<vblex><inf>$
       2 #humble\<vblex\>\<inf\>	^humble<vblex><inf><pass>$
-      2 #Humble\<vblex\>\<imp\>	^Humble<vblex><imp>$
+      2 #Humble\<vblex\>\<inf\>	^Humble<vblex><inf>$
       2 #hue\<vblex\>\<pres\>	^hue<vblex><pres>$
       2 #hoot\<vblex\>\<inf\>	^hoot<vblex><inf>$
       2 #hollow\<vblex\>\<pres\>	^hollow<vblex><pres>$
@@ -1131,33 +1012,24 @@ Tag mismatch between transfer and generation
       2 #Henceforth\<adv\>	^Henceforth<adv>$
       2 #heed\<vblex\>\<pp\>	^heed<vblex><pp>$
       2 #heathen\<n\>\<sg\>	^heathen<n><sg>$
-      2 #heal\<vblex\># up	^heal<vblex><pret># up$
-      2 #Heal\<vblex\>\<imp\>	^Heal<vblex><imp>$
+      2 #heal\<vblex\>\<past\># up	^heal<vblex><past># up$
       2 #headwind\<n\>\<sg\>	^headwind<n><sg>$
-      2 #headstrong\<vblex\>	^headstrong<vblex><pret>$
+      2 #headstrong\<vblex\>\<past\>	^headstrong<vblex><past>$
       2 #Have# sex\<vblex\>\<inf\>	^Have# sex<vblex><inf>$
       2 #harrow\<vblex\>\<inf\>	^harrow<vblex><inf>$
-      2 #hang\<vblex\>\<imp\>	^hang<vblex><imp>$
       2 #half-way\<adv\>	^half-way<adv>$
-      2 #grudge\<vblex\>\<imp\>	^grudge<vblex><imp>$
       2 #groan\<vblex\>\<pp\>	^groan<vblex><pp>$
       2 #grind\<vblex\>\<inf\>	^grind<vblex><inf>$
-      2 #greet\<vblex\>\<imp\>	^greet<vblex><imp>$
       2 #goblet\<n\>\<pl\>	^goblet<n><pl>$
       2 #gnaw\<vblex\>\<pres\>	^gnaw<vblex><pres>$
-      2 #glide\<vblex\>\<imp\>	^glide<vblex><imp>$
-      2 #girdle\<vblex\>	^girdle<vblex><pret>$
+      2 #girdle\<vblex\>\<past\>	^girdle<vblex><past>$
       2 #Gethsemane\<np\>\<top\>\<sg\>	^Gethsemane<np><top><sg>$
       2 #Getae\<np\>	^Getae<np>$
       2 #fume\<vblex\>\<inf\>	^fume<vblex><inf>$
       2 #Frontpage\<n\>\<sg\>	^Frontpage<n><sg>$
-      2 #Frame\<vblex\>\<imp\>	^Frame<vblex><imp>$
       2 #Fourty\<num\>\<pl\>	^Fourty<num><pl>$
       2 #Forth\<pr\>	^Forth<pr>$
-      2 #forecast\<vblex\>	^forecast<vblex><pret>$
-      2 #fool\<vblex\>	^fool<vblex><pret>$
       2 #foetus\<n\>\<pl\>	^foetus<n><pl>$
-      2 #fluctuate\<vblex\>	^fluctuate<vblex><pret>$
       2 #flog\<vblex\>\<pp\>	^flog<vblex><pp>$
       2 #float\<n\>\<pl\>	^float<n><pl>$
       2 #fling\<vblex\>\<inf\>	^fling<vblex><inf><pass>$
@@ -1176,66 +1048,45 @@ Tag mismatch between transfer and generation
       2 #falls\<n\>\<pl\>	^falls<n><pl>$
       2 #fail\<vblex\>\<inf\>	^fail<vblex><inf><pass>$
       2 #Ezekiel\<np\>	^Ezekiel<np>$
-      2 #extradite\<vblex\>	^extradite<vblex><pret>$
       2 #expose\<vblex\>\<inf\>	^expose<vblex><inf><pass>$
-      2 #Explain\<vblex\>\<imp\>	^Explain<vblex><imp>$
       2 #excise\<vblex\>\<inf\>	^excise<vblex><inf><pass>$
-      2 #excise\<vblex\>\<imp\>	^excise<vblex><imp>$
-      2 #Eradicate\<vblex\>\<imp\>	^Eradicate<vblex><imp>$
-      2 #entertain\<vblex\>\<imp\>	^entertain<vblex><imp>$
       2 #encumber\<vblex\>\<inf\>	^encumber<vblex><inf>$
       2 #encircle\<vblex\>\<pres\>	^encircle<vblex><pres>$
-      2 #embalm\<vblex\>	^embalm<vblex><pret>$
+      2 #embalm\<vblex\>\<past\>	^embalm<vblex><past>$
       2 #embalm\<vblex\>\<inf\>	^embalm<vblex><inf>$
       2 #Eleazar\<np\>	^Eleazar<np>$
       2 #edit\<vblex\>\<inf\>	^edit<vblex><inf><pass>$
       2 #ebb\<vblex\>\<inf\>	^ebb<vblex><inf>$
-      2 #ease\<vblex\>\<imp\>	^ease<vblex><imp>$
       2 #dupe\<vblex\>\<pres\>	^dupe<vblex><pres>$
       2 #dupe\<vblex\>\<pp\>	^dupe<vblex><pp>$
       2 #drip\<vblex\>\<pp\>	^drip<vblex><pp>$
       2 #drip\<n\>\<sg\>	^drip<n><sg>$
       2 #dregs\<n\>\<sg\>	^dregs<n><sg>$
-      2 #Drag\<vblex\>\<imp\>	^Drag<vblex><imp>$
       2 #divide\<vblex\>\<inf\>	^divide<vblex><inf><pass>$
-      2 #dive\<vblex\>	^dive<vblex><pret>$
-      2 #disguise\<vblex\>\<imp\>	^disguise<vblex><imp>$
       2 #Disciple\<n\>\<sg\>	^Disciple<n><sg>$
       2 #dip\<vblex\>\<pres\>	^dip<vblex><pres>$
-      2 #denigh\<vblex\>\<imp\>	^denigh<vblex><imp>$
       2 #deception\<n\>\<sg\>	^deception<n><sg>$
-      2 #date\<vblex\>	^date<vblex><pret>$
       2 #dam\<n\>\<sg\>	^dam<n><sg>$
       2 #Dalen,_Telemark\<np\>	^Dalen,_Telemark<np>$
       2 #cut\<vblex\>\<inf\>	^cut<vblex><inf><pass>$
-      2 #cultivate\<vblex\>\<imp\>	^cultivate<vblex><imp>$
       2 #crust\<vblex\>\<inf\>	^crust<vblex><inf>$
       2 #crack\<vblex\>\<inf\>	^crack<vblex><inf><pass>$
       2 #crackle\<vblex\>\<pres\>	^crackle<vblex><pres>$
-      2 #course\<vblex\>	^course<vblex><pret>$
       2 #course\<vblex\>\<pres\>	^course<vblex><pres>$
-      2 #County\<vblex\>\<imp\>	^County<vblex><imp>$
-      2 #convince\<vblex\>	^convince<vblex><pret>$
-      2 #Continue\<vblex\>\<imp\>	^Continue<vblex><imp>$
-      2 #conquer\<vblex\>\<imp\>	^conquer<vblex><imp>$
-      2 #confess\<vblex\>\<imp\>	^confess<vblex><imp>$
+      2 #course\<vblex\>\<past\>	^course<vblex><past>$
+      2 #County\<vblex\>\<inf\>	^County<vblex><inf>$
       2 #close to\<pr\>	^close to<pr>$
-      2 #clay\<vblex\>\<inf\>	^clay<vblex><inf>$
       2 #clasp\<vblex\>\<inf\>	^clasp<vblex><inf>$
       2 #choke\<vblex\>\<pres\>	^choke<vblex><pres>$
       2 #choke\<vblex\>\<inf\>	^choke<vblex><inf><pass>$
       2 #change\<vblex\>\<inf\>	^change<vblex><inf><pass>$
-      2 #cease\<vblex\>\<imp\>	^cease<vblex><imp>$
       2 #canal\<n\>\<pl\>	^canal<n><pl>$
       2 #By the way\<adv\>	^By the way<adv>$
       2 #by the way\<adv\>	^by the way<adv>$
       2 #buy\<vblex\>\<inf\>	^buy<vblex><inf><pass>$
-      2 #Bury\<vblex\>\<imp\>	^Bury<vblex><imp>$
       2 #buckle\<vblex\>\<inf\>	^buckle<vblex><inf><pass>$
-      2 #buckle\<vblex\>\<imp\>	^buckle<vblex><imp>$
       2 #brim\<n\>\<sg\>	^brim<n><sg>$
       2 #boil\<vblex\>\<inf\>	^boil<vblex><inf><pass>$
-      2 #boil\<vblex\>\<imp\>	^boil<vblex><imp>$
       2 #blend\<n\>\<sg\>	^blend<n><sg>$
       2 #blame\<vblex\>\<inf\>	^blame<vblex><inf><pass>$
       2 #bier\<vblex\>\<pres\>	^bier<vblex><pres>$
@@ -1243,7 +1094,6 @@ Tag mismatch between transfer and generation
       2 #Beverage\<n\>\<sg\>	^Beverage<n><sg>$
       2 #be\<vblex\>\<past\># queasy	^be<vblex><past># queasy$
       2 #bestow\<vblex\>\<pres\>	^bestow<vblex><pres>$
-      2 #bestow\<vblex\>\<inf\>	^bestow<vblex><inf>$
       2 #behold\<vblex\>\<pp\>	^behold<vblex><pp>$
       2 #Be# called\<vblex\>\<inf\>	^Be# called<vblex><inf>$
       2 #bake\<vblex\>\<inf\>	^bake<vblex><inf><pass>$
@@ -1258,9 +1108,8 @@ Tag mismatch between transfer and generation
       2 #Amok\<adv\>	^Amok<adv>$
       2 #alert\<vblex\>\<inf\>	^alert<vblex><inf>$
       2 #Aeneas\<np\>	^Aeneas<np>$
-      2 #Admonish\<vblex\>\<imp\>	^Admonish<vblex><imp>$
       2 #acquit\<vblex\>\<pres\>	^acquit<vblex><pres>$
-      2 #Acquit\<vblex\>\<imp\>	^Acquit<vblex><imp>$
+      2 #Acquit\<vblex\>\<inf\>	^Acquit<vblex><inf>$
       2 #about so\<adv\>	^about so<adv>$
       1 #Yulia\<np\>\<ant\>\<f\>\<sg\>	^Yulia<np><ant><f><sg>$
       1 #YES\<n\>\<sg\>	^YES<n><sg>$
@@ -1289,6 +1138,7 @@ Tag mismatch between transfer and generation
       1 #Tiberius\<np\>	^Tiberius<np>$
       1 #throat\<vblex\>\<inf\>	^throat<vblex><inf>$
       1 #Three\<vblex\>\<inf\>	^Three<vblex><inf><pass>$
+      1 #Terrify\<vblex\>\<pp\>	^Terrify<vblex><pp>$
       1 #tempt\<vblex\>\<inf\>	^tempt<vblex><inf><pass>$
       1 #taint\<n\>\<sg\>	^taint<n><sg>$
       1 #swell\<vblex\>\<pres\>	^swell<vblex><pres>$
@@ -1341,18 +1191,13 @@ Tag mismatch between transfer and generation
       1 #repute\<n\>\<sg\>	^repute<n><sg>$
       1 #repentance\<n\>\<sg\>	^repentance<n><sg>$
       1 #repentance\<n\>\<pl\>	^repentance<n><pl>$
-      1 #Repeat\<vblex\>\<imp\>	^Repeat<vblex><imp>$
       1 #reek\<vblex\>\<pres\>	^reek<vblex><pres>$
       1 #recieve\<vblex\>\<inf\>	^recieve<vblex><inf><pass>$
-      1 #receive\<vblex\>	^receive<vblex><pret>$
-      1 #Receive\<vblex\>\<imp\>	^Receive<vblex><imp>$
       1 #rag\<n\>\<pl\>	^rag<n><pl>$
       1 #quits\<n\>\<sg\>	^quits<n><sg>$
       1 #quieten\<vblex\>\<inf\>	^quieten<vblex><inf>$
-      1 #quell\<vblex\>\<imp\>	^quell<vblex><imp>$
-      1 #Quarrel\<vblex\>\<imp\>	^Quarrel<vblex><imp>$
-      1 #Quake\<vblex\>\<imp\>	^Quake<vblex><imp>$
-      1 #quake\<vblex\>\<imp\>	^quake<vblex><imp>$
+      1 #Quarrel\<vblex\>\<inf\>	^Quarrel<vblex><inf>$
+      1 #Quake\<vblex\>\<inf\>	^Quake<vblex><inf>$
       1 #put# out\<vblex\>\<pp\>	^put# out<vblex><pp>$
       1 #Put# out\<vblex\>\<inf\>	^Put# out<vblex><inf>$
       1 #puff\<n\>\<sg\>	^puff<n><sg>$
@@ -1400,7 +1245,6 @@ Tag mismatch between transfer and generation
       1 #lunatic\<n\>\<pl\>	^lunatic<n><pl>$
       1 #lug\<vblex\>\<pres\>	^lug<vblex><pres>$
       1 #lug\<vblex\>\<inf\>	^lug<vblex><inf>$
-      1 #little\<vblex\>\<inf\>	^little<vblex><inf>$
       1 #Lille\<np\>	^Lille<np>$
       1 #liken\<vblex\>\<pres\>	^liken<vblex><pres>$
       1 #lighten\<vblex\>\<pres\>	^lighten<vblex><pres>$
@@ -1408,60 +1252,45 @@ Tag mismatch between transfer and generation
       1 #Lesja\<np\>\<top\>\<sg\>	^Lesja<np><top><sg>$
       1 #lengthen\<vblex\>\<pres\>	^lengthen<vblex><pres>$
       1 #ledge\<vblex\>\<inf\>	^ledge<vblex><inf><pass>$
-      1 #ledge\<vblex\>\<imp\>	^ledge<vblex><imp>$
       1 #leave\<n\>\<sg\>	^leave<n><sg>$
-      1 #land\<vblex\>\<imp\>	^land<vblex><imp>$
+      1 #Lamb\<vblex\>\<inf\>	^Lamb<vblex><inf>$
       1 #lamb\<vblex\>\<inf\> –	^lamb<vblex><inf>$ –
-      1 #Lamb\<vblex\>\<imp\>	^Lamb<vblex><imp>$
       1 #know\<vblex\>\<inf\>	^know<vblex><inf><pass>$
       1 #knead\<vblex\>\<pres\>	^knead<vblex><pres>$
-      1 #knead\<vblex\>\<imp\>	^knead<vblex><imp>$
+      1 #knead\<vblex\>\<inf\>	^knead<vblex><inf>$
       1 #knack\<n\>\<sg\>	^knack<n><sg>$
-      1 #Kill\<vblex\>	^Kill<vblex><pret>$
       1 #Kilde\<np\>	^Kilde<np>$
-      1 #Just\<vblex\>\<imp\>	^Just<vblex><imp>$
-      1 #jug\<vblex\>\<imp\>	^jug<vblex><imp>$
+      1 #jug\<vblex\>\<inf\>	^jug<vblex><inf>$
       1 #Judith\<np\>	^Judith<np>$
       1 #Jubilate\<vblex\>\<inf\>	^Jubilate<vblex><inf>$
-      1 #join\<vblex\>	^join<vblex><pret>$
       1 #Johannes\<np\>\<ant\>\<m\>\<sg\>	^Johannes<np><ant><m><sg>$
-      1 #jerk\<vblex\>	^jerk<vblex><pret>$
-      1 #Jerk\<vblex\>\<imp\>	^Jerk<vblex><imp>$
-      1 #Jeer\<vblex\>\<imp\>	^Jeer<vblex><imp>$
-      1 #Jar\<vblex\>\<imp\>	^Jar<vblex><imp>$
+      1 #Jeer\<vblex\>\<inf\>	^Jeer<vblex><inf>$
+      1 #Jar\<vblex\>\<inf\>	^Jar<vblex><inf>$
       1 #Janne\<np\>	^Janne<np>$
-      1 #jam\<vblex\>	^jam<vblex><pret>$
       1 #jam\<vblex\>\<pres\>	^jam<vblex><pres>$
+      1 #jam\<vblex\>\<past\>	^jam<vblex><past>$
       1 #its\<vblex\>\<inf\> 	^its<vblex><inf>$ 
-      1 #issue\<vblex\>	^issue<vblex><pret>$
       1 #Inwards\<adv\>	^Inwards<adv>$
       1 #invigorate\<vblex\>\<pres\>	^invigorate<vblex><pres>$
       1 #invigorate\<vblex\>\<inf\>	^invigorate<vblex><inf><pass>$
       1 #intrude\<vblex\>\<pres\>	^intrude<vblex><pres>$
-      1 #intrude\<vblex\>\<imp\>	^intrude<vblex><imp>$
-      1 #interpret\<vblex\>\<imp\>	^interpret<vblex><imp>$
+      1 #intrude\<vblex\>\<inf\>	^intrude<vblex><inf>$
       1 #Interlock\<vblex\>\<inf\>	^Interlock<vblex><inf><pass>$
-      1 #interlock\<vblex\>\<imp\>	^interlock<vblex><imp>$
-      1 #Instruct\<vblex\>\<imp\>	^Instruct<vblex><imp>$
-      1 #instruct\<vblex\>\<imp\>	^instruct<vblex><imp>$
       1 #in shape\<adv\>	^in shape<adv>$
       1 #inland\<n\>\<sg\>	^inland<n><sg>$
       1 #indignation\<vblex\>\<pp\>	^indignation<vblex><pp>$
       1 #Indictment\<vblex\>\<pres\>	^Indictment<vblex><pres>$
       1 #incitement\<vblex\>\<pres\>	^incitement<vblex><pres>$
       1 #inaugurate\<vblex\>\<inf\>	^inaugurate<vblex><inf><pass>$
-      1 #imprison\<vblex\>\<imp\>	^imprison<vblex><imp>$
       1 #imprint\<vblex\>\<pp\>	^imprint<vblex><pp>$
+      1 #Imprint\<vblex\>\<inf\>	^Imprint<vblex><inf>$
       1 #imprint\<vblex\>\<inf\>	^imprint<vblex><inf>$
-      1 #Imprint\<vblex\>\<imp\>	^Imprint<vblex><imp>$
       1 #impeachment\<vblex\>\<inf\>	^impeachment<vblex><inf><pass>$
       1 #immerse\<vblex\>\<pres\>	^immerse<vblex><pres>$
       1 #immerse\<vblex\>\<inf\>	^immerse<vblex><inf><pass>$
-      1 #immerse\<vblex\>\<inf\>	^immerse<vblex><inf>$
-      1 #immerse\<vblex\>\<imp\>	^immerse<vblex><imp>$
       1 #hurl\<vblex\>\<pres\>	^hurl<vblex><pres>$
       1 #hurl\<vblex\>\<pp\>	^hurl<vblex><pp>$
-      1 #Hull\<vblex\>\<imp\>	^Hull<vblex><imp>$
+      1 #Hull\<vblex\>\<inf\>	^Hull<vblex><inf>$
       1 #hue\<vblex\>\<pp\>	^hue<vblex><pp>$
       1 #hue\<vblex\>\<inf\>	^hue<vblex><inf>$
       1 #hub\<n\>\<pl\>	^hub<n><pl>$
@@ -1470,22 +1299,17 @@ Tag mismatch between transfer and generation
       1 #Hod\<np\>	^Hod<np>$
       1 #hippopotamus\<n\>\<sg\>	^hippopotamus<n><sg>$
       1 #Hereby\<adv\>	^Hereby<adv>$
-      1 #Herd\<vblex\>\<imp\>	^Herd<vblex><imp>$
-      1 #herd\<vblex\>\<imp\>	^herd<vblex><imp>$
-      1 #hem# in\<vblex\>\<imp\>	^hem# in<vblex><imp>$
+      1 #Herd\<vblex\>\<inf\>	^Herd<vblex><inf>$
       1 #helper\<n\>\<sg\>	^helper<n><sg>$
       1 #helper\<n\>\<pl\>	^helper<n><pl>$
       1 #heal# up\<vblex\>\<pp\>	^heal# up<vblex><pp>$
       1 #health\<vblex\>\<pp\>	^health<vblex><pp>$
-      1 #Hate\<vblex\>\<imp\>	^Hate<vblex><imp>$
       1 #harrow\<vblex\>\<pp\>	^harrow<vblex><pp>$
       1 #Harp\<vblex\>\<inf\>	^Harp<vblex><inf>$
       1 #hardness\<n\>\<sg\>	^hardness<n><sg>$
       1 #Haram\<np\>\<top\>\<sg\>	^Haram<np><top><sg>$
       1 #happening\<n\>\<pl\>	^happening<n><pl>$
       1 #hang\<vblex\>\<inf\>	^hang<vblex><inf><pass>$
-      1 #Hang\<vblex\>\<imp\>	^Hang<vblex><imp>$
-      1 #hammer\<vblex\>\<imp\>	^hammer<vblex><imp>$
       1 #Hallow\<vblex\>\<inf\>	^Hallow<vblex><inf><pass>$
       1 #Hail\<vblex\>\<pp\>	^Hail<vblex><pp>$
       1 #Hail\<vblex\>\<inf\>	^Hail<vblex><inf>$
@@ -1493,8 +1317,7 @@ Tag mismatch between transfer and generation
       1 #gulp\<vblex\>\<pp\>	^gulp<vblex><pp>$
       1 #gulp\<vblex\>\<inf\>	^gulp<vblex><inf>$
       1 #guest room\<n\>\<sg\>	^guest room<n><sg>$
-      1 #grudge\<vblex\>\<inf\>	^grudge<vblex><inf>$
-      1 #Grudge\<vblex\>\<imp\>	^Grudge<vblex><imp>$
+      1 #Grudge\<vblex\>\<inf\>	^Grudge<vblex><inf>$
       1 #grudge\<n\>\<sg\>	^grudge<n><sg>$
       1 #growl\<vblex\>\<pres\>	^growl<vblex><pres>$
       1 #grove\<n\>\<pl\>	^grove<n><pl>$
@@ -1508,10 +1331,10 @@ Tag mismatch between transfer and generation
       1 #Goblet\<n\>\<sg\>	^Goblet<n><sg>$
       1 #Goa\<np\>\<top\>\<sg\>	^Goa<np><top><sg>$
       1 #gnome\<n\>\<sg\>	^gnome<n><sg>$
-      1 #gnaw\<vblex\>	^gnaw<vblex><pret>$
       1 #gnaw\<vblex\>\<pp\>	^gnaw<vblex><pp>$
+      1 #gnaw\<vblex\>\<past\>	^gnaw<vblex><past>$
       1 #glitter\<vblex\>\<pres\>	^glitter<vblex><pres>$
-      1 #glitter\<vblex\>\<imp\>	^glitter<vblex><imp>$
+      1 #glitter\<vblex\>\<inf\>	^glitter<vblex><inf>$
       1 #glisten\<vblex\>\<pp\>	^glisten<vblex><pp>$
       1 #glee\<n\>\<sg\> 	^glee<n><sg>$ 
       1 #glee\<n\>\<pl\>	^glee<n><pl>$
@@ -1522,9 +1345,7 @@ Tag mismatch between transfer and generation
       1 #Gash\<vblex\>\<inf\>	^Gash<vblex><inf>$
       1 #gash\<vblex\>\<inf\>	^gash<vblex><inf>$
       1 #garrison\<n\>\<sg\>	^garrison<n><sg>$
-      1 #gape\<vblex\>\<imp\>	^gape<vblex><imp>$
       1 #furrow\<vblex\>\<pres\>	^furrow<vblex><pres>$
-      1 #fumble\<vblex\>\<imp\>	^fumble<vblex><imp>$
       1 #frown\<vblex\>\<inf\>	^frown<vblex><inf>$
       1 #froth\<vblex\>\<pres\>	^froth<vblex><pres>$
       1 #froth\<vblex\>\<inf\>	^froth<vblex><inf>$
@@ -1534,15 +1355,12 @@ Tag mismatch between transfer and generation
       1 #fraternity\<n\>\<sg\>	^fraternity<n><sg>$
       1 #forsake\<vblex\>\<pres\>	^forsake<vblex><pres>$
       1 #forsake\<vblex\>\<pp\>	^forsake<vblex><pp>$
-      1 #Forsake\<vblex\>\<imp\>	^Forsake<vblex><imp>$
+      1 #Forsake\<vblex\>\<inf\>	^Forsake<vblex><inf>$
       1 #form\<vblex\>\<inf\>	^form<vblex><inf><pass>$
-      1 #forfeit\<vblex\>	^forfeit<vblex><pret>$
       1 #forfeit\<vblex\>\<pres\>	^forfeit<vblex><pres>$
+      1 #forfeit\<vblex\>\<past\>	^forfeit<vblex><past>$
       1 #forfeit\<vblex\>\<inf\>	^forfeit<vblex><inf><pass>$
-      1 #foresee\<vblex\>	^foresee<vblex><pret>$
-      1 #force\<vblex\>	^force<vblex><pret>$
       1 #force\<vblex\>\<inf\>	^force<vblex><inf><pass>$
-      1 #forbid\<vblex\>\<imp\>	^forbid<vblex><imp>$
       1 #foil\<vblex\>\<inf\>	^foil<vblex><inf>$
       1 #foal\<vblex\>\<pres\>	^foal<vblex><pres>$
       1 #foal\<vblex\>\<inf\>	^foal<vblex><inf>$
@@ -1555,38 +1373,29 @@ Tag mismatch between transfer and generation
       1 #fish hook\<n\>\<pl\>	^fish hook<n><pl>$
       1 #finery\<n\>\<pl\>	^finery<n><pl>$
       1 #fight\<vblex\>	^fight<vblex><pstv><pret>$
-      1 #Field\<vblex\>\<imp\>	^Field<vblex><imp>$
+      1 #Field\<vblex\>\<inf\>	^Field<vblex><inf>$
       1 #ferret\<vblex\>\<pp\>	^ferret<vblex><pp>$
       1 #fend\<vblex\>\<pres\># off	^fend<vblex><pres># off$
       1 #felony\<n\>\<pl\>	^felony<n><pl>$
       1 #fathom\<vblex\>\<pres\>	^fathom<vblex><pres>$
-      1 #fathom\<vblex\>\<inf\>	^fathom<vblex><inf>$
-      1 #Fast\<vblex\>\<imp\>	^Fast<vblex><imp>$
+      1 #Fast\<vblex\>\<inf\>	^Fast<vblex><inf>$
       1 #False\<n\>\<sg\>	^False<n><sg>$
-      1 #fail\<vblex\>\<imp\>	^fail<vblex><imp>$
       1 #fable\<vblex\>\<pp\>	^fable<vblex><pp>$
       1 #extradite\<vblex\>\<inf\>	^extradite<vblex><inf><pass>$
-      1 #Extort\<vblex\>\<imp\>	^Extort<vblex><imp>$
+      1 #Extort\<vblex\>\<inf\>	^Extort<vblex><inf>$
       1 #extenuate\<vblex\>\<inf\>	^extenuate<vblex><inf><pass>$
-      1 #expose\<vblex\>	^expose<vblex><pret>$
       1 #explore\<vblex\>\<inf\>	^explore<vblex><inf><pass>$
-      1 #explain\<vblex\>\<imp\>	^explain<vblex><imp>$
       1 #expensive\<adj\>\<sup\>	^expensive<adj><sup>$
       1 #expect\<vblex\>\<inf\>	^expect<vblex><inf><pass>$
-      1 #expect\<vblex\>\<imp\>	^expect<vblex><imp>$
       1 #expatriation\<n\>\<sg\>	^expatriation<n><sg>$
       1 #excise\<vblex\>\<pres\>	^excise<vblex><pres>$
-      1 #exalt\<vblex\>\<imp\>	^exalt<vblex><imp>$
       1 #err\<vblex\>\<pres\>	^err<vblex><pres>$
-      1 #eradicate\<vblex\>\<imp\>	^eradicate<vblex><imp>$
       1 #Ensign\<vblex\>\<pres\>	^Ensign<vblex><pres>$
-      1 #Enjoy\<vblex\>\<imp\>	^Enjoy<vblex><imp>$
-      1 #engrave\<vblex\>	^engrave<vblex><pret>$
+      1 #engrave\<vblex\>\<past\>	^engrave<vblex><past>$
       1 #engender\<vblex\>\<pres\>	^engender<vblex><pres>$
       1 #encumber\<vblex\>\<pp\>	^encumber<vblex><pp>$
-      1 #Encumber\<vblex\>\<imp\>	^Encumber<vblex><imp>$
+      1 #Encumber\<vblex\>\<inf\>	^Encumber<vblex><inf>$
       1 #elevate\<vblex\>\<inf\>	^elevate<vblex><inf><pass>$
-      1 #elevate\<vblex\>\<imp\>	^elevate<vblex><imp>$
       1 #eject\<vblex\>\<pp\>	^eject<vblex><pp>$
       1 #East of\<pr\>	^East of<pr>$
       1 #eager\<adj\>\<comp\>	^eager<adj><comp>$
@@ -1599,25 +1408,17 @@ Tag mismatch between transfer and generation
       1 #doze\<vblex\>\<pres\>	^doze<vblex><pres>$
       1 #Down\<pr\>	^Down<pr>$
       1 #doorknob\<n\>\<sg\>	^doorknob<n><sg>$
-      1 #Divide\<vblex\>\<imp\>	^Divide<vblex><imp>$
       1 #distress\<n\>\<sg\> 	^distress<n><sg>$ 
-      1 #distort\<vblex\>	^distort<vblex><pret>$
       1 #distaste\<n\>\<sg\>	^distaste<n><sg>$
       1 #distant\<adj\>\<sup\>	^distant<adj><sup>$
       1 #Disown\<vblex\>\<pres\>	^Disown<vblex><pres>$
       1 #Disgust\<vblex\>\<inf\>	^Disgust<vblex><inf>$
       1 #dirty\<vblex\>\<inf\>	^dirty<vblex><inf>$
-      1 #direct\<vblex\>\<imp\>	^direct<vblex><imp>$
-      1 #dip\<vblex\>\<imp\>	^dip<vblex><imp>$
       1 #Dionysius\<np\>	^Dionysius<np>$
       1 #din\<vblex\>\<pres\>	^din<vblex><pres>$
-      1 #din\<vblex\>\<inf\>	^din<vblex><inf>$
-      1 #Determine\<vblex\>\<imp\>	^Determine<vblex><imp>$
-      1 #determine\<vblex\>\<imp\>	^determine<vblex><imp>$
       1 #depose\<vblex\>\<inf\>	^depose<vblex><inf><pass>$
       1 #depict\<n\>\<sg\>	^depict<n><sg>$
       1 #depict\<n\>\<pl\>	^depict<n><pl>$
-      1 #denounce\<vblex\>\<imp\>	^denounce<vblex><imp>$
       1 #Denigh\<vblex\>\<pres\>	^Denigh<vblex><pres>$
       1 #Dead Sea\<np\>\<top\>\<sg\>	^Dead Sea<np><top><sg>$
       1 #crust\<vblex\>\<pres\>	^crust<vblex><pres>$
@@ -1626,19 +1427,14 @@ Tag mismatch between transfer and generation
       1 #creep\<n\>\<pl\>	^creep<n><pl>$
       1 #create\<vblex\>\<inf\>	^create<vblex><inf><pass>$
       1 #cow\<vblex\>\<pp\>	^cow<vblex><pp>$
-      1 #Count\<vblex\>\<imp\>	^Count<vblex><imp>$
       1 #counterpart\<n\>\<sg\>	^counterpart<n><sg>$
       1 #counterfeit\<vblex\>\<pres\>	^counterfeit<vblex><pres>$
       1 #counterfeit\<vblex\>\<pp\>	^counterfeit<vblex><pp>$
       1 #coronate\<vblex\>\<inf\>	^coronate<vblex><inf>$
-      1 #convey\<vblex\>\<imp\>	^convey<vblex><imp>$
       1 #consolidate\<vblex\>\<inf\>	^consolidate<vblex><inf><pass>$
-      1 #consecrate\<vblex\>\<imp\>	^consecrate<vblex><imp>$
-      1 #Commence\<vblex\>\<imp\>	^Commence<vblex><imp>$
-      1 #commence\<vblex\>\<imp\>	^commence<vblex><imp>$
       1 #Coming\<n\>\<sg\>	^Coming<n><sg>$
       1 #colony\<n\>\<sg\>	^colony<n><sg>$
-      1 #cobble\<vblex\>	^cobble<vblex><pret>$
+      1 #cobble\<vblex\>\<past\>	^cobble<vblex><past>$
       1 #Clemence\<np\>\<ant\>\<m\>\<sg\>	^Clemence<np><ant><m><sg>$
       1 #clay\<vblex\>\<pres\>	^clay<vblex><pres>$
       1 #clasp\<vblex\>\<pp\>	^clasp<vblex><pp>$
@@ -1652,8 +1448,6 @@ Tag mismatch between transfer and generation
       1 #camping ground\<n\>\<pl\>	^camping ground<n><pl>$
       1 #Camel\<n\>\<pl\>	^Camel<n><pl>$
       1 #by the thousand\<adv\>	^by the thousand<adv>$
-      1 #bury\<vblex\>	^bury<vblex><pret>$
-      1 #bury\<vblex\>\<imp\>	^bury<vblex><imp>$
       1 #Bully\<vblex\>\<pres\>	^Bully<vblex><pres>$
       1 #bully\<vblex\>\<inf\>	^bully<vblex><inf><pass>$
       1 #bring\<vblex\>\<inf\>	^bring<vblex><inf><pass>$
@@ -1663,13 +1457,10 @@ Tag mismatch between transfer and generation
       1 #bore\<vblex\>\<pp\>	^bore<vblex><pp>$
       1 #booze\<vblex\>\<inf\>	^booze<vblex><inf>$
       1 #booklet\<n\>\<sg\>	^booklet<n><sg>$
-      1 #Boil\<vblex\>\<imp\>	^Boil<vblex><imp>$
-      1 #boast\<vblex\>\<imp\>	^boast<vblex><imp>$
       1 #blemish\<vblex\>\<pres\>	^blemish<vblex><pres>$
       1 #Biri\<np\>\<top\>\<sg\>	^Biri<np><top><sg>$
       1 #bewitch\<vblex\>\<pp\>	^bewitch<vblex><pp>$
       1 #betroth\<vblex\>\<pres\>	^betroth<vblex><pres>$
-      1 #bestow\<vblex\>\<imp\>	^bestow<vblex><imp>$
       1 #besiege\<vblex\>\<inf\>	^besiege<vblex><inf><pass>$
       1 #Be# queasy\<vblex\>\<inf\>	^Be# queasy<vblex><inf>$
       1 #bend\<vblex\>\<inf\>	^bend<vblex><inf><pass>$
@@ -1691,19 +1482,13 @@ Tag mismatch between transfer and generation
       1 #baking soda\<n\>\<sg\>	^baking soda<n><sg>$
       1 #backward\<adv\>	^backward<adv>$
       1 #Aviv\<np\>\<top\>\<sg\>	^Aviv<np><top><sg>$
-      1 #Attack\<vblex\>	^Attack<vblex><pret>$
       1 #attack\<vblex\>\<inf\>	^attack<vblex><inf><pass>$
       1 #attach\<n\>\<sg\>	^attach<n><sg>$
-      1 #arrive\<vblex\>\<imp\>	^arrive<vblex><imp>$
-      1 #Appal\<vblex\>\<pp\>	^Appal<vblex><pp>$
       1 #ante\<n\>\<sg\>	^ante<n><sg>$
-      1 #allow\<vblex\>\<imp\>	^allow<vblex><imp>$
       1 #All\<det\>\<qnt\>\<pl\>\<gen\>	^All<det><qnt><pl><gen>$
       1 #adversary\<n\>\<sg\>	^adversary<n><sg>$
       1 #Adriatic Sea\<np\>\<top\>\<sg\>	^Adriatic Sea<np><top><sg>$
-      1 #admonish\<vblex\>\<imp\>	^admonish<vblex><imp>$
       1 #acquit\<vblex\>\<inf\>	^acquit<vblex><inf><pass>$
-      1 #acquit\<vblex\>\<imp\>	^acquit<vblex><imp>$
       1 #accuser\<n\>\<sg\>	^accuser<n><sg>$
       1 #Accuser\<n\>\<pl\>	^Accuser<n><pl>$
       1 #abridge\<vblex\>\<inf\>	^abridge<vblex><inf><pass>$
@@ -1712,6 +1497,6 @@ Tag mismatch between transfer and generation
 Summary
 ===============================================================================
     0 /tmp/no-en.multiform
-    8 /tmp/no-en.multibidix
- 1686 /tmp/no-en.tagmismatch
- 1694 total
+   11 /tmp/no-en.multibidix
+ 1468 /tmp/no-en.tagmismatch
+ 1479 total

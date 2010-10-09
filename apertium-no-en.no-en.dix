@@ -7819,6 +7819,7 @@
     <e c="  0"><p><l>sjette<s n="adj"/><s n="ord"/></l><r>sixth<s n="adj"/><s n="ord"/></r></p></e>
     <e c="  0"><p><l>sjuende<s n="adj"/><s n="ord"/></l><r>seventh<s n="adj"/><s n="ord"/></r></p></e>
 
+    <e c="  0"><p><l>ny<s n="adj"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>god<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>stor<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>liten<s n="adj"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
@@ -8916,7 +8917,8 @@
     <e c="  0"><p><l>hvile<s n="vblex"/></l><r>rest<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>hvile<s n="vblex"/></l><r>lie<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>flamme<s n="vblex"/></l><r>flame<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e c="  0"><p><l>fange<s n="vblex"/></l><r>catch<g><b/>or<b/>to<b/>capture</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e c="  0"><p><l>fange<s n="vblex"/></l><r>catch<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="1"><p><l>fange<s n="vblex"/></l><r>capture<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>ende<s n="vblex"/></l><r>end<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>ende<s n="vblex"/></l><r>finish<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>tenne<s n="vblex"/></l><r>set<g><b/>alight</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (set something on fire)-->

@@ -17,6 +17,12 @@
       <cat-item tags="adj"/>
       <cat-item tags="adj.*"/>
     </def-cat>
+    <def-cat n="vfin_pass">
+      <cat-item tags="vblex.pres.pass"/>
+      <cat-item tags="vblex.pret.pass"/>
+      <cat-item tags="vblex.pres.pass.*"/>
+      <cat-item tags="vblex.pret.pass.*"/>
+    </def-cat>
     <def-cat n="vfin">
       <cat-item tags="vblex.pres"/>
       <cat-item tags="vblex.pret"/>
@@ -302,6 +308,41 @@
       </action>
     </rule>
 
+
+    <rule comment="REGLA: vfin_pass">
+      <pattern>
+        <pattern-item n="vfin_pass"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="be"/>
+              </get-case-from>
+              <lit-tag v="vbser"/>
+              <clip pos="1" side="tl" part="temps"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="pp"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: vfin">
       <pattern>
         <pattern-item n="vfin"/>
@@ -327,8 +368,6 @@
         </out>
       </action>
     </rule>
-
-
 
     <rule comment="REGLA: cnjcoo">
       <pattern>
