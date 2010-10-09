@@ -311,6 +311,7 @@
     <e><p><l>noe<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="all_all"/></e>
     <e><p><l>hver<s n="det"/><s n="qnt"/></l><r>each<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
     <e><p><l>mange<s n="adj"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>mange<s n="det"/><s n="qnt"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
 
     <e><p><l>jeg<s n="det"/><s n="pos"/></l><r>my<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
     <e><p><l>du<s n="det"/><s n="pos"/></l><r>your<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
@@ -3928,6 +3929,7 @@
 
     <e><p><l>Gud<s n="np"/></l><r>God<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
 
+    <e><p><l>Norge<s n="np"/><s n="top"/></l><r>Norway<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Israel<s n="np"/></l><r>Israel<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Jerusalem<s n="np"/></l><r>Jerusalem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Egypt<s n="np"/></l><r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -4398,6 +4400,7 @@
     <e c="  0"><p><l>hvordan<s n="adv"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e> 
     <e c="  0"><p><l>hvorfor<s n="adv"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e> 
     <e c="  0"><p><l>hvor<s n="adv"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e> 
+    <e c="  0"><p><l>hva<s n="adv"/></l><r>what<s n="det"/><s n="itg"/><s n="sp"/></r></p></e>  <!-- WRONG -->
 
     <e c="  0"><p><l>ikke<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
     <e c="  0"><p><l>bra<s n="adv"/></l><r>well<s n="adv"/></r></p></e>

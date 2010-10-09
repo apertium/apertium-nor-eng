@@ -14,6 +14,12 @@
       <cat-item tags="adj"/>
       <cat-item tags="adj.*"/>
     </def-cat>
+    <def-cat n="vfin">
+      <cat-item tags="vblex.pres"/>
+      <cat-item tags="vblex.pret"/>
+      <cat-item tags="vblex.pres.*"/>
+      <cat-item tags="vblex.pret.*"/>
+    </def-cat>
     <def-cat n="vblex">
       <cat-item tags="vblex.*"/>
     </def-cat>
@@ -44,6 +50,13 @@
       <attr-item tags="prn.subj"/>
       <attr-item tags="prn.obj"/>
       <attr-item tags="prn.dem"/>
+    </def-attr>
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vbmod"/>
+      <attr-item tags="vaux"/>
+      <attr-item tags="vbser"/>
+      <attr-item tags="vbhaver"/>
     </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
@@ -88,6 +101,7 @@
       <attr-item tags="pret"/>
       <attr-item tags="inf"/>
       <attr-item tags="imp"/>
+      <attr-item tags="pp"/>
     </def-attr>
   </section-def-attrs>
 
@@ -248,6 +262,33 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: vfin">
+      <pattern>
+        <pattern-item n="vfin"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps" link-to="2"/>
+              <clip pos="1" side="tl" part="pers" link-to="3"/>
+              <clip pos="1" side="tl" part="nbr" link-to="4"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: cnjcoo">
