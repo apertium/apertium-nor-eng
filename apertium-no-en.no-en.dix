@@ -108,7 +108,7 @@
   <section id="main" type="standard">
     <!-- Particles -->
 
-    <e><p><l>å<s n="part"/></l><r>at<s n="pr"/></r></p></e>
+    <e c="infinitive mark"><p><l>å<s n="part"/></l><r>to<s n="pr"/></r></p></e>
 
     <!-- Conjunctions -->
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
@@ -118,7 +118,7 @@
     <e><p><l>så<s n="cnjcoo"/></l><r>so<s n="cnjadv"/></r></p></e>
 
     <e><p><l>at<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
-    <e><p><l>som<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e c="rel"><p><l>som<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
 
     <!-- Prepositions -->
 
