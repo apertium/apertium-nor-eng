@@ -7281,6 +7281,7 @@
 <e>        <p><l>øygruppe<s n="n"/></l>      <r>archipelago<s n="n"/></r></p><par n="m_LR_f"/></e>
 
 <e>        <p><l>million<s n="n"/><s n="m"/></l><r>million<s n="n"/></r></p></e>
+<e c="  0"><p><l>bygging<s n="n"/></l>     <r>building<s n="n"/></r></p><par n="m_LR_f"/></e>
 
     <!-- Proper nouns -->
 
@@ -10215,6 +10216,7 @@
     <e c="  0"><p><l>svenske<s n="adj"/></l><r>Swedish<s n="adj"/></r></p></e>
     <e c="  0"><p><l>svensk<s n="adj"/></l><r>Swedish<s n="adj"/></r></p></e>
     <e c="  0"><p><l>norsk<s n="adj"/></l><r>Norwegian<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>palestinsk<s n="adj"/></l><r>Palestinian<s n="adj"/></r></p></e>
 
     <!-- Adverbs -->
 
