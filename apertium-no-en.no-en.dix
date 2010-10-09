@@ -3983,7 +3983,7 @@
 <e>        <p><l>mine<s n="n"/></l>          <r>mine<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>mine<s n="n"/></l>          <r>look<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>miniatyr<s n="n"/><s n="m"/></l><r>miniature<s n="n"/></r></p></e>
-<e>        <p><l>minister<s n="n"/><s n="m"/></l><r>secretary<b/>of<b/>State<s n="n"/></r></p></e>
+<e>        <p><l>minister<s n="n"/><s n="m"/></l><r>secretary<g><b/>of<b/>State</g><s n="n"/></r></p></e>
 <e slr="1"><p><l>minister<s n="n"/><s n="m"/></l><r>minister<s n="n"/></r></p></e>
 <e>        <p><l>ministerium<s n="n"/><s n="nt"/></l><r>ministry<s n="n"/></r></p></e>
 <e>        <p><l>minne<s n="n"/><s n="nt"/></l><r>memory<s n="n"/></r></p></e>
