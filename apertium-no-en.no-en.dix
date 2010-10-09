@@ -155,17 +155,16 @@
     <e c="  0"><p><l>opp<s n="pr"/></l><r>up<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>ut<b/>over<s n="pr"/></l><r>out<b/>over<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>ut<b/>over<s n="pr"/></l><r>in<b/>addition<b/>to<s n="pr"/></r></p></e>
 
-    <e c="  0"><p><l>a<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
-    <e slr="1"><p><l>a<s n="pr"/></l><r>each<s n="pr"/></r></p></e>
-    <e slr="2"><p><l>a<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
-    <e slr="3"><p><l>a<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
-    <e slr="4"><p><l>a<s n="pr"/></l><r>or<s n="pr"/></r></p></e>
-    <e c="  0"><p><l>forbi<s n="pr"/></l><r>Near<s n="pr"/></r></p></e><!-- Will stop at or be near something-->
+    <e c="  0"><p><l>a<s n="pr"/></l><r>at<s n="pr"/></r></p></e> <!--rare, "2stk a 10kr" means "2 items at (costing) 10 crowns each" -->
+
+    <e c="  0"><p><l>forbi<s n="pr"/></l><r>near<s n="pr"/></r></p></e><!-- Will stop at or be near something-->
     <e slr="1"><p><l>forbi<s n="pr"/></l><r>next<b/>to<s n="pr"/></r></p></e>
+    <e slr="2"><p><l>forbi<s n="pr"/></l><r>past<s n="pr"/></r></p></e>
+    <e slr="3"><p><l>forbi<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
     <e c="  0"><p><l>før<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
-    <e slr="1"><p><l>før<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
-    <e slr="2"><p><l>før<s n="pr"/></l><r>until<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>før<s n="pr"/></l><r>until<s n="pr"/></r></p></e>
     <e c="  0"><p><l>gjennom<s n="pr"/></l><r>through<s n="pr"/></r></p></e><!-- (from one side of an opening to the other)-->
     <e slr="1"><p><l>gjennom<s n="pr"/></l><r>during<s n="pr"/></r></p></e><!-- (from start to finish)-->
     <e slr="2"><p><l>gjennom<s n="pr"/></l><r>with<b/>help<b/>from<s n="pr"/></r></p></e>
@@ -184,12 +183,14 @@
     <e slr="4"><p><l>mot<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
     <e slr="5"><p><l>mot<s n="pr"/></l><r>versus<s n="pr"/></r></p></e>
     <e c="  0"><p><l>omkring<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>omkring<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
     <e c="  0"><p><l>oppover<s n="pr"/></l><r>up<s n="pr"/></r></p></e><!-- (toward the top)-->
+    <e slr="1"><p><l>oppover<s n="pr"/></l><r>upwards<s n="pr"/></r></p></e><!-- (toward the top)-->
     <e c="  0"><p><l>overfor<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
     <e c="  0"><p><l>uten<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
     <e c="  0"><p><l>ut<s n="pr"/></l><r>out<s n="pr"/></r></p></e><!-- (direction)-->
-    <e c="  0"><p><l>ved<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
-    <e slr="1"><p><l>ved<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ved<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>ved<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
     <e slr="2"><p><l>ved<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
     <e slr="3"><p><l>ved<s n="pr"/></l><r>on<s n="pr"/></r></p></e><!-- (near or next to)-->
     
