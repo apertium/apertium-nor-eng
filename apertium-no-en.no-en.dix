@@ -142,6 +142,8 @@
 
     <e c="  0"><p><l>fra<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
 
+    <e c="  0"><p><l>som<s n="pr"/></l><r>as<s n="pr"/></r></p></e>
+
     <e c="  0"><p><l>i<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e slr="1"><p><l>i<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
 
@@ -849,8 +851,7 @@
 <e c="  0"><p><l>barlind<s n="n"/></l>       <r>yew<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="  0"><p><l>barm<s n="n"/><s n="m"/></l><r>bosom<s n="n"/></r></p></e>
 <e c="  0"><p><l>barmhjertighet<s n="n"/></l><r>mercy<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="  0"><p><l>barn<s n="n"/><s n="nt"/></l><r>children<s n="n"/></r></p></e>
-<e slr="1"><p><l>barn<s n="n"/><s n="nt"/></l><r>child<s n="n"/></r></p></e>
+<e c="  0"><p><l>barn<s n="n"/><s n="nt"/></l><r>child<s n="n"/></r></p></e>
 <e c="  0"><p><l>barndom<s n="n"/><s n="m"/></l><r>childhood<s n="n"/></r></p></e>
 <e slr="1"><p><l>barndom<s n="n"/><s n="m"/></l><r>infancy<s n="n"/></r></p></e>
 <e c="  0"><p><l>barnebarn<s n="n"/><s n="nt"/></l><r>grandchild<s n="n"/></r></p></e>
@@ -4189,6 +4190,8 @@
 <e>        <p><l>natron<s n="n"/><s n="nt"/></l><r>baking<b/>soda<s n="n"/></r></p></e>
 <e c="  0"><p><l>natt<s n="n"/></l><r>night<s n="n"/></r></p><par n="m_LR_f"/></e>
 
+<e c="  0"><p><l>encyklopedi<s n="n"/><s n="m"/></l><r>encyclopaedia<s n="n"/></r></p></e>
+<e c="  0"><p><l>sjø<s n="n"/><s n="m"/></l><r>sea<s n="n"/></r></p></e>
 <e c="  0"><p><l>plante<s n="n"/><s n="m"/></l><r>plant<s n="n"/></r></p></e>
 <e c="  0"><p><l>skapning<s n="n"/></l><r>creature<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="  0"><p><l>slag<s n="n"/><s n="nt"/></l><r>kind<s n="n"/></r></p></e>
@@ -4209,6 +4212,7 @@
     <!-- Proper nouns -->
 
     <e><p><l>Gud<s n="np"/></l><r>God<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Wikipedia<s n="np"/></l><r>Wikipedia<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
 
     <e><p><l>Norge<s n="np"/><s n="top"/></l><r>Norway<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Israel<s n="np"/></l><r>Israel<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -4676,6 +4680,8 @@
     <e slr="1"><p><l>voksen<s n="adj"/></l><r>grown-up<s n="adj"/></r></p></e>
     <e slr="2"><p><l>voksen<s n="adj"/></l><r>full-grown<s n="adj"/></r></p></e>
 
+    <e c="  0"><p><l>velkommen<s n="adj"/></l><r>welcome<s n="adj"/></r></p></e>
+
     <!-- Adverbs -->
 
     <e c="  0"><p><l>hvordan<s n="adv"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e> 
@@ -4804,8 +4810,7 @@
     <e slr="2"><p><l>rasende<s n="adv"/></l><r>ferociously<s n="adv"/></r></p></e> 
     <e slr="3"><p><l>rasende<s n="adv"/></l><r>awfully<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>rett<b/>og<b/>slett<s n="adv"/></l><r>plain<b/>and<b/>simple<s n="adv"/></r></p></e> <!--(idiomatic)-->
-    <e c="  0"><p><l>så<s n="adv"/></l><r>so<s n="adv"/></r></p></e> 
-    <e slr="1"><p><l>så<s n="adv"/></l><r>so<s n="adv"/></r></p></e> 
+    <e c="  0"><p><l>så<s n="adv"/></l><r>so<s n="cnjadv"/></r></p></e> 
     <e c="  0"><p><l>således<s n="adv"/></l><r>thus<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>sammen<s n="adv"/></l><r>together<s n="adv"/></r></p></e> 
     <e slr="1"><p><l>sammen<s n="adv"/></l><r>simultaneously<s n="adv"/></r></p></e> 
@@ -5043,9 +5048,9 @@
     <e slr="2"><p><l>tusenvis<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
     <e c="  0"><p><l>skiftevis<s n="adv"/></l><r>alternately<s n="adv"/></r></p></e>
     <e c="  0"><p><l>såpass<s n="adv"/></l><r>about<b/>so<s n="adv"/></r></p></e>
-    <e slr="1"><p><l>såpass<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>såpass<s n="adv"/></l><r>so<s n="cnjadv"/></r></p></e>
     <e c="  0"><p><l>så<b/>pass<s n="adv"/></l><r>about<b/>so<s n="adv"/></r></p></e>
-    <e slr="1"><p><l>så<b/>pass<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>så<b/>pass<s n="adv"/></l><r>so<s n="cnjadv"/></r></p></e>
     <e c="  0"><p><l>opp<b/>ned<s n="adv"/></l><r>upside-down<s n="adv"/></r></p></e>
     <e slr="1"><p><l>opp<b/>ned<s n="adv"/></l><r>turned<b/>upside-down<s n="adv"/></r></p></e>
     <e slr="2"><p><l>opp<b/>ned<s n="adv"/></l><r>down<s n="adv"/></r></p></e>
@@ -6034,6 +6039,8 @@
     <e slr="1"><p><l>bygge<s n="vblex"/></l><r>build<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
 
     <e c="  0"><p><l>hete<s n="vblex"/></l><r>be<g><b/>called</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+
+    <e c="  0"><p><l>forbedre<s n="vblex"/></l><r>edit<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
  
     <!-- Interjections -->
 
@@ -6041,6 +6048,7 @@
     <!-- Punctuation -->
 
     <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="det"/><s n="qnt"/></l><r><s n="num"/></r></p><par n="qnt_num"/></e>
+    <e><re>[0-9]+</re><p><l>.<s n="adj"/><s n="ord"/></l><r><s n="num"/><s n="ord"/></r></p></e>
 
     <e><re>[.\?;:!·]+</re><p><l><s n="sent"/><s n="clb"/></l><r><s n="sent"/></r></p></e>
     <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>

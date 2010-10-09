@@ -46,6 +46,7 @@
       <attr-item tags="adj"/>
       <attr-item tags="adj.sint"/>
       <attr-item tags="adj.ord"/>
+      <attr-item tags="num.ord"/>
       <attr-item tags="det.qnt"/> <!-- mange -->
     </def-attr>
     <def-attr n="a_prn">
@@ -128,6 +129,10 @@
           <when>
             <test>
               <not>
+                <equal>
+                  <clip pos="1" side="tl" part="a_adj"/>
+                  <lit-tag v="num.ord"/>
+                </equal>
                 <equal>
                   <clip pos="1" side="tl" part="a_adj"/>
                   <lit-tag v="det.qnt"/>
