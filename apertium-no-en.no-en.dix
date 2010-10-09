@@ -26,6 +26,7 @@
     <sdef n="sint"       c="Synthetic"/>
 
     <sdef n="ord"        c="Ordinal"/>
+    <sdef n="res"        c="Reciprocal"/>
     <sdef n="dem"        c="Demonstrative"/>
     <sdef n="ind"        c="Indefinite"/>
     <sdef n="itg"        c="Interrogative"/>
@@ -201,13 +202,21 @@
     <e><p><l>vi<s n="prn"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="p1"/></r></p></e>
     <e><p><l>du<s n="prn"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="p2"/></r></p></e>
     <e><p><l>De<s n="prn"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="p2"/></r></p></e>
+    <e><p><l>dere<s n="prn"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="p2"/></r></p></e>
 
     <e><p><l>det<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
     <e><p><l>den<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
     <e><p><l>hun<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
     <e><p><l>han<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
     <e><p><l>de<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
-    <e><p><l>dere<s n="prn"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="p2"/></r></p></e>
+
+    <e><p><l>denne<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p2"/></r></p></e>
+
+    <e><p><l>noe<s n="prn"/><s n="p3"/></l><r>something<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>hverandre<s n="prn"/><s n="res"/></l><r>each<b/>other<s n="prn"/><s n="ind"/></r></p></e>
+
+    <e><p><l>hva<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>hvem<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
     <!-- Determiners -->
 
