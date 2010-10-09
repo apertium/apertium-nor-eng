@@ -7,16 +7,12 @@
     826 ^@tid<n>$
     815 ^@israelitt<n>$
     791 ^@nå<n>$
-    763 ^@navn<n>$
     680 ^@far<n>$
     678 ^@være<n>$
-    676 ^@ord<n>$
     666 ^@om<n>$
-    659 ^@prest<n>$
     502 ^@synd<n>$
     486 ^@øye<n>$
     454 ^@kan<n>$
-    443 ^@profet<n>$
     435 ^@side<n>$
     432 ^@sverd<n>$
     429 ^@ham<n>$
@@ -26,14 +22,12 @@
     391 ^@al<n>$
     388 ^@tjener<n>$
     384 ^@så<n>$
-    371 ^@onde<n>$
     350 ^@hele<n>$
     347 ^@ville<n>$
     339 ^@la<n>$
     331 ^@tro<n>$
     316 ^@verd<n>$
     290 ^@skyld<n>$
-    285 ^@okse<n>$
     284 ^@allhær<n>$
     283 ^@tempel<n>$
     277 ^@levitt<n>$
@@ -42,7 +36,6 @@
     252 ^@ur<n>$
     252 ^@leir<n>$
     249 ^@ved<n>$
-    249 ^@port<n>$
     245 ^@tjeneste<n>$
     244 ^@lenge<n>$
     240 ^@brennoffer<n>$
@@ -67,24 +60,20 @@
     183 ^@hører<n>$
     182 ^@vise<n>$
     180 ^@verk<n>$
-    180 ^@offer<n>$
     175 ^@unge<n>$
     170 ^@vare<n>$
     165 ^@stykke<n>$
     164 ^@rettferd<n>$
-    163 ^@olje<n>$
     160 ^@leve<n><sp>$
     156 ^@grav<n>$
     155 ^@søsken<n>$
     155 ^@høyre<n><sp>$
     154 ^@strid<n>$
-    154 ^@nød<n>$
     153 ^@rike<n>$
     151 ^@vitne<n>$
     150 ^@trone<n>$
     150 ^@telt<n>$
     149 ^@sau<n>$
-    148 ^@rett<n>$
     147 ^@urett<n>$
     144 ^@syn<n>$
     143 ^@lov<n><sp>$
@@ -92,10 +81,8 @@
     141 ^@tegn<n>$
     140 ^@sannhet<n>$
     140 ^@ligger<n>$
-    138 ^@påbud<n>$
     135 ^@ve<n>$
     135 ^@tale<n>$
-    135 ^@penge<n>$
     134 ^@hit<n>$
     133 ^@sol<n>$
     133 ^@slags<n><sp>$
@@ -106,28 +93,21 @@
     128 ^@rette<n>$
     127 ^@øre<n>$
     124 ^@stam<n>$
-    124 ^@redsel<n>$
     119 ^@stein<n>$
     119 ^@borg<n>$
     118 ^@småfe<n>$
-    116 ^@ro<n>$
     116 ^@holdt<n><sp>$
     114 ^@sett<n>$
     113 ^@skam<n>$
     113 ^@grunne<n>$
     112 ^@under<n>$
     112 ^@sinn<n>$
-    110 ^@rikdom<n>$
-    109 ^@plass<n>$
-    107 ^@rest<n>$
     106 ^@vilje<n>$
     103 ^@sabbat<n>$
     100 ^@tak<n>$
      99 ^@godt<n><sp>$
-     98 ^@rom<n>$
      97 ^@slå<n>$
      95 ^@lit<n>$
-     94 ^@nåde<n>$
      93 ^@sorg<n>$
      93 ^@buskap<n>$
      90 ^@verken<n>$
@@ -136,17 +116,14 @@
      89 ^@slott<n>$
      89 ^@råd<n><sp>$
      89 ^@alen<n>$
-     88 ^@rettferdighet<n>$
      86 ^@stamme<n>$
      85 ^@ving<n>$
      85 ^@bærer<n>$
-     83 ^@regn<n>$
      83 ^@øst<n><sp>$
      83 ^@gudebilde<n>$
      83 ^@bord<n>$
      82 ^@halvpart<n>$
      81 ^@nei<n>$
-     80 ^@pike<n>$
      80 ^@kjerub<n>$
      80 ^@arameer<n>$
      79 ^@dødsrike<n>$
@@ -160,13 +137,10 @@
      75 ^@dåre<n>$
      74 ^@tall<n>$
      74 ^@frende<n>$
-     73 ^@rev<n>$
      73 ^@går<n><sp>$
      73 ^@får<n>$
      73 ^@betel<n>$
      72 ^@slutt<n>$
-     72 ^@prøve<n>$
-     71 ^@rive<n>$
      70 ^@støv<n>$
      70 ^@stille<n>$
      70 ^@jern<n>$
@@ -181,7 +155,6 @@
      66 ^@stund<n>$
      65 ^@tilsyn<n>$
      65 ^@salme<n>$
-     65 ^@reise<n>$
      64 ^@vis<n>$
      64 ^@vinne<n>$
      64 ^@talent<n>$
@@ -189,7 +162,6 @@
      64 ^@hende<n>$
      64 ^@fyrst<n>$
      63 ^@vind<n>$
-     62 ^@plage<n>$
      62 ^@grunnvoll<n>$
      62 ^@gren<n>$
      61 ^@venstre<n><sp>$
@@ -198,12 +170,10 @@
      61 ^@elsk<n>$
      60 ^@vest<n><sp>$
      60 ^@stav<n>$
-     60 ^@plan<n>$
      59 ^@sang<n>$
      59 ^@mette<n>$
      59 ^@lære<n>$
      58 ^@skog<n>$
-     58 ^@pil<n>$
      58 ^@live<n><sp>$
      57 ^@synagoge<n>$
      57 ^@sykdom<n>$
@@ -214,8 +184,6 @@
      56 ^@skatt<n>$
      56 ^@åker<n>$
      55 ^@sto<n>$
-     55 ^@rop<n>$
-     55 ^@provins<n>$
      55 ^@gjeld<n>$
      54 ^@vekt<n>$
      54 ^@svik<n>$
@@ -231,8 +199,6 @@
      52 ^@syke<n>$
      52 ^@skip<n>$
      52 ^@sinne<n>$
-     51 ^@pest<n>$
-     51 ^@ny<n>$
      50 ^@tilflukt<n>$
      50 ^@steg<n>$
      50 ^@sokkel<n>$
@@ -250,9 +216,7 @@
      48 ^@ætling<n>$
      47 ^@strev<n>$
      47 ^@hor<n>$
-     46 ^@renne<n>$
      46 ^@reis<n>$
-     46 ^@ramme<n>$
      45 ^@vest<n>$
      45 ^@våpen<n>$
      45 ^@sør<n>$
@@ -261,7 +225,6 @@
      44 ^@samleie<n>$
      44 ^@legg<n>$
      43 ^@tank<n>$
-     43 ^@rot<n>$
      42 ^@vaktmann<n>$
      42 ^@teppe<n>$
      42 ^@straff<n>$
@@ -271,12 +234,10 @@
      42 ^@duk<n>$
      41 ^@ugjerningsmann<n>$
      41 ^@spis<n>$
-     41 ^@område<n>$
      41 ^@lagnad<n>$
      41 ^@bringe<n>$
      40 ^@slo<n>$
      40 ^@salve<n>$
-     40 ^@nord<n>$
      39 ^@vederlag<n>$
      39 ^@torg<n>$
      39 ^@styrke<n>$
@@ -292,14 +253,13 @@
      37 ^@lyse<n>$
      36 ^@velvilje<n>$
      36 ^@språk<n>$
-     36 ^@panne<n>$
+     36 ^@plan<n>$
      36 ^@hudsykdom<n>$
      36 ^@geitebukk<n>$
      36 ^@forelder<n>$
      36 ^@benjamin<n>$
      35 ^@tilsynsmann<n>$
      35 ^@storm<n>$
-     35 ^@opprør<n>$
      35 ^@husbond<n>$
      35 ^@hunger<n>$
      35 ^@angst<n>$
@@ -316,7 +276,6 @@
      33 ^@tår<n>$
      33 ^@snakk<n>$
      33 ^@samling<n>$
-     33 ^@ring<n>$
      33 ^@overhode<n>$
      33 ^@led<n>$
      33 ^@kjortel<n>$
@@ -335,8 +294,6 @@
      31 ^@tillegg<n>$
      31 ^@sult<n>$
      31 ^@sei<n>$
-     31 ^@rygg<n>$
-     31 ^@redskap<n>$
      31 ^@oliventre<n>$
      31 ^@kall<n>$
      31 ^@forheng<n>$
@@ -345,7 +302,6 @@
      30 ^@takk<n>$
      30 ^@soldat<n>$
      30 ^@skattkammer<n>$
-     30 ^@ordre<n>$
      30 ^@leie<n>$
      30 ^@krone<n>$
      29 ^@trompet<n>$
@@ -363,8 +319,6 @@
      28 ^@sti<n>$
      28 ^@spott<n>$
      28 ^@samvittighet<n>$
-     28 ^@offiser<n>$
-     28 ^@nytte<n>$
      28 ^@levetid<n>$
      28 ^@jo<n>$
      28 ^@husk<n>$
@@ -396,8 +350,6 @@
      24 ^@slang<n>$
      24 ^@siderom<n>$
      24 ^@sender<n>$
-     24 ^@rekke<n>$
-     24 ^@purpur<n>$
      24 ^@plank<n>$
      24 ^@pæl<n>$
      24 ^@havdyp<n>$
@@ -426,8 +378,8 @@
      22 ^@skaper<n>$
      22 ^@samler<n>$
      22 ^@rykk<n>$
+     22 ^@rot<n>$
      22 ^@ram<n>$
-     22 ^@plante<n>$
      22 ^@nordside<n>$
      22 ^@jubelrop<n>$
      22 ^@granateple<n>$
@@ -437,10 +389,7 @@
      21 ^@skriv<n>$
      21 ^@skinn<n>$
      21 ^@saueflokk<n>$
-     21 ^@rad<n>$
-     21 ^@pust<n>$
      21 ^@pris<n><sp>$
-     21 ^@pant<n>$
      21 ^@øyeblikk<n>$
      21 ^@omgang<n>$
      21 ^@flettverk<n>$
@@ -464,7 +413,6 @@
      19 ^@skille<n>$
      19 ^@rådsherre<n>$
      19 ^@rådgiver<n>$
-     19 ^@nese<n>$
      19 ^@gullring<n>$
      19 ^@ærend<n>$
      18 ^@vold<n>$
@@ -480,7 +428,6 @@
      18 ^@skikk<n>$
      18 ^@salt<n>$
      18 ^@rov<n>$
-     18 ^@ris<n>$
      18 ^@medynk<n>$
      18 ^@kjenner<n>$
      18 ^@bakk<n>$
@@ -491,13 +438,9 @@
      17 ^@tau<n>$
      17 ^@spiss<n>$
      17 ^@sete<n>$
-     17 ^@respekt<n>$
      17 ^@påskelam<n>$
-     17 ^@par<n>$
-     17 ^@ordtak<n>$
      17 ^@omheng<n>$
      17 ^@offerdyr<n>$
-     17 ^@nærhet<n>$
      17 ^@klov<n>$
      17 ^@il<n>$
      17 ^@gro<n>$
@@ -515,10 +458,9 @@
      16 ^@slipp<n>$
      16 ^@skritt<n>$
      16 ^@sjef<n>$
-     16 ^@retning<n>$
+     16 ^@ring<n>$
      16 ^@rå<n>$
      16 ^@øy<n>$
-     16 ^@nærvær<n>$
      16 ^@kobber<n>$
      16 ^@husgud<n>$
      16 ^@håndverker<n>$
@@ -541,8 +483,6 @@
      15 ^@skudd<n>$
      15 ^@skifte<n>$
      15 ^@sjakal<n>$
-     15 ^@ransmann<n>$
-     15 ^@pass<n>$
      15 ^@omsorg<n>$
      15 ^@kornband<n>$
      15 ^@gulv<n>$
@@ -565,10 +505,6 @@
      14 ^@seier<n>$
      14 ^@sand<n>$
      14 ^@sæd<n>$
-     14 ^@pris<n>$
-     14 ^@pilar<n>$
-     14 ^@opphav<n>$
-     14 ^@oppgave<n>$
      14 ^@ir<n>$
      14 ^@denar<n>$
      14 ^@bak<n>$
@@ -607,9 +543,7 @@
      12 ^@stråle<n>$
      12 ^@smerte<n>$
      12 ^@såkorn<n>$
-     12 ^@ordning<n>$
      12 ^@opplæring<n>$
-     12 ^@nøye<n>$
      12 ^@myrra<n>$
      12 ^@lest<n>$
      12 ^@lengt<n>$
@@ -638,9 +572,7 @@
      11 ^@spor<n>$
      11 ^@skjul<n>$
      11 ^@resin<n>$
-     11 ^@ran<n>$
-     11 ^@pryd<n>$
-     11 ^@natur<n>$
+     11 ^@pass<n>$
      11 ^@lede<n>$
      11 ^@kyss<n>$
      11 ^@klede<n>$
@@ -665,14 +597,9 @@
      10 ^@solnedgang<n>$
      10 ^@slektledd<n>$
      10 ^@skrud<n>$
-     10 ^@ruin<n>$
+     10 ^@rom<n>$
      10 ^@rikt<n>$
-     10 ^@pund<n>$
-     10 ^@plugg<n>$
-     10 ^@palme<n>$
-     10 ^@ordspråk<n>$
-     10 ^@oppdrag<n>$
-     10 ^@neve<n>$
+     10 ^@pust<n>$
      10 ^@mannefall<n>$
      10 ^@løvhyttefest<n>$
      10 ^@knokkel<n>$
@@ -742,23 +669,14 @@
       8 ^@sjømann<n>$
       8 ^@satan<n>$
       8 ^@sabbatsår<n>$
-      8 ^@ry<n>$
       8 ^@rus<n>$
       8 ^@ruinhaug<n>$
       8 ^@rose<n>$
       8 ^@rødt<n><sp>$
       8 ^@rak<n>$
-      8 ^@prøvelse<n>$
       8 ^@profeti<n>$
-      8 ^@plikt<n>$
-      8 ^@pengepung<n>$
       8 ^@øreflipp<n>$
-      8 ^@orden<n>$
-      8 ^@oppsynsmann<n>$
-      8 ^@opprører<n>$
       8 ^@ol<n>$
-      8 ^@oliven<n>$
-      8 ^@nøkkel<n>$
       8 ^@nest<n>$
       8 ^@morbærtre<n>$
       8 ^@menneskebarn<n>$
@@ -798,9 +716,6 @@
       7 ^@sandal<n>$
       7 ^@rovfugl<n>$
       7 ^@rikmann<n>$
-      7 ^@rettighet<n>$
-      7 ^@raseri<n>$
-      7 ^@oppstyr<n>$
       7 ^@omtanke<n>$
       7 ^@motpart<n>$
       7 ^@løveunge<n>$
@@ -859,14 +774,10 @@
       6 ^@røyk<n>$
       6 ^@regle<n>$
       6 ^@rav<n>$
-      6 ^@pung<n>$
       6 ^@pliktarbeid<n>$
-      6 ^@planke<n>$
       6 ^@overtak<n>$
-      6 ^@orm<n>$
       6 ^@nymåne<n>$
       6 ^@not<n>$
-      6 ^@nett<n>$
       6 ^@munnskjenk<n>$
       6 ^@menneskeliv<n>$
       6 ^@lurer<n>$
@@ -937,12 +848,9 @@
       5 ^@selger<n>$
       5 ^@samfunn<n>$
       5 ^@rusdrikk<n>$
-      5 ^@rubin<n>$
       5 ^@riksråd<n>$
       5 ^@rettsregel<n>$
-      5 ^@regjering<n>$
       5 ^@red<n>$
-      5 ^@rase<n>$
       5 ^@rakekniv<n>$
       5 ^@råde<n>$
       5 ^@pi<n>$
@@ -951,7 +859,6 @@
       5 ^@ørering<n>$
       5 ^@oljelampe<n>$
       5 ^@nødrop<n>$
-      5 ^@nederlag<n>$
       5 ^@musikkinstrument<n>$
       5 ^@mal<n>$
       5 ^@lo<n>$
@@ -1053,20 +960,13 @@
       4 ^@samliv<n>$
       4 ^@sal<n>$
       4 ^@rømme<n>$
-      4 ^@risp<n>$
       4 ^@rettssak<n>$
       4 ^@regner<n>$
-      4 ^@regjeringstid<n>$
       4 ^@rabbi<n>$
       4 ^@ps<n>$
       4 ^@proselytt<n>$
-      4 ^@plate<n>$
-      4 ^@person<n>$
-      4 ^@påfunn<n>$
       4 ^@overmot<n>$
       4 ^@ordskifte<n>$
-      4 ^@oppløsning<n>$
-      4 ^@opphavsmann<n>$
       4 ^@offerfest<n>$
       4 ^@mosebok<n>$
       4 ^@morbror<n>$
@@ -1171,28 +1071,14 @@
       3 ^@riss<n>$
       3 ^@ringer<n>$
       3 ^@rettsinn<n>$
-      3 ^@renning<n>$
-      3 ^@rekkverk<n>$
-      3 ^@regel<n>$
       3 ^@refs<n>$
       3 ^@rask<n>$
-      3 ^@pute<n>$
-      3 ^@presse<n>$
       3 ^@portrom<n>$
-      3 ^@poppel<n>$
-      3 ^@plagg<n>$
-      3 ^@pisk<n>$
       3 ^@pas<n>$
-      3 ^@part<n>$
       3 ^@paradis<n>$
-      3 ^@overflate<n>$
       3 ^@østen<n><sp>$
-      3 ^@opplysning<n>$
-      3 ^@omvei<n>$
       3 ^@omega<n>$
-      3 ^@nyhet<n>$
       3 ^@nordavind<n>$
-      3 ^@neste<n>$
       3 ^@nesering<n>$
       3 ^@nattely<n>$
       3 ^@nardussalve<n>$
@@ -1364,46 +1250,25 @@
       2 ^@samtykke<n>$
       2 ^@samlingsmerke<n>$
       2 ^@rundgang<n>$
-      2 ^@runde<n>$
-      2 ^@rull<n>$
-      2 ^@rovdyr<n>$
-      2 ^@romer<n>$
       2 ^@røde<n>$
       2 ^@ridehest<n>$
       2 ^@ridedyr<n>$
-      2 ^@renn<n>$
-      2 ^@religion<n>$
-      2 ^@rand<n>$
+      2 ^@redskap<n>$
       2 ^@rådløshet<n>$
-      2 ^@pryl<n>$
       2 ^@prikk<n>$
       2 ^@presteskap<n>$
-      2 ^@press<n>$
-      2 ^@post<n>$
-      2 ^@plog<n>$
       2 ^@plogjern<n>$
       2 ^@platan<n>$
       2 ^@pinsedag<n>$
-      2 ^@piletre<n>$
-      2 ^@pekefinger<n>$
-      2 ^@pauke<n>$
       2 ^@påfugl<n>$
       2 ^@øverstkommanderende<n><sp>$
       2 ^@oppkjøp<n>$
-      2 ^@oppgjør<n>$
-      2 ^@oppgang<n>$
-      2 ^@oppførsel<n>$
-      2 ^@oppdragelse<n>$
       2 ^@opal<n>$
       2 ^@onnefolk<n>$
       2 ^@olivenolje<n>$
       2 ^@odelsrett<n>$
-      2 ^@nys<n>$
       2 ^@nevner<n>$
-      2 ^@negl<n>$
-      2 ^@nebb<n>$
       2 ^@nattemørke<n>$
-      2 ^@næring<n>$
       2 ^@myriade<n>$
       2 ^@muleband<n>$
       2 ^@most<n>$
@@ -1737,76 +1602,52 @@
       1 ^@salami<n>$
       1 ^@salamander<n>$
       1 ^@runddans<n>$
-      1 ^@rug<n>$
-      1 ^@ror<n>$
       1 ^@rokk<n>$
-      1 ^@rimfrost<n>$
       1 ^@rettsmøte<n>$
       1 ^@retter<n>$
       1 ^@rek<n>$
-      1 ^@rekkefølge<n>$
-      1 ^@reisende<n><sp>$
-      1 ^@regning<n>$
       1 ^@regndråpe<n>$
       1 ^@rauting<n>$
       1 ^@raus<n>$
       1 ^@ra<n>$
       1 ^@rammel<n>$
       1 ^@ragg<n>$
-      1 ^@pynt<n>$
-      1 ^@puss<n>$
       1 ^@purr<n>$
-      1 ^@punkt<n>$
       1 ^@pukkelrygg<n>$
       1 ^@puff<n>$
-      1 ^@proviant<n>$
-      1 ^@privat<n>$
+      1 ^@pryl<n>$
       1 ^@prestevigsel<n>$
-      1 ^@preg<n>$
+      1 ^@press<n>$
       1 ^@portstolpe<n>$
-      1 ^@port<n>$ 
-      1 ^@pøbel<n>$
-      1 ^@plett<n>$
       1 ^@plaster<n>$
-      1 ^@pinse<n>$
+      1 ^@pisk<n>$
       1 ^@perlebånd<n>$
-      1 ^@penge<n>$» –
       1 ^@patriark<n>$
-      1 ^@påstand<n>$
-      1 ^@parti<n>$
-      1 ^@park<n>$
-      1 ^@parfyme<n>$
       1 ^@papir<n>$
-      1 ^@panser<n>$
+      1 ^@pant<n>$
       1 ^@palmeblad<n>$
       1 ^@palass<n>$
       1 ^@overmann<n>$
       1 ^@ost<n><sp>$
-      1 ^@ost<n>$
       1 ^@or<n>$
       1 ^@øre<n>$ 
       1 ^@orakel<n>$
-      1 ^@oppvarming<n>$
       1 ^@oppsikt<n>$
       1 ^@opprop<n>$
-      1 ^@oppløp<n>$
-      1 ^@opphold<n>$
       1 ^@olding<n>$
       1 ^@økt<n>$
       1 ^@offerlam<n>$
       1 ^@odd<n>$
+      1 ^@nys<n>$
       1 ^@nybrott<n>$
       1 ^@nut<n>$
       1 ^@nordvest<n>$
       1 ^@nordhimmel<n>$
       1 ^@norden<n><sp>$
       1 ^@nordende<n>$
-      1 ^@nød<n>$ 
       1 ^@nidingsverk<n>$
       1 ^@nes<n>$
       1 ^@ne<n>$
-      1 ^@neger<n>$
-      1 ^@nav<n>$
       1 ^@navlestreng<n>$
       1 ^@nattetime<n>$
       1 ^@nardus<n>$
