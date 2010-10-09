@@ -1,263 +1,109 @@
-   9902 ^@til<adv>$
    3209 ^@fra<adv>$
    2171 ^@for<adv>$
-   1350 ^@når<adv>$
-   1067 ^@der<adv>$
-    747 ^@hvor<adv>$
-    617 ^@så<adv>$
-    586 ^@selv<adv>$
-    555 ^@bare<adv>$
-    414 ^@sammen<adv>$
-    413 ^@hvorfor<adv>$
     391 ^@herre<adv>$
-    390 ^@aldri<adv>$
-    379 ^@hvordan<adv>$
     360 ^@enda<adv>$
     342 ^@tusen<adv>$
     337 ^@rett<adv>$
-    331 ^@jo<adv>$
-    308 ^@siden<adv>$
-    308 ^@her<adv>$
-    286 ^@i dag<adv>$
-    280 ^@alltid<adv>$
-    273 ^@enn<adv>$
     268 ^@av sted<adv>$
-    231 ^@ennå<adv>$
     211 ^@ene<adv>$
-    208 ^@før<adv>$
-    206 ^@langt<adv>$
-    191 ^@høyt<adv>$
     187 ^@ende<adv>$
     183 ^@videre<adv>$
-    182 ^@fast<adv>$
-    179 ^@ellers<adv>$
-    176 ^@først<adv>$
-    172 ^@alt<adv>$
-    169 ^@nå<adv>$
-    167 ^@sannelig<adv>$
-    167 ^@nok<adv>$
-    165 ^@likevel<adv>$
     159 ^@i stand<adv>$
-    148 ^@helt<adv>$
-    140 ^@så lenge<adv>$
     139 ^@eneste<adv>$
     135 ^@stort<adv>$
     130 ^@så sant<adv>$
     116 ^@full<adv>$
-    110 ^@stadig<adv>$
-    109 ^@opp igjen<adv>$
-    105 ^@heller<adv>$
-     97 ^@like<adv>$
      89 ^@tidlig<adv>$
      88 ^@rent<adv>$
-     87 ^@kanskje<adv>$
      87 ^@fullt<adv>$
-     83 ^@gjerne<adv>$
-     79 ^@straks<adv>$
-     74 ^@snart<adv>$
-     72 ^@i morgen<adv>$
      68 ^@lite<adv>$
      67 ^@midt<adv>$
-     65 ^@ille<adv>$
-     62 ^@således<adv>$
      61 ^@hjemme<adv>$
-     60 ^@altså<adv>$
      59 ^@hardt<adv>$
-     59 ^@allerede<adv>$
      58 ^@stein<adv>$
      58 ^@meget<adv>$
      54 ^@så snart<adv>$
-     54 ^@dessuten<adv>$
-     52 ^@deretter<adv>$
-     46 ^@sist<adv>$
-     45 ^@litt<adv>$
-     45 ^@lenger<adv>$
      43 ^@senere<adv>$
      43 ^@fore<adv>$
-     42 ^@dermed<adv>$
-     39 ^@vel<adv>$
-     38 ^@overalt<adv>$
-     38 ^@ofte<adv>$
-     38 ^@fremdeles<adv>$
      38 ^@brått<adv>$
-     37 ^@nettopp<adv>$
-     37 ^@likeså<adv>$
-     36 ^@samtidig<adv>$
-     35 ^@engang<adv>$
-     31 ^@lenge<adv>$
      31 ^@fatt<adv>$
      28 ^@ana<adv>$
-     26 ^@støtt<adv>$
-     25 ^@aller<adv>$
      23 ^@likt<adv>$
-     23 ^@lett<adv>$
-     21 ^@nemlig<adv>$
      21 ^@der omkring<adv>$
      20 ^@tilmed<adv>$
-     20 ^@tidligere<adv>$
-     20 ^@akkurat<adv>$
-     19 ^@omme<adv>$
      17 ^@sted<adv>$
      17 ^@sent<adv>$
-     17 ^@nesten<adv>$
      16 ^@svært<adv>$
-     15 ^@på gang<adv>$
-     15 ^@nærmere<adv>$
-     15 ^@lengst<adv>$
-     15 ^@imens<adv>$
      14 ^@vann<adv>$
      14 ^@stummende<adv>$
-     14 ^@isteden<adv>$
      14 ^@glødende<adv>$
-     13 ^@visst<adv>$
      13 ^@skinnende<adv>$
-     13 ^@rasende<adv>$
      13 ^@noen gang<adv>$
      13 ^@annerledes<adv>$
-     12 ^@sann<adv>$
      12 ^@i gang<adv>$
      11 ^@rennende<adv>$
-     11 ^@i stedet<adv>$
      11 ^@fullstendig<adv>$
      11 ^@der nede<adv>$
-     11 ^@atter<adv>$
-     10 ^@vide<adv>$
      10 ^@tydelig<adv>$
      10 ^@særlig<adv>$
-     10 ^@omtrent<adv>$
-     10 ^@i går<adv>$
-     10 ^@helt opp<adv>$
-     10 ^@helst<adv>$
-     10 ^@hele tiden<adv>$
      10 ^@fortsatt<adv>$
      10 ^@desto<adv>$
       9 ^@inn igjen<adv>$
-      9 ^@hende<adv>$
       9 ^@der ute<adv>$
       9 ^@dernest<adv>$
       8 ^@stokk<adv>$
       8 ^@sin tid<adv>$
       8 ^@riv<adv>$
-      8 ^@nylig<adv>$
-      8 ^@nærmest<adv>$
-      8 ^@med rette<adv>$
-      8 ^@langt fra<adv>$
-      8 ^@kan hende<adv>$
       7 ^@spent<adv>$
-      7 ^@så vidt<adv>$
-      7 ^@så nær<adv>$
       7 ^@ingenting<adv>$
-      7 ^@heretter<adv>$
       7 ^@den gangen<adv>$
-      6 ^@ytterst<adv>$
       6 ^@lys<adv>$
       6 ^@hengende<adv>$
-      6 ^@ganske<adv>$
-      6 ^@altfor<adv>$
-      5 ^@tvers<adv>$
-      5 ^@om igjen<adv>$
-      5 ^@nordover<adv>$
       5 ^@for hånden<adv>$
       5 ^@der oppe<adv>$
       5 ^@der inne<adv>$
-      4 ^@tilsammen<adv>$
       4 ^@stykkevis<adv>$
       4 ^@overmorgen<adv>$
       4 ^@overmåte<adv>$
       4 ^@lynende<adv>$
       4 ^@livende<adv>$
-      4 ^@like godt<adv>$
-      4 ^@langt ifra<adv>$
-      4 ^@knapt<adv>$
       4 ^@i bruk<adv>$
-      4 ^@i alle fall<adv>$
       4 ^@hisset<adv>$
-      4 ^@grave<adv>$
       4 ^@foruten<adv>$
-      4 ^@for resten<adv>$
       4 ^@ender<adv>$
-      4 ^@derimot<adv>$
-      4 ^@derav<adv>$
       3 ^@verst<adv>$
       3 ^@umåtelig<adv>$
-      3 ^@overens<adv>$
-      3 ^@nære<adv>$
       3 ^@mange steder<adv>$
-      3 ^@innover<adv>$
-      3 ^@i mellomtiden<adv>$
-      3 ^@i det hele tatt<adv>$
-      3 ^@hittil<adv>$
       3 ^@fjernt<adv>$
-      3 ^@etterpå<adv>$
-      3 ^@etter hvert<adv>$
       3 ^@dess mer<adv>$
-      3 ^@der borte<adv>$
       3 ^@dam<adv>$
       3 ^@blikk<adv>$
-      2 ^@tvert<adv>$
-      2 ^@stundom<adv>$
       2 ^@sjelden<adv>$
       2 ^@sia<adv>$
       2 ^@såre<adv>$
-      2 ^@riktignok<adv>$
-      2 ^@riktig nok<adv>$
-      2 ^@òg<adv>$
-      2 ^@neppe<adv>$
-      2 ^@minst<adv>$
       2 ^@mengdevis<adv>$
       2 ^@imidlertid<adv>$
-      2 ^@i fjor<adv>$
-      2 ^@iallfall<adv>$
-      2 ^@haugevis<adv>$
-      2 ^@halvveis<adv>$
       2 ^@for visst<adv>$
-      2 ^@for øvrig<adv>$
-      2 ^@for lengst<adv>$
       2 ^@for hånd<adv>$
       2 ^@endog<adv>$
-      2 ^@dels<adv>$
-      2 ^@bom<adv>$
       2 ^@bakvendt<adv>$
-      2 ^@av og til<adv>$
       2 ^@an<adv>$
-      2 ^@amok<adv>$
-      1 ^@ved like<adv>$
       1 ^@ualminnelig<adv>$
-      1 ^@tusenvis<adv>$
       1 ^@trillende<adv>$
       1 ^@spill<adv>$
       1 ^@snyte<adv>$
       1 ^@slettes<adv>$
-      1 ^@skiftevis<adv>$
       1 ^@sjeldnere<adv>$
       1 ^@så visst<adv>$
-      1 ^@såpass<adv>$
-      1 ^@så pass<adv>$
-      1 ^@rett og slett<adv>$
       1 ^@rett<adv>$ –
-      1 ^@opp ned<adv>$
-      1 ^@nyss<adv>$
-      1 ^@nest<adv>$
-      1 ^@nåvel<adv>$
-      1 ^@nær på<adv>$
       1 ^@lutende<adv>$
-      1 ^@live<adv>$
-      1 ^@liksom<adv>$
-      1 ^@kun<adv>$
       1 ^@jevnt<adv>$
-      1 ^@jamsides<adv>$
-      1 ^@i tide<adv>$
-      1 ^@især<adv>$
       1 ^@i det<adv>$
       1 ^@hodestups<adv>$
-      1 ^@hermed<adv>$
       1 ^@gid<adv>$
       1 ^@før eller siden<adv>$
-      1 ^@fælt<adv>$
       1 ^@en masse<adv>$
       1 ^@dryppende<adv>$
       1 ^@drivende<adv>$
       1 ^@delvis<adv>$
       1 ^@barføtt<adv>$
-      1 ^@baklengs<adv>$
-      1 ^@alltid<adv>$ – 
