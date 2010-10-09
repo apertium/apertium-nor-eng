@@ -54,6 +54,8 @@
       <attr-item tags="prn.subj"/>
       <attr-item tags="prn.obj"/>
       <attr-item tags="prn.dem"/>
+      <attr-item tags="prn.ind"/>
+      <attr-item tags="prn.qnt"/>
     </def-attr>
     <def-attr n="a_verb">
       <attr-item tags="vblex"/>

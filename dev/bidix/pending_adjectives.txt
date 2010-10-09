@@ -134,7 +134,6 @@
       6 ^@kroke<adj>$
       6 ^@fortrolig<adj>$
       6 ^@enslig<adj>$
-      6 ^@24.<adj><ord>$
       5 ^@vite<adj>$
       5 ^@verne<adj>$
       5 ^@varig<adj>$
@@ -199,7 +198,6 @@
       4 ^@ben<adj>$
       4 ^@alminnelig<adj>$
       4 ^@ære<adj>$
-      3 ^@velkommen<adj>$
       3 ^@vek<adj>$
       3 ^@travel<adj>$
       3 ^@tett<adj><sup>$
@@ -237,7 +235,6 @@
       3 ^@behagelig<adj>$
       3 ^@avhengig<adj>$
       3 ^@ange<adj>$
-      3 ^@500.<adj><ord>$ 
       2 ^@voldelig<adj>$
       2 ^@visne<adj>$
       2 ^@verke<adj>$
@@ -333,12 +330,6 @@
       2 ^@avsides<adj>$
       2 ^@ærefull<adj>$
       2 ^@advare<adj>$
-      2 ^@74.<adj><ord>$ 
-      2 ^@600.<adj><ord>$
-      2 ^@400.<adj><ord>$ 
-      2 ^@400.<adj><ord>$
-      2 ^@392.<adj><ord>$ 
-      2 ^@1017.<adj><ord>$ 
       1 ^@ypperlig<adj><sup>$
       1 ^@vrangvillig<adj>$
       1 ^@vokse<adj>$
@@ -485,30 +476,3 @@
       1 ^@avvise<adj>$
       1 ^@avdød<adj>$
       1 ^@ærverdig<adj>$
-      1 ^@95.<adj><ord>$ 
-      1 ^@750.<adj><ord>$
-      1 ^@730.<adj><ord>$ 
-      1 ^@700.<adj><ord>$ 
-      1 ^@666.<adj><ord>$
-      1 ^@630.<adj><ord>$
-      1 ^@600.<adj><ord>$ 
-      1 ^@580.<adj><ord>$
-      1 ^@550.<adj><ord>$
-      1 ^@500.<adj><ord>$
-      1 ^@480.<adj><ord>$
-      1 ^@450.<adj><ord>$
-      1 ^@3930.<adj><ord>$ 
-      1 ^@3630.<adj><ord>$ 
-      1 ^@300.<adj><ord>$ 
-      1 ^@273.<adj><ord>$ 
-      1 ^@21.<adj><ord>$
-      1 ^@20.<adj><ord>$
-      1 ^@200.<adj><ord>$
-      1 ^@172.<adj><ord>$ 
-      1 ^@148.<adj><ord>$ 
-      1 ^@139.<adj><ord>$ 
-      1 ^@138.<adj><ord>$ 
-      1 ^@128.<adj><ord>$ 
-      1 ^@112.<adj><ord>$ 
-      1 ^@100.<adj><ord>$
-      1 ^@000.<adj><ord>$ 

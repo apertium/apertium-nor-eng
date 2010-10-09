@@ -168,7 +168,6 @@
 
     <e c="  0"><p><l>om<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
 
-    <e c="  0"><p><l>omkring<s n="pr"/></l><r>around<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>opp<s n="pr"/></l><r>up<s n="pr"/></r></p></e>
 
@@ -201,7 +200,8 @@
     <e slr="4"><p><l>mot<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
     <e slr="5"><p><l>mot<s n="pr"/></l><r>versus<s n="pr"/></r></p></e>
     <e c="  0"><p><l>omkring<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
-    <e slr="1"><p><l>omkring<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>omkring<s n="pr"/></l><r>around<s n="pr"/></r></p></e>
+    <e slr="2"><p><l>omkring<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
     <e c="  0"><p><l>oppover<s n="pr"/></l><r>up<s n="pr"/></r></p></e><!-- (toward the top)-->
     <e slr="1"><p><l>oppover<s n="pr"/></l><r>upwards<s n="pr"/></r></p></e><!-- (toward the top)-->
     <e c="  0"><p><l>overfor<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
@@ -7013,7 +7013,7 @@
 
     <e c="  0"><p><l>velkommen<s n="adj"/></l><r>welcome<s n="adj"/></r></p></e>
 
-    <e c="  0"><p><l>svenske<s n="adj"/></l><r>Swedish<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>svensk<s n="adj"/></l><r>Swedish<s n="adj"/></r></p></e>
     <e c="  0"><p><l>norsk<s n="adj"/></l><r>Norwegian<s n="adj"/></r></p></e>
 
     <!-- Adverbs -->
@@ -7062,7 +7062,6 @@
     <e slr="3"><p><l>engang<s n="adv"/></l><r>sometime<s n="adv"/></r></p></e> 
     <e slr="4"><p><l>engang<s n="adv"/></l><r>some<b/>day<s n="adv"/></r></p></e> 
     <e slr="5"><p><l>engang<s n="adv"/></l><r>one<b/>day<s n="adv"/></r></p></e> 
-    <e c="  0"><p><l>enn<s n="adv"/></l><r>than<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>fast<s n="adv"/></l><r>almost<s n="adv"/></r></p></e> <!--(dated)-->
     <e slr="1"><p><l>fast<s n="adv"/></l><r>nearly<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>før<s n="adv"/></l><r>before<s n="adv"/></r></p></e> 
@@ -7176,14 +7175,11 @@
     <e slr="5"><p><l>til<s n="adv"/></l><r>till<s n="adv"/></r></p></e> 
 
     <e c="  0"><p><l>når<s n="adv"/></l><r>when<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>der<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
-    <e slr="1"><p><l>der<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
-    <e slr="2"><p><l>der<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
-    <e slr="3"><p><l>der<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
     <e c="  0"><p><l>selv<s n="adv"/></l><r>alternately<s n="adv"/></r></p></e>
     <e c="  0"><p><l>enn<s n="adv"/></l><r>ever<s n="adv"/></r></p></e>
     <e slr="1"><p><l>enn<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
     <e slr="2"><p><l>enn<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>enn<s n="adv"/></l><r>than<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>ennå<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
     <e slr="1"><p><l>ennå<s n="adv"/></l><r>even<s n="adv"/></r></p></e>
     <e c="  0"><p><l>langt<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
@@ -7340,10 +7336,10 @@
     <e slr="3"><p><l>etterpå<s n="adv"/></l><r>in<b/>arrears<s n="adv"/></r></p></e>
     <e c="  0"><p><l>etter<b/>hvert<s n="adv"/></l><r>gradually<s n="adv"/></r></p></e>
     <e c="  0"><p><l>der<b/>borte<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
-    <e slr="1"><p><l>der<b/>borte<s n="adv"/></l><r>absent;<b/>away<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>der<b/>borte<s n="adv"/></l><r>absent<s n="adv"/></r></p></e>
     <e slr="2"><p><l>der<b/>borte<s n="adv"/></l><r>away<s n="adv"/></r></p></e>
     <e c="  0"><p><l>tvert<s n="adv"/></l><r>suddenly<s n="adv"/></r></p></e>
-    <e slr="1"><p><l>tvert<s n="adv"/></l><r>against;<b/>on<b/>the<b/>other<b/>side<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>tvert<s n="adv"/></l><r>against<s n="adv"/></r></p></e>
     <e slr="2"><p><l>tvert<s n="adv"/></l><r>on<b/>the<b/>other<b/>side<s n="adv"/></r></p></e>
     <e slr="3"><p><l>tvert<s n="adv"/></l><r>on<b/>the<b/>contrary<s n="adv"/></r></p></e>
     <e c="  0"><p><l>stundom<s n="adv"/></l><r>at<b/>times<s n="adv"/></r></p></e>
@@ -7375,7 +7371,7 @@
     <e slr="1"><p><l>av<b/>og<b/>til<s n="adv"/></l><r>occasionally<s n="adv"/></r></p></e>
     <e slr="2"><p><l>av<b/>og<b/>til<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
     <e slr="3"><p><l>av<b/>og<b/>til<s n="adv"/></l><r>now<b/>and<b/>then<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>ved<b/>like<s n="adv"/></l><r>in<b/>shape;<b/>fit<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>ved<b/>like<s n="adv"/></l><r>in<b/>shape<s n="adv"/></r></p></e>
     <e slr="1"><p><l>ved<b/>like<s n="adv"/></l><r>fit<s n="adv"/></r></p></e>
     <e c="  0"><p><l>tusenvis<s n="adv"/></l><r>by<b/>the<b/>thousand<s n="adv"/></r></p></e>
     <e slr="1"><p><l>tusenvis<s n="adv"/></l><r>in<b/>thousands<s n="adv"/></r></p></e>
@@ -7433,11 +7429,13 @@
     <e c="  0"><p><l>gjøre<s n="vblex"/></l><r>make<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>komme<s n="vblex"/></l><r>come<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>samle<s n="vblex"/></l><r>collect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
     <e c="  0"><p><l>syne<s n="vblex"/></l><r>show<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>syne<s n="vblex"/></l><r>inspect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="2"><p><l>syne<s n="vblex"/></l><r>examine<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="3"><p><l>syne<s n="vblex"/></l><r>appraise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="4"><p><l>syne<s n="vblex"/></l><r>look<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
     <e c="  0"><p><l>gi<s n="vblex"/></l><r>give<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>gå<s n="vblex"/></l><r>go<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>bære<s n="vblex"/></l><r>bear<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -7447,9 +7445,7 @@
     <e c="  0"><p><l>spise<s n="vblex"/></l><r>eat<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e srl="1"><p><l>ete<s n="vblex"/></l><r>eat<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>sende<s n="vblex"/></l><r>send<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e c="  0"><p><l>svare<s n="vblex"/></l><r>ask<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>dø<s n="vblex"/></l><r>die<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e c="  0"><p><l>fare<s n="vblex"/></l><r>travel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
     <e c="  0"><p><l>vente<s n="vblex"/></l><r>expect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>vente<s n="vblex"/></l><r>stay<g><b/>put</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -7847,10 +7843,7 @@
     <e c="  0"><p><l>snuble<s n="vblex"/></l><r>stumble<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>huske<s n="vblex"/></l><r>remember<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>klage<s n="vblex"/></l><r>complain<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e c="  0"><p><l>syne<s n="vblex"/></l><r>inspect<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="1"><p><l>syne<s n="vblex"/></l><r>examine<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="2"><p><l>syne<s n="vblex"/></l><r>appraise<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="3"><p><l>syne<s n="vblex"/></l><r>look<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+
     <e c="  0"><p><l>lokke<s n="vblex"/></l><r>tempt<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>lokke<s n="vblex"/></l><r>entice<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="2"><p><l>lokke<s n="vblex"/></l><r>lure<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
@@ -7859,6 +7852,7 @@
     <e slr="5"><p><l>lokke<s n="vblex"/></l><r>coax<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="6"><p><l>lokke<s n="vblex"/></l><r>cajole<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="7"><p><l>lokke<s n="vblex"/></l><r>wheedle<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+
     <e c="  0"><p><l>bringe<s n="vblex"/></l><r>bring<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>bringe<s n="vblex"/></l><r>fetch<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="2"><p><l>bringe<s n="vblex"/></l><r>take<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
@@ -7903,7 +7897,6 @@
     <e slr="21"><p><l>stikke<s n="vblex"/></l><r>inform<g><b/>against</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="22"><p><l>stikke<s n="vblex"/></l><r>squeal<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="23"><p><l>stikke<s n="vblex"/></l><r>rat<g><b/>on</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e c="  0"><p><l>lokke<s n="vblex"/></l><r>lure<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>lure<s n="vblex"/></l><r>deceive<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="2"><p><l>lure<s n="vblex"/></l><r>trick<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>granske<s n="vblex"/></l><r>scrutinise<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (to examine with great care)-->

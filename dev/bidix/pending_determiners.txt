@@ -2,12 +2,10 @@
     900 ^@ingen<det><qnt>$
     504 ^@denne<det><dem><m>$
     421 ^@denne<det><dem>$
-    390 ^@mange<det><qnt>$
     184 ^@Ingen<det><qnt>$
     173 ^@egen<det><emph><nt>$
     173 ^@egen<det><emph><m>$
     155 ^@begge<det><qnt>$
-    120 ^@mange<det><qnt><unc>$
     114 ^@tjue<det><qnt>$
      97 ^@De<det><pos><p2>$
      95 ^@slik<det><dem><nt>$
@@ -18,7 +16,6 @@
      58 ^@egen<det><emph>$
      57 ^@enhver<det><qnt><m>$
      53 ^@Denne<det><dem>$
-     44 ^@Mange<det><qnt>$
      37 ^@så mange<det><qnt>$
      34 ^@Enhver<det><qnt><m>$
      32 ^@hvilken<det><itg><m>$
@@ -40,7 +37,6 @@
      10 ^@en eller annen<det><qnt><m>$
      10 ^@de fleste<det><qnt>$
       9 ^@Slik<det><dem>$
-      9 ^@Mange<det><qnt><unc>$
       9 ^@Hvor mange<det><qnt>$
       8 ^@Slik<det><dem><nt>$
       8 ^@Hvilken<det><itg><nt>$

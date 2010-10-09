@@ -1,167 +1,167 @@
-    753 ^@Juda<np><m>$
-    287 ^@Salomo<np><m>$
-    238 ^@Josva<np><m>$
-    181 ^@Kongen<np><m>$
+    753 ^@Juda<np>$
+    287 ^@Salomo<np>$
+    238 ^@Josva<np>$
+    181 ^@Kongen<np>$
     181 ^@Efraim<np>$
     168 ^@Sion<np>$
-    157 ^@Manasse<np><m>$
-    154 ^@Kristi<np><f>$
+    157 ^@Manasse<np>$
+    154 ^@Kristi<np>$
     147 ^@Joab<np>$
-    144 ^@Jeremia<np><m>$
+    144 ^@Jeremia<np>$
     142 ^@Moab<np>$
-    141 ^@Gilead<np><m>$
-    131 ^@Hiskia<np><m>$
+    141 ^@Gilead<np>$
+    131 ^@Hiskia<np>$
     117 ^@Samaria<np>$
-    113 ^@Elia<np><m>$
+    113 ^@Elia<np>$
     110 ^@Edom<np>$
-     96 ^@Absalom<np><m>$
+     96 ^@Absalom<np>$
      92 ^@Gad<np>$
-     91 ^@Ruben<np><m>$
+     91 ^@Ruben<np>$
      91 ^@Nebukadnesar<np>$
-     74 ^@Elasar<np><m>$
+     74 ^@Elasar<np>$
      72 ^@Joasj<np>$
      67 ^@Sikem<np>$
      64 ^@Abimelek<np>$
-     63 ^@Abram<np><m>$
-     62 ^@Joram<np><m>$
-     60 ^@Sakarja<np><m>$
-     59 ^@Jesaja<np><m>$
+     63 ^@Abram<np>$
+     62 ^@Joram<np>$
+     60 ^@Sakarja<np>$
+     59 ^@Jesaja<np>$
      58 ^@Pilatus<np>$
-     56 ^@Messias<np><m>$
-     55 ^@Simeon<np><m>$
-     55 ^@Naftali<np><m>$
-     54 ^@Sadok<np><m>$
-     54 ^@Rehabeam<np><m>$
+     56 ^@Messias<np>$
+     55 ^@Simeon<np>$
+     55 ^@Naftali<np>$
+     54 ^@Sadok<np>$
+     54 ^@Rehabeam<np>$
      51 ^@Sebulon<np>$
      50 ^@Noah<np>$
-     49 ^@Ismael<np><m>$
+     49 ^@Ismael<np>$
      49 ^@Gat<np>$
-     48 ^@Rakel<np><f>$
+     48 ^@Rakel<np>$
      47 ^@Laban<np>$
-     47 ^@Isai<np><m>$
-     46 ^@Korah<np><m>$
-     46 ^@Gideon<np><m>$
-     45 ^@Asaf<np><m>$
+     47 ^@Isai<np>$
+     46 ^@Korah<np>$
+     46 ^@Gideon<np>$
+     45 ^@Asaf<np>$
      44 ^@Samson<np>$
-     44 ^@Natan<np><m>$
-     44 ^@Ester<np><f>$
-     43 ^@Akas<np><m>$
+     44 ^@Natan<np>$
+     44 ^@Ester<np>$
+     43 ^@Akas<np>$
      40 ^@Merari<np>$
-     39 ^@Balak<np><m>$
-     37 ^@Eli<np><f>$
+     39 ^@Balak<np>$
+     37 ^@Eli<np>$
      37 ^@Ai<np>$
-     36 ^@Uria<np><m>$
-     35 ^@Assur<np><m>$
-     34 ^@Johanan<np><m>$
-     33 ^@Serah<np><m>$
-     33 ^@Abia<np><m>$
-     32 ^@Ussia<np><m>$
-     31 ^@Tamar<np><f>$
-     31 ^@Obed<np><m>$
-     30 ^@Rebekka<np><f>$
-     30 ^@Jotam<np><m>$
-     28 ^@Jona<np><m>$
-     28 ^@Barnabas<np><m>$
-     28 ^@Abjatar<np><m>$
-     26 ^@Elam<np><m>$
-     25 ^@Timoteus<np><m>$
+     36 ^@Uria<np>$
+     35 ^@Assur<np>$
+     34 ^@Johanan<np>$
+     33 ^@Serah<np>$
+     33 ^@Abia<np>$
+     32 ^@Ussia<np>$
+     31 ^@Tamar<np>$
+     31 ^@Obed<np>$
+     30 ^@Rebekka<np>$
+     30 ^@Jotam<np>$
+     28 ^@Jona<np>$
+     28 ^@Barnabas<np>$
+     28 ^@Abjatar<np>$
+     26 ^@Elam<np>$
+     25 ^@Timoteus<np>$
      25 ^@Pinhas<np>$
      25 ^@Peres<np>$
-     22 ^@Hesron<np><m>$
-     21 ^@Kain<np><m>$
+     22 ^@Hesron<np>$
+     21 ^@Kain<np>$
      21 ^@Joel<np>$
-     21 ^@Amos<np><m>$
-     20 ^@Aram<np><m>$
+     21 ^@Amos<np>$
+     20 ^@Aram<np>$
      19 ^@Teman<np>$
-     19 ^@Jojakin<np><m>$
+     19 ^@Jojakin<np>$
      18 ^@Sarai<np>$
      18 ^@Kyros<np>$
-     16 ^@Saulus<np><m>$
-     16 ^@Hermon<np><m>$
-     16 ^@Elieser<np><m>$
-     16 ^@Amminadab<np><m>$
-     15 ^@Mirjam<np><f>$
-     15 ^@Mikael<np><m>$
+     16 ^@Saulus<np>$
+     16 ^@Hermon<np>$
+     16 ^@Elieser<np>$
+     16 ^@Amminadab<np>$
+     15 ^@Mirjam<np>$
+     15 ^@Mikael<np>$
      15 ^@Jedutun<np>$
-     15 ^@Eljakim<np><m>$
+     15 ^@Eljakim<np>$
      15 ^@Eber<np>$
-     14 ^@Rahab<np><f>$
+     14 ^@Rahab<np>$
      14 ^@Mahanajim<np>$
      14 ^@Gosen<np>$
      14 ^@Elifas<np>$
-     13 ^@Titus<np><m>$
+     13 ^@Titus<np>$
      13 ^@Silas<np>$
-     13 ^@Hagar<np><f>$
-     13 ^@Festus<np><m>$
+     13 ^@Hagar<np>$
+     13 ^@Festus<np>$
      13 ^@Efron<np>$
-     13 ^@Batseba<np><f>$
-     12 ^@Sebedeus<np><m>$
+     13 ^@Batseba<np>$
+     12 ^@Sebedeus<np>$
      12 ^@Rabbi<np>$
-     12 ^@Melkisedek<np><m>$
+     12 ^@Melkisedek<np>$
      12 ^@Lamek<np>$
-     12 ^@Kedar<np><m>$
+     12 ^@Kedar<np>$
      12 ^@Heber<np>$
-     12 ^@Barabbas<np><m>$
-     11 ^@Milka<np><m>$
-     11 ^@Jafet<np><m>$
+     12 ^@Barabbas<np>$
+     11 ^@Milka<np>$
+     11 ^@Jafet<np>$
      11 ^@Iskariot<np>$
-     11 ^@Debora<np><f>$
+     11 ^@Debora<np>$
      11 ^@Betuel<np>$
-     11 ^@Ananias<np><m>$
-     11 ^@Agrippa<np><m>$
-     11 ^@Abiram<np><m>$
-     10 ^@Stefanus<np><m>$
+     11 ^@Ananias<np>$
+     11 ^@Agrippa<np>$
+     11 ^@Abiram<np>$
+     10 ^@Stefanus<np>$
      10 ^@Set<np>$
-     10 ^@Melek<np><m>$
+     10 ^@Melek<np>$
      10 ^@Hanok<np>$
-     10 ^@Elisabet<np><f>$
-     10 ^@Eliel<np><m>$
+     10 ^@Elisabet<np>$
+     10 ^@Eliel<np>$
      10 ^@Beor<np>$
-     10 ^@Apollos<np><m>$
-      9 ^@Salma<np><f>$
+     10 ^@Apollos<np>$
+      9 ^@Salma<np>$
       9 ^@Put<np>$
       9 ^@Meriba<np>$
       9 ^@Loven<np>$
-      9 ^@Kefas<np><m>$
-      9 ^@Kaifas<np><m>$
-      9 ^@Jobab<np><m>$
+      9 ^@Kefas<np>$
+      9 ^@Kaifas<np>$
+      9 ^@Jobab<np>$
       9 ^@Jakin<np>$
-      9 ^@Feliks<np><m>$
+      9 ^@Feliks<np>$
       9 ^@Elon<np>$
-      9 ^@Dina<np><f>$
+      9 ^@Dina<np>$
       8 ^@Us<np>$
       8 ^@Uri<np>$
-      8 ^@Tubal<np><m>$
+      8 ^@Tubal<np>$
       8 ^@Sibon<np>$
       8 ^@Onan<np>$
-      8 ^@Mahalalel<np><m>$
+      8 ^@Mahalalel<np>$
       8 ^@Kusj<np>$
-      8 ^@Kenan<np><m>$
+      8 ^@Kenan<np>$
       8 ^@Jabin<np>$
-      8 ^@Goliat<np><m>$
-      8 ^@Ajja<np><f>$
+      8 ^@Goliat<np>$
+      8 ^@Ajja<np>$
       7 ^@Soan<np>$
       7 ^@Sered<np>$
       7 ^@Mara<np>$
       7 ^@Lot<np>$
-      7 ^@Laodikea<np><f>$
-      7 ^@Jekonja<np><m>$
-      7 ^@Jared<np><m>$
+      7 ^@Laodikea<np>$
+      7 ^@Jekonja<np>$
+      7 ^@Jared<np>$
       7 ^@Jamin<np>$
       7 ^@Havila<np>$
-      7 ^@Elim<np><m>$
+      7 ^@Elim<np>$
       7 ^@Arjok<np>$
-      7 ^@Akbor<np><m>$
+      7 ^@Akbor<np>$
       7 ^@Akan<np>$
-      6 ^@Natanael<np><m>$
+      6 ^@Natanael<np>$
       6 ^@Lud<np>$
       6 ^@Lotan<np>$
       6 ^@Langt<np>$
-      6 ^@Joktan<np><m>$
+      6 ^@Joktan<np>$
       6 ^@Jeser<np>$
-      6 ^@Herodias<np><m>$
-      6 ^@Gomer<np><m>$
-      6 ^@Filippi<np><m>$
+      6 ^@Herodias<np>$
+      6 ^@Gomer<np>$
+      6 ^@Filippi<np>$
       6 ^@Doeg<np>$
       6 ^@Akvilas<np>$
       5 ^@Tykikos<np>$
@@ -169,209 +169,209 @@
       5 ^@Penuel<np>$
       5 ^@Ono<np>$
       5 ^@On<np>$
-      5 ^@Nikodemus<np><m>$
-      5 ^@Nebajot<np><m>$
+      5 ^@Nikodemus<np>$
+      5 ^@Nebajot<np>$
       5 ^@Misrajim<np>$
-      5 ^@Mattan<np><m>$
-      5 ^@Leviatan<np><m>$
-      5 ^@Guni<np><f>$
+      5 ^@Mattan<np>$
+      5 ^@Leviatan<np>$
+      5 ^@Guni<np>$
       5 ^@Gaius<np>$
       5 ^@Enden<np>$
       5 ^@Eder<np>$
-      5 ^@Artemis<np><m>$
+      5 ^@Artemis<np>$
       5 ^@Amalek<np>$
       4 ^@Silvanus<np>$
       4 ^@Sebojim<np>$
-      4 ^@Sarepta<np><f>$
+      4 ^@Sarepta<np>$
       4 ^@Potifar<np>$
-      4 ^@Onam<np><m>$
-      4 ^@Noa<np><m>$
-      4 ^@Malkiel<np><m>$
-      4 ^@Mahalat<np><m>$
-      4 ^@Jalam<np><m>$
-      4 ^@Hulda<np><f>$
-      4 ^@Hamul<np><m>$
-      4 ^@Hadoram<np><m>$
+      4 ^@Onam<np>$
+      4 ^@Noa<np>$
+      4 ^@Malkiel<np>$
+      4 ^@Mahalat<np>$
+      4 ^@Jalam<np>$
+      4 ^@Hulda<np>$
+      4 ^@Hamul<np>$
+      4 ^@Hadoram<np>$
       4 ^@Efer<np>$
-      4 ^@Bror<np><m>$
-      4 ^@Bartolomeus<np><m>$
-      3 ^@Unni<np><f>$
+      4 ^@Bror<np>$
+      4 ^@Bartolomeus<np>$
+      3 ^@Unni<np>$
       3 ^@Trofimos<np>$
       3 ^@TH<np>$
-      3 ^@Stefanas<np><m>$
+      3 ^@Stefanas<np>$
       3 ^@Sirjon<np>$
       3 ^@Simma<np>$
-      3 ^@Sakkeus<np><m>$
+      3 ^@Sakkeus<np>$
       3 ^@Pikol<np>$
-      3 ^@Perge<np><m>$
+      3 ^@Perge<np>$
       3 ^@Øvre<np>$
-      3 ^@Orion<np><m>$
-      3 ^@Omar<np><m>$
+      3 ^@Orion<np>$
+      3 ^@Omar<np>$
       3 ^@Muren<np>$
-      3 ^@Mehetabel<np><f>$
-      3 ^@Mahat<np><m>$
-      3 ^@Lysias<np><m>$
-      3 ^@Kemuel<np><m>$
-      3 ^@Justus<np><m>$
-      3 ^@Jose<np><m>$
-      3 ^@Jitran<np><m>$
-      3 ^@Immanuel<np><m>$
+      3 ^@Mehetabel<np>$
+      3 ^@Mahat<np>$
+      3 ^@Lysias<np>$
+      3 ^@Kemuel<np>$
+      3 ^@Justus<np>$
+      3 ^@Jose<np>$
+      3 ^@Jitran<np>$
+      3 ^@Immanuel<np>$
       3 ^@Gittit<np>$
       3 ^@Gallio<np>$
-      3 ^@Esrah<np><m>$
-      3 ^@Erastos<np><m>$
+      3 ^@Esrah<np>$
+      3 ^@Erastos<np>$
       3 ^@Epafras<np>$
       3 ^@Demas<np>$
       3 ^@Claudius<np>$
-      3 ^@Berenike<np><f>$
+      3 ^@Berenike<np>$
       3 ^@Areli<np>$
       3 ^@AMO<np>$
-      3 ^@Alfa<np><m>$
-      3 ^@Abba<np><f>$
-      2 ^@Tertullus<np><m>$
-      2 ^@Terah<np><m>$
-      2 ^@Teofilos<np><m>$
+      3 ^@Alfa<np>$
+      3 ^@Abba<np>$
+      2 ^@Tertullus<np>$
+      2 ^@Terah<np>$
+      2 ^@Teofilos<np>$
       2 ^@Tebe<np>$
-      2 ^@Taddeus<np><m>$
-      2 ^@Tabita<np><f>$
-      2 ^@Sebaot<np><m>$
-      2 ^@Salome<np><f>$
-      2 ^@Rufus<np><m>$
+      2 ^@Taddeus<np>$
+      2 ^@Tabita<np>$
+      2 ^@Sebaot<np>$
+      2 ^@Salome<np>$
+      2 ^@Rufus<np>$
       2 ^@Rabbuni<np>$
       2 ^@Publius<np>$
       2 ^@Onesimos<np>$
-      2 ^@Mibsar<np><m>$
+      2 ^@Mibsar<np>$
       2 ^@Melki<np>$
-      2 ^@Mehujael<np><m>$
-      2 ^@Mattias<np><m>$
+      2 ^@Mehujael<np>$
+      2 ^@Mattias<np>$
       2 ^@Matred<np>$
-      2 ^@Magdiel<np><m>$
-      2 ^@Lydia<np><f>$
+      2 ^@Magdiel<np>$
+      2 ^@Lydia<np>$
       2 ^@Lukius<np>$
-      2 ^@Krispus<np><m>$
+      2 ^@Krispus<np>$
       2 ^@Korasin<np>$
       2 ^@Kero<np>$
       2 ^@Johanna<np>$
-      2 ^@Jemuel<np><m>$
+      2 ^@Jemuel<np>$
       2 ^@Havran<np>$
       2 ^@Haseson<np>$
-      2 ^@Habakkuk<np><m>$
+      2 ^@Habakkuk<np>$
       2 ^@Gojim<np>$
       2 ^@Geter<np>$
-      2 ^@Gamaliel<np><m>$
-      2 ^@Esekiel<np><m>$
+      2 ^@Gamaliel<np>$
+      2 ^@Esekiel<np>$
       2 ^@Esbon<np>$
-      2 ^@Epafroditus<np><m>$
+      2 ^@Epafroditus<np>$
       2 ^@Enajim<np>$
       2 ^@Elo<np>$ï^,<cm>$
-      2 ^@Eleasar<np><m>$
-      2 ^@Dorkas<np><m>$
+      2 ^@Eleasar<np>$
+      2 ^@Dorkas<np>$
       2 ^@Dalen<np>$
       2 ^@Beker<np>$
       2 ^@Barsabbas<np>$
-      2 ^@Arkippos<np><m>$
-      2 ^@Amrafel<np><m>$
-      2 ^@Akim<np><m>$
+      2 ^@Arkippos<np>$
+      2 ^@Amrafel<np>$
+      2 ^@Akim<np>$
       2 ^@Ahava<np>$
       2 ^@Agabos<np>$
-      2 ^@Æneas<np><m>$
+      2 ^@Æneas<np>$
       2 ^@ACT<np>$
-      2 ^@Abimael<np><m>$
-      1 ^@Vanja<np><f>$
+      2 ^@Abimael<np>$
+      1 ^@Vanja<np>$
       1 ^@Urbanus<np>$
       1 ^@Ulven<np>$
-      1 ^@Tyrannos<np><m>$
-      1 ^@Tryfosa<np><m>$
+      1 ^@Tyrannos<np>$
+      1 ^@Tryfosa<np>$
       1 ^@Titius<np>$
-      1 ^@Timon<np><m>$
+      1 ^@Timon<np>$
       1 ^@Timeus<np>$
       1 ^@Tiberius<np>$
       1 ^@Tertius<np>$
-      1 ^@Talita<np><f>$
-      1 ^@Synzygos<np><m>$
+      1 ^@Talita<np>$
+      1 ^@Synzygos<np>$
       1 ^@Susi<np>$
       1 ^@Susanna<np>$
       1 ^@Staven<np>$
       1 ^@Stakys<np>$
-      1 ^@Sopatros<np><m>$
+      1 ^@Sopatros<np>$
       1 ^@Skogen<np>$
       1 ^@Sjoa<np><top>$
-      1 ^@Sifjon<np><m>$
+      1 ^@Sifjon<np>$
       1 ^@Sergius<np>$
-      1 ^@Sekundus<np><m>$
-      1 ^@Sefar<np><m>$
+      1 ^@Sekundus<np>$
+      1 ^@Sefar<np>$
       1 ^@Sebojim<np>$ –
-      1 ^@Salmone<np><f>$
-      1 ^@Salim<np><m>$
+      1 ^@Salmone<np>$
+      1 ^@Salim<np>$
       1 ^@Sæle<np><top>$
-      1 ^@Rut<np><f>$
+      1 ^@Rut<np>$
       1 ^@Rode<np>$
       1 ^@Resen<np>$
       1 ^@Ramas<np>$
       1 ^@Pudens<np>$
-      1 ^@Ptolemais<np><m>$
+      1 ^@Ptolemais<np>$
       1 ^@Porkius<np>$
       1 ^@Pispa<np>$
-      1 ^@Olympas<np><m>$
+      1 ^@Olympas<np>$
       1 ^@Obal<np>$
       1 ^@Nod<np>$
-      1 ^@Nikolaus<np><m>$
-      1 ^@Neri<np><m>$
-      1 ^@Nerevs<np><m>$
-      1 ^@Narkissos<np><m>$
+      1 ^@Nikolaus<np>$
+      1 ^@Neri<np>$
+      1 ^@Nerevs<np>$
+      1 ^@Narkissos<np>$
       1 ^@Nain<np>$
       1 ^@Mero<np>$
-      1 ^@Melea<np><f>$
-      1 ^@Lysanias<np><m>$
+      1 ^@Melea<np>$
+      1 ^@Lysanias<np>$
       1 ^@Lille<np>$
       1 ^@Kvirinius<np>$
-      1 ^@Kvartus<np><m>$
+      1 ^@Kvartus<np>$
       1 ^@Kreskens<np>$
-      1 ^@Klopas<np><m>$
-      1 ^@Kloe<np><f>$
+      1 ^@Klopas<np>$
+      1 ^@Kloe<np>$
       1 ^@Kilde<np>$
       1 ^@Kesed<np>$
       1 ^@Kasin<np>$
-      1 ^@Kandake<np><f>$
-      1 ^@Judit<np><f>$
-      1 ^@Josek<np><m>$
-      1 ^@Jorim<np><m>$
-      1 ^@Jonam<np><m>$
-      1 ^@Jidlaf<np><m>$
+      1 ^@Kandake<np>$
+      1 ^@Judit<np>$
+      1 ^@Josek<np>$
+      1 ^@Jorim<np>$
+      1 ^@Jonam<np>$
+      1 ^@Jidlaf<np>$
       1 ^@Jered<np>$
-      1 ^@Janne<np><m>$
-      1 ^@Jannai<np><m>$
+      1 ^@Janne<np>$
+      1 ^@Jannai<np>$
       1 ^@Hod<np>$
-      1 ^@Hoba<np><m>$
-      1 ^@Herodion<np><m>$
+      1 ^@Hoba<np>$
+      1 ^@Herodion<np>$
       1 ^@Haugen<np>$
       1 ^@Hassi<np>$
       1 ^@Haso<np>$
-      1 ^@Hadar<np><f>$
+      1 ^@Hadar<np>$
       1 ^@Graven<np>$
-      1 ^@Fortunatus<np><m>$
-      1 ^@Flegon<np><m>$
+      1 ^@Fortunatus<np>$
+      1 ^@Flegon<np>$
       1 ^@Filologos<np>$
-      1 ^@Filemon<np><m>$
+      1 ^@Filemon<np>$
       1 ^@Fangen<np>$
-      1 ^@Erek<np><m>$
-      1 ^@Epainetos<np><m>$
-      1 ^@Elna<np><f>$
-      1 ^@Diotrefes<np><m>$
-      1 ^@Dionysios<np><f>$
+      1 ^@Erek<np>$
+      1 ^@Epainetos<np>$
+      1 ^@Elna<np>$
+      1 ^@Diotrefes<np>$
+      1 ^@Dionysios<np>$
       1 ^@Borgen<np>$
       1 ^@Boanerges<np>$
-      1 ^@Betesda<np><f>$
-      1 ^@Ben-Ammi<np><m>$
-      1 ^@Beliar<np><m>$
-      1 ^@Bartimeus<np><m>$
-      1 ^@Barjesus<np><m>$
-      1 ^@Asynkritos<np><m>$
-      1 ^@Arni<np><m>$
-      1 ^@Arkelaos<np><m>$
-      1 ^@Apelles<np><m>$
+      1 ^@Betesda<np>$
+      1 ^@Ben-Ammi<np>$
+      1 ^@Beliar<np>$
+      1 ^@Bartimeus<np>$
+      1 ^@Barjesus<np>$
+      1 ^@Asynkritos<np>$
+      1 ^@Arni<np>$
+      1 ^@Arkelaos<np>$
+      1 ^@Apelles<np>$
       1 ^@Ampliatus<np>$
       1 ^@Ainon<np>$
-      1 ^@Addi<np><m>$
-      1 ^@Abrek<np><m>$
-      1 ^@Abihud<np><m>$
+      1 ^@Addi<np>$
+      1 ^@Abrek<np>$
+      1 ^@Abihud<np>$
