@@ -2,11 +2,11 @@
    5774 ^@blant<pr>$
    5553 ^@der<pr>$
    4278 ^@her<pr>$
-   3687 ^@tilbake<pr>$
+   3688 ^@tilbake<pr>$
    3422 ^@inn i<pr>$
    2685 ^@sammen med<pr>$
    2349 ^@foran<pr>$
-   1838 ^@ute<pr>$
+   1839 ^@ute<pr>$
    1541 ^@innen<pr>$
    1540 ^@imot<pr>$
    1447 ^@ut i<pr>$
@@ -155,7 +155,7 @@
       4 ^@heriblant<pr>$
       4 ^@der inne<pr>$
       3 ^@versus<pr>$
-      3 ^@sak<n><sg>$ ë ^in<pr>$
+      3 ^@sak<n><sg>$  ^in<pr>$
       3 ^@østfra<pr>$
       3 ^@nedetter<pr>$
       3 ^@heri<pr>$
@@ -166,7 +166,7 @@
       2 ^@utifra<pr>$
       2 ^@utapå<pr>$
       2 ^@unntagen<pr>$
-      2 ^.<sent>$ ë ^@hjemme<pr>$
+      2 ^.<sent>$  ^@hjemme<pr>$
       2 ^@pist<pr>$
       2 ^@ost<pr>$
       2 ^@oppom<pr>$
@@ -181,27 +181,27 @@
       2 ^@herifra<pr>$
       2 ^@fremad<pr>$
       1 ^@vis-a-vis<pr>$
-      1 ^@varetektsfengsle<adj>$ ë ^over<pr>$
+      1 ^@varetektsfengsle<adj>$  ^over<pr>$
       1 ^@utetter<pr>$
       1 ^@tillikemed<pr>$
       1 ^@sønnenfor<pr>$
       1 ^@sjøveis<pr>$
-      1 ^.<sent>$ ë ^@ute<pr>$
-      1 ^:<sent>$ ë ^@ute<pr>$
-      1 ^.<sent>$ ë ^@hittil<pr>$
-      1 ^.<sent>$ ë ^@heretter<pr>$
-      1 ^.<sent>$ ë ^@foruten<pr>$
-      1 ^.<sent>$ ë ^@der<pr>$
-      1 ^:<sent>$ ë ^@der<pr>$
-      1 ^.<sent>$ ë ^@blant<pr>$
-      1 ^@sak<n><sg>$ ë ^on<pr>$
-      1 ^@sak<n><sg>$ ë ^for<pr>$
-      1 ^@sak<n><sg>$ ë ^after<pr>$
+      1 ^.<sent>$  ^@ute<pr>$
+      1 ^:<sent>$  ^@ute<pr>$
+      1 ^.<sent>$  ^@hittil<pr>$
+      1 ^.<sent>$  ^@heretter<pr>$
+      1 ^.<sent>$  ^@foruten<pr>$
+      1 ^.<sent>$  ^@der<pr>$
+      1 ^:<sent>$  ^@der<pr>$
+      1 ^.<sent>$  ^@blant<pr>$
+      1 ^@sak<n><sg>$  ^on<pr>$
+      1 ^@sak<n><sg>$  ^for<pr>$
+      1 ^@sak<n><sg>$  ^after<pr>$
       1 ^@overbord<pr>$
       1 ^@østenfor<pr>$
       1 ^@oppigjennom<pr>$
       1 ^@oppfor<pr>$
-      1 ^@olaussen<np>$ ë ^in<pr>$
+      1 ^@olaussen<np>$  ^in<pr>$
       1 ^@nordi<pr>$
       1 ^@nedstrøms<pr>$
       1 ^@nedigjennom<pr>$
@@ -221,8 +221,6 @@
       1 ^@herover<pr>$
       1 ^@herom<pr>$
       1 ^@heim<pr>$
-      1        ë ^@ute<pr>$
-      1        ë ^@tilbake<pr>$
       1 ^@contra<pr>$
       1 ^@bortpå<pr>$
       1 ^@bortom<pr>$

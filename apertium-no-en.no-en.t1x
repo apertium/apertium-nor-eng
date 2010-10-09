@@ -29,6 +29,14 @@
       <cat-item tags="vblex.pres.*"/>
       <cat-item tags="vblex.pret.*"/>
     </def-cat>
+    <def-cat n="inf">
+      <cat-item tags="vblex.inf"/>
+      <cat-item tags="vblex.inf.*"/>
+    </def-cat>
+    <def-cat n="pp">
+      <cat-item tags="vblex.pp"/>
+      <cat-item tags="vblex.pp.*"/>
+    </def-cat>
     <def-cat n="vblex">
       <cat-item tags="vblex.*"/>
     </def-cat>
@@ -47,6 +55,7 @@
       <attr-item tags="cnjcoo"/>
       <attr-item tags="cnjsub"/>
       <attr-item tags="cnjadv"/>
+      <attr-item tags="rel.adv"/>
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
@@ -334,6 +343,51 @@
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="pp"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: pp">
+      <pattern>
+        <pattern-item n="pp"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="pp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps" link-to="2"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: inf">
+      <pattern>
+        <pattern-item n="inf"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="inf" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps" link-to="2"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
