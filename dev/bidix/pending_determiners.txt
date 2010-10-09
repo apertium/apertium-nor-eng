@@ -1,72 +1,61 @@
    1905 ^@dere<det><pos>$
-   1268 ^@seg<det><pos><m>$
-   1029 ^@han<det><pos>$
     900 ^@ingen<det><qnt>$
-    583 ^@seg<det><pos>$
     504 ^@denne<det><dem><m>$
-    497 ^@samme<det><dem><m><sp><def>$
-    451 ^@seg<det><pos><nt>$
-    429 ^@denne<det><dem>$
-    307 ^@én<det><qnt><m>$
-    290 ^@hundre<det><qnt>$
-    215 ^@noe<det><qnt>$
-    206 ^@hun<det><pos>$
+    421 ^@denne<det><dem>$
+    390 ^@mange<det><qnt>$
     184 ^@Ingen<det><qnt>$
     173 ^@egen<det><emph><nt>$
     173 ^@egen<det><emph><m>$
     155 ^@begge<det><qnt>$
-    149 ^@noe<det><qnt><nt>$
+    120 ^@mange<det><qnt><unc>$
     114 ^@tjue<det><qnt>$
-     98 ^@den<det><pos>$
-     97 ^@de<det><pos><p2>$
+     97 ^@De<det><pos><p2>$
      95 ^@slik<det><dem><nt>$
+     89 ^@så mange<det><qnt><unc>$
      79 ^@slik<det><dem>$
      69 ^@Denne<det><dem><m>$
-     68 ^@Noe<det><qnt>$
      63 ^@Forrige<det><dem><m><sp><def>$
-     62 ^@én<det><qnt><nt>$
      58 ^@egen<det><emph>$
      57 ^@enhver<det><qnt><m>$
      53 ^@Denne<det><dem>$
-     50 ^@Han<det><pos>$
-     40 ^@sytti<det><qnt>$
-     40 ^@Samme<det><dem><m><sp><def>$
+     44 ^@Mange<det><qnt>$
+     37 ^@så mange<det><qnt>$
      34 ^@Enhver<det><qnt><m>$
      32 ^@hvilken<det><itg><m>$
-     29 ^@ti<det><qnt>$
      26 ^@selv<det><emph><def>$
-     25 ^@Én<det><qnt><m>$
-     22 ^@Hun<det><pos>$
+     23 ^@ti<det><qnt>$
+     23 ^@hvor mange<det><qnt><unc>$
      22 ^@hin<det><dem><m>$
-     20 ^@Noe<det><qnt><nt>$
      19 ^@neste<det><dem><m><sp><def>$
-     18 ^@det<det><pos>$
+     18 ^@Hvor mange<det><qnt><unc>$
      17 ^@ni<det><qnt>$
-     17 ^@åtti<det><qnt>$
-     15 ^@tretten<det><qnt>$
-     15 ^@Seg<det><pos><m>$
      15 ^@ingen<det><qnt><nt>$
      15 ^@forrige<det><dem><m><sp><def>$
      15 ^@Begge<det><qnt>$
      13 ^@Hvilken<det><itg><m>$
+     13 ^@halvannen<det><qnt><m>$
      12 ^@hvilken<det><itg><nt>$
+     11 ^@hvor mange<det><qnt>$
      10 ^@hvilken<det><itg>$
      10 ^@en eller annen<det><qnt><m>$
+     10 ^@de fleste<det><qnt>$
       9 ^@Slik<det><dem>$
+      9 ^@Mange<det><qnt><unc>$
+      9 ^@Hvor mange<det><qnt>$
       8 ^@Slik<det><dem><nt>$
       8 ^@Hvilken<det><itg><nt>$
-      7 ^@sytten<det><qnt>$
+      6 ^@Så mange<det><qnt>$
       5 ^@Selv<det><emph><def>$
-      5 ^@seg<det><pos><f>$
       5 ^@nitti<det><qnt>$
       5 ^@en eller annen<det><qnt><nt>$
-      5 ^@Den<det><pos>$
-      4 ^@Hundre<det><qnt>$
+      4 ^@en slags<det><qnt>$
       3 ^@Tjue<det><qnt>$
-      3 ^@Sytti<det><qnt>$
+      2 ^@Så mange<det><qnt><unc>$
       2 ^@nitten<det><qnt>$
       2 ^@Hvilken<det><itg>$
-      1 ^@Seg<det><pos>$
       1 ^@Neste<det><dem><m><sp><def>$
+      1 ^@million<det><qnt>$
+      1 ^@halvannen<det><qnt><nt>$
+      1 ^@en slags<det><qnt><m>$
       1 ^@Enhver<det><qnt><nt>$
       1 ^@enhver<det><qnt><nt>$

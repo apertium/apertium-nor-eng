@@ -1,10 +1,16 @@
-    552 ^@fordi<cnjsub>$
-    161 ^@hvis<cnjsub>$
-    150 ^@Hvis<cnjsub>$
-    119 ^@Fordi<cnjsub>$
-    108 ^@Dersom<cnjsub>$
-     85 ^@dersom<cnjsub>$
+   3149 ^@at<cnjcoo>$
+    990 ^@for å<cnjsub>$
+    319 ^@for at<cnjsub>$
+    119 ^@slik at<cnjsub>$
+    101 ^@og at<cnjcoo>$
      83 ^@enten<cnjcoo>$
+     79 ^@som om<cnjsub>$
+     53 ^@selv om<cnjsub>$
      15 ^@Enten<cnjcoo>$
-      1 ^@Ettersom<cnjsub>$
-      1 ^@ettersom<cnjsub>$
+     13 ^@Selv om<cnjsub>$
+     11 ^@At<cnjcoo>$
+      8 ^@For å<cnjsub>$
+      4 ^@For at<cnjsub>$
+      1 ^@Som om<cnjsub>$
+      1 ^@Og at<cnjcoo>$
+      1 ^dedicate<vblex><inf>$ð ^take<vblex><inf>$ð ^@at<cnjcoo>$

@@ -1,7 +1,3 @@
-    932 ^@hva<prn><itg>$
-    847 ^@denne<prn><subj><p3><nt>$
-    809 ^@noe<prn><subj><p3>$
-    689 ^@noe<prn><subj><p3><nt>$
-    514 ^@hvem<prn><itg>$
-    210 ^@hverandre<prn><res>$
-    166 ^@denne<prn><subj><p3><m>$
+    192 ^@seg selv<prn><ref><p3>$
+    116 ^@seg selv<prn><ref><p2>$
+     47 ^@seg selv<prn><ref><p1>$

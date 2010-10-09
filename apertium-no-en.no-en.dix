@@ -217,6 +217,10 @@
 
     <e><p><l>denne<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p2"/></r></p></e>
 
+    <e><p><l>seg<b/>selv<s n="prn"/><s n="ref"/><s n="p1"/></l><r>myself<s n="prn"/><s n="p1"/></r></p></e>
+    <e><p><l>seg<b/>selv<s n="prn"/><s n="ref"/><s n="p2"/></l><r>yourself<s n="prn"/><s n="p2"/></r></p></e>
+    <e><p><l>seg<b/>selv<s n="prn"/><s n="ref"/><s n="p3"/></l><r>himself<s n="prn"/><s n="p3"/></r></p></e>
+
     <e><p><l>noe<s n="prn"/><s n="p3"/></l><r>something<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>hverandre<s n="prn"/><s n="res"/></l><r>each<b/>other<s n="prn"/><s n="ind"/></r></p></e>
 
