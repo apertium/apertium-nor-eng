@@ -8,6 +8,15 @@
     </pipeline>
   </mode>
 
+  <mode name="no-en-morph-cmpd">
+    <pipeline>
+      <program name="lt-proc -e -w">
+        <file name="no-en.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
   <mode name="no-en-constraint">
     <pipeline>
       <program name="lt-proc -w">
@@ -156,6 +165,49 @@
       </program>
     </pipeline>
   </mode>
+
+  <mode name="no-en-cmpd">
+    <pipeline>
+      <program name="lt-proc -e -w">
+        <file name="no-en.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="no-en.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="no-en.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="no-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-no-en.no-en.t1x"/>
+        <file name="no-en.t1x.bin"/>
+        <file name="no-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-no-en.no-en.t2x"/>
+        <file name="no-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-no-en.no-en.t3x"/>
+        <file name="no-en.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="no-en.autogen.bin"/>
+      </program>
+<!--
+      <program name="lt-proc -t">
+        <file name="no-en.alpha.bin"/>
+      </program>
+-->
+      <program name="lt-proc -p">
+        <file name="no-en.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
 
   <mode name="no-en" install="yes">
     <pipeline>

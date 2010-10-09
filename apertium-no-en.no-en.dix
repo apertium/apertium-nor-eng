@@ -136,6 +136,7 @@
     <e><p><l>der<s n="cnjsub"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>hvor<s n="cnjsub"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>dersom<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e><p><l>mens<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
     <e><p><l>ettersom<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>enten<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
     <e><p><l>fordi<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
@@ -7292,6 +7293,7 @@
 
 <e>        <p><l>million<s n="n"/><s n="m"/></l><r>million<s n="n"/></r></p></e>
 <e c="  0"><p><l>bygging<s n="n"/></l>     <r>building<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>krone<s n="n"/></l>     <r>crown<s n="n"/></r></p><par n="m_LR_f"/></e>
 
     <!-- Proper nouns -->
 
