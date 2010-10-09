@@ -17,6 +17,7 @@
     <sdef n="vbmod"      c="Modal verb"/>
     <sdef n="vbhaver"    c="Verb 'to have'"/>
     <sdef n="vbser"      c="Verb 'to be'"/>
+    <sdef n="pp"         c="Participle"/>
     <sdef n="prn"        c="Pronoun"/>
 
     <sdef n="al"         c="Altres"/>
@@ -10841,6 +10842,7 @@
     <e slr="8"><p><l>rette</l><r>grade<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="9"><p><l>rette</l><r>adjust<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>knuse</l><r>crush<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (to oppress or burden grievously)-->
+    <e c="  0"><p><l>kommentere</l><r>comment<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (to oppress or burden grievously)-->
     <e c="  0"><p><l>gripe</l><r>grab<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>gripe</l><r>capture<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="2"><p><l>gripe</l><r>seize<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (take advantage of opportunity)-->
