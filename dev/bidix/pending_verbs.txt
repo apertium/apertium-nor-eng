@@ -1,145 +1,132 @@
-  32832 ene<vblex><inf>
-  11931 nye<vblex><inf>
-  10712 elle<vblex><inf>
-   8432 norske<vblex><inf>
-   7152 klare<vblex><inf>
-   4595 gjø<vblex><inf>
+  11911 nye<vblex><inf>
+   8412 norske<vblex><inf>
+   7165 klare<vblex><inf>
    3385 helge<vblex><inf>
-   3300 hanse<vblex><inf>
+   3309 hanse<vblex><inf>
    3004 starte<vblex><inf>
-   2958 jobbe<vblex><inf>
-   2924 våre<vblex><inf>
-   2683 folke<vblex><inf>
-   2549 møte<vblex><inf>
-   2536 dage<vblex><inf>
-   2465 mige<vblex><inf>
-   2093 trene<vblex><inf>
-   2025 følge<vblex><inf>
+   2967 jobbe<vblex><inf>
+   2554 møte<vblex><inf>
+   2495 dage<vblex><inf>
+   2088 trene<vblex><inf>
+   2024 følge<vblex><inf>
    1952 lange<vblex><inf>
-   1873 neie<vblex><inf>
+   1899 neie<vblex><inf>
    1841 vurdere<vblex><inf>
    1767 spile<vblex><inf>
-   1619 satse<vblex><inf>
-   1585 måte<vblex><inf>
-   1523 skole<vblex><inf>
+   1620 satse<vblex><inf>
+   1582 måte<vblex><inf>
+   1535 skole<vblex><inf>
    1521 redusere<vblex><inf>
-   1468 kvelde<vblex><inf>
-   1431 tore<vblex><inf>
+   1466 kvelde<vblex><inf>
+   1427 tore<vblex><inf>
    1420 bidra<vblex><inf>
-   1395 ape<vblex><inf>
+   1389 ape<vblex><inf>
    1273 knute<vblex><inf>
    1255 delta<vblex><inf>
    1252 disse<vblex><inf>
    1230 understreke<vblex><inf>
-   1149 interessere<vblex><inf>
+   1150 interessere<vblex><inf>
    1120 frede<vblex><inf>
    1104 etablere<vblex><inf>
-   1063 floe<vblex><inf>
    1059 reagere<vblex><inf>
+   1052 floe<vblex><inf>
    1047 overta<vblex><inf>
    1009 re<vblex><inf>
-   1006 stile<vblex><inf>
-    997 fungere<vblex><inf>
+   1005 stile<vblex><inf>
     980 utvikle<vblex><inf>
     967 representere<vblex><inf>
     963 score<vblex><inf>
-    904 nære<vblex><inf>
+    905 nære<vblex><inf>
     887 vante<vblex><inf>
-    883 samarbeide<vblex><inf>
-    851 stede<vblex><inf>
+    884 samarbeide<vblex><inf>
+    853 stede<vblex><inf>
     830 arrangere<vblex><inf>
-    829 bile<vblex><inf>
+    827 korte<vblex><inf>
     826 innebære<vblex><inf>
-    825 korte<vblex><inf>
+    824 bile<vblex><inf>
     814 prioritere<vblex><inf>
-    811 høye<vblex><inf>
     808 registrere<vblex><inf>
-    795 svenske<vblex><inf>
-    761 manne<vblex><inf>
-    757 områ<vblex><inf>
+    805 høye<vblex><inf>
+    758 områ<vblex><inf>
     756 benytte<vblex><inf>
     740 presentere<vblex><inf>
     732 kontakte<vblex><inf>
-    729 filme<vblex><inf>
+    725 filme<vblex><inf>
+    713 manne<vblex><inf>
     703 kommentere<vblex><inf>
     703 invitere<vblex><inf>
     685 engasjere<vblex><inf>
-    678 maie<vblex><inf>
-    678 live<vblex><inf>
-    659 orde<vblex><inf>
-    656 koste<vblex><inf>
-    647 stole<vblex><inf>
-    630 grade<vblex><inf>
-    617 minne<vblex><inf>
-    612 forholde<vblex><inf>
+    683 live<vblex><inf>
+    680 maie<vblex><inf>
+    652 koste<vblex><inf>
+    645 stole<vblex><inf>
+    631 grade<vblex><inf>
+    624 minne<vblex><inf>
+    613 forholde<vblex><inf>
     603 stenge<vblex><inf>
-    595 rune<vblex><inf>
+    591 rune<vblex><inf>
     590 organisere<vblex><inf>
     584 tove<vblex><inf>
-    579 krave<vblex><inf>
-    575 kåre<vblex><inf>
-    570 tinge<vblex><inf>
-    569 finske<vblex><inf>
-    564 lete<vblex><inf>
+    581 krave<vblex><inf>
+    580 lete<vblex><inf>
+    573 kåre<vblex><inf>
     563 snu<vblex><inf>
     561 beklage<vblex><inf>
     560 tvile<vblex><inf>
-    560 glime<vblex><inf>
     560 akseptere<vblex><inf>
     556 begrense<vblex><inf>
-    551 dekke<vblex><inf>
+    555 glime<vblex><inf>
+    552 dekke<vblex><inf>
     549 ile<vblex><inf>
     543 produsere<vblex><inf>
     529 foreligge<vblex><inf>
     521 bevilge<vblex><inf>
     515 basere<vblex><inf>
+    511 tinge<vblex><inf>
     510 godte<vblex><inf>
     500 konstatere<vblex><inf>
-    487 sake<vblex><inf>
-    483 toppe<vblex><inf>
+    490 sake<vblex><inf>
     483 opprettholde<vblex><inf>
+    480 toppe<vblex><inf>
     479 motsette<vblex><inf>
     472 påpeke<vblex><inf>
     464 medføre<vblex><inf>
     462 røde<vblex><inf>
     458 beskrive<vblex><inf>
-    457 flotte<vblex><inf>
+    456 flotte<vblex><inf>
     455 molde<vblex><inf>
     453 kontrollere<vblex><inf>
     451 operere<vblex><inf>
-    450 forutsette<vblex><inf>
     447 kritisere<vblex><inf>
-    443 anmelde<vblex><inf>
-    440 ale<vblex><inf>
-    433 sjanse<vblex><inf>
+    442 ale<vblex><inf>
+    439 anmelde<vblex><inf>
+    432 sjanse<vblex><inf>
     431 finte<vblex><inf>
     420 studere<vblex><inf>
-    413 finne<vblex><inf><pass>/finnes<vblex><pstv><inf>
+    414 finne<vblex><inf><pass>/finnes<vblex><pstv><inf>
     413 beregne<vblex><inf>
-    398 kombinere<vblex><inf>
-    392 røyke<vblex><inf>
+    396 kombinere<vblex><inf>
     392 påvirke<vblex><inf>
+    389 røyke<vblex><inf>
+    387 kampere<vblex><inf>
     385 utarbeide<vblex><inf>
-    383 kampere<vblex><inf>
     383 eve<vblex><inf>
     382 slappe<vblex><inf>
     378 variere<vblex><inf>
-    375 halve<vblex><inf>
     375 avvikle<vblex><inf>
-    373 talle<vblex><inf>
     373 omtale<vblex><inf>
     372 anta<vblex><inf>
+    371 talle<vblex><inf>
     371 imponere<vblex><inf>
-    369 plane<vblex><inf>
-    364 danske<vblex><inf>
+    367 plane<vblex><inf>
     361 låte<vblex><inf>
     361 finansiere<vblex><inf>
     358 syne<vblex><inf><pass>/synes<vblex><pstv><inf>
     358 servere<vblex><inf>
-    358 friske<vblex><inf>
     354 forhandle<vblex><inf>
     354 etterlyse<vblex><inf>
     354 antyde<vblex><inf>
+    351 friske<vblex><inf>
     349 kjære<vblex><inf>
     347 presisere<vblex><inf>
     345 hauge<vblex><inf>
@@ -148,107 +135,108 @@
     342 karakterisere<vblex><inf>
     339 nøye<vblex><inf>
     339 konsentrere<vblex><inf>
+    339 elevere<vblex><inf>
     339 dokumentere<vblex><inf>
     337 avklare<vblex><inf>
-    335 sjekke<vblex><inf>
+    336 sjekke<vblex><inf>
     335 konkurrere<vblex><inf>
     335 informere<vblex><inf>
-    335 elevere<vblex><inf>
     334 vake<vblex><inf>
     333 kristne<vblex><inf>
     333 garantere<vblex><inf>
     332 tøffe<vblex><inf>
+    330 rocke<vblex><inf>
     330 linde<vblex><inf>
     330 kvotere<vblex><inf>
     330 eksistere<vblex><inf>
     328 kvalifisere<vblex><inf>
-    327 rocke<vblex><inf>
-    324 type<vblex><inf>
-    319 krige<vblex><inf>
+    321 type<vblex><inf>
+    316 krige<vblex><inf>
     316 konkludere<vblex><inf>
+    313 prege<vblex><inf>
     313 gaupe<vblex><inf>
     313 bande<vblex><inf>
-    312 prege<vblex><inf>
     312 inkludere<vblex><inf>
+    311 skatte<vblex><inf>
     310 regulere<vblex><inf>
-    309 skatte<vblex><inf>
     308 rike<vblex><inf>
     307 involvere<vblex><inf>
+    306 volde<vblex><inf>
     306 tilpasse<vblex><inf>
     303 trive<vblex><inf>
-    301 volde<vblex><inf>
     297 nedlegge<vblex><inf>
     295 frakte<vblex><inf>
     291 pågripe<vblex><inf>
-    291 knappe<vblex><inf>
     282 bre<vblex><inf>
     280 investere<vblex><inf>
+    279 plusse<vblex><inf>
+    279 danse<vblex><inf>
     278 vege<vblex><inf>
-    278 plusse<vblex><inf>
     276 orientere<vblex><inf>
-    276 danse<vblex><inf>
     275 streike<vblex><inf>
+    273 knappe<vblex><inf>
     272 ska<vblex><inf>
     272 dominere<vblex><inf>
     271 lansere<vblex><inf>
     268 sva<vblex><inf>
     267 overlate<vblex><inf>
-    262 tegne<vblex><inf>
+    261 tegne<vblex><inf>
     258 kure<vblex><inf>
     256 lysne<vblex><inf>
     256 begrunne<vblex><inf>
-    255 gule<vblex><inf>
+    254 gule<vblex><inf>
     248 utdanne<vblex><inf>
     248 argumentere<vblex><inf>
     246 nærme<vblex><inf>
     246 mistenke<vblex><inf>
-    243 prestere<vblex><inf>
-    241 kute<vblex><inf>
-    240 trakke<vblex><inf>
+    244 prestere<vblex><inf>
+    241 trakke<vblex><inf>
     240 realisere<vblex><inf>
+    240 kute<vblex><inf>
     234 trenge<vblex><inf><pass>/trenges<vblex><pstv><inf>
-    231 køe<vblex><inf>
+    231 klokke<vblex><inf>
     230 medgi<vblex><inf>
-    230 klokke<vblex><inf>
+    230 køe<vblex><inf>
     228 fokusere<vblex><inf>
     227 påføre<vblex><inf>
-    225 raske<vblex><inf>
     224 utbetale<vblex><inf>
-    221 strenge<vblex><inf>
+    223 raske<vblex><inf>
     221 debutere<vblex><inf>
     220 innlegge<vblex><inf>
+    220 busse<vblex><inf>
+    219 strenge<vblex><inf>
+    217 dy<vblex><inf>
     216 teste<vblex><inf>
     216 forske<vblex><inf>
-    216 dy<vblex><inf>
-    216 busse<vblex><inf>
-    215 sjefe<vblex><inf>
-    214 kurse<vblex><inf>
+    214 sjefe<vblex><inf>
     214 gratulere<vblex><inf>
-    214 gjeste<vblex><inf>
-    213 spanske<vblex><inf>
-    211 fangste<vblex><inf>
+    213 kurse<vblex><inf>
+    213 fangste<vblex><inf>
+    212 spanske<vblex><inf>
+    212 gjeste<vblex><inf>
+    211 ytre<vblex><inf>
     210 flire<vblex><inf>
     209 trine<vblex><inf>
     209 definere<vblex><inf>
-    206 pappe<vblex><inf>
+    208 pappe<vblex><inf>
     203 premiere<vblex><inf>
+    203 jazze<vblex><inf>
     202 røste<vblex><inf>
     202 nytte<vblex><inf>
     201 utgi<vblex><inf>
-    201 jazze<vblex><inf>
     201 forsterke<vblex><inf>
     200 skjerpe<vblex><inf>
     199 lykte<vblex><inf>
     197 bombe<vblex><inf>
     195 utløse<vblex><inf>
     195 alliere<vblex><inf>
-    191 tekste<vblex><inf>
+    193 tekste<vblex><inf>
     191 kvitte<vblex><inf>
     190 resultere<vblex><inf>
     190 bestille<vblex><inf>
+    189 skilte<vblex><inf>
     189 observere<vblex><inf>
-    188 skilte<vblex><inf>
-    187 konsertere<vblex><inf>
+    188 konsertere<vblex><inf>
     186 yte<vblex><inf>
     186 signalisere<vblex><inf>
     186 fortvile<vblex><inf>
@@ -262,41 +250,42 @@
     181 mørke<vblex><inf>
     181 isolere<vblex><inf>
     181 henvise<vblex><inf>
+    181 anlegge<vblex><inf>
     180 framføre<vblex><inf>
     179 samene<vblex><inf>
     178 komplisere<vblex><inf>
-    178 anlegge<vblex><inf>
     177 signalere<vblex><inf>
+    177 halve<vblex><inf>
     177 forsinke<vblex><inf>
     176 signere<vblex><inf>
     175 make<vblex><inf>
+    174 lyte<vblex><inf>
     174 framstille<vblex><inf>
+    174 fø<vblex><inf>
     173 tilrettelegge<vblex><inf>
     173 demonstrere<vblex><inf>
-    172 lyte<vblex><inf>
     172 leke<vblex><inf>
     172 irritere<vblex><inf>
     171 henvende<vblex><inf>
     171 ferge<vblex><inf>
-    169 forfatte<vblex><inf>
+    167 rapportere<vblex><inf>
     166 takle<vblex><inf>
-    166 rapportere<vblex><inf>
     166 omsette<vblex><inf>
+    166 forfatte<vblex><inf>
     165 angre<vblex><inf>
     164 notere<vblex><inf>
     164 kollidere<vblex><inf>
     163 pådra<vblex><inf>
-    163 aksjonere<vblex><inf>
-    162 intervjue<vblex><inf>
+    163 intervjue<vblex><inf>
+    162 rolle<vblex><inf>
+    162 aksjonere<vblex><inf>
     160 sprekke<vblex><inf>
     159 motivere<vblex><inf>
-    159 fø<vblex><inf>
     159 eksportere<vblex><inf>
-    158 rolle<vblex><inf>
     157 nulle<vblex><inf>
+    157 kore<vblex><inf>
     156 tine<vblex><inf>
     156 rydde<vblex><inf>
-    155 kore<vblex><inf>
     155 disponere<vblex><inf>
     154 utøve<vblex><inf>
     149 provosere<vblex><inf>
@@ -304,44 +293,43 @@
     146 iverksette<vblex><inf>
     145 trappe<vblex><inf>
     145 opparbeide<vblex><inf>
-    145 halle<vblex><inf>
+    145 myke<vblex><inf>
     144 poengtere<vblex><inf>
-    144 myke<vblex><inf>
+    144 jakte<vblex><inf>
     143 praktisere<vblex><inf>
     143 oppnevne<vblex><inf>
     143 dumme<vblex><inf>
     143 avansere<vblex><inf>
-    142 jakte<vblex><inf>
-    141 ferde<vblex><inf>
+    142 ferde<vblex><inf>
     141 blinde<vblex><inf>
     141 bemerke<vblex><inf>
     140 stemple<vblex><inf>
     140 markedsføre<vblex><inf>
+    140 halle<vblex><inf>
     139 oppsøke<vblex><inf>
     139 nominere<vblex><inf>
-    138 tilsvare<vblex><inf>
     138 importere<vblex><inf>
     138 hasje<vblex><inf>
     138 budsjettere<vblex><inf>
-    137 betjene<vblex><inf>
+    137 tilsvare<vblex><inf>
     136 sætre<vblex><inf>
-    136 øle<vblex><inf>
     136 klarere<vblex><inf>
     136 forundre<vblex><inf>
+    136 betjene<vblex><inf>
     135 sammenlikne<vblex><inf>
-    135 midle<vblex><inf>
     135 forelegge<vblex><inf>
     134 tilfredsstille<vblex><inf>
     134 medvirke<vblex><inf>
-    134 katte<vblex><inf>
     134 illustrere<vblex><inf>
     133 nedsette<vblex><inf>
+    133 midle<vblex><inf>
+    133 katte<vblex><inf>
     133 detaljere<vblex><inf>
+    132 øle<vblex><inf>
     131 smelle<vblex><inf>
     131 hole<vblex><inf>
     131 blanke<vblex><inf>
     131 beherske<vblex><inf>
-    130 revidere<vblex><inf>
     129 sakte<vblex><inf>
     129 rekruttere<vblex><inf>
     128 messe<vblex><inf>
@@ -352,103 +340,103 @@
     126 referere<vblex><inf>
     126 drukne<vblex><inf>
     125 rite<vblex><inf>
-    125 boikotte<vblex><inf>
     124 subsidiere<vblex><inf>
-    124 analysere<vblex><inf>
     123 videreføre<vblex><inf>
     123 håndtere<vblex><inf>
-    122 sole<vblex><inf>
-    122 lø<vblex><inf>
-    121 sande<vblex><inf>
+    123 boikotte<vblex><inf>
+    123 analysere<vblex><inf>
+    122 sande<vblex><inf>
+    121 sole<vblex><inf>
     121 putte<vblex><inf>
+    121 lø<vblex><inf>
     121 lose<vblex><inf>
     121 droppe<vblex><inf>
     120 spekulere<vblex><inf>
     120 sanke<vblex><inf>
-    120 montere<vblex><inf>
     120 forene<vblex><inf>
     119 tilsette<vblex><inf>
+    119 montere<vblex><inf>
     119 forekomme<vblex><inf>
     117 reke<vblex><inf>
     117 mobilisere<vblex><inf>
-    116 tane<vblex><inf>
     116 sjokkere<vblex><inf>
     116 lykkes<vblex><pstv><inf>
+    115 tane<vblex><inf>
     115 partere<vblex><inf>
+    115 lufte<vblex><inf>
     114 utforme<vblex><inf>
     114 skru<vblex><inf>
-    114 lufte<vblex><inf>
+    113 toge<vblex><inf>
     113 fote<vblex><inf>
     113 file<vblex><inf>
     113 avhøre<vblex><inf>
-    112 toge<vblex><inf>
     112 møte<vblex><inf><pass>/møtes<vblex><pstv><inf>
-    112 korse<vblex><inf>
     111 utpeke<vblex><inf>
+    111 rushe<vblex><inf>
+    111 korse<vblex><inf>
     110 sammensette<vblex><inf>
-    110 rushe<vblex><inf>
     110 overrekke<vblex><inf>
     110 orke<vblex><inf>
     110 oppsummere<vblex><inf>
-    109 sekundere<vblex><inf>
     108 turne<vblex><inf>
+    108 sekundere<vblex><inf>
     108 konstituere<vblex><inf>
     108 frustrere<vblex><inf>
     107 omvende<vblex><inf>
     107 motarbeide<vblex><inf>
+    107 blues<vblex><pstv><inf>
     107 avbryte<vblex><inf>
     106 annonsere<vblex><inf>
     105 tørre<vblex><inf>
-    105 slage<vblex><inf>
     105 rakke<vblex><inf>
-    105 blues<vblex><pstv><inf>
     104 underlegge<vblex><inf>
     104 skute<vblex><inf>
-    104 joike<vblex><inf>
+    104 krangle<vblex><inf>
     104 duke<vblex><inf>
     104 arme<vblex><inf>
     103 sykle<vblex><inf>
-    103 krangle<vblex><inf>
+    103 joike<vblex><inf>
     103 begeistre<vblex><inf>
     102 underskrive<vblex><inf>
     102 stange<vblex><inf>
+    102 slage<vblex><inf>
     102 kolle<vblex><inf>
     102 klasse<vblex><inf>
     102 klargjøre<vblex><inf>
     102 brune<vblex><inf>
     100 proe<vblex><inf>
+    100 posisjonere<vblex><inf>
     100 desentralisere<vblex><inf>
-    100 brygge<vblex><inf>
      99 undergrave<vblex><inf>
      99 sitere<vblex><inf>
      99 showe<vblex><inf>
      99 røke<vblex><inf>
-     99 posisjonere<vblex><inf>
      99 øyne<vblex><inf>
      99 misse<vblex><inf>
      99 glise<vblex><inf>
+     98 natte<vblex><inf>
      98 fotografere<vblex><inf>
+     98 brygge<vblex><inf>
+     97 trenere<vblex><inf>
      97 heise<vblex><inf>
      97 halvere<vblex><inf>
-     96 trenere<vblex><inf>
-     96 natte<vblex><inf>
      96 kumulere<vblex><inf>
      96 gasse<vblex><inf>
      96 dokke<vblex><inf>
      95 ty<vblex><inf>
+     95 lagre<vblex><inf>
+     94 verve<vblex><inf>
      94 skissere<vblex><inf>
      94 oppdatere<vblex><inf>
      94 mislykkes<vblex><pstv><inf>
-     94 lagre<vblex><inf>
      94 heade<vblex><inf>
      94 billettere<vblex><inf>
-     93 yrke<vblex><inf>
+     93 stunde<vblex><inf>
+     93 stoffe<vblex><inf>
      93 roe<vblex><inf>
      93 oppvokse<vblex><inf>
      93 misforstå<vblex><inf>
      93 forårsake<vblex><inf>
-     92 verve<vblex><inf>
-     92 stoffe<vblex><inf>
      92 sprinte<vblex><inf>
      92 pusse<vblex><inf>
      92 kompensere<vblex><inf>
@@ -461,75 +449,74 @@
      91 rasere<vblex><inf>
      91 dirigere<vblex><inf>
      90 reservere<vblex><inf>
+     90 fosse<vblex><inf>
      90 farte<vblex><inf>
+     89 yrke<vblex><inf>
      89 stimulere<vblex><inf>
      89 overholde<vblex><inf>
-     89 matche<vblex><inf>
-     89 fosse<vblex><inf>
+     89 knyte<vblex><inf>
      89 forenkle<vblex><inf>
      89 avlive<vblex><inf>
-     88 vitse<vblex><inf>
-     88 knyte<vblex><inf>
+     88 matche<vblex><inf>
      88 beine<vblex><inf>
+     88 avise<vblex><inf>
      87 vektlegge<vblex><inf>
      87 tipse<vblex><inf>
      87 synse<vblex><inf>
-     87 stunde<vblex><inf>
      87 stable<vblex><inf>
-     87 avise<vblex><inf>
+     86 vitse<vblex><inf>
      86 tynne<vblex><inf>
      86 belyse<vblex><inf>
      85 tillegge<vblex><inf>
      85 søte<vblex><inf>
      85 rukke<vblex><inf>
      85 late<vblex><inf>
-     85 borde<vblex><inf>
      84 turnere<vblex><inf>
      84 stokke<vblex><inf>
      84 justere<vblex><inf>
      84 iføre<vblex><inf>
+     84 borde<vblex><inf>
      83 myte<vblex><inf>
      83 kjappe<vblex><inf>
+     83 doble<vblex><inf>
      83 balansere<vblex><inf>
      83 administrere<vblex><inf>
      82 tele<vblex><inf>
-     82 skildre<vblex><inf>
+     82 knive<vblex><inf>
      82 heime<vblex><inf>
      82 forbruke<vblex><inf>
      82 fleipe<vblex><inf>
-     82 doble<vblex><inf>
      82 anføre<vblex><inf>
      81 nedstemme<vblex><inf>
-     81 knive<vblex><inf>
-     81 kime<vblex><inf>
+     81 eire<vblex><inf>
      80 trå<vblex><inf>
      80 skritte<vblex><inf>
+     80 skildre<vblex><inf>
      80 profilere<vblex><inf>
      80 oppbevare<vblex><inf>
+     80 kime<vblex><inf>
      80 formulere<vblex><inf>
-     80 ekse<vblex><inf>
      79 tippe<vblex><inf>
      79 sortere<vblex><inf>
      79 oppklare<vblex><inf>
-     79 kjefte<vblex><inf>
-     79 eire<vblex><inf>
+     79 mobbe<vblex><inf>
+     79 ekse<vblex><inf>
      79 betenke<vblex><inf>
      78 tykke<vblex><inf>
      78 tilnærme<vblex><inf>
-     78 lekke<vblex><inf>
+     78 sanne<vblex><inf>
      78 hive<vblex><inf>
      78 debattere<vblex><inf>
      77 sjokke<vblex><inf>
-     77 sanne<vblex><inf>
-     77 mobbe<vblex><inf>
+     77 kjefte<vblex><inf>
+     77 hytte<vblex><inf>
      77 brøyte<vblex><inf>
      76 trille<vblex><inf>
      76 tiltre<vblex><inf>
      76 okkupere<vblex><inf>
-     76 hytte<vblex><inf>
+     76 lekke<vblex><inf>
      76 anmode<vblex><inf>
      75 streke<vblex><inf>
-     75 fikse<vblex><inf>
      74 troppe<vblex><inf>
      74 komponere<vblex><inf>
      74 forverre<vblex><inf>
@@ -539,7 +526,9 @@
      73 tilbakevise<vblex><inf>
      73 sprette<vblex><inf>
      73 privatisere<vblex><inf>
+     73 kjøtte<vblex><inf>
      73 forebygge<vblex><inf>
+     73 fikse<vblex><inf>
      73 dimensjonere<vblex><inf>
      73 bone<vblex><inf>
      73 appellere<vblex><inf>
@@ -550,7 +539,6 @@
      71 utdele<vblex><inf>
      71 sprite<vblex><inf>
      71 smale<vblex><inf>
-     71 kjøtte<vblex><inf>
      71 kile<vblex><inf>
      71 kapre<vblex><inf>
      71 entre<vblex><inf>
@@ -559,20 +547,19 @@
      71 bremse<vblex><inf>
      70 sysselsette<vblex><inf>
      70 munne<vblex><inf>
-     70 gjenge<vblex><inf>
      70 forkynne<vblex><inf>
      70 drifte<vblex><inf>
      70 bla<vblex><inf>
      70 ande<vblex><inf>
      69 tilkalle<vblex><inf>
-     69 tabbe<vblex><inf>
      69 påmelde<vblex><inf>
+     69 kroppe<vblex><inf>
      69 henlegge<vblex><inf>
      69 framsette<vblex><inf>
      69 anvende<vblex><inf>
+     68 tabbe<vblex><inf>
      68 sose<vblex><inf>
      68 restaurere<vblex><inf>
-     68 kroppe<vblex><inf>
      68 identifisere<vblex><inf>
      68 hope<vblex><inf>
      67 trøtte<vblex><inf>
@@ -584,6 +571,7 @@
      67 kleppe<vblex><inf>
      67 hulle<vblex><inf>
      67 flagge<vblex><inf>
+     66 veksle<vblex><inf>
      66 titte<vblex><inf>
      66 tilegne<vblex><inf>
      66 monne<vblex><inf>
@@ -595,7 +583,6 @@
      66 ekskludere<vblex><inf>
      66 brase<vblex><inf>
      66 base<vblex><inf>
-     65 veksle<vblex><inf>
      65 skeie<vblex><inf>
      65 rute<vblex><inf>
      65 pumpe<vblex><inf>
@@ -604,14 +591,15 @@
      65 gjenreise<vblex><inf>
      65 bestyre<vblex><inf>
      65 bearbeide<vblex><inf>
+     65 avlegge<vblex><inf>
      64 undervurdere<vblex><inf>
      64 overvåke<vblex><inf>
      64 klemme<vblex><inf>
      64 idømme<vblex><inf>
      64 forsere<vblex><inf>
      64 borge<vblex><inf>
-     64 avlegge<vblex><inf>
      63 tru<vblex><inf>
+     63 skamme<vblex><inf>
      63 rage<vblex><inf>
      63 omhandle<vblex><inf>
      63 kommunisere<vblex><inf>
@@ -638,17 +626,16 @@
      59 stasjonere<vblex><inf>
      59 signe<vblex><inf>
      59 reklamere<vblex><inf>
-     59 oppdra<vblex><inf>
      59 omgå<vblex><inf>
      59 innkassere<vblex><inf>
      59 ilegge<vblex><inf>
+     59 gjenge<vblex><inf>
      59 evaluere<vblex><inf>
      58 utlyse<vblex><inf>
      58 prosjektere<vblex><inf>
+     58 oppdra<vblex><inf>
      58 nette<vblex><inf>
      57 vakte<vblex><inf>
-     57 supe<vblex><inf>
-     57 skamme<vblex><inf>
      57 permittere<vblex><inf>
      57 inneha<vblex><inf>
      57 innarbeide<vblex><inf>
@@ -664,23 +651,23 @@
      54 snyte<vblex><inf>
      54 sele<vblex><inf>
      54 regissere<vblex><inf>
+     54 klinge<vblex><inf>
      54 fase<vblex><inf>
      54 dytte<vblex><inf>
      54 blokkere<vblex><inf>
      53 utveksle<vblex><inf>
      53 tøye<vblex><inf>
+     53 summe<vblex><inf>
      53 stabilisere<vblex><inf>
      53 skri<vblex><inf>
-     53 klinge<vblex><inf>
-     53 jukse<vblex><inf>
      53 forelske<vblex><inf>
      53 beordre<vblex><inf>
-     52 summe<vblex><inf>
      52 spe<vblex><inf>
      52 nedfelle<vblex><inf>
+     52 jukse<vblex><inf>
      52 innleie<vblex><inf>
      52 inndra<vblex><inf>
-     52 balle<vblex><inf>
+     52 age<vblex><inf>
      51 sløyfe<vblex><inf>
      51 refse<vblex><inf>
      51 oppløse<vblex><inf>
@@ -691,8 +678,10 @@
      51 fremholde<vblex><inf>
      51 domfelle<vblex><inf>
      51 blotte<vblex><inf>
-     51 age<vblex><inf>
+     51 balle<vblex><inf>
      50 utklasse<vblex><inf>
+     50 supe<vblex><inf>
+     50 pendle<vblex><inf>
      50 overskride<vblex><inf>
      50 ombestemme<vblex><inf>
      50 nåde<vblex><inf>
@@ -701,6 +690,7 @@
      50 humre<vblex><inf>
      50 havarere<vblex><inf>
      50 gjenspeile<vblex><inf>
+     50 fingere<vblex><inf>
      50 fastlåse<vblex><inf>
      50 beskatte<vblex><inf>
      49 utestenge<vblex><inf>
@@ -709,48 +699,47 @@
      49 skli<vblex><inf>
      49 skikke<vblex><inf>
      49 proklamere<vblex><inf>
-     49 pendle<vblex><inf>
      49 mislike<vblex><inf>
      49 lovfeste<vblex><inf>
      49 lekse<vblex><inf>
+     49 karte<vblex><inf>
      49 imøtekomme<vblex><inf>
      49 hurre<vblex><inf>
      49 grille<vblex><inf>
      49 fordoble<vblex><inf>
-     49 fingere<vblex><inf>
      49 bøte<vblex><inf>
      49 børse<vblex><inf>
      48 utrangere<vblex><inf>
      48 spandere<vblex><inf>
      48 skylde<vblex><inf><pass>/skyldes<vblex><pstv><inf>
      48 politianmelde<vblex><inf>
+     48 plikte<vblex><inf>
      48 påberope<vblex><inf>
-     48 karte<vblex><inf>
      48 intensivere<vblex><inf>
      48 indikere<vblex><inf>
      48 avstå<vblex><inf>
      47 slanke<vblex><inf>
      47 sentre<vblex><inf>
      47 rokke<vblex><inf>
-     47 plikte<vblex><inf>
      47 overstige<vblex><inf>
      47 fye<vblex><inf>
      47 assosiere<vblex><inf>
      46 utkjempe<vblex><inf>
      46 tufte<vblex><inf>
-     46 sike<vblex><inf>
      46 modernisere<vblex><inf>
      46 kassere<vblex><inf>
      46 improvisere<vblex><inf>
+     46 eksperimentere<vblex><inf>
      46 effektivisere<vblex><inf>
+     46 bryne<vblex><inf>
      46 brodere<vblex><inf>
      46 aktivisere<vblex><inf>
      45 skvette<vblex><inf>
      45 skrinlegge<vblex><inf>
+     45 sike<vblex><inf>
      45 nappe<vblex><inf>
      45 forankre<vblex><inf>
-     45 eksperimentere<vblex><inf>
-     45 bryne<vblex><inf>
+     45 dresse<vblex><inf>
      45 boltre<vblex><inf>
      45 bokføre<vblex><inf>
      44 snekre<vblex><inf>
@@ -766,40 +755,42 @@
      43 skite<vblex><inf>
      43 sentralisere<vblex><inf>
      43 ratifisere<vblex><inf>
-     43 kole<vblex><inf>
      43 innskrenke<vblex><inf>
      43 gravlegge<vblex><inf>
-     43 flokke<vblex><inf>
-     43 dresse<vblex><inf>
      42 underslå<vblex><inf>
+     42 tolle<vblex><inf>
      42 tilrå<vblex><inf>
      42 tilgodese<vblex><inf>
      42 replisere<vblex><inf>
      42 punge<vblex><inf>
+     42 ose<vblex><inf>
      42 korrigere<vblex><inf>
+     42 kole<vblex><inf>
      42 kalkulere<vblex><inf>
-     42 guide<vblex><inf>
+     42 kake<vblex><inf>
      42 frarå<vblex><inf>
+     42 figurere<vblex><inf>
+     42 enes<vblex><pstv><inf>
      42 distribuere<vblex><inf>
      42 bløffe<vblex><inf>
      41 veilede<vblex><inf>
      41 vanke<vblex><inf>
      41 uroe<vblex><inf>
      41 trege<vblex><inf>
-     41 tolle<vblex><inf>
      41 tiltenke<vblex><inf>
      41 tilslutte<vblex><inf>
      41 sule<vblex><inf>
-     41 ose<vblex><inf>
      41 likestille<vblex><inf>
      41 ledsage<vblex><inf>
-     41 kake<vblex><inf>
+     41 guide<vblex><inf>
+     41 gruppere<vblex><inf>
      41 fremsette<vblex><inf>
-     41 figurere<vblex><inf>
+     41 flokke<vblex><inf>
      41 favorisere<vblex><inf>
      41 favne<vblex><inf>
      40 utfylle<vblex><inf>
      40 stusse<vblex><inf>
+     40 reformere<vblex><inf>
      40 rangere<vblex><inf>
      40 muntre<vblex><inf>
      40 linne<vblex><inf>
@@ -817,13 +808,11 @@
      39 symbolisere<vblex><inf>
      39 skvise<vblex><inf>
      39 rigge<vblex><inf>
-     39 reformere<vblex><inf>
      39 redigere<vblex><inf>
      39 pose<vblex><inf>
      39 perse<vblex><inf>
      39 legitimere<vblex><inf>
      39 ivre<vblex><inf>
-     39 gruppere<vblex><inf>
      39 ele<vblex><inf>
      39 disiplinere<vblex><inf>
      39 delegere<vblex><inf>
@@ -847,10 +836,12 @@
      37 forskyve<vblex><inf>
      37 forskuttere<vblex><inf>
      37 forsette<vblex><inf>
+     37 dusje<vblex><inf>
+     37 buske<vblex><inf>
      36 utfolde<vblex><inf>
      36 trive<vblex><inf><pass>/trives<vblex><pstv><inf>
+     36 transportere<vblex><inf>
      36 tære<vblex><inf>
-     36 sponsorere<vblex><inf>
      36 ramse<vblex><inf>
      36 rakne<vblex><inf>
      36 påtale<vblex><inf>
@@ -862,14 +853,12 @@
      36 flagre<vblex><inf>
      36 fagorganisere<vblex><inf>
      36 elde<vblex><inf>
-     36 dusje<vblex><inf>
      36 dope<vblex><inf>
-     36 buske<vblex><inf>
      36 bryste<vblex><inf>
      36 brise<vblex><inf>
      35 vatne<vblex><inf>
-     35 transportere<vblex><inf>
      35 tøve<vblex><inf>
+     35 sponsorere<vblex><inf>
      35 slurve<vblex><inf>
      35 skysse<vblex><inf>
      35 skumle<vblex><inf>
@@ -886,6 +875,7 @@
      34 versere<vblex><inf>
      34 tiltrekke<vblex><inf>
      34 stinge<vblex><inf>
+     34 skøyte<vblex><inf>
      34 sile<vblex><inf>
      34 potte<vblex><inf>
      34 pøse<vblex><inf>
@@ -911,23 +901,23 @@
      33 kompromisse<vblex><inf>
      33 kollapse<vblex><inf>
      33 klaffe<vblex><inf>
-     33 kare<vblex><inf>
+     33 grise<vblex><inf>
      33 florere<vblex><inf>
      33 duge<vblex><inf>
      33 differensiere<vblex><inf>
      33 datere<vblex><inf>
      33 bukke<vblex><inf>
+     33 bokse<vblex><inf>
      33 betvile<vblex><inf>
      32 væpne<vblex><inf>
      32 utplassere<vblex><inf>
+     32 træ<vblex><inf>
      32 sveise<vblex><inf>
      32 spasere<vblex><inf>
-     32 skøyte<vblex><inf>
      32 marsjere<vblex><inf>
      32 kvarte<vblex><inf>
      32 jamføre<vblex><inf>
      32 innsende<vblex><inf>
-     32 grise<vblex><inf>
      32 fremlegge<vblex><inf>
      32 forveksle<vblex><inf>
      32 flaue<vblex><inf>
@@ -935,20 +925,21 @@
      32 ebbe<vblex><inf>
      32 bagatellisere<vblex><inf>
      31 snitte<vblex><inf>
-     31 snaue<vblex><inf>
      31 skolere<vblex><inf>
      31 skarve<vblex><inf>
      31 programmere<vblex><inf>
      31 neglisjere<vblex><inf>
      31 knee<vblex><inf>
+     31 kare<vblex><inf>
+     31 innvandre<vblex><inf>
      31 fravike<vblex><inf>
      31 feriere<vblex><inf>
+     31 diske<vblex><inf>
      31 avfeie<vblex><inf>
      30 vifte<vblex><inf>
      30 varetektsfengsle<vblex><inf>
      30 utskrive<vblex><inf>
      30 uffe<vblex><inf>
-     30 træ<vblex><inf>
      30 sysle<vblex><inf>
      30 sprike<vblex><inf>
      30 skitne<vblex><inf>
@@ -956,63 +947,61 @@
      30 pelle<vblex><inf>
      30 palme<vblex><inf>
      30 flakse<vblex><inf>
-     30 diske<vblex><inf>
      30 buksere<vblex><inf>
      30 bortforklare<vblex><inf>
-     30 bokse<vblex><inf>
      30 avspise<vblex><inf>
      29 trakassere<vblex><inf>
+     29 stue<vblex><inf>
      29 stie<vblex><inf>
      29 stake<vblex><inf>
      29 smi<vblex><inf>
      29 sjarmere<vblex><inf>
      29 løye<vblex><inf>
      29 instruere<vblex><inf>
-     29 innvandre<vblex><inf>
      29 hoste<vblex><inf>
      29 gamble<vblex><inf>
      29 blokke<vblex><inf>
      28 utprøve<vblex><inf>
      28 underkjenne<vblex><inf>
+     28 trimme<vblex><inf>
      28 tolerere<vblex><inf>
+     28 telte<vblex><inf>
      28 tallfeste<vblex><inf>
      28 surre<vblex><inf>
      28 sprøyte<vblex><inf>
+     28 snaue<vblex><inf>
      28 skattlegge<vblex><inf>
-     28 særprege<vblex><inf>
      28 rekvirere<vblex><inf>
+     28 prikke<vblex><inf>
      28 massere<vblex><inf>
-     28 lunsje<vblex><inf>
      28 legalisere<vblex><inf>
      28 kvikke<vblex><inf>
      28 innskjerpe<vblex><inf>
      28 hanke<vblex><inf>
      28 gardere<vblex><inf>
-     28 dagse<vblex><inf>
      28 barske<vblex><inf>
      28 avdra<vblex><inf>
      27 vedkjenne<vblex><inf>
      27 valse<vblex><inf>
      27 utelate<vblex><inf>
      27 uteksaminere<vblex><inf>
-     27 trimme<vblex><inf>
-     27 telte<vblex><inf>
      27 summere<vblex><inf>
      27 styrte<vblex><inf>
-     27 stue<vblex><inf>
      27 skurre<vblex><inf>
+     27 særprege<vblex><inf>
      27 renske<vblex><inf>
      27 relatere<vblex><inf>
      27 rause<vblex><inf>
-     27 prikke<vblex><inf>
      27 oppreise<vblex><inf>
      27 omdisponere<vblex><inf>
      27 mekle<vblex><inf>
+     27 lunsje<vblex><inf>
      27 kule<vblex><inf>
      27 klassifisere<vblex><inf>
      27 fundere<vblex><inf>
      27 framkalle<vblex><inf>
      27 forslå<vblex><inf>
+     27 forrette<vblex><inf>
      27 forestå<vblex><inf>
      27 forelese<vblex><inf>
      27 flørte<vblex><inf>
@@ -1025,6 +1014,7 @@
      27 auksjonere<vblex><inf>
      27 anvise<vblex><inf>
      26 utkomme<vblex><inf>
+     26 trygde<vblex><inf>
      26 surfe<vblex><inf>
      26 stagnere<vblex><inf>
      26 spesifisere<vblex><inf>
@@ -1034,19 +1024,18 @@
      26 omregulere<vblex><inf>
      26 mistenkeliggjøre<vblex><inf>
      26 manipulere<vblex><inf>
-     26 malte<vblex><inf>
      26 kroke<vblex><inf>
      26 kanalisere<vblex><inf>
      26 høre<vblex><inf><pass>/høres<vblex><pstv><inf>
      26 frese<vblex><inf>
-     26 forrette<vblex><inf>
      26 fordre<vblex><inf>
      26 ekspropriere<vblex><inf>
      26 dykke<vblex><inf>
+     26 dunke<vblex><inf>
      26 drille<vblex><inf>
+     26 dagse<vblex><inf>
      26 bole<vblex><inf>
      25 utlåne<vblex><inf>
-     25 trygde<vblex><inf>
      25 tilkjenne<vblex><inf>
      25 spikre<vblex><inf>
      25 smugle<vblex><inf>
@@ -1054,6 +1043,7 @@
      25 nyttiggjøre<vblex><inf>
      25 mista<vblex><inf>
      25 meine<vblex><inf>
+     25 malte<vblex><inf>
      25 kverne<vblex><inf>
      25 kløfte<vblex><inf>
      25 kline<vblex><inf>
@@ -1061,11 +1051,9 @@
      25 insistere<vblex><inf>
      25 infisere<vblex><inf>
      25 indignere<vblex><inf>
-     25 frilanse<vblex><inf>
      25 framlegge<vblex><inf>
      25 forlegge<vblex><inf>
      25 fise<vblex><inf>
-     25 dunke<vblex><inf>
      25 blunke<vblex><inf>
      24 vrenge<vblex><inf>
      24 utstøte<vblex><inf>
@@ -1081,22 +1069,24 @@
      24 resirkulere<vblex><inf>
      24 repetere<vblex><inf>
      24 råke<vblex><inf>
+     24 penne<vblex><inf>
      24 nedkjempe<vblex><inf>
-     24 lime<vblex><inf>
      24 latterliggjøre<vblex><inf>
      24 kriminalisere<vblex><inf>
-     24 koppe<vblex><inf>
      24 kople<vblex><inf>
      24 knippe<vblex><inf>
      24 klore<vblex><inf>
      24 jogge<vblex><inf>
      24 innbefatte<vblex><inf>
+     24 gagne<vblex><inf>
+     24 frilanse<vblex><inf>
      24 folde<vblex><inf>
      24 designe<vblex><inf>
      24 dekorere<vblex><inf>
      24 cruise<vblex><inf>
      24 booke<vblex><inf>
      24 bokstavere<vblex><inf>
+     24 befale<vblex><inf>
      24 anskaffe<vblex><inf>
      23 utrope<vblex><inf>
      23 tusle<vblex><inf>
@@ -1107,16 +1097,16 @@
      23 sjenere<vblex><inf>
      23 sivilisere<vblex><inf>
      23 sensurere<vblex><inf>
+     23 sanksjonere<vblex><inf>
      23 safte<vblex><inf>
      23 ripe<vblex><inf>
-     23 penne<vblex><inf>
+     23 lime<vblex><inf>
      23 lempe<vblex><inf>
      23 invadere<vblex><inf>
      23 hue<vblex><inf>
      23 harmonere<vblex><inf>
      23 hamne<vblex><inf>
      23 grøsse<vblex><inf>
-     23 gagne<vblex><inf>
      23 fradømme<vblex><inf>
      23 forfekte<vblex><inf>
      23 foresette<vblex><inf>
@@ -1135,12 +1125,13 @@
      22 sykmelde<vblex><inf>
      22 skynde<vblex><inf>
      22 skule<vblex><inf>
-     22 sanksjonere<vblex><inf>
      22 sakse<vblex><inf>
+     22 rade<vblex><inf>
      22 prisgi<vblex><inf>
      22 oppgradere<vblex><inf>
      22 oppdrive<vblex><inf>
      22 mikse<vblex><inf>
+     22 matte<vblex><inf>
      22 lovbestemme<vblex><inf>
      22 livnære<vblex><inf>
      22 kompromittere<vblex><inf>
@@ -1152,7 +1143,6 @@
      22 fate<vblex><inf>
      22 erte<vblex><inf>
      22 duellere<vblex><inf>
-     22 befale<vblex><inf>
      22 arge<vblex><inf>
      21 vasse<vblex><inf>
      21 tille<vblex><inf>
@@ -1161,17 +1151,16 @@
      21 serve<vblex><inf>
      21 samkjøre<vblex><inf>
      21 rådføre<vblex><inf>
-     21 rade<vblex><inf>
      21 preparere<vblex><inf>
      21 nøste<vblex><inf>
      21 møblere<vblex><inf>
      21 mjuke<vblex><inf>
-     21 matte<vblex><inf>
      21 massakrere<vblex><inf>
      21 manøvrere<vblex><inf>
      21 kro<vblex><inf>
      21 kreditere<vblex><inf>
      21 kapitulere<vblex><inf>
+     21 kalve<vblex><inf>
      21 jubilere<vblex><inf>
      21 imøtegå<vblex><inf>
      21 hyre<vblex><inf>
@@ -1190,12 +1179,10 @@
      21 adoptere<vblex><inf>
      20 vingle<vblex><inf>
      20 vikariere<vblex><inf>
-     20 vaie<vblex><inf>
      20 tørne<vblex><inf>
      20 tilbakelegge<vblex><inf>
      20 swinge<vblex><inf>
      20 svike<vblex><inf>
-     20 stumpe<vblex><inf>
      20 sneke<vblex><inf>
      20 sløve<vblex><inf>
      20 skjolde<vblex><inf>
@@ -1203,6 +1190,7 @@
      20 rehabilitere<vblex><inf>
      20 refundere<vblex><inf>
      20 rappe<vblex><inf>
+     20 patruljere<vblex><inf>
      20 overhøre<vblex><inf>
      20 oppvise<vblex><inf>
      20 omskrive<vblex><inf>
@@ -1212,7 +1200,6 @@
      20 løsrive<vblex><inf>
      20 leste<vblex><inf>
      20 kjekke<vblex><inf>
-     20 kalve<vblex><inf>
      20 influere<vblex><inf>
      20 hygge<vblex><inf>
      20 hudflette<vblex><inf>
@@ -1230,17 +1217,17 @@
      20 autorisere<vblex><inf>
      20 åke<vblex><inf>
      19 virkeliggjøre<vblex><inf>
+     19 vaie<vblex><inf>
      19 utstråle<vblex><inf>
      19 utlikne<vblex><inf>
+     19 trikse<vblex><inf>
      19 tåkelegge<vblex><inf>
-     19 stave<vblex><inf>
+     19 stumpe<vblex><inf>
      19 sno<vblex><inf>
      19 sakke<vblex><inf>
-     19 rape<vblex><inf>
      19 råkjøre<vblex><inf>
      19 radere<vblex><inf>
      19 programfeste<vblex><inf>
-     19 patruljere<vblex><inf>
      19 påtenke<vblex><inf>
      19 påby<vblex><inf>
      19 opptjene<vblex><inf>
@@ -1248,7 +1235,6 @@
      19 oppkjøpe<vblex><inf>
      19 mekke<vblex><inf>
      19 kvi<vblex><inf>
-     19 kuppe<vblex><inf>
      19 knope<vblex><inf>
      19 imøtese<vblex><inf>
      19 høytide<vblex><inf>
@@ -1268,26 +1254,29 @@
      18 underforstå<vblex><inf>
      18 tukle<vblex><inf>
      18 trylle<vblex><inf>
-     18 trikse<vblex><inf>
      18 titulere<vblex><inf>
      18 tilspisse<vblex><inf>
      18 syde<vblex><inf>
      18 svarteliste<vblex><inf>
      18 strukturere<vblex><inf>
      18 stipulere<vblex><inf>
+     18 stave<vblex><inf>
+     18 statuere<vblex><inf>
      18 stane<vblex><inf>
      18 sneie<vblex><inf>
      18 slemme<vblex><inf>
      18 skorte<vblex><inf>
      18 revansjere<vblex><inf>
+     18 rape<vblex><inf>
+     18 prosessere<vblex><inf>
      18 pote<vblex><inf>
      18 pole<vblex><inf>
      18 parere<vblex><inf>
      18 overvintre<vblex><inf>
-     18 nisse<vblex><inf>
      18 mimre<vblex><inf>
      18 lobbe<vblex><inf>
      18 kurere<vblex><inf>
+     18 kuppe<vblex><inf>
      18 krakke<vblex><inf>
      18 krabbe<vblex><inf>
      18 klave<vblex><inf>
@@ -1317,14 +1306,12 @@
      17 sympatisere<vblex><inf>
      17 svartne<vblex><inf>
      17 støvsuge<vblex><inf>
-     17 statuere<vblex><inf>
      17 spike<vblex><inf>
      17 sondere<vblex><inf>
      17 smette<vblex><inf>
      17 smashe<vblex><inf>
      17 skrå<vblex><inf>
      17 skjøte<vblex><inf>
-     17 sause<vblex><inf>
      17 saumfare<vblex><inf>
      17 ruve<vblex><inf>
      17 rotfeste<vblex><inf>
@@ -1334,11 +1321,12 @@
      17 rafte<vblex><inf>
      17 pulse<vblex><inf>
      17 pugge<vblex><inf>
-     17 prosessere<vblex><inf>
      17 pigge<vblex><inf>
+     17 nisse<vblex><inf>
      17 nedbetale<vblex><inf>
      17 moderere<vblex><inf>
      17 leive<vblex><inf>
+     17 kostymere<vblex><inf>
      17 konkretisere<vblex><inf>
      17 innpasse<vblex><inf>
      17 innmelde<vblex><inf>
@@ -1370,6 +1358,7 @@
      16 skotte<vblex><inf>
      16 skalte<vblex><inf>
      16 skakke<vblex><inf>
+     16 sause<vblex><inf>
      16 pusle<vblex><inf>
      16 prelle<vblex><inf>
      16 portrettere<vblex><inf>
@@ -1378,12 +1367,10 @@
      16 meisle<vblex><inf>
      16 magre<vblex><inf>
      16 kremte<vblex><inf>
-     16 kostymere<vblex><inf>
      16 korrespondere<vblex><inf>
      16 konsumere<vblex><inf>
      16 kondemnere<vblex><inf>
      16 komplettere<vblex><inf>
-     16 knekte<vblex><inf>
      16 klikke<vblex><inf>
      16 innkreve<vblex><inf>
      16 humpe<vblex><inf>
@@ -1407,7 +1394,6 @@
      15 straffedømme<vblex><inf>
      15 sprudle<vblex><inf>
      15 smuldre<vblex><inf>
-     15 sløye<vblex><inf>
      15 skrumpe<vblex><inf>
      15 single<vblex><inf>
      15 sæte<vblex><inf>
@@ -1453,6 +1439,7 @@
      14 tyste<vblex><inf>
      14 teipe<vblex><inf>
      14 snurre<vblex><inf>
+     14 sløye<vblex><inf>
      14 sannsynliggjøre<vblex><inf>
      14 refusere<vblex><inf>
      14 ranke<vblex><inf>
@@ -1497,7 +1484,6 @@
      13 utse<vblex><inf>
      13 utjevne<vblex><inf>
      13 unngjelde<vblex><inf>
-     13 tredele<vblex><inf>
      13 tilsidesette<vblex><inf>
      13 tilmåle<vblex><inf>
      13 sylte<vblex><inf>
@@ -1522,6 +1508,7 @@
      13 krympe<vblex><inf>
      13 konvoluttere<vblex><inf>
      13 kommersialisere<vblex><inf>
+     13 knekte<vblex><inf>
      13 knakke<vblex><inf>
      13 klovne<vblex><inf>
      13 kingse<vblex><inf>
@@ -1545,8 +1532,10 @@
      13 besvime<vblex><inf>
      13 akterutseile<vblex><inf>
      13 akkumulere<vblex><inf>
+     12 våres<vblex><pstv><inf>
      12 urframføre<vblex><inf>
      12 ulme<vblex><inf>
+     12 tredele<vblex><inf>
      12 trave<vblex><inf>
      12 traske<vblex><inf>
      12 tilsløre<vblex><inf>
@@ -1561,7 +1550,6 @@
      12 sinke<vblex><inf>
      12 sanere<vblex><inf>
      12 rikke<vblex><inf>
-     12 ratte<vblex><inf>
      12 rabattere<vblex><inf>
      12 purre<vblex><inf>
      12 pukke<vblex><inf>
@@ -1578,6 +1566,7 @@
      12 minne<vblex><inf><pass>/minnes<vblex><pstv><inf>
      12 meie<vblex><inf>
      12 logge<vblex><inf>
+     12 linjere<vblex><inf>
      12 låre<vblex><inf>
      12 lakke<vblex><inf>
      12 kvoteregulere<vblex><inf>
@@ -1619,7 +1608,6 @@
      11 tilstede<vblex><inf>
      11 tagge<vblex><inf>
      11 stritte<vblex><inf>
-     11 støkke<vblex><inf>
      11 stålsette<vblex><inf>
      11 sokne<vblex><inf>
      11 smyge<vblex><inf>
@@ -1627,6 +1615,7 @@
      11 slamre<vblex><inf>
      11 sjikanere<vblex><inf>
      11 sirkulere<vblex><inf>
+     11 ratte<vblex><inf>
      11 ramponere<vblex><inf>
      11 pirke<vblex><inf>
      11 peise<vblex><inf>
@@ -1635,7 +1624,6 @@
      11 nedkjøre<vblex><inf>
      11 mistrives<vblex><pstv><inf>
      11 lire<vblex><inf>
-     11 linjere<vblex><inf>
      11 konferere<vblex><inf>
      11 kode<vblex><inf>
      11 knesette<vblex><inf>
@@ -1673,7 +1661,6 @@
      10 trollbinde<vblex><inf>
      10 tjuvstarte<vblex><inf>
      10 tigge<vblex><inf>
-     10 sveipe<vblex><inf>
      10 strippe<vblex><inf>
      10 stilisere<vblex><inf>
      10 stigmatisere<vblex><inf>
@@ -1701,6 +1688,7 @@
      10 labbe<vblex><inf>
      10 kvite<vblex><inf>
      10 kringkaste<vblex><inf>
+     10 koppe<vblex><inf>
      10 knipse<vblex><inf>
      10 kjølne<vblex><inf>
      10 kamuflere<vblex><inf>
@@ -1718,7 +1706,6 @@
      10 dingle<vblex><inf>
      10 detonere<vblex><inf>
      10 desertere<vblex><inf>
-     10 bunke<vblex><inf>
      10 bilegge<vblex><inf>
      10 betone<vblex><inf>
      10 baute<vblex><inf>
@@ -1739,7 +1726,9 @@
       9 teite<vblex><inf>
       9 tasse<vblex><inf>
       9 svime<vblex><inf>
+      9 sveipe<vblex><inf>
       9 streite<vblex><inf>
+      9 støkke<vblex><inf>
       9 standardisere<vblex><inf>
       9 stagge<vblex><inf>
       9 spissformulere<vblex><inf>
@@ -1752,6 +1741,7 @@
       9 sludde<vblex><inf>
       9 slokne<vblex><inf>
       9 skravle<vblex><inf>
+      9 skjørte<vblex><inf>
       9 skamrose<vblex><inf>
       9 rullere<vblex><inf>
       9 rotere<vblex><inf>
@@ -1778,7 +1768,6 @@
       9 krase<vblex><inf>
       9 korne<vblex><inf>
       9 klype<vblex><inf>
-      9 klumpe<vblex><inf>
       9 klinke<vblex><inf>
       9 kantre<vblex><inf>
       9 huie<vblex><inf>
@@ -1820,13 +1809,14 @@
       8 terminfeste<vblex><inf>
       8 tatovere<vblex><inf>
       8 sutre<vblex><inf>
+      8 subbe<vblex><inf>
       8 stimle<vblex><inf>
+      8 sprelle<vblex><inf>
       8 spraye<vblex><inf>
       8 snerte<vblex><inf>
       8 snauklippe<vblex><inf>
       8 skye<vblex><inf>
       8 skrense<vblex><inf>
-      8 skjørte<vblex><inf>
       8 skadeskyte<vblex><inf>
       8 seksjonere<vblex><inf>
       8 sabotere<vblex><inf>
@@ -1852,7 +1842,6 @@
       8 krite<vblex><inf>
       8 kremere<vblex><inf>
       8 korke<vblex><inf>
-      8 konvertere<vblex><inf>
       8 kontrahere<vblex><inf>
       8 konsolidere<vblex><inf>
       8 kjerne<vblex><inf>
@@ -1883,6 +1872,7 @@
       8 dolke<vblex><inf>
       8 digge<vblex><inf>
       8 diagnostisere<vblex><inf>
+      8 bunke<vblex><inf>
       8 bolte<vblex><inf>
       8 bløgge<vblex><inf>
       8 blankpolere<vblex><inf>
@@ -1893,24 +1883,21 @@
       8 avskilte<vblex><inf>
       8 avleire<vblex><inf>
       8 avgiftsbelegge<vblex><inf>
-      8 ætte<vblex><inf>
       7 yngle<vblex><inf>
       7 ventilere<vblex><inf>
       7 veite<vblex><inf>
       7 uteglemme<vblex><inf>
       7 utdø<vblex><inf>
+      7 tylle<vblex><inf>
       7 tøyse<vblex><inf>
       7 tømre<vblex><inf>
       7 tetne<vblex><inf>
       7 terge<vblex><inf>
-      7 subbe<vblex><inf>
       7 stuve<vblex><inf>
       7 strene<vblex><inf>
       7 staure<vblex><inf>
-      7 sprelle<vblex><inf>
       7 spleise<vblex><inf>
       7 sømme<vblex><inf>
-      7 snope<vblex><inf>
       7 småprate<vblex><inf>
       7 slurpe<vblex><inf>
       7 skumlegge<vblex><inf>
@@ -1946,7 +1933,6 @@
       7 modifisere<vblex><inf>
       7 mistolke<vblex><inf>
       7 materialisere<vblex><inf>
-      7 manifestere<vblex><inf>
       7 mangedoble<vblex><inf>
       7 lunne<vblex><inf>
       7 løyve<vblex><inf>
@@ -1957,9 +1943,10 @@
       7 kvine<vblex><inf>
       7 krasje<vblex><inf>
       7 krafse<vblex><inf>
+      7 konvertere<vblex><inf>
       7 konfiskere<vblex><inf>
       7 kompe<vblex><inf>
-      7 klatte<vblex><inf>
+      7 klumpe<vblex><inf>
       7 kise<vblex><inf>
       7 kimse<vblex><inf>
       7 kase<vblex><inf>
@@ -2000,12 +1987,12 @@
       6 vedkomme<vblex><inf>
       6 varde<vblex><inf>
       6 vantrives<vblex><pstv><inf>
+      6 valfarte<vblex><inf>
       6 utkommandere<vblex><inf>
       6 utgiftsføre<vblex><inf>
       6 unnslå<vblex><inf>
       6 ulne<vblex><inf>
       6 tyte<vblex><inf>
-      6 tylle<vblex><inf>
       6 turve<vblex><inf>
       6 torve<vblex><inf>
       6 tinglyse<vblex><inf>
@@ -2015,6 +2002,7 @@
       6 tapetsere<vblex><inf>
       6 supere<vblex><inf>
       6 stripe<vblex><inf>
+      6 snope<vblex><inf>
       6 sniffe<vblex><inf>
       6 snapse<vblex><inf>
       6 smugrøyke<vblex><inf>
@@ -2047,6 +2035,7 @@
       6 merittere<vblex><inf>
       6 maure<vblex><inf>
       6 marinere<vblex><inf>
+      6 manifestere<vblex><inf>
       6 magasinere<vblex><inf>
       6 lyssette<vblex><inf>
       6 lovsynge<vblex><inf>
@@ -2115,7 +2104,6 @@
       6 ærekrenke<vblex><inf>
       6 abonnere<vblex><inf>
       5 valne<vblex><inf>
-      5 valfarte<vblex><inf>
       5 utpine<vblex><inf>
       5 utmanøvrere<vblex><inf>
       5 utkrystallisere<vblex><inf>
@@ -2185,6 +2173,7 @@
       5 komprimere<vblex><inf>
       5 klusse<vblex><inf>
       5 klå<vblex><inf>
+      5 klatte<vblex><inf>
       5 klakke<vblex><inf>
       5 kå<vblex><inf>
       5 kategorisere<vblex><inf>
@@ -2234,6 +2223,7 @@
       5 digitalisere<vblex><inf>
       5 denge<vblex><inf>
       5 buste<vblex><inf>
+      5 brodde<vblex><inf>
       5 blondere<vblex><inf>
       5 blåne<vblex><inf>
       5 blånekte<vblex><inf>
@@ -2265,6 +2255,7 @@
       4 tvære<vblex><inf>
       4 tusje<vblex><inf>
       4 transplantere<vblex><inf>
+      4 tralle<vblex><inf>
       4 tonesette<vblex><inf>
       4 tøfle<vblex><inf>
       4 tjelde<vblex><inf>
@@ -2285,7 +2276,6 @@
       4 spildre<vblex><inf>
       4 solidarisere<vblex><inf>
       4 smatre<vblex><inf>
-      4 slumpe<vblex><inf>
       4 skvære<vblex><inf>
       4 skrubbe<vblex><inf>
       4 skjenne<vblex><inf>
@@ -2322,7 +2312,6 @@
       4 orme<vblex><inf>
       4 omstøte<vblex><inf>
       4 økonomisere<vblex><inf>
-      4 negere<vblex><inf>
       4 nedjustere<vblex><inf>
       4 mørbanke<vblex><inf>
       4 misoppfatte<vblex><inf>
@@ -2368,7 +2357,6 @@
       4 hølje<vblex><inf>
       4 hildre<vblex><inf>
       4 helsteke<vblex><inf>
-      4 harpunere<vblex><inf>
       4 harmonisere<vblex><inf>
       4 gyte<vblex><inf>
       4 glefse<vblex><inf>
@@ -2400,7 +2388,6 @@
       4 desinfisere<vblex><inf>
       4 chartre<vblex><inf>
       4 bykse<vblex><inf>
-      4 brodde<vblex><inf>
       4 bogne<vblex><inf>
       4 bløtkoke<vblex><inf>
       4 bjeffe<vblex><inf>
@@ -2429,7 +2416,6 @@
       3 utstå<vblex><inf>
       3 urinere<vblex><inf>
       3 urbanisere<vblex><inf>
-      3 tralle<vblex><inf>
       3 tollklarere<vblex><inf>
       3 tirre<vblex><inf>
       3 tilsøle<vblex><inf>
@@ -2454,7 +2440,7 @@
       3 sparre<vblex><inf>
       3 snorke<vblex><inf>
       3 snake<vblex><inf>
-      3 slurke<vblex><inf>
+      3 slumpe<vblex><inf>
       3 sludre<vblex><inf>
       3 skvaldre<vblex><inf>
       3 skrote<vblex><inf>
@@ -2492,11 +2478,13 @@
       3 patte<vblex><inf>
       3 paradere<vblex><inf>
       3 pansre<vblex><inf>
+      3 pakte<vblex><inf>
       3 oppleve<vblex><inf><pass>/oppleves<vblex><pstv><inf>
       3 oppkjøre<vblex><inf>
       3 oppdele<vblex><inf>
       3 ommøblere<vblex><inf>
       3 omlegge<vblex><inf>
+      3 negere<vblex><inf>
       3 nedgradere<vblex><inf>
       3 musisere<vblex><inf>
       3 mjaue<vblex><inf>
@@ -2506,6 +2494,7 @@
       3 målbinde<vblex><inf>
       3 lyske<vblex><inf>
       3 lunke<vblex><inf>
+      3 losjere<vblex><inf>
       3 loope<vblex><inf>
       3 likvidere<vblex><inf>
       3 levre<vblex><inf>
@@ -2547,6 +2536,7 @@
       3 himle<vblex><inf>
       3 herme<vblex><inf>
       3 hekle<vblex><inf>
+      3 harpunere<vblex><inf>
       3 hamstre<vblex><inf>
       3 halshugge<vblex><inf>
       3 gynge<vblex><inf>
@@ -2670,6 +2660,7 @@
       2 smeise<vblex><inf>
       2 slute<vblex><inf>
       2 sluske<vblex><inf>
+      2 slurke<vblex><inf>
       2 sløkke<vblex><inf>
       2 slingre<vblex><inf>
       2 sletne<vblex><inf>
@@ -2697,7 +2688,6 @@
       2 rulleføre<vblex><inf>
       2 rugge<vblex><inf>
       2 rubrisere<vblex><inf>
-      2 røyke<vblex><imp>/røyk<n><m><sg><ind>/røyk<n><m><pl><ind>/røyk<n><m><sg><ind><compound-R>/røyk<n><m><pl><ind><compound-R>/røyk<n><m><sg><ind><cmp><compound-only-L>
       2 romantisere<vblex><inf>
       2 restere<vblex><inf>
       2 resitere<vblex><inf>
@@ -2722,7 +2712,6 @@
       2 parafere<vblex><inf>
       2 panere<vblex><inf>
       2 panele<vblex><inf>
-      2 pakte<vblex><inf>
       2 pælme<vblex><inf>
       2 pæle<vblex><inf>
       2 overprodusere<vblex><inf>
@@ -2751,7 +2740,6 @@
       2 memorere<vblex><inf>
       2 matrikulere<vblex><inf>
       2 maskinskrive<vblex><inf>
-      2 losjere<vblex><inf>
       2 letne<vblex><inf>
       2 lånefinansiere<vblex><inf>
       2 landsforvise<vblex><inf>
@@ -2822,6 +2810,7 @@
       2 glassere<vblex><inf>
       2 glasere<vblex><inf>
       2 gjøne<vblex><inf>
+      2 gjøde<vblex><inf>
       2 gjennomlyse<vblex><inf>
       2 gjennomlese<vblex><inf>
       2 gjenkjøpe<vblex><inf>
@@ -2848,7 +2837,6 @@
       2 flasse<vblex><inf>
       2 fjerte<vblex><inf>
       2 fjase<vblex><inf>
-      2 firedele<vblex><inf>
       2 firdoble<vblex><inf>
       2 finsikte<vblex><inf>
       2 finkjemme<vblex><inf>
@@ -2875,7 +2863,6 @@
       2 deklamere<vblex><inf>
       2 dedikere<vblex><inf>
       2 bylte<vblex><inf>
-      2 bunte<vblex><inf>
       2 bunnfryse<vblex><inf>
       2 bunkre<vblex><inf>
       2 buke<vblex><inf>
@@ -2907,8 +2894,8 @@
       2 aktorere<vblex><inf>
       2 æreskjelle<vblex><inf>
       2 adjektivere<vblex><inf>
-      2 abdisere<vblex><inf>
       1 yste<vblex><inf>
+      1 ynke<vblex><inf>
       1 vulgarisere<vblex><inf>
       1 vrikke<vblex><inf>
       1 vogge<vblex><inf>
@@ -2985,7 +2972,6 @@
       1 spøte<vblex><inf>
       1 sporte<vblex><inf>
       1 spjære<vblex><inf>
-      1 spille<vblex><pres>/spiller<n><m><sg><ind>/spiller<n><m><sg><ind><compound-R>/spiller<n><m><sg><ind><cmp><compound-only-L>
       1 spidde<vblex><inf>
       1 sparkle<vblex><inf>
       1 sordinere<vblex><inf>
@@ -3016,6 +3002,7 @@
       1 skjønnmale<vblex><inf>
       1 skiple<vblex><inf>
       1 skillinge<vblex><inf>
+      1 skave<vblex><inf>
       1 skanne<vblex><inf>
       1 skalke<vblex><inf>
       1 sjofle<vblex><inf>
@@ -3032,7 +3019,6 @@
       1 selektere<vblex><inf>
       1 sektorisere<vblex><inf>
       1 segle<vblex><inf>
-      1 sake<vblex><imp>/sak<n><m><sg><ind>/sak<n><f><sg><ind>
       1 ryte<vblex><inf>
       1 rufse<vblex><inf>
       1 røntgenfotografere<vblex><inf>
@@ -3081,6 +3067,7 @@
       1 perforere<vblex><inf>
       1 penetrere<vblex><inf>
       1 patinere<vblex><inf>
+      1 passiare<vblex><inf>
       1 parafrasere<vblex><inf>
       1 palatalisere<vblex><inf>
       1 ovre<vblex><inf>
@@ -3144,7 +3131,6 @@
       1 kvee<vblex><inf>
       1 kvantifisere<vblex><inf>
       1 kurtisere<vblex><inf>
-      1 kujonere<vblex><inf>
       1 kryptere<vblex><inf>
       1 kronikkere<vblex><inf>
       1 kortne<vblex><inf>
@@ -3249,7 +3235,6 @@
       1 forgasse<vblex><inf>
       1 forgape<vblex><inf>
       1 forfryse<vblex><inf>
-      1 fôre<vblex><pp>/forte<vblex><imp>/fort<n><nt><sg><ind>/fort<n><nt><pl><ind>/fort<n><nt><sg><ind><compound-R>/fort<n><nt><pl><ind><compound-R>/fort<adj><posi><nt><sg><ind>/fort<adj><posi><mf><sg><ind>/fôre<adj><pp><nt><sg><ind>/fôre<adj><pp><mf><sg><ind>/fort<n><nt><sg><ind><cmp><compound-only-L>
       1 foreldes<vblex><pstv><inf>
       1 foliere<vblex><inf>
       1 følgje<vblex><inf>
@@ -3258,6 +3243,7 @@
       1 flake<vblex><inf>
       1 fjernadoptere<vblex><inf>
       1 fjelge<vblex><inf>
+      1 firedele<vblex><inf>
       1 finstudere<vblex><inf>
       1 finstille<vblex><inf>
       1 finstemme<vblex><inf>
@@ -3283,6 +3269,7 @@
       1 dragse<vblex><inf>
       1 dragere<vblex><inf>
       1 dorme<vblex><inf>
+      1 dønne<vblex><inf>
       1 dividere<vblex><inf>
       1 dissekere<vblex><inf>
       1 dirke<vblex><inf>
@@ -3305,6 +3292,7 @@
       1 bygsle<vblex><inf>
       1 byde<vblex><inf>
       1 busette<vblex><inf>
+      1 bunte<vblex><inf>
       1 buklande<vblex><inf>
       1 budsende<vblex><inf>
       1 brødfø<vblex><inf>
@@ -3319,7 +3307,6 @@
       1 blitse<vblex><inf>
       1 blingse<vblex><inf>
       1 blankpusse<vblex><inf>
-      1 blaffe<vblex><inf>
       1 blære<vblex><inf>
       1 bivuakkere<vblex><inf>
       1 bevre<vblex><inf>

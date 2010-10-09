@@ -131,6 +131,7 @@
     <e><p><l>så<s n="cnjcoo"/></l><r>so<s n="cnjadv"/></r></p></e>
     <e><p><l>samt<s n="cnjcoo"/></l><r>and<s n="cnjadv"/></r></p></e>
 
+    <e><p><l>der<s n="cnjsub"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>hvor<s n="cnjsub"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>dersom<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>ettersom<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
@@ -329,14 +330,22 @@
     <!-- Determiners -->
 
     <e><p><l>en<s n="det"/><s n="qnt"/></l><r>a<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
+    <e><p><l>ingen<s n="det"/><s n="qnt"/></l><r>no<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
     <e><p><l>annen<s n="det"/><s n="dem"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>samme<s n="det"/><s n="dem"/></l><r>same<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>denne<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p><par n="dem_dem"/></e>
     <e><p><l>den<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p><par n="dem_dem"/></e>
+    <e><p><l>sånn<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p><par n="dem_dem"/></e>
     <e><p><l>all<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/></r></p><par n="all_all"/></e>
     <e><p><l>noe<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="all_all"/></e>
     <e><p><l>hver<s n="det"/><s n="qnt"/></l><r>each<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
+    <e><p><l>enhver<s n="det"/><s n="qnt"/></l><r>any<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
+    <e><p><l>så<b/>mange<s n="det"/><s n="qnt"/></l><r>so<b/>many<s n="det"/><s n="qnt"/></r></p><par n="dem_dem"/></e>
+    <e slr="1"><p><l>så<b/>mange<s n="det"/><s n="qnt"/></l><r>as<b/>many<s n="det"/><s n="qnt"/></r></p><par n="dem_dem"/></e>
     <e><p><l>mange<s n="adj"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>mye<s n="adj"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>mange<s n="det"/><s n="qnt"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>sådan<s n="det"/><s n="qnt"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>egen<s n="det"/><s n="emph"/></l><r>own<s n="adj"/></r></p><par n="dem_dem"/></e>
 
     <e><p><l>jeg<s n="det"/><s n="pos"/></l><r>my<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
@@ -345,6 +354,7 @@
 
     <e><p><l>han<s n="det"/><s n="pos"/></l><r>his<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
     <e><p><l>hun<s n="det"/><s n="pos"/></l><r>her<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
+    <e><p><l>dere<s n="det"/><s n="pos"/></l><r>their<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
 
     <e><p><l>seg<s n="det"/><s n="pos"/></l><r>his<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e> <!-- his/her/its -->
 
@@ -357,6 +367,7 @@
     <e><p><l>fire<s n="det"/><s n="qnt"/></l><r>four<s n="num"/></r></p></e>
     <e><p><l>fem<s n="det"/><s n="qnt"/></l><r>five<s n="num"/></r></p></e>
     <e><p><l>seks<s n="det"/><s n="qnt"/></l><r>six<s n="num"/></r></p></e>
+    <e><p><l>sjv<s n="det"/><s n="qnt"/></l><r>seven<s n="num"/></r></p></e>
     <e><p><l>sju<s n="det"/><s n="qnt"/></l><r>seven<s n="num"/></r></p></e>
     <e><p><l>åtte<s n="det"/><s n="qnt"/></l><r>eight<s n="num"/></r></p></e>
 
@@ -368,15 +379,22 @@
     <e><p><l>seksten<s n="det"/><s n="qnt"/></l><r>sixteen<s n="num"/></r></p></e>
     <e><p><l>sytten<s n="det"/><s n="qnt"/></l><r>seventeen<s n="num"/></r></p></e>
     <e><p><l>atten<s n="det"/><s n="qnt"/></l><r>eighteen<s n="num"/></r></p></e>
+    <e><p><l>nitten<s n="det"/><s n="qnt"/></l><r>nineteen<s n="num"/></r></p></e>
 
+    <e><p><l>tjue<s n="det"/><s n="qnt"/></l><r>twenty<s n="num"/></r></p></e>
+    <e><p><l>tjve<s n="det"/><s n="qnt"/></l><r>twenty<s n="num"/></r></p></e>
     <e><p><l>tretti<s n="det"/><s n="qnt"/></l><r>thirty<s n="num"/></r></p></e>
     <e><p><l>førti<s n="det"/><s n="qnt"/></l><r>fourty<s n="num"/></r></p></e>
     <e><p><l>femti<s n="det"/><s n="qnt"/></l><r>fifty<s n="num"/></r></p></e>
     <e><p><l>seksti<s n="det"/><s n="qnt"/></l><r>sixty<s n="num"/></r></p></e>
     <e><p><l>sytti<s n="det"/><s n="qnt"/></l><r>seventy<s n="num"/></r></p></e>
     <e><p><l>åtti<s n="det"/><s n="qnt"/></l><r>eighty<s n="num"/></r></p></e>
+    <e><p><l>nitti<s n="det"/><s n="qnt"/></l><r>ninety<s n="num"/></r></p></e>
 
     <e><p><l>hundre<s n="det"/><s n="qnt"/></l><r>hundred<s n="num"/></r></p></e>
+    <e><p><l>million<s n="det"/><s n="qnt"/></l><r>million<s n="num"/></r></p></e>
+    <e><p><l>milliard<s n="det"/><s n="qnt"/></l><r>billion<s n="num"/></r></p></e>
+    <e slr="1"><p><l>milliard<s n="det"/><s n="qnt"/></l><r>milliard<s n="num"/></r></p></e>
 
     <!-- Nouns -->
 
@@ -7615,16 +7633,16 @@
     <e><p><l>Beck<s n="np"/><s n="top"/></l><r>Beck<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Beerenberg<s n="np"/><s n="top"/></l><r>Beerenberg<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Beersheba<s n="np"/><s n="top"/></l><r>Beersheba<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Beethoven<s n="np"/><s n="top"/></l><r>Ludwig<b/>Van<b/>Beethoven<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Beethoven<s n="np"/><s n="top"/></l><r>Beethoven<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Begna<s n="np"/><s n="top"/></l><r>Begna<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Beiarn<s n="np"/><s n="top"/></l><r>Beiarn<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Beijing<s n="np"/><s n="top"/></l><r>Beijing<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Beira<s n="np"/><s n="top"/></l><r>Beira<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Beirut<s n="np"/><s n="top"/></l><r>Beirut<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Bekhterev<s n="np"/><s n="top"/></l><r>Ankylosing<b/>Spondylitis<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Bekhterev<s n="np"/><s n="top"/></l><r>Bekhterev<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Belfast<s n="np"/><s n="top"/></l><r>Belfast<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Belgia<s n="np"/><s n="top"/></l><r>Belgium<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Bellona<s n="np"/><s n="top"/></l><r>Bellona<b/>Foundation<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Bellona<s n="np"/><s n="top"/></l><r>Bellona<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Benelux<s n="np"/><s n="top"/></l><r>Benelux<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Benidorm<s n="np"/><s n="top"/></l><r>Benidorm<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Beograd<s n="np"/><s n="top"/></l><r>Belgrade<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7647,10 +7665,10 @@
     <e><p><l>Birkenes<s n="np"/><s n="top"/></l><r>Birkenes<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Birkerød<s n="np"/><s n="top"/></l><r>Birkerød<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Birmingham<s n="np"/><s n="top"/></l><r>Birmingham<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Biscaya<s n="np"/><s n="top"/></l><r>Bay<b/>of<b/>Biscay<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Biscaya<s n="np"/><s n="top"/></l><r>Biscay<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bislett<s n="np"/><s n="top"/></l><r>Bislett<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bissau<s n="np"/><s n="top"/></l><r>Bissau<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Bizet<s n="np"/><s n="top"/></l><r>Georges<b/>Bizet<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Bizet<s n="np"/><s n="top"/></l><r>Bizet<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bjarkøy<s n="np"/><s n="top"/></l><r>Bjarkøy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bjelland<s n="np"/><s n="top"/></l><r>Bjelland<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bjerkreim<s n="np"/><s n="top"/></l><r>Bjerkreim<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7665,7 +7683,7 @@
     <e><p><l>Block<s n="np"/><s n="top"/></l><r>Block<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Blom<s n="np"/><s n="top"/></l><r>Blom<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Blommenholm<s n="np"/><s n="top"/></l><r>Blommenholm<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Boca<s n="np"/><s n="top"/></l><r>Boca<b/>Juniors<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Boca<s n="np"/><s n="top"/></l><r>Boca<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bochum<s n="np"/><s n="top"/></l><r>Bochum<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bodin<s n="np"/><s n="top"/></l><r>Bodin<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bodø<s n="np"/><s n="top"/></l><r>Bodø<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7673,7 +7691,7 @@
     <e><p><l>Bokn<s n="np"/><s n="top"/></l><r>Bokn<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bolivia<s n="np"/><s n="top"/></l><r>Bolivia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bologna<s n="np"/><s n="top"/></l><r>Bologna<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Bolstadøyri<s n="np"/><s n="top"/></l><r>Bolstadøyri<b/>Station<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Bolstadøyri<s n="np"/><s n="top"/></l><r>Bolstadøyri<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bombay<s n="np"/><s n="top"/></l><r>Mumbai<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bonn<s n="np"/><s n="top"/></l><r>Bonn<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bordeaux<s n="np"/><s n="top"/></l><r>Bordeaux<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7699,7 +7717,7 @@
     <e><p><l>Braunschweig<s n="np"/><s n="top"/></l><r>Braunschweig<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Brava<s n="np"/><s n="top"/></l><r>Brava<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Brazzaville<s n="np"/><s n="top"/></l><r>Brazzaville<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Brecht<s n="np"/><s n="top"/></l><r>Bertolt<b/>Brecht<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Brecht<s n="np"/><s n="top"/></l><r>Brecht<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Breim<s n="np"/><s n="top"/></l><r>Breim<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Brekstad<s n="np"/><s n="top"/></l><r>Brekstad<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bremanger<s n="np"/><s n="top"/></l><r>Bremanger<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7741,7 +7759,7 @@
     <e><p><l>Bø<s n="np"/><s n="top"/></l><r>Bø<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bømlo<s n="np"/><s n="top"/></l><r>Bømlo<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bøn<s n="np"/><s n="top"/></l><r>Bön<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Børgefjell<s n="np"/><s n="top"/></l><r>Børgefjell<b/>National<b/>Park<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Børgefjell<s n="np"/><s n="top"/></l><r>Børgefjell<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Cadiz<s n="np"/><s n="top"/></l><r>Cadiz<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Caen<s n="np"/><s n="top"/></l><r>Caen<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Calais<s n="np"/><s n="top"/></l><r>Calais<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7781,14 +7799,14 @@
     <e><p><l>Conakry<s n="np"/><s n="top"/></l><r>Conakry<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Connecticut<s n="np"/><s n="top"/></l><r>Connecticut<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Corsica<s n="np"/><s n="top"/></l><r>Corsica<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Costa<s n="np"/><s n="top"/></l><r>Rib<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Costa<s n="np"/><s n="top"/></l><r>Costa<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Coventry<s n="np"/><s n="top"/></l><r>Coventry<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Cuba<s n="np"/><s n="top"/></l><r>Cuba<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Cuxhaven<s n="np"/><s n="top"/></l><r>Cuxhaven<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Dacca<s n="np"/><s n="top"/></l><r>Dhaka<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Dagali<s n="np"/><s n="top"/></l><r>Dagali<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Dakar<s n="np"/><s n="top"/></l><r>Dakar<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Dakota<s n="np"/><s n="top"/></l><r>Dakota<b/>Territory<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Dakota<s n="np"/><s n="top"/></l><r>Dakota<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Dalane<s n="np"/><s n="top"/></l><r>Dalane<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Dalby<s n="np"/><s n="top"/></l><r>Dalby<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Dale<s n="np"/><s n="top"/></l><r>Dale<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7797,7 +7815,7 @@
     <e><p><l>Damaskus<s n="np"/><s n="top"/></l><r>Damascus<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Danmark<s n="np"/><s n="top"/></l><r>Denmark<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Danzig<s n="np"/><s n="top"/></l><r>Gdańsk<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Dardanellene<s n="np"/><s n="top"/></l><r>Dardanelles<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Dardanellene<s n="np"/><s n="top"/></l><r>Dardanelles<s n="np"/><s n="top"/><s n="pl"/></r></p></e>
     <e><p><l>Degerfors<s n="np"/><s n="top"/></l><r>Degerfors<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Delaware<s n="np"/><s n="top"/></l><r>Delaware<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Delfi<s n="np"/><s n="top"/></l><r>Delphi<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7820,7 +7838,7 @@
     <e><p><l>Dominica<s n="np"/><s n="top"/></l><r>Dominica<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Don<s n="np"/><s n="top"/></l><r>Don<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Donau<s n="np"/><s n="top"/></l><r>Danube<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Donets<s n="np"/><s n="top"/></l><r>Seversky<b/>Donets<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Donets<s n="np"/><s n="top"/></l><r>Donets<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Dortmund<s n="np"/><s n="top"/></l><r>Dortmund<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Dover<s n="np"/><s n="top"/></l><r>Dover<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Dovre<s n="np"/><s n="top"/></l><r>Dovre<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7866,7 +7884,7 @@
     <e><p><l>Eindhoven<s n="np"/><s n="top"/></l><r>Eindhoven<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Ek<s n="np"/><s n="top"/></l><r>Oak<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Ekeberg<s n="np"/><s n="top"/></l><r>Ekeberg<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Ekofisk<s n="np"/><s n="top"/></l><r>Ekofisk<b/>Oil<b/>Field<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Ekofisk<s n="np"/><s n="top"/></l><r>Ekofisk<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Elf<s n="np"/><s n="top"/></l><r>Elf<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Elkem<s n="np"/><s n="top"/></l><r>Elkem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Elopak<s n="np"/><s n="top"/></l><r>Elopak<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7885,14 +7903,14 @@
     <e><p><l>Essex<s n="np"/><s n="top"/></l><r>Essex<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Estland<s n="np"/><s n="top"/></l><r>Estonia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Ethiopia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Etna<s n="np"/><s n="top"/></l><r>Mount<b/>Etna<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Etna<s n="np"/><s n="top"/></l><r>Etna<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Etne<s n="np"/><s n="top"/></l><r>Etne<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Etnedal<s n="np"/><s n="top"/></l><r>Etnedal<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Eufrat<s n="np"/><s n="top"/></l><r>Euphrates<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Europa<s n="np"/><s n="top"/></l><r>Europe<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Evanger<s n="np"/><s n="top"/></l><r>Evanger<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Evenes<s n="np"/><s n="top"/></l><r>Evenes<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Everest<s n="np"/><s n="top"/></l><r>Mount<b/>Everest<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Everest<s n="np"/><s n="top"/></l><r>Everest<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Evje<s n="np"/><s n="top"/></l><r>Evje<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Exeter<s n="np"/><s n="top"/></l><r>Exeter<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Eydehavn<s n="np"/><s n="top"/></l><r>Eydehavn<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7913,7 +7931,7 @@
     <e><p><l>Fevik<s n="np"/><s n="top"/></l><r>Fevik<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Fiji<s n="np"/><s n="top"/></l><r>Fiji<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Fijiøyene<s n="np"/><s n="top"/></l><r>Fiji<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Filippinene<s n="np"/><s n="top"/></l><r>Philippines<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Filippinene<s n="np"/><s n="top"/></l><r>Philippines<s n="np"/><s n="top"/><s n="pl"/></r></p></e>
     <e><p><l>Fillefjell<s n="np"/><s n="top"/></l><r>Filefjell<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Finland<s n="np"/><s n="top"/></l><r>Finland<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Finnmark<s n="np"/><s n="top"/></l><r>Finnmark<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7925,7 +7943,7 @@
     <e><p><l>Fiskå<s n="np"/><s n="top"/></l><r>Fiskå<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Fitjar<s n="np"/><s n="top"/></l><r>Fitjar<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Fjaler<s n="np"/><s n="top"/></l><r>Fjaler<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Fjell<s n="np"/><s n="top"/></l><r>Mountain<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Fjell<s n="np"/><s n="top"/></l><r>Fjell<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Flakstad<s n="np"/><s n="top"/></l><r>Flakstad<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Flatanger<s n="np"/><s n="top"/></l><r>Flatanger<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Flekkefjord<s n="np"/><s n="top"/></l><r>Flekkefjord<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7933,7 +7951,7 @@
     <e><p><l>Flensburg<s n="np"/><s n="top"/></l><r>Flensburg<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Flesberg<s n="np"/><s n="top"/></l><r>Flesberg<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Flesland<s n="np"/><s n="top"/></l><r>Flesland<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Flo<s n="np"/><s n="top"/></l><r>High<b/>Tide<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Flo<s n="np"/><s n="top"/></l><r>Flo<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Florida<s n="np"/><s n="top"/></l><r>Florida<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Florø<s n="np"/><s n="top"/></l><r>Florø<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Flå<s n="np"/><s n="top"/></l><r>Flå<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7959,7 +7977,7 @@
     <e><p><l>Fredrikstad<s n="np"/><s n="top"/></l><r>Fredrikstad<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Freetown<s n="np"/><s n="top"/></l><r>Freetown<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Frei<s n="np"/><s n="top"/></l><r>Frei<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Freiburg<s n="np"/><s n="top"/></l><r>Freiburg<b/>Im<b/>Breisgau<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Freiburg<s n="np"/><s n="top"/></l><r>Freiburg<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Frigg<s n="np"/><s n="top"/></l><r>Frigg<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Frogn<s n="np"/><s n="top"/></l><r>Frogn<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Froland<s n="np"/><s n="top"/></l><r>Froland<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7988,10 +8006,10 @@
     <e><p><l>Garborg<s n="np"/><s n="top"/></l><r>Garborg<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Gaular<s n="np"/><s n="top"/></l><r>Gaular<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Gausdal<s n="np"/><s n="top"/></l><r>Gausdal<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Gauss<s n="np"/><s n="top"/></l><r>Carl<b/>Friedrich<b/>Gauss<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Gauss<s n="np"/><s n="top"/></l><r>Gauss<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Gaustad<s n="np"/><s n="top"/></l><r>Gaustad<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Gaza<s n="np"/><s n="top"/></l><r>Gaza<b/>Strip<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Gdansk<s n="np"/><s n="top"/></l><r>GdańSk<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Gdansk<s n="np"/><s n="top"/></l><r>Gdańsk<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Gdynia<s n="np"/><s n="top"/></l><r>Gdynia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Geilo<s n="np"/><s n="top"/></l><r>Geilo<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Geiranger<s n="np"/><s n="top"/></l><r>Geiranger<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -8024,9 +8042,9 @@
     <e><p><l>Gol<s n="np"/><s n="top"/></l><r>Gol<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Golanhøydene<s n="np"/><s n="top"/></l><r>Golan<b/>Heights<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Golgata<s n="np"/><s n="top"/></l><r>Calvary<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Gorbatsjov<s n="np"/><s n="top"/></l><r>Mikhail<b/>Gorbachev<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Gorbatsjov<s n="np"/><s n="top"/></l><r>Gorbachev<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Gotland<s n="np"/><s n="top"/></l><r>Gotland<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Gran<s n="np"/><s n="top"/></l><r>Picea<b/>Abies<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Gran<s n="np"/><s n="top"/></l><r>Gran<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Grane<s n="np"/><s n="top"/></l><r>Grane<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Gransherad<s n="np"/><s n="top"/></l><r>Gransherad<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Granvin<s n="np"/><s n="top"/></l><r>Granvin<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -8060,7 +8078,7 @@
     <e><p><l>Haag<s n="np"/><s n="top"/></l><r>The<b/>Hague<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Haakonsvern<s n="np"/><s n="top"/></l><r>Haakonsvern<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Haaland<s n="np"/><s n="top"/></l><r>Haaland<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Habsburg<s n="np"/><s n="top"/></l><r>House<b/>of<b/>Habsburg<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Habsburg<s n="np"/><s n="top"/></l><r>Habsburg<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hadeland<s n="np"/><s n="top"/></l><r>Hadeland<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hadsel<s n="np"/><s n="top"/></l><r>Hadsel<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hafjell<s n="np"/><s n="top"/></l><r>Hafjell<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -8081,7 +8099,7 @@
     <e><p><l>Hamarøy<s n="np"/><s n="top"/></l><r>Hamarøy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hamburg<s n="np"/><s n="top"/></l><r>Hamburg<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hammerfest<s n="np"/><s n="top"/></l><r>Hammerfest<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Hamsun<s n="np"/><s n="top"/></l><r>Knut<b/>Hamsun<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Hamsun<s n="np"/><s n="top"/></l><r>Hamsun<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hannover<s n="np"/><s n="top"/></l><r>Hanover<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hanoi<s n="np"/><s n="top"/></l><r>Hanoi<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hansa<s n="np"/><s n="top"/></l><r>Hanseatic<b/>League<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -8089,13 +8107,13 @@
     <e><p><l>Haram<s n="np"/><s n="top"/></l><r>Haram<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Harare<s n="np"/><s n="top"/></l><r>Harare<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hardanger<s n="np"/><s n="top"/></l><r>Hardanger<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Hare<s n="np"/><s n="top"/></l><r>Mountain<b/>Hare<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Hare<s n="np"/><s n="top"/></l><r>Hare<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Harstad<s n="np"/><s n="top"/></l><r>Harstad<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Haslum<s n="np"/><s n="top"/></l><r>Haslum<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hastings<s n="np"/><s n="top"/></l><r>Hastings<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hasvik<s n="np"/><s n="top"/></l><r>Hasvik<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hattfjelldal<s n="np"/><s n="top"/></l><r>Hattfjelldal<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Haugastøl<s n="np"/><s n="top"/></l><r>Haugastøl<b/>Station<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Haugastøl<s n="np"/><s n="top"/></l><r>Haugastøl<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hauge<s n="np"/><s n="top"/></l><r>Hauge<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Haugerud<s n="np"/><s n="top"/></l><r>Haugerud<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Haugesund<s n="np"/><s n="top"/></l><r>Haugesund<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -8103,7 +8121,7 @@
     <e><p><l>Havanna<s n="np"/><s n="top"/></l><r>Havana<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Havøysund<s n="np"/><s n="top"/></l><r>Havøysund<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hawaii<s n="np"/><s n="top"/></l><r>Hawaii<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Heathrow<s n="np"/><s n="top"/></l><r>London<b/>Heathrow<b/>Airport<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Heathrow<s n="np"/><s n="top"/></l><r>Heathrow<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hebridene<s n="np"/><s n="top"/></l><r>Hebrides<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Heddal<s n="np"/><s n="top"/></l><r>Heddal<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Hedmark<s n="np"/><s n="top"/></l><r>Hedmark<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -8619,7 +8637,7 @@
     <e><p><l>Motala<s n="np"/><s n="top"/></l><r>Motala<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Mujahedin<s n="np"/><s n="top"/></l><r>Mujahideen<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Myklebost<s n="np"/><s n="top"/></l><r>Myklebost<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Myrdal<s n="np"/><s n="top"/></l><r>Myrdal<b/>Station<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Myrdal<s n="np"/><s n="top"/></l><r>Myrdal<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Målselv<s n="np"/><s n="top"/></l><r>Målselv<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Måsøy<s n="np"/><s n="top"/></l><r>Måsøy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>México<s n="np"/><s n="top"/></l><r>Mexico<s n="np"/><s n="top"/><s n="sg"/></r></p></e>

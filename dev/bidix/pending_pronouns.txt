@@ -1,5 +1,0 @@
-      1 ^@volleyball<n>$  ^prpers<prn><subj><p2><mf>$
-      1 ^@sak<n>$  ^prpers<prn><subj><p3><nt>$
-      1 ^@sak<n>$  ^prpers<prn><subj><p3><m>$
-      1 ^prpers<prn><subj><p3><m>$    ^@morten<np>$
-      1 ^@kultur<n>$  ^prpers<prn><subj><p3><nt>$

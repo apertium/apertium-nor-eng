@@ -146,14 +146,16 @@
           <when>
             <test>
               <not>
-                <equal>
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <lit-tag v="num.ord"/>
-                </equal>
-                <equal>
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <lit-tag v="det.qnt"/>
-                </equal>
+                <or>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_adj"/>
+                    <lit-tag v="num.ord"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_adj"/>
+                    <lit-tag v="det.qnt"/>
+                  </equal>
+                </or>
               </not>
             </test>
             <let>

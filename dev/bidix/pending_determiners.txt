@@ -1,13 +1,13 @@
-   8608 ^@denne<det><dem><m>$
+   8610 ^@denne<det><dem><m>$
    5685 ^@ingen<det><qnt>$
-   3800 ^@denne<det><dem>$
+   3797 ^@denne<det><dem>$
    2837 ^@egen<det><emph><m>$
    1848 ^@dere<det><pos>$
    1811 ^@slik<det><dem>$
    1604 ^@begge<det><qnt>$
-   1541 ^@Ingen<det><qnt>$
-   1488 ^@neste<det><dem><m><sp><def>$
+   1548 ^@Ingen<det><qnt>$
    1487 ^@egen<det><emph><nt>$
+   1477 ^@neste<det><dem><m><sp><def>$
    1338 ^@så mange<det><qnt><unc>$
    1269 ^@de fleste<det><qnt>$
    1222 ^@slik<det><dem><nt>$
@@ -16,13 +16,13 @@
     861 ^@så mange<det><qnt>$
     815 ^@ni<det><qnt>$
     789 ^@hvilken<det><itg>$
-    766 ^@egen<det><emph>$
+    763 ^@egen<det><emph>$
     590 ^@ti<det><qnt>$
     590 ^@hvilken<det><itg><m>$
     539 ^@samtlige<det><qnt>$
     529 ^@selv<det><emph><def>$
-    526 ^@Begge<det><qnt>$
-    457 ^@De fleste<det><qnt>$
+    529 ^@Begge<det><qnt>$
+    459 ^@De fleste<det><qnt>$
     454 ^@million<det><qnt>$
     435 ^@enhver<det><qnt><m>$
     357 ^@hvor mange<det><qnt><unc>$
@@ -43,8 +43,8 @@
     128 ^@Hvilken<det><itg><m>$
     124 ^@halvannen<det><qnt><nt>$
     106 ^@milliard<det><qnt>$
+     99 ^@Selv<det><emph><def>$
      99 ^@Hvor mange<det><qnt>$
-     98 ^@Selv<det><emph><def>$
      92 ^@Ni<det><qnt>$
      83 ^@enhver<det><qnt><nt>$
      81 ^@en slags<det><qnt><nt>$
@@ -53,15 +53,16 @@
      74 ^@Hvor mange<det><qnt><unc>$
      70 ^@Forrige<det><dem><m><sp><def>$
      64 ^@Ingen<det><qnt><nt>$
+     61 ^@Neste<det><dem><m><sp><def>$
      59 ^@Enhver<det><qnt><m>$
      58 ^@sånn<det><dem>$
      44 ^@tyve<det><qnt>$
-     39 ^@Ingen<det><qnt><f>$
+     40 ^@Ingen<det><qnt><f>$
      34 ^@tredve<det><qnt>$
      31 ^@Så mange<det><qnt><unc>$
      30 ^@null<det><qnt>$
      28 ^@INGEN<det><qnt>$
-     25 ^@Syv<det><qnt>$
+     26 ^@Syv<det><qnt>$
      24 ^@Sånn<det><dem><nt>$
      24 ^@Egen<det><emph><nt>$
      23 ^@nitti<det><qnt>$
@@ -71,7 +72,6 @@
      18 ^@Denne<det><dem>$
      16 ^@sådan<det><dem>$
      15 ^@En slags<det><qnt><m>$
-     14 ^@Neste<det><dem><m><sp><def>$
      13 ^@Million<det><qnt>$
      12 ^@sådan<det><dem><nt>$
      12 ^@hin<det><dem><nt>$
@@ -92,43 +92,22 @@
       4 ^@MILLION<det><qnt>$
       4 ^@ingen<det><qnt><f>$
       3 ^@Tyve<det><qnt>$
-      3 ^.<sent>$  ^@Ingen<det><qnt>$
-      3 ^.<sent>$  ^@Begge<det><qnt>$
       3 ^@NI<det><qnt>$
       3 ^@En eller annen<det><qnt><nt>$
       3 ^@en eller annen<det><qnt><f>$
       3 ^@EGEN<det><emph><nt>$
-      2 ^:<sent>$  ^@Ingen<det><qnt>$
       2 ^@Selv<det><emph>$
       2 ^@MILLIARD<det><qnt>$
       2 ^@Milliard<det><qnt>$
       2 ^@hin<det><dem>$
       2 ^@Halvannen<det><qnt><nt>$
       1 ^@TI<det><qnt>$
-      1 ^store<n>$  ^@Ingen<det><qnt>$
-      1 ^.<sent>$  ^@Syv<det><qnt>$
-      1 ^.<sent>$  ^@Selv<det><emph><def>$
-      1 ^.<sent>$  ^@Ingen<det><qnt><f>$
-      1 ^.<sent>$  ^@De fleste<det><qnt>$
-      1 ^:<sent>$  ^@De fleste<det><qnt>$
       1 ^@SELV<det><emph><def>$
-      1 ^@Sak<n>$  ^That<det><dem>$
-      1 ^@sak<n>$  ^That<det><dem>$
       1 ^@Sådan<det><dem>$
-      1 ^@Olaussen<np>$  ^Other<det><ind><f><ind>$
       1 ^@NULL<det><qnt>$
       1 ^@Null<det><qnt>$
-      1 ^@lovverk<n>$     ^A<det><ind>$
-      1 ^@kreditor<n>$  ^A<det><ind>$
       1 ^@hin<det><dem><m>$
-      1 ^@Folkeskikk<n>$  ^Many<det><qnt>$
-      1 ^@Erstad<np><top>$  ^Same<det><ind><m><sp><def>$
       1 ^@ENHVER<det><qnt><m>$
       1 ^@Egen<det><emph>$
       1 ^@denne<det><dem><gen>$
-      1 ^@damefotball<n>$  ^@Ingen<det><qnt>$
-      1 ^80<num><ord>$  ^@Neste<det><dem><m><sp><def>$
-      1 ^40<num><ord>$  ^@Neste<det><dem><m><sp><def>$
-      1 ^20<num><ord>$  ^@Neste<det><dem><m><sp><def>$
-      1 ^200<num><ord>$  ^@Neste<det><dem><m><sp><def>$
-      1 ^1<num><ord>$  ^@Neste<det><dem><m><sp><def>$
+      1 ^@DENNE<det><dem>$
