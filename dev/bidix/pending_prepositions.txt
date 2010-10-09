@@ -1,7 +1,5 @@
   15144 ^@som<pr>$
-   2730 ^@om<pr>$
    1851 ^@mot<pr>$
-   1703 ^@etter<pr>$
    1674 ^@ut<pr>$
    1515 ^@ved<pr>$
    1133 ^@bort<pr>$
@@ -21,7 +19,6 @@
     375 ^@enn<pr>$
     374 ^@gjennom<pr>$
     358 ^@før<pr>$
-    293 ^@mellom<pr>$
     252 ^@a<pr>$
     248 ^@borte<pr>$
     237 ^@rundt<pr>$
@@ -33,7 +30,6 @@
     152 ^@ned i<pr>$
     149 ^@her<pr>$
     121 ^@unna<pr>$
-    119 ^@ut over<pr>$
     113 ^@utenfor<pr>$
     113 ^@opp på<pr>$
     108 ^@iblant<pr>$

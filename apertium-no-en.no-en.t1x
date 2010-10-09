@@ -37,6 +37,7 @@
       <attr-item tags="adj"/>
       <attr-item tags="adj.sint"/>
       <attr-item tags="adj.ord"/>
+      <attr-item tags="det.qnt"/> <!-- mange -->
     </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
@@ -47,6 +48,11 @@
     <def-attr n="a_nom">
       <attr-item tags="n"/>
       <attr-item tags="np"/>
+      <attr-item tags="np.al"/>
+      <attr-item tags="np.top"/>
+      <attr-item tags="np.cog"/>
+      <attr-item tags="np.ant"/>
+      <attr-item tags="np.org"/>
     </def-attr>
     <def-attr n="grau">
       <attr-item tags="comp"/>
@@ -81,6 +87,7 @@
       <attr-item tags="past"/>
       <attr-item tags="pret"/>
       <attr-item tags="inf"/>
+      <attr-item tags="imp"/>
     </def-attr>
   </section-def-attrs>
 
@@ -88,6 +95,7 @@
     <def-var n="number"/>
     <def-var n="case"/>
     <def-var n="genere"/>
+    <def-var n="np_q"/>
   </section-def-vars>
 
   <section-rules>
@@ -99,6 +107,22 @@
         <pattern-item n="adjec"/>
       </pattern>
       <action>
+        <choose>
+          <when>
+            <test>
+              <not>
+                <equal>
+                  <clip pos="1" side="tl" part="a_adj"/>
+                  <lit-tag v="det.qnt"/>
+                </equal>
+              </not>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="nbr"/>
+              <lit v=""/>
+            </let>
+          </when>
+        </choose>
         <out>
           <chunk name="adj" case="caseFirstWord">
             <tags>
@@ -108,6 +132,7 @@
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_adj"/>
               <clip pos="1" side="tl" part="grau"/>
+              <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -120,22 +145,61 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
+        <let>
+          <var n="np_q"/>
+          <lit v=""/>
+        </let>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="a_nom"/>
+                <lit-tag v="np.ant"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="gen"/>
+              <lit v=""/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="case"/>
+                <lit-tag v="gen"/>
+              </equal>
+            </test>
+            <let>
+              <var n="np_q"/>
+              <concat>
+                <lit v="$^'s"/>
+                <lit-tag v="gen"/>
+              </concat>
+            </let>
+          </when>
+        </choose>
         <out>
           <chunk name="nom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><clip pos="1" side="tl" part="gen"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
-              <tag><lit-tag v="nom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="gen"/>
               <clip pos="1" side="tl" part="nbr" link-to="2"/>
               <clip pos="1" side="tl" part="lemq"/>
+              <var n="np_q"/>
             </lu>
           </chunk>
         </out>
+        <let>
+          <var n="np_q"/>
+          <lit v=""/>
+        </let>
       </action>
     </rule>
 

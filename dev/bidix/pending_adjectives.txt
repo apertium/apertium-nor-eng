@@ -1,4 +1,3 @@
-    501 ^@mange<adj>$
     486 ^@mye<adj><comp>$
     348 ^@evig<adj>$
     299 ^@rettferdig<adj>$
@@ -28,7 +27,6 @@
      72 ^@øvre<adj><sup>$
      71 ^@inderlig<adj>$
      67 ^@vill<adj>$
-     67 ^@mange<adj><comp>$
      65 ^@herlig<adj>$
      63 ^@tie<adj>$
      62 ^@naken<adj>$
@@ -68,7 +66,6 @@
      33 ^@villig<adj>$
      33 ^@uskyldig<adj>$
      33 ^@niende<adj><ord>$
-     33 ^@fruktbar<adj>$
      32 ^@rolig<adj>$
      32 ^@ligge<adj>$
      31 ^@sikker<adj>$
@@ -126,7 +123,6 @@
      17 ^@tåpelig<adj>$
      17 ^@tålmodig<adj>$
      17 ^@stygg<adj>$
-     17 ^@grønn<adj>$
      17 ^@dyrebar<adj>$
      16 ^@voldsom<adj>$
      16 ^@umulig<adj>$
@@ -156,7 +152,6 @@
      13 ^@forskjellig<adj>$
      13 ^@firkantet<adj>$
      12 ^@være<adj>$
-     12 ^@riktig<adj>$
      12 ^@nødvendig<adj>$
      12 ^@nær<adj><sup>$
      12 ^@lav<adj>$
@@ -167,7 +162,6 @@
      11 ^@trette<adj>$
      11 ^@stråle<adj>$
      11 ^@romersk<adj>$
-     11 ^@mange<adj><sup>$
      11 ^@løpe<adj>$
      11 ^@fortære<adj>$
      11 ^@dødelig<adj>$
@@ -283,7 +277,6 @@
       4 ^@sprekke<adj>$
       4 ^@sindig<adj>$
       4 ^@rask<adj><comp>$
-      4 ^@rå<adj>$
       4 ^@oppmerksom<adj>$
       4 ^@ødelagt<adj>$
       4 ^@nøye<adj><comp>$

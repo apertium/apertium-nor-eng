@@ -1,9 +1,3 @@
-   7519 ^@de<prn><subj><p3><mf>$
-   7004 ^@dere<prn><subj><p2><mf>$
-   6487 ^@du<prn><subj><p2><mf>$
-   4094 ^@du<prn><obj><p2><mf>$
-   3500 ^@de<prn><obj><p3><mf>$
-   1284 ^@de<prn><subj><p2><mf>$
     932 ^@hva<prn><itg>$
     847 ^@denne<prn><subj><p3><nt>$
     809 ^@noe<prn><subj><p3>$
@@ -13,4 +7,3 @@
     514 ^@hvem<prn><itg>$
     210 ^@hverandre<prn><res>$
     166 ^@denne<prn><subj><p3><m>$
-      2 ^@du<prn><obj><p2><mf>$ 

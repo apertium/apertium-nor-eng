@@ -1,425 +1,78 @@
-   2602 ^@den<det><dem><m>$
    2343 ^@den<det><dem>$
-   2119 ^@du<det><pos><m>$
    1905 ^@dere<det><pos>$
    1268 ^@seg<det><pos><m>$
-   1258 ^@2<det><qnt>$
-   1248 ^@3<det><qnt>$
-   1231 ^@4<det><qnt>$
-   1222 ^@5<det><qnt>$
-   1215 ^@den<det><dem><nt>$
    1211 ^@Den<det><dem>$
-   1204 ^@6<det><qnt>$
-   1190 ^@7<det><qnt>$
-   1181 ^@8<det><qnt>$
-   1169 ^@9<det><qnt>$
-   1169 ^@10<det><qnt>$
-   1131 ^@11<det><qnt>$
-   1116 ^@12<det><qnt>$
-   1079 ^@13<det><qnt>$
-   1047 ^@14<det><qnt>$
    1029 ^@han<det><pos>$
-   1028 ^@du<det><pos>$
-    999 ^@15<det><qnt>$
-    969 ^@16<det><qnt>$
-    943 ^@17<det><qnt>$
-    936 ^@Den<det><dem><m>$
-    921 ^@jeg<det><pos><nt>$
     900 ^@ingen<det><qnt>$
-    895 ^@18<det><qnt>$
-    862 ^@jeg<det><pos><m>$
-    843 ^@19<det><qnt>$
-    826 ^@20<det><qnt>$
-    817 ^@du<det><pos><nt>$
-    789 ^@21<det><qnt>$
-    748 ^@Den<det><dem><nt>$
-    740 ^@22<det><qnt>$
-    680 ^@23<det><qnt>$
-    662 ^@to<det><qnt>$
-    637 ^@24<det><qnt>$
     596 ^@hver<det><qnt><m>$
-    592 ^@25<det><qnt>$
     583 ^@seg<det><pos>$
-    546 ^@26<det><qnt>$
-    542 ^@jeg<det><pos>$
-    515 ^@27<det><qnt>$
     504 ^@denne<det><dem><m>$
     497 ^@samme<det><dem><m><sp><def>$
-    475 ^@28<det><qnt>$
     451 ^@seg<det><pos><nt>$
-    444 ^@29<det><qnt>$
     429 ^@denne<det><dem>$
-    410 ^@30<det><qnt>$
-    376 ^@31<det><qnt>$
-    374 ^@sju<det><qnt>$
-    343 ^@32<det><qnt>$
-    311 ^@33<det><qnt>$
     307 ^@én<det><qnt><m>$
     290 ^@hundre<det><qnt>$
-    281 ^@34<det><qnt>$
-    253 ^@35<det><qnt>$
-    230 ^@36<det><qnt>$
     215 ^@noe<det><qnt>$
-    214 ^@37<det><qnt>$
-    211 ^@fem<det><qnt>$
     206 ^@hun<det><pos>$
-    192 ^@38<det><qnt>$
     184 ^@Ingen<det><qnt>$
-    180 ^@vi<det><pos>$
-    175 ^@39<det><qnt>$
     173 ^@hver<det><qnt><nt>$
     173 ^@egen<det><emph><nt>$
     173 ^@egen<det><emph><m>$
-    168 ^@tolv<det><qnt>$
-    165 ^@40<det><qnt>$
     155 ^@begge<det><qnt>$
     152 ^@Hver<det><qnt><m>$
     149 ^@noe<det><qnt><nt>$
-    144 ^@42<det><qnt>$
-    144 ^@41<det><qnt>$
-    129 ^@43<det><qnt>$
-    128 ^@1<det><qnt>$
-    115 ^@Du<det><pos><m>$
-    115 ^@44<det><qnt>$
     114 ^@tjue<det><qnt>$
-    110 ^@seks<det><qnt>$
-    110 ^@45<det><qnt>$
-    101 ^@46<det><qnt>$
-     99 ^@vi<det><pos><nt>$
      98 ^@den<det><pos>$
      97 ^@de<det><pos><p2>$
      95 ^@slik<det><dem><nt>$
-     95 ^@femti<det><qnt>$
-     94 ^@Du<det><pos>$
-     92 ^@førti<det><qnt>$
-     92 ^@47<det><qnt>$
-     89 ^@fire<det><qnt>$
-     84 ^@tretti<det><qnt>$
-     84 ^@100<det><qnt>$
-     82 ^@vi<det><pos><m>$
-     82 ^@48<det><qnt>$
      79 ^@slik<det><dem>$
-     78 ^@49<det><qnt>$
-     76 ^@50<det><qnt>$
-     74 ^@800<det><qnt>$
-     70 ^@0<det><qnt>$
      69 ^@Denne<det><dem><m>$
      68 ^@Noe<det><qnt>$
-     64 ^@51<det><qnt>$
      63 ^@Forrige<det><dem><m><sp><def>$
      62 ^@én<det><qnt><nt>$
-     61 ^@52<det><qnt>$
      58 ^@egen<det><emph>$
      57 ^@enhver<det><qnt><m>$
-     55 ^@Jeg<det><pos>$
-     54 ^@53<det><qnt>$
      53 ^@Denne<det><dem>$
-     52 ^@000<det><qnt>$
      50 ^@Han<det><pos>$
-     49 ^@54<det><qnt>$
-     48 ^@Jeg<det><pos><m>$
-     46 ^@Jeg<det><pos><nt>$
      44 ^@Hver<det><qnt><nt>$
      40 ^@sytti<det><qnt>$
      40 ^@Samme<det><dem><m><sp><def>$
-     40 ^@55<det><qnt>$
-     39 ^@56<det><qnt>$
-     36 ^@57<det><qnt>$
      34 ^@Enhver<det><qnt><m>$
-     33 ^@70<det><qnt>$
      32 ^@hvilken<det><itg><m>$
-     30 ^@58<det><qnt>$
      29 ^@ti<det><qnt>$
-     29 ^@60<det><qnt>$
-     29 ^@59<det><qnt>$
-     28 ^@seksti<det><qnt>$
-     28 ^@62<det><qnt>$
-     27 ^@To<det><qnt>$
-     27 ^@fjorten<det><qnt>$
-     27 ^@Du<det><pos><nt>$
      26 ^@selv<det><emph><def>$
      25 ^@Én<det><qnt><m>$
-     25 ^@61<det><qnt>$
      22 ^@Hun<det><pos>$
      22 ^@hin<det><dem><m>$
-     22 ^@elleve<det><qnt>$
-     22 ^@63<det><qnt>$
      20 ^@Noe<det><qnt><nt>$
-     20 ^@65<det><qnt>$
-     20 ^@64<det><qnt>$
-     20 ^@500<det><qnt>$
-     19 ^@Sju<det><qnt>$
      19 ^@neste<det><dem><m><sp><def>$
-     18 ^@Seks<det><qnt>$
      18 ^@det<det><pos>$
-     18 ^@åtte<det><qnt>$
-     18 ^@66<det><qnt>$
-     18 ^@130<det><qnt>$
-     17 ^@seksten<det><qnt>$
      17 ^@ni<det><qnt>$
      17 ^@åtti<det><qnt>$
-     17 ^@atten<det><qnt>$
-     17 ^@400<det><qnt>$
-     16 ^@femten<det><qnt>$
      15 ^@tretten<det><qnt>$
      15 ^@Seg<det><pos><m>$
      15 ^@ingen<det><qnt><nt>$
      15 ^@forrige<det><dem><m><sp><def>$
      15 ^@Begge<det><qnt>$
-     15 ^@600<det><qnt>$
-     14 ^@Fem<det><qnt>$
-     14 ^@67<det><qnt>$
      13 ^@Hvilken<det><itg><m>$
-     13 ^@200<det><qnt>$
      12 ^@hvilken<det><itg><nt>$
-     12 ^@69<det><qnt>$
-     12 ^@68<det><qnt>$
-     11 ^@72<det><qnt>$
-     11 ^@71<det><qnt>$
      10 ^@hvilken<det><itg>$
      10 ^@en eller annen<det><qnt><m>$
-     10 ^@74<det><qnt>$
       9 ^@Slik<det><dem>$
-      9 ^@80<det><qnt>$
-      9 ^@120<det><qnt>$
       8 ^@Slik<det><dem><nt>$
       8 ^@Hvilken<det><itg><nt>$
-      7 ^@Vi<det><pos>$
       7 ^@sytten<det><qnt>$
-      7 ^@75<det><qnt>$
-      7 ^@73<det><qnt>$
-      6 ^@Vi<det><pos><nt>$
-      6 ^@77<det><qnt>$
-      6 ^@300<det><qnt>$
-      6 ^@144<det><qnt>$
-      6 ^@128<det><qnt>$
-      6 ^@127<det><qnt>$
       5 ^@Selv<det><emph><def>$
       5 ^@seg<det><pos><f>$
       5 ^@nitti<det><qnt>$
       5 ^@en eller annen<det><qnt><nt>$
       5 ^@Den<det><pos>$
-      5 ^@98<det><qnt>$
-      5 ^@79<det><qnt>$
-      5 ^@76<det><qnt>$
-      5 ^@137<det><qnt>$
-      5 ^@112<det><qnt>$
-      5 ^@110<det><qnt>$
-      4 ^@Tolv<det><qnt>$
       4 ^@Hundre<det><qnt>$
-      4 ^@99<det><qnt>$
-      4 ^@86<det><qnt>$
-      4 ^@81<det><qnt>$
-      4 ^@78<det><qnt>$
-      4 ^@700<det><qnt>$
-      4 ^@666<det><qnt>$
-      4 ^@430<det><qnt>$
-      4 ^@1254<det><qnt>$
-      4 ^@123<det><qnt>$
       3 ^@Tjue<det><qnt>$
       3 ^@Sytti<det><qnt>$
-      3 ^@Fire<det><qnt>$
-      3 ^@Femti<det><qnt>$
-      3 ^@96<det><qnt>$
-      3 ^@95<det><qnt>$
-      3 ^@90<det><qnt>$
-      3 ^@89<det><qnt>$
-      3 ^@88<det><qnt>$
-      3 ^@87<det><qnt>$
-      3 ^@84<det><qnt>$
-      3 ^@82<det><qnt>$
-      3 ^@775<det><qnt>$
-      3 ^@760<det><qnt>$
-      3 ^@730<det><qnt>$
-      3 ^@650<det><qnt>$
-      3 ^@603<det><qnt>$
-      3 ^@550<det><qnt>$
-      3 ^@245<det><qnt>$
-      3 ^@150<det><qnt>$
-      3 ^@147<det><qnt>$
-      3 ^@139<det><qnt>$
-      3 ^@138<det><qnt>$
-      3 ^@122<det><qnt>$
-      3 ^@119<det><qnt>$
-      3 ^@105<det><qnt>$
-      3 ^@1000<det><qnt>$
-      2 ^@Tretti<det><qnt>$
       2 ^@nitten<det><qnt>$
       2 ^@Hvilken<det><itg>$
-      2 ^@Førti<det><qnt>$
-      2 ^@Fjorten<det><qnt>$
-      2 ^@Elleve<det><qnt>$
-      2 ^@97<det><qnt>$
-      2 ^@973<det><qnt>$
-      2 ^@94<det><qnt>$
-      2 ^@93<det><qnt>$
-      2 ^@85<det><qnt>$
-      2 ^@83<det><qnt>$
-      2 ^@750<det><qnt>$
-      2 ^@743<det><qnt>$
-      2 ^@736<det><qnt>$
-      2 ^@7337<det><qnt>$
-      2 ^@675<det><qnt>$
-      2 ^@6720<det><qnt>$
-      2 ^@652<det><qnt>$
-      2 ^@642<det><qnt>$
-      2 ^@621<det><qnt>$
-      2 ^@601<det><qnt>$
-      2 ^@450<det><qnt>$
-      2 ^@435<det><qnt>$
-      2 ^@403<det><qnt>$
-      2 ^@392<det><qnt>$
-      2 ^@372<det><qnt>$
-      2 ^@365<det><qnt>$
-      2 ^@360<det><qnt>$
-      2 ^@345<det><qnt>$
-      2 ^@337<det><qnt>$
-      2 ^@320<det><qnt>$
-      2 ^@273<det><qnt>$
-      2 ^@250<det><qnt>$
-      2 ^@223<det><qnt>$
-      2 ^@220<det><qnt>$
-      2 ^@2172<det><qnt>$
-      2 ^@185<det><qnt>$
-      2 ^@180<det><qnt>$
-      2 ^@175<det><qnt>$
-      2 ^@172<det><qnt>$
-      2 ^@162<det><qnt>$
-      2 ^@160<det><qnt>$
-      2 ^@157<det><qnt>$
-      2 ^@156<det><qnt>$
-      2 ^@153<det><qnt>$
-      2 ^@151<det><qnt>$
-      2 ^@148<det><qnt>$
-      2 ^@146<det><qnt>$
-      2 ^@142<det><qnt>$
-      2 ^@140<det><qnt>$
-      2 ^@136<det><qnt>$
-      2 ^@134<det><qnt>$
-      2 ^@133<det><qnt>$
-      2 ^@131<det><qnt>$
-      2 ^@126<det><qnt>$
-      2 ^@1260<det><qnt>$
-      2 ^@125<det><qnt>$
-      2 ^@124<det><qnt>$
-      2 ^@1247<det><qnt>$
-      2 ^@121<det><qnt>$
-      2 ^@118<det><qnt>$
-      2 ^@117<det><qnt>$
-      2 ^@116<det><qnt>$
-      2 ^@114<det><qnt>$
-      2 ^@113<det><qnt>$
-      2 ^@111<det><qnt>$
-      2 ^@108<det><qnt>$
-      2 ^@107<det><qnt>$
-      2 ^@106<det><qnt>$
-      2 ^@1052<det><qnt>$
-      2 ^@104<det><qnt>$
-      2 ^@103<det><qnt>$
-      2 ^@101<det><qnt>$
-      2 ^@1017<det><qnt>$
-      1 ^@Seksti<det><qnt>$
       1 ^@Seg<det><pos>$
       1 ^@Neste<det><dem><m><sp><def>$
-      1 ^@Femten<det><qnt>$
       1 ^@Enhver<det><qnt><nt>$
       1 ^@enhver<det><qnt><nt>$
-      1 ^@Atten<det><qnt>$
-      1 ^@969<det><qnt>$
-      1 ^@962<det><qnt>$
-      1 ^@950<det><qnt>$
-      1 ^@945<det><qnt>$
-      1 ^@930<det><qnt>$
-      1 ^@92<det><qnt>$
-      1 ^@928<det><qnt>$
-      1 ^@91<det><qnt>$
-      1 ^@912<det><qnt>$
-      1 ^@910<det><qnt>$
-      1 ^@905<det><qnt>$
-      1 ^@895<det><qnt>$
-      1 ^@845<det><qnt>$
-      1 ^@840<det><qnt>$
-      1 ^@832<det><qnt>$
-      1 ^@830<det><qnt>$
-      1 ^@822<det><qnt>$
-      1 ^@815<det><qnt>$
-      1 ^@807<det><qnt>$
-      1 ^@782<det><qnt>$
-      1 ^@777<det><qnt>$
-      1 ^@745<det><qnt>$
-      1 ^@725<det><qnt>$
-      1 ^@721<det><qnt>$
-      1 ^@667<det><qnt>$
-      1 ^@655<det><qnt>$
-      1 ^@648<det><qnt>$
-      1 ^@630<det><qnt>$
-      1 ^@628<det><qnt>$
-      1 ^@623<det><qnt>$
-      1 ^@595<det><qnt>$
-      1 ^@580<det><qnt>$
-      1 ^@5400<det><qnt>$
-      1 ^@530<det><qnt>$
-      1 ^@5000<det><qnt>$
-      1 ^@480<det><qnt>$
-      1 ^@468<det><qnt>$
-      1 ^@454<det><qnt>$
-      1 ^@410<det><qnt>$
-      1 ^@3930<det><qnt>$
-      1 ^@3630<det><qnt>$
-      1 ^@350<det><qnt>$
-      1 ^@328<det><qnt>$
-      1 ^@324<det><qnt>$
-      1 ^@323<det><qnt>$
-      1 ^@318<det><qnt>$
-      1 ^@307<det><qnt>$
-      1 ^@284<det><qnt>$
-      1 ^@2818<det><qnt>$
-      1 ^@2812<det><qnt>$
-      1 ^@276<det><qnt>$
-      1 ^@242<det><qnt>$
-      1 ^@2322<det><qnt>$
-      1 ^@2200<det><qnt>$
-      1 ^@218<det><qnt>$
-      1 ^@209<det><qnt>$
-      1 ^@207<det><qnt>$
-      1 ^@2067<det><qnt>$
-      1 ^@205<det><qnt>$
-      1 ^@2056<det><qnt>$
-      1 ^@2000<det><qnt>$
-      1 ^@188<det><qnt>$
-      1 ^@187<det><qnt>$
-      1 ^@186<det><qnt>$
-      1 ^@182<det><qnt>$
-      1 ^@176<det><qnt>$
-      1 ^@174<det><qnt>$
-      1 ^@173<det><qnt>$
-      1 ^@171<det><qnt>$
-      1 ^@170<det><qnt>$
-      1 ^@169<det><qnt>$
-      1 ^@168<det><qnt>$
-      1 ^@167<det><qnt>$
-      1 ^@166<det><qnt>$
-      1 ^@165<det><qnt>$
-      1 ^@164<det><qnt>$
-      1 ^@163<det><qnt>$
-      1 ^@161<det><qnt>$
-      1 ^@1600<det><qnt>$
-      1 ^@159<det><qnt>$
-      1 ^@158<det><qnt>$
-      1 ^@155<det><qnt>$
-      1 ^@154<det><qnt>$
-      1 ^@152<det><qnt>$
-      1 ^@149<det><qnt>$
-      1 ^@145<det><qnt>$
-      1 ^@143<det><qnt>$
-      1 ^@141<det><qnt>$
-      1 ^@135<det><qnt>$
-      1 ^@1335<det><qnt>$
-      1 ^@132<det><qnt>$
-      1 ^@129<det><qnt>$
-      1 ^@1290<det><qnt>$
-      1 ^@1222<det><qnt>$
-      1 ^@115<det><qnt>$
-      1 ^@109<det><qnt>$
-      1 ^@102<det><qnt>$
-      1 ^@023<det><qnt>$

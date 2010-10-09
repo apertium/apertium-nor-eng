@@ -1,3 +1,4 @@
+
 ===============================================================================
 Multiple surface forms for a single lexical form
 ===============================================================================
@@ -5,234 +6,617 @@ Multiple surface forms for a single lexical form
 ===============================================================================
 Multiple bidix entries for a single source language lexical form
 ===============================================================================
+    910 #ask\<vblex\>\<past\>\/reply\<vblex\>\<past\>	^ask<vblex><past>/reply<vblex><past>$
+    254 #Go\<vblex\>\<past\>\/Travel\<vblex\>\<past\>	^Go<vblex><past>/Travel<vblex><past>$
+    215 #go\<vblex\>\<inf\>\/travel\<vblex\>\<inf\>	^go<vblex><inf>/travel<vblex><inf>$
+    182 #go\<vblex\>\<past\>\/travel\<vblex\>\<past\>	^go<vblex><past>/travel<vblex><past>$
+    102 #ask\<vblex\>\<inf\>\/reply\<vblex\>\<inf\>	^ask<vblex><inf>/reply<vblex><inf>$
+     64 #Go\<vblex\>\<inf\>\/Travel\<vblex\>\<inf\>	^Go<vblex><inf>/Travel<vblex><inf>$
+     59 #go\<vblex\>\<pres\>\/travel\<vblex\>\<pres\>	^go<vblex><pres>/travel<vblex><pres>$
+     55 #show\<vblex\>\<inf\>\/inspect\<vblex\>\<inf\>	^show<vblex><inf><pass>/inspect<vblex><inf><pass>$
+     42 #ask\<vblex\>\<pres\>\/reply\<vblex\>\<pres\>	^ask<vblex><pres>/reply<vblex><pres>$
+     22 #show\<vblex\>\<inf\>\/inspect\<vblex\>\<inf\>	^show<vblex><inf>/inspect<vblex><inf>$
+     16 #tempt\<vblex\>\<pres\>\/lure\<vblex\>\<pres\>	^tempt<vblex><pres>/lure<vblex><pres>$
+     15 #tempt\<vblex\>\<inf\>\/lure\<vblex\>\<inf\>	^tempt<vblex><inf>/lure<vblex><inf>$
+      9 #show\<vblex\>\<pres\>\/inspect\<vblex\>\<pres\>	^show<vblex><pres>/inspect<vblex><pres>$
+      8 #tempt\<vblex\>\<pp\>\/lure\<vblex\>\<pp\>	^tempt<vblex><pp>/lure<vblex><pp>$
+      8 #go\<vblex\>\<pp\>\/travel\<vblex\>\<pp\>	^go<vblex><pp>/travel<vblex><pp>$
+      5 #Ask\<vblex\>\<pres\>\/Reply\<vblex\>\<pres\>	^Ask<vblex><pres>/Reply<vblex><pres>$
+      5 #ask\<vblex\>\<pp\>\/reply\<vblex\>\<pp\>	^ask<vblex><pp>/reply<vblex><pp>$
+      4 #Show\<vblex\>\<inf\>\/Inspect\<vblex\>\<inf\>	^Show<vblex><inf><pass>/Inspect<vblex><inf><pass>$
+      2 #Show\<vblex\>\<inf\>\/Inspect\<vblex\>\<inf\>	^Show<vblex><inf>/Inspect<vblex><inf>$
+      2 #Go\<vblex\>\<pres\>\/Travel\<vblex\>\<pres\>	^Go<vblex><pres>/Travel<vblex><pres>$
+      1 #tempt\<vblex\>\<inf\>\/lure\<vblex\>\<inf\>	^tempt<vblex><inf><pass>/lure<vblex><inf><pass>$
+      1 #Ask\<vblex\>\<past\>\/Reply\<vblex\>\<past\>	^Ask<vblex><past>/Reply<vblex><past>$
 
 ===============================================================================
 Tag mismatch between transfer and generation
 ===============================================================================
-   9156 #shall\<vaux\>\<pres\>	^shall<vaux><pres>$
-   6483 #prpers\<prn\>\<subj\>\<p3\>\<mf\>\<sg\>	^prpers<prn><subj><p3><mf><sg>$
+   5525 #Lord\<np\>\<al\>\<sg\>	^Lord<np><al><sg>$
+   4144 #with\<adv\>	^with<adv>$
    3604 #one\<num\>\<m\>\<sg\>	^one<num><m><sg>$
-   3069 #prpers\<prn\>\<obj\>\<p3\>\<mf\>\<sg\>	^prpers<prn><obj><p3><mf><sg>$
-   2303 #Prpers\<prn\>\<subj\>\<p3\>\<mf\>\<sg\>	^Prpers<prn><subj><p3><mf><sg>$
-   1936 #come\<vblex\>\<imp\>	^come<vblex><imp>$
+   2929 #sow\<vblex\>\<inf\>	^sow<vblex><inf>$
+   2119 #your\<det\>\<pos\>\<m\>\<sg\>	^your<det><pos><m><sg>$
+   1962 #Sow\<vblex\>\<inf\>	^Sow<vblex><inf>$
    1394 #forth\<pr\>	^forth<pr>$
-   1129 #become\<vblex\>\<imp\>	^become<vblex><imp>$
    1055 #one\<num\>\<nt\>\<sg\>	^one<num><nt><sg>$
-    916 #go\<vblex\>\<imp\>	^go<vblex><imp>$
-    847 #see\<vblex\>\<imp\>	^see<vblex><imp>$
-    742 #give\<vblex\>\<imp\>	^give<vblex><imp>$
-    727 #God\<np\>\<sg\>	^God<np><sg>$
-    648 #say\<vblex\>\<imp\>	^say<vblex><imp>$
-    615 #have\<vbhaver\>\<imp\>	^have<vbhaver><imp>$
+    921 #my\<det\>\<pos\>\<nt\>\<sg\>	^my<det><pos><nt><sg>$
+    917 #must\<vblex\>\<pres\>	^must<vblex><pres>$
+    862 #my\<det\>\<pos\>\<m\>\<sg\>	^my<det><pos><m><sg>$
+    817 #your\<det\>\<pos\>\<nt\>\<sg\>	^your<det><pos><nt><sg>$
+    527 #Mash\<vblex\>\<inf\>	^Mash<vblex><inf><pass>$
     517 #children\<n\>\<pl\>	^children<n><pl>$
-    441 #See\<vblex\>\<imp\>	^See<vblex><imp>$
+    492 #Christ\<np\>\<al\>\<m\>\<sg\>	^Christ<np><al><m><sg>$
+    350 #spurt\<vblex\>\<inf\>	^spurt<vblex><inf>$
+    345 #house\<vblex\>\<inf\>	^house<vblex><inf>$
     313 #all\<det\>\<qnt\>\<m\>\<sg\>	^all<det><qnt><m><sg>$
     294 #other\<det\>\<ind\>\<m\>\<sg\>\<ind\>	^other<det><ind><m><sg><ind>$
-    260 #Come\<vblex\>\<imp\>	^Come<vblex><imp>$
     259 #One\<num\>\<m\>\<sg\>	^One<num><m><sg>$
-    256 #Go\<vblex\>\<imp\>	^Go<vblex><imp>$
     249 #senior\<n\>\<pl\>	^senior<n><pl>$
     218 #disciple\<n\>\<pl\>	^disciple<n><pl>$
-    176 #Be\<vbser\>\<imp\>	^Be<vbser><imp>$
+    175 #become# quiet\<vblex\>\<inf\>	^become# quiet<vblex><inf>$
+    167 #must\<vblex\>\<inf\>	^must<vblex><inf>$
+    140 #Johanne\<np\>\<ant\>\<f\>\<sg\>	^Johanne<np><ant><f><sg>$
     132 #other\<det\>\<ind\>\<nt\>\<sg\>\<ind\>	^other<det><ind><nt><sg><ind>$
-    131 #Say\<vblex\>\<imp\>	^Say<vblex><imp>$
-    112 #Give\<vblex\>\<imp\>	^Give<vblex><imp>$
+    119 #out over\<pr\>	^out over<pr>$
+    115 #Your\<det\>\<pos\>\<m\>\<sg\>	^Your<det><pos><m><sg>$
+    100 #Esau\<np\>\<ant\>\<m\>\<sg\>	^Esau<np><ant><m><sg>$
+     99 #our\<det\>\<pos\>\<nt\>\<sg\>	^our<det><pos><nt><sg>$
+     98 #Must\<vblex\>\<inf\>	^Must<vblex><inf>$
      96 #spoil\<n\>\<sg\>	^spoil<n><sg>$
-     92 #be\<vbser\>\<imp\>	^be<vbser><imp>$
+     92 #fourty\<num\>\<pl\>	^fourty<num><pl>$
      89 #drink\<n\>\<sp\>	^drink<n><sp>$
      88 #call\<vblex\>\<inf\>	^call<vblex><inf><pass>$
-     76 #collect\<vblex\>\<imp\>	^collect<vblex><imp>$
+     86 #find\<vblex\>\<inf\>	^find<vblex><inf><pass>$
+     86 #Canaan\<np\>\<ant\>\<sg\>	^Canaan<np><ant><sg>$
+     82 #our\<det\>\<pos\>\<m\>\<sg\>	^our<det><pos><m><sg>$
+     79 #Babylonia\<np\>\<top\>\<sg\>	^Babylonia<np><top><sg>$
+     74 #Babylon\<np\>\<top\>\<sg\>	^Babylon<np><top><sg>$
+     71 #With\<adv\>	^With<adv>$
+     66 #many\<det\>\<qnt\>\<comp\>	^many<det><qnt><comp>$
+     66 #house\<vblex\>\<pp\>	^house<vblex><pp>$
      64 #well\<n\>\<sg\>	^well<n><sg>$
-     63 #Shall\<vaux\>\<pres\>	^Shall<vaux><pres>$
+     64 #Galilee\<np\>\<top\>\<sg\>	^Galilee<np><top><sg>$
+     62 #jubilate\<vblex\>\<inf\>	^jubilate<vblex><inf>$
+     62 #haunches\<n\>\<sg\>	^haunches<n><sg>$
      62 #drift\<n\>\<pl\>	^drift<n><pl>$
      60 #find\<n\>\<sg\>	^find<n><sg>$
      59 #grasp\<n\>\<sg\>	^grasp<n><sg>$
      58 #girdle\<n\>\<sg\>	^girdle<n><sg>$
-     55 #show\<vblex\>\<inf\>	^show<vblex><inf><pass>$
+     56 #stone\<vblex\>\<inf\>	^stone<vblex><inf>$
+     54 #tank# up\<vblex\>\<pres\>	^tank# up<vblex><pres>$
+     52 #Euphrates\<np\>\<top\>\<sg\>	^Euphrates<np><top><sg>$
      51 #drift\<n\>\<sg\>	^drift<n><sg>$
      51 #children\<n\>\<sg\>	^children<n><sg>$
-     48 #Become\<vblex\>\<imp\>	^Become<vblex><imp>$
+     50 #Herod\<np\>\<ant\>\<m\>\<sg\>	^Herod<np><ant><m><sg>$
+     48 #My\<det\>\<pos\>\<m\>\<sg\>	^My<det><pos><m><sg>$
+     46 #Sodom\<np\>\<top\>\<sg\>	^Sodom<np><top><sg>$
+     46 #resemble\<vblex\>\<pres\>	^resemble<vblex><pres>$
      46 #own\<n\>\<pl\>	^own<n><pl>$
+     46 #My\<det\>\<pos\>\<nt\>\<sg\>	^My<det><pos><nt><sg>$
      45 #umpire\<n\>\<pl\>	^umpire<n><pl>$
      45 #peril\<n\>\<pl\>	^peril<n><pl>$
      45 #own\<n\>\<sg\>	^own<n><sg>$
      43 #venom\<n\>\<sg\>	^venom<n><sg>$
-     39 #Have\<vbhaver\>\<imp\>	^Have<vbhaver><imp>$
+     43 #sow\<vblex\>\<pp\>	^sow<vblex><pp>$
+     39 #Satan\<np\>\<al\>\<sg\>	^Satan<np><al><sg>$
+     39 #resemble\<vblex\>\<pp\>	^resemble<vblex><pp>$
      38 #peril\<n\>\<sg\>	^peril<n><sg>$
+     36 #rake\<vblex\>\<pres\>	^rake<vblex><pres>$
      36 #goblet\<n\>\<pl\>	^goblet<n><pl>$
+     35 #stone\<vblex\>\<pres\>	^stone<vblex><pres>$
+     34 #Sinai\<np\>\<top\>\<sg\>	^Sinai<np><top><sg>$
+     33 #Nile\<np\>\<top\>\<sg\>	^Nile<np><top><sg>$
      33 #dread\<n\>\<sg\>	^dread<n><sg>$
+     32 #steer\<vblex\>\<past\>	^steer<vblex><past>$
+     32 #steer\<vblex\>\<inf\>	^steer<vblex><inf>$
      32 #spike\<n\>\<pl\>	^spike<n><pl>$
      32 #make\<vblex\>\<inf\>	^make<vblex><inf><pass>$
      32 #collect\<vblex\>\<inf\>	^collect<vblex><inf><pass>$
+     31 #Xerxes\<np\>\<ant\>\<sg\>	^Xerxes<np><ant><sg>$
+     31 #fell\<vblex\>\<past\>	^fell<vblex><past>$
+     31 #crucify\<vblex\>\<pp\>	^crucify<vblex><pp>$
      30 #goblet\<n\>\<sg\>	^goblet<n><sg>$
+     29 #shield\<vblex\>\<inf\>	^shield<vblex><inf>$
+     29 #hear\<vblex\>\<inf\>	^hear<vblex><inf><pass>$
      29 #Disciple\<n\>\<pl\>	^Disciple<n><pl>$
+     29 #bully\<vblex\>\<pp\>	^bully<vblex><pp>$
      29 #bear\<vblex\>\<inf\>	^bear<vblex><inf><pass>$
+     28 #use\<vblex\>\<inf\>	^use<vblex><inf><pass>$
+     28 #set\<vblex\>\<inf\>	^set<vblex><inf><pass>$
      28 #pelvis\<n\>\<pl\>	^pelvis<n><pl>$
      28 #dread\<n\>\<pl\>	^dread<n><pl>$
+     27 #Your\<det\>\<pos\>\<nt\>\<sg\>	^Your<det><pos><nt><sg>$
+     27 #Rubens\<np\>\<ant\>\<m\>\<sg\>	^Rubens<np><ant><m><sg>$
+     27 #rake\<vblex\>\<inf\>	^rake<vblex><inf>$
+     27 #burn\<vblex\>\<inf\>	^burn<vblex><inf><pass>$
+     26 #shop\<vblex\>\<pp\>	^shop<vblex><pp>$
+     26 #rain\<vblex\>\<inf\>	^rain<vblex><inf><pass>$
+     26 #flame\<vblex\>\<inf\>	^flame<vblex><inf>$
+     25 #loot\<vblex\>\<pp\>	^loot<vblex><pp>$
      25 #disciple\<n\>\<sg\>	^disciple<n><sg>$
      25 #All\<det\>\<qnt\>\<m\>\<sg\>	^All<det><qnt><m><sg>$
      24 #tumult\<n\>\<sg\>	^tumult<n><sg>$
+     24 #Must\<vblex\>\<pres\>	^Must<vblex><pres>$
+     24 #flame\<vblex\>\<pres\>	^flame<vblex><pres>$
      23 #gravel\<n\>\<pl\>	^gravel<n><pl>$
      23 #bitter\<n\>\<sg\>	^bitter<n><sg>$
+     22 #weave\<vblex\>\<pp\>	^weave<vblex><pp>$
+     22 #hold\<vblex\>\<inf\>	^hold<vblex><inf><pass>$
+     21 #screw\<vblex\>\<inf\>	^screw<vblex><inf>$
+     21 #catch# or to capture\<vblex\>\<inf\>	^catch# or to capture<vblex><inf>$
+     21 #Babel\<np\>\<top\>\<sg\>	^Babel<np><top><sg>$
+     20 #stumble\<vblex\>\<pres\>	^stumble<vblex><pres>$
+     20 #pain\<vblex\>\<inf\>	^pain<vblex><inf>$
+     20 #lay\<vblex\>\<inf\>	^lay<vblex><inf><pass>$
+     20 #flame\<vblex\>\<pp\>	^flame<vblex><pp>$
      20 #fig tree\<n\>\<pl\>	^fig tree<n><pl>$
+     20 #eat\<vblex\>\<inf\>	^eat<vblex><inf><pass>$
      19 #give\<vblex\>\<inf\>	^give<vblex><inf><pass>$
+     19 #Antiochia\<np\>\<top\>\<sg\>	^Antiochia<np><top><sg>$
+     18 #take\<vblex\>\<inf\>	^take<vblex><inf><pass>$
+     18 #set# alight\<vblex\>\<past\>	^set# alight<vblex><past>$
      18 #liberty\<n\>\<sg\>	^liberty<n><sg>$
      18 #christening\<n\>\<sg\>	^christening<n><sg>$
-     17 #Call\<vblex\>\<imp\>	^Call<vblex><imp>$
+     18 #catch# or to capture\<vblex\>\<pres\>	^catch# or to capture<vblex><pres>$
+     17 #stumble\<vblex\>\<inf\>	^stumble<vblex><inf>$
+     17 #stone\<vblex\>\<pp\>	^stone<vblex><pp>$
+     17 #Sem\<np\>\<al\>\<sg\>	^Sem<np><al><sg>$
+     17 #Persia\<np\>\<top\>\<sg\>	^Persia<np><top><sg>$
+     17 #Lazarus\<np\>\<top\>\<sg\>	^Lazarus<np><top><sg>$
+     17 #disgust\<vblex\>\<pres\>	^disgust<vblex><pres>$
      17 #breadth\<n\>\<sg\>	^breadth<n><sg>$
      17 #beverage\<n\>\<pl\>	^beverage<n><pl>$
      17 #balm\<n\>\<sg\>	^balm<n><sg>$
+     16 #rust\<vblex\>\<pp\>	^rust<vblex><pp>$
      16 #reimburse\<n\>\<pl\>	^reimburse<n><pl>$
+     16 #lead\<vblex\>\<inf\>	^lead<vblex><inf><pass>$
+     16 #jubilate\<vblex\>\<pres\>	^jubilate<vblex><pres>$
+     16 #fill\<vblex\>\<inf\>	^fill<vblex><inf><pass>$
+     16 #become# quiet\<vblex\>\<past\>	^become# quiet<vblex><past>$
      16 #ashes\<n\>\<sg\>	^ashes<n><sg>$
+     16 #answer\<vblex\>\<inf\>	^answer<vblex><inf><pass>$
+     15 #voice\<vblex\>\<past\>	^voice<vblex><past>$
+     15 #slave\<vblex\>\<pres\>	^slave<vblex><pres>$
+     15 #scrutinise\<vblex\>\<inf\>	^scrutinise<vblex><inf>$
+     15 #Jaffa\<np\>\<top\>\<sg\>	^Jaffa<np><top><sg>$
      15 #fig tree\<n\>\<sg\>	^fig tree<n><sg>$
+     15 #crush\<vblex\>\<inf\>	^crush<vblex><inf><pass>$
      15 #barley\<n\>\<pl\>	^barley<n><pl>$
+     14 #sow\<vblex\>\<pres\>	^sow<vblex><pres>$
      14 #loathe\<n\>\<sg\>	^loathe<n><sg>$
      14 #hind\<n\>\<pl\>	^hind<n><pl>$
      14 #glee\<n\>\<sg\>	^glee<n><sg>$
-     14 #bear\<vblex\>\<imp\>	^bear<vblex><imp>$
+     14 #break\<vblex\>\<inf\>	^break<vblex><inf><pass>$
+     14 #be# queasy\<vblex\>\<inf\>	^be# queasy<vblex><inf>$
      13 #well\<n\>\<pl\>	^well<n><pl>$
+     13 #toast\<vblex\>\<inf\>	^toast<vblex><inf>$
+     13 #strew\<vblex\>\<past\>	^strew<vblex><past>$
      13 #silliness\<n\>\<sg\>	^silliness<n><sg>$
      13 #One\<num\>\<nt\>\<sg\>	^One<num><nt><sg>$
+     13 #mash\<vblex\>\<pp\>	^mash<vblex><pp>$
+     13 #loot\<vblex\>\<inf\>	^loot<vblex><inf>$
+     13 #jubilate\<vblex\>\<pp\>	^jubilate<vblex><pp>$
+     13 #grab\<vblex\>\<inf\>	^grab<vblex><inf><pass>$
+     13 #fell\<vblex\>\<inf\>	^fell<vblex><inf>$
+     13 #catch# or to capture\<vblex\>\<pp\>	^catch# or to capture<vblex><pp>$
+     13 #be# able to\<vblex\>\<pres\>	^be# able to<vblex><pres>$
      13 #abscess\<n\>\<pl\>	^abscess<n><pl>$
+     12 #strew\<vblex\>\<pres\>	^strew<vblex><pres>$
+     12 #sparkle\<vblex\>\<pres\>	^sparkle<vblex><pres>$
+     12 #sow\<vblex\>\<past\>	^sow<vblex><past>$
+     12 #should\<vblex\>\<inf\>	^should<vblex><inf>$
+     12 #shield\<vblex\>\<pres\>	^shield<vblex><pres>$
+     12 #set# alight\<vblex\>\<pp\>	^set# alight<vblex><pp>$
+     12 #set# alight\<vblex\>\<inf\>	^set# alight<vblex><inf>$
      12 #offset\<n\>\<sg\>	^offset<n><sg>$
+     12 #groan\<vblex\>\<pres\>	^groan<vblex><pres>$
      12 #fellowship\<n\>\<pl\>	^fellowship<n><pl>$
+     12 #disgust\<vblex\>\<inf\>	^disgust<vblex><inf>$
      12 #beverage\<n\>\<sg\>	^beverage<n><sg>$
+     12 #Become# quiet\<vblex\>\<inf\>	^Become# quiet<vblex><inf>$
      11 #zest\<n\>\<pl\>	^zest<n><pl>$
      11 #umpire\<n\>\<sg\>	^umpire<n><sg>$
+     11 #scrutinise\<vblex\>\<pres\>	^scrutinise<vblex><pres>$
      11 #say\<vblex\>\<inf\>	^say<vblex><inf><pass>$
      11 #reimburse\<n\>\<sg\>	^reimburse<n><sg>$
+     11 #many\<det\>\<qnt\>\<sup\>	^many<det><qnt><sup>$
      11 #manslaughter\<n\>\<sg\>	^manslaughter<n><sg>$
-     11 #Bear\<vblex\>\<imp\>	^Bear<vblex><imp>$
-     10 #fly\<vblex\>\<imp\>	^fly<vblex><imp>$
+     10 #voice\<vblex\>\<inf\>	^voice<vblex><inf>$
+     10 #strew\<vblex\>\<pp\>	^strew<vblex><pp>$
+     10 #sprout\<vblex\>\<inf\>	^sprout<vblex><inf>$
+     10 #slave\<vblex\>\<inf\>	^slave<vblex><inf>$
+     10 #shield\<vblex\>\<pp\>	^shield<vblex><pp>$
+     10 #set# alight\<vblex\>\<pres\>	^set# alight<vblex><pres>$
+     10 #sell\<vblex\>\<inf\>	^sell<vblex><inf><pass>$
+     10 #name\<vblex\>\<inf\>	^name<vblex><inf><pass>$
+     10 #fell\<vblex\>\<pres\>	^fell<vblex><pres>$
      10 #Children\<n\>\<pl\>	^Children<n><pl>$
+     10 #become# quiet\<vblex\>\<pres\>	^become# quiet<vblex><pres>$
+      9 #slither\<vblex\>\<inf\>	^slither<vblex><inf>$
+      9 #scrutinise\<vblex\>\<pp\>	^scrutinise<vblex><pp>$
       9 #precinct\<n\>\<sg\>	^precinct<n><sg>$
+      9 #measure\<vblex\>\<inf\>	^measure<vblex><inf><pass>$
       9 #jeweller\<n\>\<sg\>	^jeweller<n><sg>$
+      9 #heal\<vblex\>\<inf\>	^heal<vblex><inf><pass>$
       9 #gallows\<n\>\<sg\>	^gallows<n><sg>$
       9 #all\<det\>\<qnt\>\<pl\>\<gen\>	^all<det><qnt><pl><gen>$
+      9 #alert\<vblex\>\<pp\>	^alert<vblex><pp>$
+      8 #zip\<vblex\>\<inf\>	^zip<vblex><inf>$
+      8 #untidy\<vblex\>\<inf\>	^untidy<vblex><inf>$
       8 #torch\<n\>\<pl\>	^torch<n><pl>$
-      8 #Split\<vblex\>\<imp\>	^Split<vblex><imp>$
+      8 #toast\<vblex\>\<pres\>	^toast<vblex><pres>$
+      8 #strew\<vblex\>\<inf\>	^strew<vblex><inf>$
+      8 #stone\<vblex\>\<inf\>	^stone<vblex><inf><pass>$
+      8 #stay# overnight\<vblex\>\<inf\>	^stay# overnight<vblex><inf>$
       8 #shrub\<n\>\<sg\>	^shrub<n><sg>$
       8 #scorn\<n\>\<pl\>	^scorn<n><pl>$
+      8 #know\<vblex\>\<inf\>	^know<vblex><inf><pass>$
       8 #grasp\<n\>\<pl\>	^grasp<n><pl>$
       8 #fullness\<n\>\<sg\>	^fullness<n><sg>$
       8 #foetus\<n\>\<pl\>	^foetus<n><pl>$
+      8 #Find\<vblex\>\<inf\>	^Find<vblex><inf><pass>$
       8 #false\<n\>\<sg\>	^false<n><sg>$
+      8 #Crucify\<vblex\>\<inf\>	^Crucify<vblex><inf>$
+      8 #bully\<vblex\>\<inf\>	^bully<vblex><inf>$
+      8 #alert\<vblex\>\<pres\>	^alert<vblex><pres>$
+      7 #torment\<vblex\>\<inf\>	^torment<vblex><inf>$
+      7 #send\<vblex\>\<inf\>	^send<vblex><inf><pass>$
+      7 #rust\<vblex\>\<pres\>	^rust<vblex><pres>$
+      7 #rev\<vblex\>\<pp\>	^rev<vblex><pp>$
       7 #renunciation\<n\>\<pl\>	^renunciation<n><pl>$
       7 #parting\<n\>\<sg\>	^parting<n><sg>$
+      7 #manhandle\<vblex\>\<past\>	^manhandle<vblex><past>$
+      7 #haul\<vblex\>\<past\>	^haul<vblex><past>$
+      7 #groan\<vblex\>\<inf\>	^groan<vblex><inf>$
+      7 #Eilat\<np\>\<top\>\<sg\>	^Eilat<np><top><sg>$
+      7 #bully\<vblex\>\<pres\>	^bully<vblex><pres>$
+      7 #be# queasy\<vblex\>\<pres\>	^be# queasy<vblex><pres>$
+      6 #write\<vblex\>\<inf\>	^write<vblex><inf><pass>$
+      6 #weave\<vblex\>\<past\>	^weave<vblex><past>$
+      6 #tank# up\<vblex\>\<inf\>	^tank# up<vblex><inf>$
+      6 #slither\<vblex\>\<pres\>	^slither<vblex><pres>$
+      6 #Sjur\<np\>\<ant\>\<m\>\<sg\>	^Sjur<np><ant><m><sg>$
+      6 #should\<vblex\>\<pres\>	^should<vblex><pres>$
+      6 #sacrifice\<vblex\>\<inf\>	^sacrifice<vblex><inf><pass>$
+      6 #resemble\<vblex\>\<inf\>	^resemble<vblex><inf>$
+      6 #Our\<det\>\<pos\>\<nt\>\<sg\>	^Our<det><pos><nt><sg>$
       6 #muck\<n\>\<sg\>	^muck<n><sg>$
       6 #madness\<n\>\<sg\>	^madness<n><sg>$
+      6 #loot\<vblex\>\<pres\>	^loot<vblex><pres>$
+      6 #loot\<vblex\>\<inf\>	^loot<vblex><inf><pass>$
+      6 #House\<vblex\>\<pp\>	^House<vblex><pp>$
+      6 #hail\<vblex\>\<inf\>	^hail<vblex><inf>$
       6 #foetus\<n\>\<sg\>	^foetus<n><sg>$
+      6 #fell\<vblex\>\<inf\>	^fell<vblex><inf><pass>$
+      6 #drum\<vblex\>\<inf\>	^drum<vblex><inf>$
+      6 #chase\<vblex\>\<inf\>	^chase<vblex><inf><pass>$
+      6 #bless\<vblex\>\<inf\>	^bless<vblex><inf><pass>$
+      6 #be# able to\<vblex\>\<pp\>	^be# able to<vblex><pp>$
       5 #venom\<n\>\<pl\>	^venom<n><pl>$
+      5 #travel\<vblex\>\<inf\>	^travel<vblex><inf><pass>$
+      5 #tie\<vblex\>\<inf\>	^tie<vblex><inf><pass>$
+      5 #stumble\<vblex\>\<pp\>	^stumble<vblex><pp>$
+      5 #steer\<vblex\>\<pres\>	^steer<vblex><pres>$
       5 #Spike\<n\>\<pl\>	^Spike<n><pl>$
-      5 #show\<vblex\>\<imp\>	^show<vblex><imp>$
       5 #shelves\<n\>\<pl\>	^shelves<n><pl>$
       5 #scorn\<n\>\<sg\>	^scorn<n><sg>$
+      5 #row\<vblex\>\<inf\>	^row<vblex><inf><pass>$
+      5 #Rev\<vblex\>\<pp\>	^Rev<vblex><pp>$
+      5 #pile# up\<vblex\>\<pp\>	^pile# up<vblex><pp>$
+      5 #open\<vblex\>\<inf\>	^open<vblex><inf><pass>$
+      5 #must\<vblex\>\<pp\>	^must<vblex><pp>$
+      5 #Mash\<vblex\>\<pp\>	^Mash<vblex><pp>$
       5 #manslaughter\<n\>\<pl\>	^manslaughter<n><pl>$
       5 #hoard\<n\>\<pl\>	^hoard<n><pl>$
-      5 #call\<vblex\>\<imp\>	^call<vblex><imp>$
+      5 #Haunches\<n\>\<sg\>	^Haunches<n><sg>$
+      5 #crucify\<vblex\>\<inf\>	^crucify<vblex><inf><pass>$
+      5 #crucify\<vblex\>\<inf\>	^crucify<vblex><inf>$
+      5 #Crete\<np\>\<top\>\<sg\>	^Crete<np><top><sg>$
+      5 #coronate\<vblex\>\<pp\>	^coronate<vblex><pp>$
+      5 #can\<vaux\>\<pp\>	^can<vaux><pp>$
+      5 #axe\<vblex\>\<inf\>	^axe<vblex><inf>$
       5 #abscess\<n\>\<sg\>	^abscess<n><sg>$
+      4 #yell\<vblex\>\<pres\>	^yell<vblex><pres>$
+      4 #weave\<vblex\>\<inf\>	^weave<vblex><inf>$
+      4 #wash\<vblex\>\<inf\>	^wash<vblex><inf><pass>$
+      4 #torment\<vblex\>\<inf\>	^torment<vblex><inf><pass>$
       4 #torch\<n\>\<sg\>	^torch<n><sg>$
-      4 #Show\<vblex\>\<inf\>	^Show<vblex><inf><pass>$
-      4 #lie\<vblex\>\<imp\>	^lie<vblex><imp>$
+      4 #sprout\<vblex\>\<pres\>	^sprout<vblex><pres>$
+      4 #shop\<vblex\>\<pres\>	^shop<vblex><pres>$
+      4 #shop\<vblex\>\<inf\>	^shop<vblex><inf>$
+      4 #raw\<adj\>	^raw<adj>$
+      4 #Rake\<vblex\>\<inf\>	^Rake<vblex><inf>$
+      4 #pay\<vblex\>\<inf\>	^pay<vblex><inf><pass>$
+      4 #pain\<vblex\>\<pres\>	^pain<vblex><pres>$
+      4 #move\<vblex\>\<inf\>	^move<vblex><inf><pass>$
+      4 #mirror\<vblex\>\<inf\>	^mirror<vblex><inf>$
+      4 #melt\<vblex\>\<inf\>	^melt<vblex><inf><pass>$
       4 #liaison\<n\>\<sg\>	^liaison<n><sg>$
+      4 #haul\<vblex\>\<pp\>	^haul<vblex><pp>$
+      4 #haul\<vblex\>\<inf\>	^haul<vblex><inf>$
+      4 #hail\<vblex\>\<pp\>	^hail<vblex><pp>$
       4 #grate\<n\>\<pl\>	^grate<n><pl>$
       4 #girdle\<n\>\<pl\>	^girdle<n><pl>$
+      4 #frizz\<vblex\>\<pp\>	^frizz<vblex><pp>$
+      4 #free\<vblex\>\<inf\>	^free<vblex><inf><pass>$
       4 #footing\<n\>\<sg\>	^footing<n><sg>$
+      4 #fell\<vblex\>\<pp\>	^fell<vblex><pp>$
       4 #drip\<n\>\<sg\>	^drip<n><sg>$
+      4 #dedicate\<vblex\>\<inf\>	^dedicate<vblex><inf><pass>$
+      4 #cow\<vblex\>\<pres\>	^cow<vblex><pres>$
+      4 #Cow\<vblex\>\<inf\>	^Cow<vblex><inf>$
+      4 #cow\<vblex\>\<inf\>	^cow<vblex><inf>$
       4 #Children\<n\>\<sg\>	^Children<n><sg>$
       4 #breadth\<n\>\<pl\>	^breadth<n><pl>$
+      4 #axe\<vblex\>\<pres\>	^axe<vblex><pres>$
       4 #accuser\<n\>\<pl\>	^accuser<n><pl>$
+      3 #yell\<vblex\>\<inf\>	^yell<vblex><inf>$
+      3 #weave\<vblex\>\<pres\>	^weave<vblex><pres>$
+      3 #weave\<vblex\>\<inf\>	^weave<vblex><inf><pass>$
+      3 #voice\<vblex\>\<pres\>	^voice<vblex><pres>$
+      3 #stick\<vblex\>\<inf\>	^stick<vblex><inf><pass>$
+      3 #stay# overnight\<vblex\>\<pp\>	^stay# overnight<vblex><pp>$
+      3 #spew\<vblex\>\<pp\>	^spew<vblex><pp>$
       3 #shelves\<n\>\<sg\>	^shelves<n><sg>$
+      3 #season\<vblex\>\<pp\>	^season<vblex><pp>$
+      3 #Sea of Galilee\<np\>\<top\>\<m\>\<sg\>	^Sea of Galilee<np><top><m><sg>$
+      3 #scare\<vblex\>\<inf\>	^scare<vblex><inf><pass>$
+      3 #Row\<vblex\>\<inf\>	^Row<vblex><inf><pass>$
+      3 #resemble\<vblex\>\<inf\>	^resemble<vblex><inf><pass>$
+      3 #reel\<vblex\>\<inf\>	^reel<vblex><inf>$
       3 #redemption\<n\>\<sg\>	^redemption<n><sg>$
+      3 #raise\<vblex\>\<inf\>	^raise<vblex><inf><pass>$
+      3 #praise\<vblex\>\<inf\>	^praise<vblex><inf><pass>$
+      3 #Pontius\<np\>\<ant\>\<sg\>	^Pontius<np><ant><sg>$
       3 #peer\<n\>\<pl\>	^peer<n><pl>$
+      3 #miss\<vblex\>\<inf\>	^miss<vblex><inf><pass>$
+      3 #Heal\<vblex\>\<inf\>	^Heal<vblex><inf><pass>$
       3 #Girdle\<n\>\<sg\>	^Girdle<n><sg>$
       3 #gall\<n\>\<sg\>	^gall<n><sg>$
+      3 #flour\<vblex\>\<inf\>	^flour<vblex><inf>$
+      3 #fetch\<vblex\>\<inf\>	^fetch<vblex><inf><pass>$
       3 #felony\<n\>\<sg\>	^felony<n><sg>$
+      3 #encircle\<vblex\>\<inf\>	^encircle<vblex><inf>$
+      3 #drum\<vblex\>\<pres\>	^drum<vblex><pres>$
       3 #Dread\<n\>\<sg\>	^Dread<n><sg>$
+      3 #disgust\<vblex\>\<pp\>	^disgust<vblex><pp>$
+      3 #delete\<vblex\>\<inf\>	^delete<vblex><inf><pass>$
+      3 #declare\<vblex\>\<inf\>	^declare<vblex><inf><pass>$
       3 #culprit\<n\>\<sg\>	^culprit<n><sg>$
       3 #crescent moon\<n\>\<pl\>	^crescent moon<n><pl>$
+      3 #coronate\<vblex\>\<pres\>	^coronate<vblex><pres>$
+      3 #catch# or to capture\<vblex\>\<inf\>	^catch# or to capture<vblex><inf><pass>$
+      3 #Calvary\<np\>\<top\>\<sg\>	^Calvary<np><top><sg>$
+      3 #breastfeed\<vblex\>\<inf\>	^breastfeed<vblex><inf>$
+      3 #Berit\<np\>\<top\>\<f\>\<sg\>	^Berit<np><top><f><sg>$
       3 #barb\<n\>\<sg\>	^barb<n><sg>$
+      3 #Aries\<np\>\<al\>\<m\>\<sg\>	^Aries<np><al><m><sg>$
+      2 #Zeus\<np\>\<ant\>\<m\>\<sg\>	^Zeus<np><ant><m><sg>$
       2 #Umpire\<n\>\<pl\>	^Umpire<n><pl>$
       2 #tombstone\<n\>\<sg\>	^tombstone<n><sg>$
+      2 #throw\<vblex\>\<inf\>	^throw<vblex><inf><pass>$
+      2 #swell\<vblex\>\<inf\>	^swell<vblex><inf>$
+      2 #Sprout\<vblex\>\<inf\>	^Sprout<vblex><inf>$
       2 #split\<vblex\>\<inf\>	^split<vblex><inf><pass>$
+      2 #spew\<vblex\>\<pres\>	^spew<vblex><pres>$
+      2 #spew\<vblex\>\<past\>	^spew<vblex><past>$
+      2 #spew\<vblex\>\<inf\>	^spew<vblex><inf>$
+      2 #sparkle\<vblex\>\<inf\>	^sparkle<vblex><inf>$
       2 #sparkle\<n\>\<pl\>	^sparkle<n><pl>$
       2 #Silliness\<n\>\<sg\>	^Silliness<n><sg>$
       2 #shrub\<n\>\<pl\>	^shrub<n><pl>$
+      2 #show\<vblex\>\<inf\>	^show<vblex><inf><pass>$
+      2 #Should\<vblex\>\<inf\>	^Should<vblex><inf>$
       2 #shaft\<n\>\<pl\>	^shaft<n><pl>$
+      2 #set# alight\<vblex\>\<inf\>	^set# alight<vblex><inf><pass>$
+      2 #Sell\<vblex\>\<inf\>	^Sell<vblex><inf><pass>$
       2 #sea creature\<n\>\<pl\>	^sea creature<n><pl>$
+      2 #screw\<vblex\>\<pres\>	^screw<vblex><pres>$
+      2 #save\<vblex\>\<inf\>	^save<vblex><inf><pass>$
+      2 #Røyken\<np\>\<top\>\<sg\>	^Røyken<np><top><sg>$
+      2 #rouge\<vblex\>\<pp\>	^rouge<vblex><pp>$
       2 #rind\<n\>\<sg\>	^rind<n><sg>$
+      2 #rev\<vblex\>\<past\>	^rev<vblex><past>$
       2 #remote spot\<n\>\<sg\>	^remote spot<n><sg>$
+      2 #reel\<vblex\>\<pres\>	^reel<vblex><pres>$
+      2 #reel\<vblex\>\<pp\>	^reel<vblex><pp>$
+      2 #Red Sea\<np\>\<top\>\<nt\>\<sg\>	^Red Sea<np><top><nt><sg>$
+      2 #read\<vblex\>\<inf\>	^read<vblex><inf><pass>$
+      2 #rake\<vblex\>\<inf\>	^rake<vblex><inf><pass>$
+      2 #put# out\<vblex\>\<inf\>	^put# out<vblex><inf>$
       2 #puff\<n\>\<pl\>	^puff<n><pl>$
+      2 #practice# hypocrisy\<vblex\>\<pres\>	^practice# hypocrisy<vblex><pres>$
+      2 #pour\<vblex\>\<inf\>	^pour<vblex><inf><pass>$
+      2 #pile# up\<vblex\>\<inf\>	^pile# up<vblex><inf>$
+      2 #noise\<vblex\>\<pres\>	^noise<vblex><pres>$
+      2 #moo\<vblex\>\<pres\>	^moo<vblex><pres>$
+      2 #Mash\<vblex\>\<inf\>	^Mash<vblex><inf>$
       2 #lunatic\<n\>\<sg\>	^lunatic<n><sg>$
+      2 #Laugh\<vblex\>\<inf\>	^Laugh<vblex><inf><pass>$
+      2 #laugh\<vblex\>\<inf\>	^laugh<vblex><inf><pass>$
+      2 #JO\<np\>\<ant\>\<m\>\<sg\>	^JO<np><ant><m><sg>$
       2 #jeweller\<n\>\<pl\>	^jeweller<n><pl>$
       2 #inherit\<n\>\<sg\>	^inherit<n><sg>$
+      2 #hollow\<vblex\>\<pres\>	^hollow<vblex><pres>$
+      2 #hollow\<vblex\>\<pp\>	^hollow<vblex><pp>$
+      2 #Hollow\<vblex\>\<inf\>	^Hollow<vblex><inf>$
+      2 #hollow\<vblex\>\<inf\>	^hollow<vblex><inf>$
       2 #hibernation\<n\>\<sg\>	^hibernation<n><sg>$
+      2 #Have# sex\<vblex\>\<inf\>	^Have# sex<vblex><inf>$
+      2 #harrow\<vblex\>\<inf\>	^harrow<vblex><inf>$
+      2 #groan\<vblex\>\<pp\>	^groan<vblex><pp>$
+      2 #Gethsemane\<np\>\<top\>\<sg\>	^Gethsemane<np><top><sg>$
+      2 #Fourty\<num\>\<pl\>	^Fourty<num><pl>$
       2 #Forth\<pr\>	^Forth<pr>$
       2 #float\<n\>\<pl\>	^float<n><pl>$
       2 #Fig tree\<n\>\<sg\>	^Fig tree<n><sg>$
+      2 #fight\<vblex\>\<pp\>	^fight<vblex><pstv><pp>$
+      2 #fence\<vblex\>\<inf\>	^fence<vblex><inf>$
+      2 #Fell\<vblex\>\<inf\>	^Fell<vblex><inf>$
       2 #fellowship\<n\>\<sg\>	^fellowship<n><sg>$
       2 #falls\<n\>\<pl\>	^falls<n><pl>$
+      2 #encircle\<vblex\>\<pres\>	^encircle<vblex><pres>$
       2 #dregs\<n\>\<sg\>	^dregs<n><sg>$
       2 #Disciple\<n\>\<sg\>	^Disciple<n><sg>$
       2 #deception\<n\>\<pl\>	^deception<n><pl>$
       2 #dam\<n\>\<sg\>	^dam<n><sg>$
-      2 #Create\<vblex\>\<imp\>	^Create<vblex><imp>$
+      2 #cut\<vblex\>\<inf\>	^cut<vblex><inf><pass>$
+      2 #crack\<vblex\>\<inf\>	^crack<vblex><inf><pass>$
+      2 #buy\<vblex\>\<inf\>	^buy<vblex><inf><pass>$
       2 #blend\<n\>\<sg\>	^blend<n><sg>$
       2 #Beverage\<n\>\<sg\>	^Beverage<n><sg>$
-      2 #airplane\<n\>\<pl\>	^airplane<n><pl>$
+      2 #be# queasy\<vblex\>\<past\>	^be# queasy<vblex><past>$
+      2 #Axe\<vblex\>\<pp\>	^Axe<vblex><pp>$
+      2 #alert\<vblex\>\<inf\>	^alert<vblex><inf>$
+      1 #Yulia\<np\>\<ant\>\<f\>\<sg\>	^Yulia<np><ant><f><sg>$
+      1 #win\<vblex\>\<inf\>	^win<vblex><inf><pass>$
+      1 #whirr\<vblex\>\<pres\>	^whirr<vblex><pres>$
       1 #waters\<n\>\<pl\>	^waters<n><pl>$
+      1 #warm\<vblex\>\<inf\>	^warm<vblex><inf><pass>$
+      1 #voice\<vblex\>\<pp\>	^voice<vblex><pp>$
+      1 #untidy\<vblex\>\<pp\>	^untidy<vblex><pp>$
       1 #Tumult\<n\>\<sg\>	^Tumult<n><sg>$
+      1 #torment\<vblex\>\<pres\>	^torment<vblex><pres>$
+      1 #torment\<vblex\>\<pp\>	^torment<vblex><pp>$
+      1 #Torment\<vblex\>\<inf\>	^Torment<vblex><inf>$
       1 #Torch\<n\>\<pl\>	^Torch<n><pl>$
+      1 #time\<vblex\>\<inf\>	^time<vblex><inf><pass>$
+      1 #Tigris\<np\>\<top\>\<sg\>	^Tigris<np><top><sg>$
+      1 #swell\<vblex\>\<pres\>	^swell<vblex><pres>$
       1 #suckle\<n\>\<sp\>	^suckle<n><sp>$
+      1 #Stumble\<vblex\>\<pp\>	^Stumble<vblex><pp>$
+      1 #Stone\<vblex\>\<pres\>	^Stone<vblex><pres>$
+      1 #Steer\<vblex\>\<pp\>	^Steer<vblex><pp>$
+      1 #steer\<vblex\>\<pp\>	^steer<vblex><pp>$
+      1 #steer\<vblex\>\<inf\>	^steer<vblex><inf><pass>$
+      1 #stay# overnight\<vblex\>\<pres\>	^stay# overnight<vblex><pres>$
+      1 #spurt\<vblex\>\<inf\>	^spurt<vblex><inf><pass>$
       1 #spoil\<n\>\<sg\> 	^spoil<n><sg>$ 
-      1 #split\<vblex\>\<imp\>	^split<vblex><imp>$
       1 #spike\<n\>\<sg\>	^spike<n><sg>$
       1 #sparkle\<n\>\<sg\>	^sparkle<n><sg>$
+      1 #Sow\<vblex\>\<pres\>	^Sow<vblex><pres>$
       1 #solid\<adj\>\<comp\>	^solid<adj><comp>$
+      1 #sneeze\<vblex\>\<pres\>	^sneeze<vblex><pres>$
+      1 #sneeze\<vblex\>\<past\>	^sneeze<vblex><past>$
+      1 #Slither\<vblex\>\<pres\>	^Slither<vblex><pres>$
+      1 #sit\<vblex\>\<inf\>	^sit<vblex><inf><pass>$
+      1 #Sira\<np\>\<top\>\<sg\>	^Sira<np><top><sg>$
+      1 #sing\<vblex\>\<inf\>	^sing<vblex><inf><pass>$
+      1 #shout\<vblex\>\<inf\>	^shout<vblex><inf><pass>$
+      1 #shoot\<vblex\>\<inf\>	^shoot<vblex><inf><pass>$
       1 #Shelves\<n\>\<sg\>	^Shelves<n><sg>$
       1 #sheaf\<n\>\<pl\>	^sheaf<n><pl>$
+      1 #shake\<vblex\>\<inf\>	^shake<vblex><inf><pass>$
+      1 #sew\<vblex\>\<inf\>	^sew<vblex><inf><pass>$
+      1 #Set\<vblex\>\<inf\>	^Set<vblex><inf><pass>$
+      1 #Set# alight\<vblex\>\<pres\>	^Set# alight<vblex><pres>$
       1 #sentiment\<n\>\<pl\>	^sentiment<n><pl>$
       1 #Senior\<n\>\<pl\>	^Senior<n><pl>$
-      1 #say\<vblex\>\<imp\> – 	^say<vblex><imp>$ – 
+      1 #Scrutinise\<vblex\>\<inf\>	^Scrutinise<vblex><inf>$
+      1 #screw\<vblex\>\<inf\>	^screw<vblex><inf><pass>$
+      1 #Screw\<vblex\>\<inf\>	^Screw<vblex><inf>$
+      1 #Samos\<np\>\<top\>\<sg\>	^Samos<np><top><sg>$
       1 #rut\<n\>\<sg\>	^rut<n><sg>$
+      1 #Rust\<vblex\>\<pp\>	^Rust<vblex><pp>$
+      1 #run# aground\<vblex\>\<inf\>	^run# aground<vblex><inf>$
+      1 #rouge\<vblex\>\<inf\>	^rouge<vblex><inf>$
+      1 #rob\<vblex\>\<inf\>	^rob<vblex><inf><pass>$
+      1 #Rhodes\<np\>\<top\>\<sg\>	^Rhodes<np><top><sg>$
       1 #repute\<n\>\<sg\>	^repute<n><sg>$
       1 #repentance\<n\>\<sg\>	^repentance<n><sg>$
       1 #repentance\<n\>\<pl\>	^repentance<n><pl>$
+      1 #put# out\<vblex\>\<pp\>	^put# out<vblex><pp>$
+      1 #Put# out\<vblex\>\<inf\>	^Put# out<vblex><inf>$
       1 #precipitate\<n\>\<sg\>	^precipitate<n><sg>$
+      1 #practice# hypocrisy\<vblex\>\<pp\>	^practice# hypocrisy<vblex><pp>$
       1 #Pod\<n\>\<sg\>	^Pod<n><sg>$
+      1 #persuade\<vblex\>\<inf\>	^persuade<vblex><inf><pass>$
+      1 #pan# out\<vblex\>\<inf\>	^pan# out<vblex><inf>$
       1 #Other\<det\>\<ind\>\<f\>\<sg\>\<ind\>	^Other<det><ind><f><sg><ind>$
+      1 #noise\<vblex\>\<pp\>	^noise<vblex><pp>$
+      1 #Niger\<np\>\<top\>\<sg\>	^Niger<np><top><sg>$
+      1 #need\<vblex\>\<inf\>	^need<vblex><inf><pass>$
       1 #necklace\<n\>\<pl\>	^necklace<n><pl>$
+      1 #moo\<vblex\>\<pp\>	^moo<vblex><pp>$
+      1 #mirror\<vblex\>\<pres\>	^mirror<vblex><pres>$
+      1 #mess# around\<vblex\>\<inf\>	^mess# around<vblex><inf>$
+      1 #Many\<det\>\<qnt\>\<comp\>	^Many<det><qnt><comp>$
       1 #lunatic\<n\>\<pl\>	^lunatic<n><pl>$
-      1 #Lie\<vblex\>\<imp\>	^Lie<vblex><imp>$
       1 #Liberty\<n\>\<sg\>	^Liberty<n><sg>$
+      1 #Lesja\<np\>\<top\>\<sg\>	^Lesja<np><top><sg>$
+      1 #Jubilate\<vblex\>\<inf\>	^Jubilate<vblex><inf>$
+      1 #Johannes\<np\>\<ant\>\<m\>\<sg\>	^Johannes<np><ant><m><sg>$
       1 #hippopotamus\<n\>\<sg\>	^hippopotamus<n><sg>$
+      1 #harrow\<vblex\>\<pp\>	^harrow<vblex><pp>$
+      1 #Haram\<np\>\<top\>\<sg\>	^Haram<np><top><sg>$
+      1 #Hail\<vblex\>\<pp\>	^Hail<vblex><pp>$
+      1 #Hail\<vblex\>\<inf\>	^Hail<vblex><inf>$
       1 #guest room\<n\>\<pl\>	^guest room<n><pl>$
+      1 #grey\<vblex\>\<pres\>	^grey<vblex><pres>$
       1 #Grate\<n\>\<sg\>	^Grate<n><sg>$
       1 #Goblet\<n\>\<sg\>	^Goblet<n><sg>$
+      1 #Goa\<np\>\<top\>\<sg\>	^Goa<np><top><sg>$
       1 #gnome\<n\>\<sg\>	^gnome<n><sg>$
       1 #glee\<n\>\<sg\> 	^glee<n><sg>$ 
       1 #glee\<n\>\<pl\>	^glee<n><pl>$
       1 #garrison\<n\>\<sg\>	^garrison<n><sg>$
+      1 #frizz\<vblex\>\<inf\>	^frizz<vblex><inf>$
       1 #fraternity\<n\>\<sg\>	^fraternity<n><sg>$
+      1 #foal\<vblex\>\<pres\>	^foal<vblex><pres>$
+      1 #foal\<vblex\>\<inf\>	^foal<vblex><inf>$
+      1 #Flame\<vblex\>\<pres\>	^Flame<vblex><pres>$
       1 #fixative\<n\>\<pl\>	^fixative<n><pl>$
       1 #fish hook\<n\>\<pl\>	^fish hook<n><pl>$
+      1 #fight\<vblex\>	^fight<vblex><pstv><pret>$
       1 #felony\<n\>\<pl\>	^felony<n><pl>$
       1 #False\<n\>\<sg\>	^False<n><sg>$
+      1 #expect\<vblex\>\<inf\>	^expect<vblex><inf><pass>$
+      1 #drum\<vblex\>\<pp\>	^drum<vblex><pp>$
       1 #dread\<n\>\<sg\> 	^dread<n><sg>$ 
+      1 #draw\<vblex\>\<inf\>	^draw<vblex><inf><pass>$
       1 #doorknob\<n\>\<sg\>	^doorknob<n><sg>$
+      1 #divide\<vblex\>\<inf\>	^divide<vblex><inf><pass>$
       1 #distaste\<n\>\<sg\>	^distaste<n><sg>$
+      1 #Disgust\<vblex\>\<inf\>	^Disgust<vblex><inf>$
+      1 #dirty\<vblex\>\<inf\>	^dirty<vblex><inf>$
       1 #depict\<n\>\<sg\>	^depict<n><sg>$
       1 #depict\<n\>\<pl\>	^depict<n><pl>$
+      1 #Dead Sea\<np\>\<top\>\<nt\>\<sg\>	^Dead Sea<np><top><nt><sg>$
+      1 #crucify\<vblex\>\<pres\>	^crucify<vblex><pres>$
       1 #create\<vblex\>\<inf\>	^create<vblex><inf><pass>$
-      1 #Collect\<vblex\>\<imp\>	^Collect<vblex><imp>$
+      1 #cow\<vblex\>\<pp\>	^cow<vblex><pp>$
+      1 #coronate\<vblex\>\<inf\>	^coronate<vblex><inf>$
+      1 #Clemence\<np\>\<ant\>\<m\>\<sg\>	^Clemence<np><ant><m><sg>$
       1 #Christening\<n\>\<sg\>	^Christening<n><sg>$
+      1 #celebrate# Christmas\<vblex\>\<past\>	^celebrate# Christmas<vblex><past>$
+      1 #Catch# or to capture\<vblex\>\<pres\>	^Catch# or to capture<vblex><pres>$
+      1 #Catch# or to capture\<vblex\>\<inf\>	^Catch# or to capture<vblex><inf>$
+      1 #Bully\<vblex\>\<pres\>	^Bully<vblex><pres>$
+      1 #bully\<vblex\>\<inf\>	^bully<vblex><inf><pass>$
+      1 #bring\<vblex\>\<inf\>	^bring<vblex><inf><pass>$
+      1 #Breastfeed\<vblex\>\<pp\>	^Breastfeed<vblex><pp>$
+      1 #bother# to\<vblex\>\<pres\>	^bother# to<vblex><pres>$
+      1 #bore\<vblex\>\<pres\>	^bore<vblex><pres>$
+      1 #bore\<vblex\>\<pp\>	^bore<vblex><pp>$
+      1 #booze\<vblex\>\<inf\>	^booze<vblex><inf>$
+      1 #Biri\<np\>\<top\>\<sg\>	^Biri<np><top><sg>$
+      1 #Be# queasy\<vblex\>\<inf\>	^Be# queasy<vblex><inf>$
+      1 #bend\<vblex\>\<inf\>	^bend<vblex><inf><pass>$
       1 #Beet\<n\>\<sg\>	^Beet<n><sg>$
+      1 #become\<vblex\>\<inf\>	^become<vblex><inf><pass>$
+      1 #become# quiet\<vblex\>\<pp\>	^become# quiet<vblex><pp>$
+      1 #beat\<vblex\>\<inf\>	^beat<vblex><inf><pass>$
       1 #beacon\<n\>\<pl\>	^beacon<n><pl>$
+      1 #be# able to\<vblex\>\<inf\>	^be# able to<vblex><inf>$
+      1 #battle\<vblex\>\<inf\>	^battle<vblex><inf><pass>$
       1 #barrister\<n\>\<sg\>	^barrister<n><sg>$
       1 #Barley\<n\>\<sg\>	^Barley<n><sg>$
       1 #barley\<n\>\<sg\>	^barley<n><sg>$
       1 #barb\<n\>\<pl\>	^barb<n><pl>$
+      1 #Aviv\<np\>\<top\>\<sg\>	^Aviv<np><top><sg>$
       1 #All\<det\>\<qnt\>\<pl\>\<gen\>	^All<det><qnt><pl><gen>$
+      1 #Adriatic Sea\<np\>\<top\>\<nt\>\<sg\>	^Adriatic Sea<np><top><nt><sg>$
       1 #accuser\<n\>\<sg\>	^accuser<n><sg>$
       1 #Accuser\<n\>\<pl\>	^Accuser<n><pl>$
 
@@ -240,6 +624,6 @@ Tag mismatch between transfer and generation
 Summary
 ===============================================================================
     0 /tmp/no-en.multiform
-    0 /tmp/no-en.multibidix
-  226 /tmp/no-en.tagmismatch
-  226 total
+   22 /tmp/no-en.multibidix
+  587 /tmp/no-en.tagmismatch
+  609 total
