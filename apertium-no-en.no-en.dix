@@ -201,6 +201,79 @@
     <e slr="2"><p><l>ved<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
     <e slr="3"><p><l>ved<s n="pr"/></l><r>on<s n="pr"/></r></p></e><!-- (near or next to)-->
     
+    <e c="  0"><p><l>bort<s n="pr"/></l><r>beyond<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ned<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>ned<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ut<b/>av<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>inn<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>rundt<s n="pr"/></l><r>round<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>utenfor<s n="pr"/></l><r>outside<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>utenfor<s n="pr"/></l><r>beyond<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>next<b/>to<s n="pr"/></r></p></e>
+    <e slr="2"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>midt<b/>i<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>igjennom<s n="pr"/></l><r>through<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>inntil<s n="pr"/></l><r>next<b/>to<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>inntil<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>langs<s n="pr"/></l><r>along<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>langs<s n="pr"/></l><r>alongside<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>utover<s n="pr"/></l><r>in<b/>addition<b/>to<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>midt<b/>på<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>midt<b/>på<s n="pr"/></l><r>during<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>framfor<s n="pr"/></l><r>in<b/>front<b/>of<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>framfor<s n="pr"/></l><r>in<b/>front<b/>of<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>bak<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>bak<s n="pr"/></l><r>at<b/>the<b/>back<s n="pr"/></r></p></e>
+    <e slr="2"><p><l>bak<s n="pr"/></l><r>at<b/>the<b/>rear<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>innenfor<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>innenfor<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
+    <e slr="2"><p><l>innenfor<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
+    <e slr="3"><p><l>innenfor<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+    <e slr="4"><p><l>innenfor<s n="pr"/></l><r>beneath<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>bortenfor<s n="pr"/></l><r>beyond<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>oppe<b/>på<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>imellom<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>oppå<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>oppå<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>i<b/>samsvar<b/>med<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>bortover<s n="pr"/></l><r>along<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>bortover<s n="pr"/></l><r>alongside<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>bortefra<s n="pr"/></l><r>across<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>bortefra<s n="pr"/></l><r>beyond<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ovenfra<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>ovenfra<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
+    <e slr="2"><p><l>ovenfra<s n="pr"/></l><r>facing<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>nedover<s n="pr"/></l><r>down<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ovenfor<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>ovenfor<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
+    <e slr="2"><p><l>ovenfor<s n="pr"/></l><r>facing<s n="pr"/></r></p></e>
+    <e slr="3"><p><l>ovenfor<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>nedenfor<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>utenom<s n="pr"/></l><r>except<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>bortsett<b/>fra<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>utenfra<s n="pr"/></l><r>outside<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>utenfra<s n="pr"/></l><r>beyond<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>inni<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>inni<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>trass<s n="pr"/></l><r>despite<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>uansett<s n="pr"/></l><r>irrespective<b/>of<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>oppetter<s n="pr"/></l><r>up<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>innpå<s n="pr"/></l><r>close<b/>to<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>innpå<s n="pr"/></l><r>very<b/>close<b/>to<s n="pr"/></r></p></e>
+    <e slr="2"><p><l>innpå<s n="pr"/></l><r>quite<b/>close<b/>to<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>innenfra<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>innenfra<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
+    <e slr="2"><p><l>innenfra<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+    <e slr="3"><p><l>innenfra<s n="pr"/></l><r>beneath<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>forut<s n="pr"/></l><r>apart<b/>from<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>bakenfor<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>bakenfor<s n="pr"/></l><r>at<b/>the<b/>back<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ned<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>ned<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>nedenfra<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
+    
+    
 
     <!-- Pronouns -->
 
