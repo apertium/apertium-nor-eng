@@ -145,6 +145,8 @@
     <e><p><l>slik<b/>at<s n="cnjsub"/></l><r>so<b/>that<s n="cnjsub"/></r></p></e>
     <e><p><l>enn<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e><p><l>som<b/>om<s n="cnjsub"/></l><r>as<b/>if<s n="cnjsub"/></r></p></e>
+    <e><p><l>når<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
+    <e><p><l>til<s n="cnjsub"/></l><r>to<s n="cnjsub"/></r></p></e>
 
     <e c="rel"><p><l>som<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
 
@@ -166,6 +168,8 @@
     <e c="  0"><p><l>over<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>under<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>tilbake<s n="pr"/></l><r>back<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>til<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e slr="1"><p><l>til<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
@@ -294,6 +298,7 @@
     <e slr="2"><p><l>innenfra<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
     <e slr="3"><p><l>innenfra<s n="pr"/></l><r>beneath<s n="pr"/></r></p></e>
     <e c="  0"><p><l>forut<s n="pr"/></l><r>apart<b/>from<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>bakover<s n="pr"/></l><r>backwards<s n="pr"/></r></p></e>
     <e c="  0"><p><l>bakenfor<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
     <e slr="1"><p><l>bakenfor<s n="pr"/></l><r>at<b/>the<b/>back<s n="pr"/></r></p></e>
     <e c="  0"><p><l>ned<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
@@ -483,7 +488,7 @@
 <e c="  0"><p><l>allergi<s n="n"/><s n="m"/></l><r>allergy<s n="n"/></r></p></e>
 <e c="  0"><p><l>allé<s n="n"/><s n="m"/></l><r>avenue<s n="n"/></r></p></e>
 <e slr="1"><p><l>allé<s n="n"/><s n="m"/></l><r>alley<s n="n"/></r></p></e>
-<e c="  0"><p><l>alkohol<s n="n"/><s n="m"/></l><r>alkohol<s n="n"/></r></p></e>
+<e c="  0"><p><l>alkohol<s n="n"/><s n="m"/></l><r>alcohol<s n="n"/></r></p></e>
 <e c="  0"><p><l>alm<s n="n"/><s n="m"/></l> <r>elm<s n="n"/></r></p></e>
 <e c="  0"><p><l>almisse<s n="n"/></l>       <r>alms<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="  0"><p><l>altan<s n="n"/><s n="m"/></l><r>balcony<s n="n"/></r></p></e>
@@ -1587,6 +1592,9 @@
 <e>        <p><l>engasjement<s n="n"/><s n="nt"/></l><r>involvement<s n="n"/></r></p></e>
 <e slr="1"><p><l>engasjement<s n="n"/><s n="nt"/></l><r>engagement<s n="n"/></r></p></e>
 <e>        <p><l>engel<s n="n"/><s n="m"/></l><r>angel<s n="n"/></r></p></e>
+<e>        <p><l>latin<s n="n"/><s n="nt"/></l><r>Latin<s n="n"/></r></p></e>
+<e>        <p><l>engelsk<s n="n"/><s n="nt"/></l><r>English<s n="n"/></r></p></e>
+<e>        <p><l>gammelengelsk<s n="n"/><s n="nt"/></l><r>Old<b/>English<s n="n"/></r></p></e>
 <e>        <p><l>enhet<s n="n"/><s n="m"/></l><r>unit<s n="n"/></r></p></e>
 <e slr="1"><p><l>enhet<s n="n"/><s n="m"/></l><r>unity<s n="n"/></r></p></e>
 <e>        <p><l>enighet<s n="n"/></l>       <r>agreement<s n="n"/></r></p><par n="m_LR_f"/></e>
@@ -1766,6 +1774,7 @@
 <e>        <p><l>fengsel<s n="n"/><s n="nt"/></l><r>jail<s n="n"/></r></p></e>
 <e slr="1"><p><l>fengsel<s n="n"/><s n="nt"/></l><r>prison<s n="n"/></r></p></e>
 <e>        <p><l>fengsling<s n="n"/></l>     <r>imprisonment<s n="n"/></r></p><par n="f|m_LR_f"/></e>
+<e>        <p><l>fennolog<s n="n"/><s n="m"/></l><r>fennologist<s n="n"/></r></p></e>
 <e>        <p><l>fennikel<s n="n"/><s n="m"/></l><r>fennel<s n="n"/></r></p></e>
 <e>        <p><l>fenomen<s n="n"/><s n="nt"/></l><r>phenomenon<s n="n"/></r></p></e>
 <e>        <p><l>fenrik<s n="n"/><s n="m"/></l><r>ensign<s n="n"/></r></p></e>
@@ -4283,6 +4292,12 @@
 <e slr="2"><p><l>nivå<s n="n"/><s n="nt"/></l><r>niveau<s n="n"/></r></p></e>
 <e>        <p><l>nominasjon<s n="n"/><s n="m"/></l><r>nomination<s n="n"/></r></p></e>
 <e>        <p><l>nord<s n="n"/><s n="m"/></l><r>north<s n="n"/></r></p></e>
+<e>        <p><l>nordist<s n="n"/><s n="m"/></l><r>nordist<s n="n"/></r></p></e>
+<e>        <p><l>romanist<s n="n"/><s n="m"/></l><r>romanist<s n="n"/></r></p></e>
+<e>        <p><l>slavist<s n="n"/><s n="m"/></l><r>slavicist<s n="n"/></r></p></e>
+<e>        <p><l>nordisk<s n="n"/><s n="m"/></l><r>Norse<s n="n"/></r></p></e>
+<e>        <p><l>urnordisk<s n="n"/><s n="m"/></l><r>Proto-Norse<s n="n"/></r></p></e>
+<e>        <p><l>urdu<s n="n"/><s n="nt"/></l><r>Urdu<s n="n"/></r></p></e>
 <e>        <p><l>norm<s n="n"/><s n="m"/></l><r>norm<s n="n"/></r></p></e>
 <e slr="1"><p><l>norm<s n="n"/><s n="m"/></l><r>standard<s n="n"/></r></p></e>
 <e>        <p><l>normal<s n="n"/><s n="m"/></l><r>normal<s n="n"/></r></p></e>
@@ -6824,6 +6839,7 @@
 <e>        <p><l>universitetslektor<s n="n"/><s n="m"/></l><r>lecturer<s n="n"/></r></p></e>
 <e>        <p><l>unnarenn<s n="n"/><s n="nt"/></l><r>landing<b/>slope<s n="n"/></r></p></e>
 <e>        <p><l>unnlatelse<s n="n"/><s n="m"/></l><r>omission<s n="n"/></r></p></e>
+<e>        <p><l>unntak<s n="n"/><s n="nt"/></l><r>exception<s n="n"/></r></p></e>
 <e>        <p><l>unåde<s n="n"/><s n="m"/></l><r>disgrace<s n="n"/></r></p></e>
 <e>        <p><l>uorden<s n="n"/><s n="m"/></l><r>disorder<s n="n"/></r></p></e>
 <e>        <p><l>ur<s n="n"/><s n="nt"/></l> <r>clock<s n="n"/></r></p></e>
@@ -6877,6 +6893,8 @@
 <e slr="1"><p><l>utløp<s n="n"/><s n="nt"/></l><r>outlet<s n="n"/></r></p></e>
 <e>        <p><l>utmerkelse<s n="n"/><s n="m"/></l><r>distinction<s n="n"/></r></p></e>
 <e>        <p><l>utrop<s n="n"/><s n="nt"/></l><r>exclamation<s n="n"/></r></p></e>
+<e>        <p><l>utrengsmål<s n="n"/><s n="nt"/></l><r>needlessness<s n="n"/></r></p></e>
+<e slr="1"><p><l>utrengsmål<s n="n"/><s n="nt"/></l><r>out-of-season<s n="n"/></r></p></e>
 <e>        <p><l>utseende<s n="n"/><s n="nt"/></l><r>appearance<s n="n"/></r></p></e>
 <e slr="1"><p><l>utseende<s n="n"/><s n="nt"/></l><r>look<s n="n"/></r></p></e>
 <e slr="2"><p><l>utseende<s n="n"/><s n="nt"/></l><r>semblance<s n="n"/></r></p></e>
@@ -7427,6 +7445,7 @@
     <e><p><l>Carl<s n="np"/><s n="m"/></l><r>Carl<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Christian<s n="np"/><s n="m"/></l><r>Christian<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Frederik<s n="np"/><s n="m"/></l><r>Frederik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Pål<s n="np"/><s n="m"/></l><r>Pål<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 
     <e><p><l>Aurskog-Høland<s n="np"/><s n="top"/></l><r>Aurskog-Høland<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Øst-Agder<s n="np"/><s n="top"/></l><r>Aust-Agder<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -9977,6 +9996,7 @@
     <e c="  0"><p><l>ferdig<s n="adj"/></l><r>finished<s n="adj"/></r></p></e>
     <e slr="1"><p><l>ferdig<s n="adj"/></l><r>exhaust<s n="adj"/></r></p></e>
     <e c="  0"><p><l>fersk<s n="adj"/></l><r>sweet<s n="adj"/><s n="sint"/></r></p></e><!--(not decaying, rancid, ...)-->
+    <e c="  0"><p><l>festlig<s n="adj"/></l><r>fun<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>fin<s n="adj"/></l><r>fine<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>fjern<s n="adj"/></l><r>distant<s n="adj"/></r></p></e>
     <e slr="1"><p><l>fjern<s n="adj"/></l><r>remote<s n="adj"/></r></p></e>
@@ -9984,6 +10004,7 @@
     <e slr="3"><p><l>fjern<s n="adj"/></l><r>far-off<s n="adj"/></r></p></e>
     <e c="  0"><p><l>forferdelig<s n="adj"/></l><r>terrible<s n="adj"/></r></p></e>
     <e c="  0"><p><l>forskjellig<s n="adj"/></l><r>different<s n="adj"/></r></p></e><!--(not the same)-->
+    <e c="  0"><p><l>forbipasserende<s n="adj"/></l><r>passing-by<s n="adj"/></r></p></e> <!--todo-->
     <e c="  0"><p><l>fredelig<s n="adj"/></l><r>peaceful<s n="adj"/></r></p></e>
     <e slr="1"><p><l>fredelig<s n="adj"/></l><r>harmless<s n="adj"/></r></p></e>
     <e c="  0"><p><l>frekk<s n="adj"/></l><r>rude<s n="adj"/><s n="sint"/></r></p></e>
@@ -10087,7 +10108,6 @@
     <e slr="1"><p><l>naken<s n="adj"/></l><r>naked<s n="adj"/></r></p></e>
     <e c="  0"><p><l>nødvendig<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
     <e c="  0"><p><l>nordisk<s n="adj"/></l><r>nordic<s n="adj"/></r></p></e>
-    <e c="  0 scholar"><p><l>nordist<s n="adj"/></l><r>nordist<s n="adj"/></r></p></e>
     <e c="  0"><p><l>norrøn<s n="adj"/></l><r>norse<s n="adj"/></r></p></e>
     <e c="  0"><p><l>ond<s n="adj"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="1"><p><l>ond<s n="adj"/></l><r>evil<s n="adj"/></r></p></e>
@@ -10173,6 +10193,7 @@
     <e c="  0"><p><l>svart<s n="adj"/></l><r>black<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="1"><p><l>svart<s n="adj"/></l><r>illegal<s n="adj"/></r></p></e>
     <e c="  0"><p><l>synlig<s n="adj"/></l><r>visible<s n="adj"/></r></p></e><!--(able to be seen)-->
+    <e c="  0"><p><l>taus<s n="adj"/></l><r>silent<s n="adj"/></r></p></e>
     <e c="  0"><p><l>tålmodig<s n="adj"/></l><r>patient<s n="adj"/></r></p></e><!--(not losing one's temper while waiting)-->
     <e c="  0"><p><l>tilfeldig<s n="adj"/></l><r>accidental<s n="adj"/></r></p></e>
     <e slr="1"><p><l>tilfeldig<s n="adj"/></l><r>casual<s n="adj"/></r></p></e>
@@ -10263,6 +10284,13 @@
     <e slr="4"><p><l>slik<s n="adv"/></l><r>like<b/>this<s n="adv"/></r></p></e>
     <e slr="5"><p><l>slik<s n="adv"/></l><r>such<s n="adv"/></r></p></e>
 
+    <e c="  0"><p><l>sånn<s n="adv"/></l><r>so<s n="cnjadv"/></r></p></e>
+    <e slr="1"><p><l>sånn<s n="adv"/></l><r>in<b/>this<b/>way<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>sånn<s n="adv"/></l><r>like<b/>that<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>sånn<s n="adv"/></l><r>that<b/>way<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>sånn<s n="adv"/></l><r>like<b/>this<s n="adv"/></r></p></e>
+    <e slr="5"><p><l>sånn<s n="adv"/></l><r>such<s n="adv"/></r></p></e>
+
     <e c="  0"><p><l>akkurat<s n="adv"/></l><r>right<s n="adv"/></r></p></e> 
     <e slr="1"><p><l>akkurat<s n="adv"/></l><r>exactly<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>aldri<s n="adv"/></l><r>never<s n="adv"/></r></p></e> <!--(at no time)-->
@@ -10276,6 +10304,9 @@
     <e slr="2"><p><l>bare<s n="adv"/></l><r>just<s n="adv"/></r></p></e> 
     <e slr="3"><p><l>bare<s n="adv"/></l><r>but<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>der<s n="adv"/></l><r>there<s n="adv"/></r></p></e> 
+    <e c="  0"><p><l>enda<s n="adv"/></l><r>even<s n="adv"/></r></p></e> 
+    <e c="  0"><p><l>eneste<s n="adv"/></l><r>single<s n="adv"/></r></p></e> 
+    <e slr="1"><p><l>eneste<s n="adv"/></l><r>only<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>engang<s n="adv"/></l><r>once<s n="adv"/></r></p></e> 
     <e slr="1"><p><l>engang<s n="adv"/></l><r>one<b/>day<s n="adv"/></r></p></e> 
     <e slr="2"><p><l>engang<s n="adv"/></l><r>at<b/>one<b/>time<s n="adv"/></r></p></e> 
@@ -10626,6 +10657,7 @@
     <e c="  0"><p><l>alltid<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
     <e slr="1"><p><l>alltid<s n="adv"/></l><r>anyway<s n="adv"/></r></p></e>
 
+    <e c="  0"><p><l>vanligvis<s n="adv"/></l><r>usually<s n="adv"/></r></p></e>
     <e c="  0"><p><l>fra<s n="adv"/></l><r>from<s n="adv"/></r></p></e>
 
 
@@ -10642,7 +10674,9 @@
     <e c="  0"><p><l>bli</l><r>become<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>skape</l><r>create<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>ligge</l><r>lie<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e c="  0"><p><l>si</l><r>say<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>si</l><r>say<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="1"><p><l>si</l><r>tell<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="2"><p><l>si</l><r>mean<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>se</l><r>see<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>skille</l><r>split<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>skille</l><r>separate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -10677,14 +10711,12 @@
     <e c="  0"><p><l>så</l><r>sow<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>så</l><r>scatter<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="2"><p><l>så</l><r>disperse<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e c="  0"><p><l>sige</l><r>say<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="1"><p><l>sige</l><r>tell<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="2"><p><l>sige</l><r>mean<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>mene</l><r>mean<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>mene</l><r>think<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="2"><p><l>mene</l><r>hold<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="3"><p><l>mene</l><r>consider<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>få</l><r>get<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (receive)-->
+    <e c="  0"><p><l>anta</l><r>presume<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (receive)-->
     <e c="  0"><p><l>ville</l><r>want<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>ville</l><r>be<g><b/>willing<b/>to</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="2"><p><l>ville</l><r>shall<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
@@ -10917,6 +10949,7 @@
     <e slr="3"><p><l>ligne</l><r>be<g><b/>like</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="4"><p><l>ligne</l><r>assess<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (taxation)-->
     <e c="  0"><p><l>snakke</l><r>speak<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e c="  0"><p><l>baksnakke</l><r>slander<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!--talk behind someone's back-->
     <e c="  0"><p><l>juble</l><r>jubilate<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>juble</l><r>rejoice<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>ære</l><r>honour<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
@@ -11289,16 +11322,16 @@
     <e slr="1"><p><l>forføre</l><r>corrupt<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>samtale</l><r>converse<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (to engage in conversation)-->
     <e c="  0"><p><l>økse</l><r>axe<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (rare) axe to chop with an axe-->
-    <e c="  0"><p><l>lave</l><r>make<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="1"><p><l>lave</l><r>create<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="2"><p><l>lave</l><r>construct<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="3"><p><l>lave</l><r>produce<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="4"><p><l>lave</l><r>cook<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="5"><p><l>lave</l><r>prepare<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="6"><p><l>lave</l><r>do<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="7"><p><l>lave</l><r>repair<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="8"><p><l>lave</l><r>mend<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="9"><p><l>lave</l><r>fix<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e c="  0"><p><l>lage</l><r>make<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="1"><p><l>lage</l><r>create<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="2"><p><l>lage</l><r>construct<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="3"><p><l>lage</l><r>produce<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="4"><p><l>lage</l><r>cook<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="5"><p><l>lage</l><r>prepare<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="6"><p><l>lage</l><r>do<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="7"><p><l>lage</l><r>repair<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="8"><p><l>lage</l><r>mend<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="9"><p><l>lage</l><r>fix<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>hviske</l><r>whisper<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>hagle</l><r>hail<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (weather)-->
     <e c="  0"><p><l>unngå</l><r>avoid<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
@@ -12185,7 +12218,6 @@
     <e c="  0"><p><l>demme</l><r>stem<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>fortelle</l><r>tell<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>fortelle</l><r>narrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e c="  0"><p><l>lage</l><r>make<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>gange</l><r>walk<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>gange</l><r>tread<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="2"><p><l>gange</l><r>time<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
