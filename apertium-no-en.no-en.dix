@@ -2592,6 +2592,8 @@
 <e>        <p><l>hjulbåt<s n="n"/><s n="m"/></l><r>wheelboat<s n="n"/></r></p></e>
 <e>        <p><l>hjulspor<s n="n"/><s n="nt"/></l><r>rut<s n="n"/></r></p></e>
 <e>        <p><l>hjørne<s n="n"/><s n="nt"/></l><r>corner<s n="n"/></r></p></e>
+<e>        <p><l>hjårple<s n="n"/><s n="nt"/></l><r>potato<s n="n"/></r></p></e>
+<e>        <p><l>hjorple<s n="n"/><s n="nt"/></l><r>potato<s n="n"/></r></p></e>
 <e>        <p><l>hode<s n="n"/><s n="nt"/></l><r>head<s n="n"/></r></p></e>
 <e>        <p><l>hofteledd<s n="n"/><s n="nt"/></l><r>hip<b/>joint<s n="n"/></r></p></e>
 <e>        <p><l>hogg<s n="n"/><s n="nt"/></l><r>chop<s n="n"/></r></p></e>
@@ -2650,7 +2652,7 @@
 <e>        <p><l>hus<s n="n"/><s n="nt"/></l><r>house<s n="n"/></r></p></e>
 <e slr="1"><p><l>hus<s n="n"/><s n="nt"/></l><r>home<s n="n"/></r></p></e>
 <e>        <p><l>husarbeid<s n="n"/><s n="nt"/></l><r>chores<s n="n"/></r></p></e>
-<e>        <p><l>husdyr<s n="n"/><s n="nt"/></l><r>pet<s n="n"/></r></p></e>
+<e>        <p><l>husdyr<s n="n"/><s n="nt"/></l><r>farm<b/>animal<s n="n"/></r></p></e>
 <e>        <p><l>huske<s n="n"/></l>         <r>see-saw<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>huske<s n="n"/></l>         <r>swing<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>husokkupasjon<s n="n"/><s n="m"/></l><r>squatting<s n="n"/></r></p></e>
@@ -3095,8 +3097,405 @@
 <e>        <p><l>kjeks<s n="n"/><s n="m"/></l><r>biscuit<s n="n"/></r></p></e>
 <e slr="1"><p><l>kjeks<s n="n"/><s n="m"/></l><r>wafer<s n="n"/></r></p></e>
 <e slr="2"><p><l>kjeks<s n="n"/><s n="m"/></l><r>cookie<s n="n"/></r></p></e>
-
+<e>        <p><l>kjele<s n="n"/><s n="m"/></l><r>cauldron<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjele<s n="n"/><s n="m"/></l><r>kettle<s n="n"/></r></p></e>
+<e slr="2"><p><l>kjele<s n="n"/><s n="m"/></l><r>saucepan<s n="n"/></r></p></e>
+<e slr="3"><p><l>kjele<s n="n"/><s n="m"/></l><r>boiler<s n="n"/></r></p></e>
+<e>        <p><l>kjeledress<s n="n"/><s n="m"/></l><r>overall<s n="n"/></r></p></e>
+<e>        <p><l>kjelke<s n="n"/><s n="m"/></l><r>sled<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjelke<s n="n"/><s n="m"/></l><r>toboggan<s n="n"/></r></p></e>
+<e>        <p><l>kjeller<s n="n"/><s n="m"/></l><r>basement<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjeller<s n="n"/><s n="m"/></l><r>cellar<s n="n"/></r></p></e>
+<e>        <p><l>kjeltring<s n="n"/><s n="m"/></l><r>villain<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjeltring<s n="n"/><s n="m"/></l><r>rascal<s n="n"/></r></p></e>
+<e slr="2"><p><l>kjeltring<s n="n"/><s n="m"/></l><r>scoundrel<s n="n"/></r></p></e>
+<e>        <p><l>kjemi<s n="n"/><s n="m"/></l><r>chemistry<s n="n"/></r></p></e>
+<e>        <p><l>kjempe<s n="n"/></l>        <r>giant<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kjendis<s n="n"/><s n="m"/></l><r>celebrity<s n="n"/></r></p></e>
+<e>        <p><l>kjenne<s n="n"/><s n="nt"/></l><r>feel<s n="n"/></r></p></e>
+<e>        <p><l>kjennemerke<s n="n"/><s n="nt"/></l><r>mark<s n="n"/></r></p></e>
+<e>        <p><l>kjennetegn<s n="n"/><s n="nt"/></l><r>attribute<s n="n"/></r></p></e>
+<e>        <p><l>kjenning<s n="n"/></l>      <r>acquaintance<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>kjenning<s n="n"/></l>      <r>friend<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kjennskap<s n="n"/><s n="nt"/></l><r>knowledge<s n="n"/></r></p></e>
+<e>        <p><l>kjepp<s n="n"/><s n="m"/></l><r>stick<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjepp<s n="n"/><s n="m"/></l><r>rod<s n="n"/></r></p></e>
+<e>        <p><l>kjerne<s n="n"/></l>        <r>core<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>kjerne<s n="n"/></l>        <r>heart<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kjerr<s n="n"/><s n="nt"/></l><r>thicket<s n="n"/></r></p></e>
+<e>        <p><l>kjertel<s n="n"/><s n="m"/></l><r>gland<s n="n"/></r></p></e>
+<e>        <p><l>kjetteri<s n="n"/><s n="nt"/></l><r>heresy<s n="n"/></r></p></e>
+<e>        <p><l>kjeve<s n="n"/><s n="m"/></l><r>jaw<s n="n"/></r></p></e>
+<e>        <p><l>kjevle<s n="n"/><s n="nt"/></l><r>rolling-pin<s n="n"/></r></p></e>
+<e>        <p><l>kjole<s n="n"/><s n="m"/></l><r>dress<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjole<s n="n"/><s n="m"/></l><r>frock<s n="n"/></r></p></e>
+<e slr="2"><p><l>kjole<s n="n"/><s n="m"/></l><r>tuxedo<s n="n"/></r></p></e>
+<e>        <p><l>kjæledyr<s n="n"/><s n="nt"/></l><r>pet<s n="n"/></r></p></e>
+<e>        <p><l>kjæreste<s n="n"/><s n="m"/></l><r>sweetheart<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjæreste<s n="n"/><s n="m"/></l><r>love<s n="n"/></r></p></e>
+<e>        <p><l>kjærlighet<s n="n"/></l>    <r>love<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kjøkken<s n="n"/><s n="nt"/></l><r>kitchen<s n="n"/></r></p></e>
+<e>        <p><l>kjøkkenutstyr<s n="n"/><s n="nt"/></l><r>kitchen<b/>utensils<s n="n"/></r></p></e>
+<e>        <p><l>kjøl<s n="n"/><s n="m"/></l><r>keel<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjøl<s n="n"/><s n="m"/></l><r>fridge<s n="n"/></r></p></e>
+<e>        <p><l>kjøleskap<s n="n"/><s n="nt"/></l><r>refrigerator<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjøleskap<s n="n"/><s n="nt"/></l><r>fridge<s n="n"/></r></p></e>
+<e>        <p><l>kjølvann<s n="n"/><s n="nt"/></l><r>wake<s n="n"/></r></p></e>
+<e>        <p><l>kjønn<s n="n"/><s n="nt"/></l><r>gender<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjønn<s n="n"/><s n="nt"/></l><r>sex<s n="n"/></r></p></e>
+<e>        <p><l>kjønnssykdom<s n="n"/><s n="m"/></l><r>sexually<b/>transmitted<b/>disease<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjønnssykdom<s n="n"/><s n="m"/></l><r>venereal<b/>disease<s n="n"/></r></p></e>
+<e>        <p><l>kjøp<s n="n"/><s n="nt"/></l><r>purchase<s n="n"/></r></p></e>
+<e>        <p><l>kjøpesenter<s n="n"/><s n="nt"/></l><r>mall<s n="n"/></r></p></e>
+<e>        <p><l>kjøpesum<s n="n"/><s n="m"/></l><r>price<s n="n"/></r></p></e>
+<e>        <p><l>kjøpmann<s n="n"/><s n="m"/></l><r>merchant<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjøpmann<s n="n"/><s n="m"/></l><r>grocer<s n="n"/></r></p></e>
+<e slr="2"><p><l>kjøpmann<s n="n"/><s n="m"/></l><r>storekeeper<s n="n"/></r></p></e>
+<e slr="3"><p><l>kjøpmann<s n="n"/><s n="m"/></l><r>shopkeeper<s n="n"/></r></p></e>
+<e>        <p><l>kjørefelt<s n="n"/><s n="nt"/></l><r>lane<s n="n"/></r></p></e>
+<e>        <p><l>kjørekar<s n="n"/><s n="m"/></l><r>waggoner<s n="n"/></r></p></e>
+<e>        <p><l>kjøretur<s n="n"/><s n="m"/></l><r>ride<s n="n"/></r></p></e>
+<e>        <p><l>kjøretøy<s n="n"/><s n="nt"/></l><r>vehicle<s n="n"/></r></p></e>
+<e>        <p><l>kjørvel<s n="n"/><s n="m"/></l><r>chervil<s n="n"/></r></p></e>
+<e>        <p><l>kjøter<s n="n"/><s n="m"/></l><r>mongrel<s n="n"/></r></p></e>
+<e slr="1"><p><l>kjøter<s n="n"/><s n="m"/></l><r>dog<s n="n"/></r></p></e>
+<e c="  0"><p><l>kjøtt<s n="n"/><s n="nt"/></l><r>flesh<s n="n"/></r></p></e><!-- meat of my meat -->
+<e slr="1"><p><l>kjøtt<s n="n"/><s n="nt"/></l><r>meat<s n="n"/></r></p></e>
+<e>        <p><l>klaff<s n="n"/><s n="m"/></l><r>valve<s n="n"/></r></p></e>
+<e slr="1"><p><l>klaff<s n="n"/><s n="m"/></l><r>flap<s n="n"/></r></p></e>
+<e>        <p><l>klage<s n="n"/></l>         <r>complaint<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>klage<s n="n"/></l>         <r>wailing<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>klagemål<s n="n"/><s n="nt"/></l><r>grievance<s n="n"/></r></p></e>
+<e>        <p><l>klageskrift<s n="n"/><s n="nt"/></l><r>plaint<s n="n"/></r></p></e>
+<e>        <p><l>klammeri<s n="n"/><s n="nt"/></l><r>brawl<s n="n"/></r></p></e>
+<e>        <p><l>klang<s n="n"/><s n="m"/></l><r>sound<s n="n"/></r></p></e>
+<e slr="1"><p><l>klang<s n="n"/><s n="m"/></l><r>tone<s n="n"/></r></p></e>
+<e slr="2"><p><l>klang<s n="n"/><s n="m"/></l><r>acoustics<s n="n"/></r></p></e>
+<e>        <p><l>klapperslange<s n="n"/><s n="m"/></l><r>rattlesnake<s n="n"/></r></p></e>
+<e>        <p><l>klappstol<s n="n"/><s n="m"/></l><r>folding<b/>chair<s n="n"/></r></p></e>
+<e>        <p><l>klask<s n="n"/><s n="nt"/></l><r>whack<s n="n"/></r></p></e>
+<e slr="1"><p><l>klask<s n="n"/><s n="nt"/></l><r>smack<s n="n"/></r></p></e>
+<e>        <p><l>klasse<s n="n"/></l>        <r>grade<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>klasse<s n="n"/></l>        <r>class<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>klatt<s n="n"/><s n="m"/></l><r>blot<s n="n"/></r></p></e>
+<e>        <p><l>klaviatur<s n="n"/><s n="nt"/></l><r>keyboard<s n="n"/></r></p></e>
+<e>        <p><l>kleberstein<s n="n"/><s n="m"/></l><r>steatite<s n="n"/></r></p></e>
+<e>        <p><l>kledning<s n="n"/><s n="m"/></l><r>clothing<s n="n"/></r></p></e>
+<e>        <p><l>klegg<s n="n"/><s n="m"/></l><r>horsefly<s n="n"/></r></p></e>
+<e slr="1"><p><l>klegg<s n="n"/><s n="m"/></l><r>gadfly<s n="n"/></r></p></e>
+<e>        <p><l>klem<s n="n"/><s n="m"/></l><r>hug<s n="n"/></r></p></e>
+<e>        <p><l>klenodie<s n="n"/><s n="nt"/></l><r>treasure<s n="n"/></r></p></e>
+<e>        <p><l>kleptoman<s n="n"/><s n="m"/></l><r>kleptomaniac<s n="n"/></r></p></e>
+<e>        <p><l>klesbørste<s n="n"/><s n="m"/></l><r>clothes-brush<s n="n"/></r></p></e>
+<e>        <p><l>klesplagg<s n="n"/><s n="nt"/></l><r>garment<s n="n"/></r></p></e>
+<e>        <p><l>klesskap<s n="n"/><s n="nt"/></l><r>wardrobe<s n="n"/></r></p></e>
+<e>        <p><l>kli<s n="n"/><s n="nt"/></l><r>bran<s n="n"/></r></p></e>
+<e>        <p><l>klient<s n="n"/><s n="m"/></l><r>client<s n="n"/></r></p></e>
+<e>        <p><l>klima<s n="n"/><s n="nt"/></l><r>climate<s n="n"/></r></p></e>
+<e>        <p><l>klimaanlegg<s n="n"/><s n="nt"/></l><r>airconditioning<s n="n"/></r></p></e>
+<e>        <p><l>klimakterium<s n="n"/><s n="nt"/></l><r>menopause<s n="n"/></r></p></e>
+<e>        <p><l>klining<s n="n"/></l>       <r>smooching<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>klinke<s n="n"/></l>        <r>latch<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>klinke<s n="n"/></l>        <r>rivet<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>klinkekule<s n="n"/></l>    <r>marble<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kloakk<s n="n"/><s n="m"/></l><r>sewage<s n="n"/></r></p></e>
+<e>        <p><l>kloakkanlegg<s n="n"/><s n="nt"/></l><r>sewerage<s n="n"/></r></p></e>
+<e>        <p><l>klode<s n="n"/><s n="m"/></l><r>sphere<s n="n"/></r></p></e>
+<e>        <p><l>klokke<s n="n"/></l>        <r>clock<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>klokke<s n="n"/></l>        <r>bell<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="~ of day"><p><l>klokkeslett<s n="n"/><s n="nt"/></l><r>time<s n="n"/></r></p></e>
+<e>        <p><l>klokskap<s n="n"/><s n="m"/></l><r>wisdom<s n="n"/></r></p></e>
+<e slr="1"><p><l>klokskap<s n="n"/><s n="m"/></l><r>sagacity<s n="n"/></r></p></e>
+<e slr="2"><p><l>klokskap<s n="n"/><s n="m"/></l><r>prudence<s n="n"/></r></p></e>
+<e>        <p><l>kloster<s n="n"/><s n="nt"/></l><r>monastery<s n="n"/></r></p></e>
+<e>        <p><l>klump<s n="n"/><s n="m"/></l><r>lump<s n="n"/></r></p></e>
+<e slr="1"><p><l>klump<s n="n"/><s n="m"/></l><r>wad<s n="n"/></r></p></e>
+<e>        <p><l>klut<s n="n"/><s n="m"/></l><r>rag<s n="n"/></r></p></e>
+<e>        <p><l>klynge<s n="n"/></l>        <r>cluster<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>klynge<s n="n"/></l>        <r>knot<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>klynge<s n="n"/></l>        <r>huddle<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>klyver<s n="n"/><s n="m"/></l><r>jib<s n="n"/></r></p></e>
+<e>        <p><l>klær<s n="n"/><s n="nt"/></l><r>clothes<s n="n"/></r></p></e>
+<e>        <p><l>kløe<s n="n"/><s n="m"/></l><r>itch<s n="n"/></r></p></e>
+<e>        <p><l>kløver<s n="n"/><s n="m"/></l><r>clover<s n="n"/></r></p></e>
+<e slr="1"><p><l>kløver<s n="n"/><s n="m"/></l><r>shamrock<s n="n"/></r></p></e>
+<e>        <p><l>knagg<s n="n"/><s n="m"/></l><r>hook<s n="n"/></r></p></e>
+<e>        <p><l>knallsuksess<s n="n"/><s n="m"/></l><r>roaring<b/>success<s n="n"/></r></p></e>
+<e>        <p><l>knapp<s n="n"/><s n="m"/></l><r>button<s n="n"/></r></p></e>
+<e>        <p><l>knapphet<s n="n"/></l>      <r>shortage<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>knapphet<s n="n"/></l>      <r>scantness<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>knaus<s n="n"/><s n="m"/></l><r>knoll<s n="n"/></r></p></e>
+<e>        <p><l>kne<s n="n"/><s n="nt"/></l><r>knee<s n="n"/></r></p></e>
+<e>        <p><l>knebel<s n="n"/><s n="m"/></l><r>gag<s n="n"/></r></p></e>
+<e>        <p><l>kneledd<s n="n"/><s n="nt"/></l><r>kneejoint<s n="n"/></r></p></e>
+<e>        <p><l>knep<s n="n"/><s n="nt"/></l><r>ploy<s n="n"/></r></p></e>
+<e slr="1"><p><l>knep<s n="n"/><s n="nt"/></l><r>gimmick<s n="n"/></r></p></e>
+<e slr="2"><p><l>knep<s n="n"/><s n="nt"/></l><r>trick<s n="n"/></r></p></e>
+<e slr="3"><p><l>knep<s n="n"/><s n="nt"/></l><r>knack<s n="n"/></r></p></e>
+<e slr="4"><p><l>knep<s n="n"/><s n="nt"/></l><r>stunt<s n="n"/></r></p></e>
+<e>        <p><l>kniv<s n="n"/><s n="m"/></l><r>knife<s n="n"/></r></p></e>
+<e>        <p><l>knivsmed<s n="n"/><s n="m"/></l><r>cutler<s n="n"/></r></p></e>
+<e>        <p><l>knoke<s n="n"/><s n="m"/></l><r>knuckle<s n="n"/></r></p></e>
+<e>        <p><l>knoll<s n="n"/><s n="m"/></l><r>root<s n="n"/></r></p></e>
+<e>        <p><l>knop<s n="n"/><s n="m"/></l><r>knot<s n="n"/></r></p></e>
+<e>        <p><l>knott<s n="n"/><s n="m"/></l><r>midge<s n="n"/></r></p></e>
+<e slr="1"><p><l>knott<s n="n"/><s n="m"/></l><r>knob<s n="n"/></r></p></e>
+<e>        <p><l>knute<s n="n"/><s n="m"/></l><r>knot<s n="n"/></r></p></e>
+<e>        <p><l>knutepunkt<s n="n"/><s n="nt"/></l><r>junction<s n="n"/></r></p></e>
+<e>        <p><l>knytte<s n="n"/><s n="nt"/></l><r>attach<s n="n"/></r></p></e>
+<e slr="1"><p><l>knytte<s n="n"/><s n="nt"/></l><r>tie<s n="n"/></r></p></e>
+<e slr="2"><p><l>knytte<s n="n"/><s n="nt"/></l><r>add<s n="n"/></r></p></e>
+<e slr="3"><p><l>knytte<s n="n"/><s n="nt"/></l><r>fasten<s n="n"/></r></p></e>
+<e slr="4"><p><l>knytte<s n="n"/><s n="nt"/></l><r>clamp<s n="n"/></r></p></e>
+<e>        <p><l>knyttneve<s n="n"/><s n="m"/></l><r>fist<s n="n"/></r></p></e>
+<e>        <p><l>koffert<s n="n"/><s n="m"/></l><r>suitcase<s n="n"/></r></p></e>
+<e slr="1"><p><l>koffert<s n="n"/><s n="m"/></l><r>trunk<s n="n"/></r></p></e>
+<e>        <p><l>kogger<s n="n"/><s n="nt"/></l><r>quiver<s n="n"/></r></p></e>
+<e>        <p><l>kokk<s n="n"/><s n="m"/></l><r>chef<s n="n"/></r></p></e>
+<e slr="1"><p><l>kokk<s n="n"/><s n="m"/></l><r>cook<s n="n"/></r></p></e>
+<e>        <p><l>kokong<s n="n"/><s n="m"/></l><r>cocoon<s n="n"/></r></p></e>
+<e>        <p><l>kolbe<s n="n"/><s n="m"/></l><r>flask<s n="n"/></r></p></e>
+<e>        <p><l>kollega<s n="n"/><s n="m"/></l><r>associate<s n="n"/></r></p></e>
+<e c="airplane baggage allowance"><p><l>kolli<s n="n"/><s n="nt"/></l><r>parcel<s n="n"/></r></p></e>
+<e slr="1"><p><l>kolli<s n="n"/><s n="nt"/></l><r>package<s n="n"/></r></p></e>
+<e>        <p><l>koloni<s n="n"/><s n="m"/></l><r>colony<s n="n"/></r></p></e>
+<e slr="1"><p><l>koloni<s n="n"/><s n="m"/></l><r>settlement<s n="n"/></r></p></e>
+<e>        <p><l>kolonist<s n="n"/><s n="m"/></l><r>settler<s n="n"/></r></p></e>
+<e>        <p><l>kolonne<s n="n"/><s n="m"/></l><r>column<s n="n"/></r></p></e>
+<e>        <p><l>komfyr<s n="n"/><s n="m"/></l><r>stove<s n="n"/></r></p></e>
+<e>        <p><l>kommandittselskap<s n="n"/><s n="nt"/></l><r>limited<b/>partnership<s n="n"/></r></p></e>
+<e>        <p><l>komme<s n="n"/><s n="nt"/></l><r>coming<s n="n"/></r></p></e>
+<e>        <p><l>kommode<s n="n"/><s n="m"/></l><r>dresser<s n="n"/></r></p></e>
+<e>        <p><l>kommunikasjon<s n="n"/><s n="m"/></l><r>communication<s n="n"/></r></p></e>
+<e>        <p><l>kommunist<s n="n"/><s n="m"/></l><r>communist<s n="n"/></r></p></e>
+<e>        <p><l>kompanjong<s n="n"/><s n="m"/></l><r>partner<s n="n"/></r></p></e>
+<e>        <p><l>kompass<s n="n"/><s n="nt"/></l><r>compass<s n="n"/></r></p></e>
+<e>        <p><l>kompe<s n="n"/></l>        <r>potato<b/>ball<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>komplott<s n="n"/><s n="nt"/></l><r>plot<s n="n"/></r></p></e>
+<e>        <p><l>komponent<s n="n"/><s n="m"/></l><r>unit<s n="n"/></r></p></e>
+<e>        <p><l>kondisjon<s n="n"/><s n="m"/></l><r>health<s n="n"/></r></p></e>
+<e slr="1"><p><l>kondisjon<s n="n"/><s n="m"/></l><r>fitness<s n="n"/></r></p></e>
+<e slr="1"><p><l>kondisjon<s n="n"/><s n="m"/></l><r>condition<s n="n"/></r></p></e>
+<e>        <p><l>konditori<s n="n"/><s n="nt"/></l><r>confectionery<s n="n"/></r></p></e>
+<e>        <p><l>konduktør<s n="n"/><s n="m"/></l><r>conductor<s n="n"/></r></p></e>
+<e slr="1"><p><l>konduktør<s n="n"/><s n="m"/></l><r>guard<s n="n"/></r></p></e>
+<e>        <p><l>kone<s n="n"/></l>          <r>wife<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>kone<s n="n"/></l>          <r>woman<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>konfigurasjon<s n="n"/><s n="m"/></l><r>configuration<s n="n"/></r></p></e>
+<e>        <p><l>konfirmant<s n="n"/><s n="m"/></l><r>confirmand<s n="n"/></r></p></e>
+<e>        <p><l>konfirmasjon<s n="n"/><s n="m"/></l><r>confirmation<s n="n"/></r></p></e>
+<e>        <p><l>konge<s n="n"/><s n="m"/></l><r>king<s n="n"/></r></p></e>
+<e>        <p><l>kongerike<s n="n"/><s n="nt"/></l><r>kingdom<s n="n"/></r></p></e>
+<e slr="1"><p><l>kongerike<s n="n"/><s n="nt"/></l><r>realm<s n="n"/></r></p></e>
+<e>        <p><l>konjakk<s n="n"/><s n="m"/></l><r>brandy<s n="n"/></r></p></e>
+<e>        <p><l>konjunktiv<s n="n"/><s n="m"/></l><r>conjunctive<s n="n"/></r></p></e>
+<e slr="1"><p><l>konjunktiv<s n="n"/><s n="m"/></l><r>subjunctive<s n="n"/></r></p></e>
+<e>        <p><l>konkret<s n="n"/><s n="nt"/></l><r>concrete<s n="n"/></r></p></e>
+<e>        <p><l>konkurranse<s n="n"/><s n="m"/></l><r>competition<s n="n"/></r></p></e>
+<e slr="1"><p><l>konkurranse<s n="n"/><s n="m"/></l><r>trials<s n="n"/></r></p></e>
+<e slr="2"><p><l>konkurranse<s n="n"/><s n="m"/></l><r>contest<s n="n"/></r></p></e>
+<e>        <p><l>konkurrent<s n="n"/><s n="m"/></l><r>rival<s n="n"/></r></p></e>
+<e>        <p><l>konnossement<s n="n"/><s n="nt"/></l><r>bill<b/>of<b/>lading<s n="n"/></r></p></e>
+<e>        <p><l>konsekvens<s n="n"/><s n="m"/></l><r>consequence<s n="n"/></r></p></e>
+<e>        <p><l>konsert<s n="n"/><s n="m"/></l><r>concert<s n="n"/></r></p></e>
+<e slr="1"><p><l>konsert<s n="n"/><s n="m"/></l><r>recital<s n="n"/></r></p></e>
+<e>        <p><l>konserveringsmiddel<s n="n"/><s n="nt"/></l><r>preservative<s n="n"/></r></p></e>
+<e>        <p><l>konsoll<s n="n"/><s n="m"/></l><r>console<s n="n"/></r></p></e>
+<e slr="1"><p><l>konsoll<s n="n"/><s n="m"/></l><r>bracket<s n="n"/></r></p></e>
+<e>        <p><l>konstabel<s n="n"/><s n="m"/></l><r>constable<s n="n"/></r></p></e>
+<e>        <p><l>konsulat<s n="n"/><s n="nt"/></l><r>consulate<s n="n"/></r></p></e>
+<e>        <p><l>konsulent<s n="n"/><s n="m"/></l><r>consultant<s n="n"/></r></p></e>
+<e slr="1"><p><l>konsulent<s n="n"/><s n="m"/></l><r>secretary<s n="n"/></r></p></e>
+<e slr="2"><p><l>konsulent<s n="n"/><s n="m"/></l><r>clerk<s n="n"/></r></p></e>
+<e>        <p><l>kontakt<s n="n"/><s n="m"/></l><r>contact<s n="n"/></r></p></e>
+<e slr="1" c="electric ~"><p><l>kontakt<s n="n"/><s n="m"/></l><r>outlet<s n="n"/></r></p></e>
+<e>        <p><l>kontinent<s n="n"/><s n="nt"/></l><r>continent<s n="n"/></r></p></e>
+<e>        <p><l>konto<s n="n"/><s n="m"/></l><r>account<s n="n"/></r></p></e>
+<e>        <p><l>kontor<s n="n"/><s n="nt"/></l><r>office<s n="n"/></r></p></e>
+<e slr="1"><p><l>kontor<s n="n"/><s n="nt"/></l><r>bureau<s n="n"/></r></p></e>
+<e>        <p><l>kontorist<s n="n"/><s n="m"/></l><r>clerk<s n="n"/></r></p></e>
+<e>        <p><l>kontroll<s n="n"/><s n="m"/></l><r>control<s n="n"/></r></p></e>
+<e slr="1"><p><l>kontroll<s n="n"/><s n="m"/></l><r>inspection<s n="n"/></r></p></e>
+<e slr="2"><p><l>kontroll<s n="n"/><s n="m"/></l><r>supervision<s n="n"/></r></p></e>
+<e>        <p><l>kontrollpanel<s n="n"/><s n="nt"/></l><r>control<b/>panel<s n="n"/></r></p></e>
+<e>        <p><l>konversasjonsleksikon<s n="n"/><s n="nt"/></l><r>encyclopedia<s n="n"/></r></p></e>
+<e>        <p><l>konvolutt<s n="n"/><s n="m"/></l><r>envelope<s n="n"/></r></p></e>
+<e>        <p><l>kopi<s n="n"/><s n="m"/></l><r>copy<s n="n"/></r></p></e>
+<e slr="1"><p><l>kopi<s n="n"/><s n="m"/></l><r>transcript<s n="n"/></r></p></e>
+<e>        <p><l>koplingsboks<s n="n"/><s n="m"/></l><r>wiring<b/>box<s n="n"/></r></p></e>
+<e>        <p><l>kopp<s n="n"/><s n="m"/></l><r>cup<s n="n"/></r></p></e>
+<e>        <p><l>koppel<s n="n"/><s n="nt"/></l><r>leash<s n="n"/></r></p></e>
+<e>        <p><l>kopper<s n="n"/><s n="nt"/></l><r>copper<s n="n"/></r></p></e>
+<e>        <p><l>kopperstikk<s n="n"/><s n="nt"/></l><r>copperplate<s n="n"/></r></p></e>
+<e>        <p><l>kor<s n="n"/><s n="nt"/></l><r>choir<s n="n"/></r></p></e>
+<e slr="1"><p><l>kor<s n="n"/><s n="nt"/></l><r>chorus<s n="n"/></r></p></e>
+<e>        <p><l>kordfløyel<s n="n"/><s n="nt"/></l><r>corduroy<s n="n"/></r></p></e>
+<e>        <p><l>korint<s n="n"/><s n="m"/></l><r>currant<s n="n"/></r></p></e>
+<e>        <p><l>kork<s n="n"/><s n="m"/></l><r>cork<s n="n"/></r></p></e>
+<e>        <p><l>korn<s n="n"/><s n="nt"/></l><r>grain<s n="n"/></r></p></e>
+<e>        <p><l>korrektur<s n="n"/><s n="m"/></l><r>proof<s n="n"/></r></p></e>
+<e>        <p><l>korridor<s n="n"/><s n="m"/></l><r>lobby<s n="n"/></r></p></e>
+<e slr="1"><p><l>korridor<s n="n"/><s n="m"/></l><r>corridor<s n="n"/></r></p></e>
+<e>        <p><l>korrosjon<s n="n"/><s n="m"/></l><r>corrosion<s n="n"/></r></p></e>
+<e>        <p><l>kors<s n="n"/><s n="nt"/></l><r>cross<s n="n"/></r></p></e>
+<e>        <p><l>kort<s n="n"/><s n="nt"/></l><r>card<s n="n"/></r></p></e>
+<e>        <p><l>kortstokk<s n="n"/><s n="m"/></l><r>deck<b/>of<b/>cards<s n="n"/></r></p></e>
+<e>        <p><l>kosedyr<s n="n"/><s n="nt"/></l><r>cuddly<b/>toy<s n="n"/></r></p></e>
+<e>        <p><l>kost<s n="n"/><s n="nt"/></l><r>broom<s n="n"/></r></p></e>
+<e>        <p><l>kotelett<s n="n"/><s n="m"/></l><r>cutlet<s n="n"/></r></p></e>
+<e slr="1"><p><l>kotelett<s n="n"/><s n="m"/></l><r>chop<s n="n"/></r></p></e>
+<e>        <p><l>krabbe<s n="n"/></l>        <r>crab<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kraft<s n="n"/></l>         <r>power<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>kraft<s n="n"/></l>         <r>juice<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>kraft<s n="n"/></l>         <r>force<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="3"><p><l>kraft<s n="n"/></l>         <r>vigour<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="4"><p><l>kraft<s n="n"/></l>         <r>energy<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kraftstasjon<s n="n"/><s n="m"/></l><r>power<b/>station<s n="n"/></r></p></e>
+<e>        <p><l>krafttak<s n="n"/><s n="nt"/></l><r>push<s n="n"/></r></p></e>
+<e>        <p><l>krage<s n="n"/><s n="m"/></l><r>collar<s n="n"/></r></p></e>
+<e>        <p><l>krakk<s n="n"/><s n="nt"/></l><r>stool<s n="n"/></r></p></e>
+<e slr="1"><p><l>krakk<s n="n"/><s n="nt"/></l><r>chair<s n="n"/></r></p></e>
+<e>        <p><l>krampe<s n="n"/><s n="m"/></l><r>cramp<s n="n"/></r></p></e>
+<e slr="1"><p><l>krampe<s n="n"/><s n="m"/></l><r>spasm<s n="n"/></r></p></e>
+<e>        <p><l>krangel<s n="n"/><s n="nt"/></l><r>quarrel<s n="n"/></r></p></e>
+<e>        <p><l>kranglefant<s n="n"/><s n="m"/></l><r>wrangler<s n="n"/></r></p></e>
+<e>        <p><l>krans<s n="n"/><s n="m"/></l><r>wreath<s n="n"/></r></p></e>
+<e slr="1"><p><l>krans<s n="n"/><s n="m"/></l><r>garland<s n="n"/></r></p></e>
+<e>        <p><l>kratt<s n="n"/><s n="nt"/></l><r>scrub<s n="n"/></r></p></e>
+<e slr="1"><p><l>kratt<s n="n"/><s n="nt"/></l><r>thicket<s n="n"/></r></p></e>
+<e>        <p><l>krattskog<s n="n"/><s n="m"/></l><r>scrub<s n="n"/></r></p></e>
+<e>        <p><l>krav<s n="n"/><s n="nt"/></l><r>demand<s n="n"/></r></p></e>
+<e slr="1"><p><l>krav<s n="n"/><s n="nt"/></l><r>requirement<s n="n"/></r></p></e>
+<e slr="2"><p><l>krav<s n="n"/><s n="nt"/></l><r>claim<s n="n"/></r></p></e>
+<e slr="3"><p><l>krav<s n="n"/><s n="nt"/></l><r>requisition<s n="n"/></r></p></e>
+<e slr="4"><p><l>krav<s n="n"/><s n="nt"/></l><r>constraint<s n="n"/></r></p></e>
+<e>        <p><l>kravbrev<s n="n"/><s n="nt"/></l><r>reminder<s n="n"/></r></p></e>
+<e>        <p><l>kreativitet<s n="n"/><s n="m"/></l><r>creativity<s n="n"/></r></p></e>
+<e>        <p><l>kreditt<s n="n"/><s n="m"/></l><r>credit<s n="n"/></r></p></e>
+<e>        <p><l>kreft<s n="n"/><s n="m"/></l><r>cancer<s n="n"/></r></p></e>
+<e c="throat clearing"><p><l>kremt<s n="n"/><s n="nt"/></l><r>hawk<s n="n"/></r></p></e>
+<e>        <p><l>kreps<s n="n"/><s n="m"/></l><r>crayfish<s n="n"/></r></p></e>
+<e>        <p><l>krets<s n="n"/><s n="m"/></l><r>circle<s n="n"/></r></p></e>
+<e>        <p><l>krig<s n="n"/><s n="m"/></l><r>war<s n="n"/></r></p></e>
+<e>        <p><l>kriger<s n="n"/><s n="m"/></l><r>warrior<s n="n"/></r></p></e>
+<e>        <p><l>krigføring<s n="n"/></l>    <r>warfare<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>krise<s n="n"/></l>         <r>crisis<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kristendom<s n="n"/><s n="m"/></l><r>Christianity<s n="n"/></r></p></e>
+<e>        <p><l>kristtorn<s n="n"/><s n="m"/></l><r>holly<s n="n"/></r></p></e>
+<e>        <p><l>krok<s n="n"/><s n="m"/></l><r>hook<s n="n"/></r></p></e>
+<e>        <p><l>krokodille<s n="n"/></l>    <r>crocodile<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kropp<s n="n"/><s n="m"/></l><r>body<s n="n"/></r></p></e>
+<e slr="1"><p><l>kropp<s n="n"/><s n="m"/></l><r>trunk<s n="n"/></r></p></e>
+<e>        <p><l>kroppsarbeid<s n="n"/><s n="nt"/></l><r>manual<b/>labour<s n="n"/></r></p></e>
+<e>        <p><l>kroppsbygning<s n="n"/><s n="m"/></l><r>physique<s n="n"/></r></p></e>
+<e>        <p><l>krovert<s n="n"/><s n="m"/></l><r>publican<s n="n"/></r></p></e>
+<e>        <p><l>kruspersille<s n="n"/></l>  <r>curled<b/>parsley<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>krydder<s n="n"/><s n="nt"/></l><r>spice<s n="n"/></r></p></e>
+<e slr="1"><p><l>krydder<s n="n"/><s n="nt"/></l><r>zest<s n="n"/></r></p></e>
+<e slr="2"><p><l>krydder<s n="n"/><s n="nt"/></l><r>seasoning<s n="n"/></r></p></e>
+<e>        <p><l>kryp<s n="n"/><s n="nt"/></l><r>creep<s n="n"/></r></p></e>
+<e>        <p><l>krypdyr<s n="n"/><s n="nt"/></l><r>reptile<s n="n"/></r></p></e>
+<e>        <p><l>kryss<s n="n"/><s n="nt"/></l><r>cross<s n="n"/></r></p></e>
+<e slr="1"><p><l>kryss<s n="n"/><s n="nt"/></l><r>intersection<s n="n"/></r></p></e>
+<e slr="2"><p><l>kryss<s n="n"/><s n="nt"/></l><r>junction<s n="n"/></r></p></e>
+<e>        <p><l>kryssord<s n="n"/><s n="nt"/></l><r>crossword<b/>puzzle<s n="n"/></r></p></e>
+<e>        <p><l>kråke<s n="n"/></l>         <r>crow<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kråkesølv<s n="n"/><s n="nt"/></l><r>mica<s n="n"/></r></p></e>
+<e>        <p><l>krøpling<s n="n"/><s n="m"/></l><r>cripple<s n="n"/></r></p></e>
+<e>        <p><l>ku<s n="n"/></l>            <r>cow<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kuk<s n="n"/><s n="m"/></l> <r>dick<s n="n"/></r></p></e>
+<e>        <p><l>kul<s n="n"/><s n="m"/></l> <r>hump<s n="n"/></r></p></e>
+<e>        <p><l>kule<s n="n"/></l>          <r>bullet<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>kule<s n="n"/></l>          <r>orb<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>kule<s n="n"/></l>          <r>bowl<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="3"><p><l>kule<s n="n"/></l>          <r>ball<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kulepenn<s n="n"/><s n="m"/></l><r>ballpoint<b/>pen<s n="n"/></r></p></e>
+<e>        <p><l>kuling<s n="n"/><s n="m"/></l><r>gale<s n="n"/></r></p></e>
+<e>        <p><l>kull<s n="n"/><s n="nt"/></l><r>coal<s n="n"/></r></p></e>
+<e slr="1"><p><l>kull<s n="n"/><s n="nt"/></l><r>litter<s n="n"/></r></p></e>
+<e>        <p><l>kum<s n="n"/><s n="m"/></l> <r>basin<s n="n"/></r></p></e>
+<e>        <p><l>kunde<s n="n"/><s n="m"/></l><r>customer<s n="n"/></r></p></e>
+<e>        <p><l>kunnskap<s n="n"/><s n="m"/></l><r>knowledge<s n="n"/></r></p></e>
+<e>        <p><l>kunst<s n="n"/><s n="m"/></l><r>art<s n="n"/></r></p></e>
+<e>        <p><l>kunstsilke<s n="n"/><s n="m"/></l><r>rayon<s n="n"/></r></p></e>
+<e>        <p><l>kunststykke<s n="n"/><s n="nt"/></l><r>stunt<s n="n"/></r></p></e>
+<e slr="1"><p><l>kunststykke<s n="n"/><s n="nt"/></l><r>trick<s n="n"/></r></p></e>
+<e>        <p><l>kupong<s n="n"/><s n="m"/></l><r>coupon<s n="n"/></r></p></e>
+<e slr="1"><p><l>kupong<s n="n"/><s n="m"/></l><r>voucher<s n="n"/></r></p></e>
+<e>        <p><l>kuppel<s n="n"/><s n="m"/></l><r>dome<s n="n"/></r></p></e>
+<e>        <p><l>kupé<s n="n"/><s n="m"/></l><r>compartment<s n="n"/></r></p></e>
+<e slr="1"><p><l>kupé<s n="n"/><s n="m"/></l><r>coupe<s n="n"/></r></p></e>
+<e>        <p><l>kur<s n="n"/><s n="m"/></l> <r>cure<s n="n"/></r></p></e>
+<e>        <p><l>kurs<s n="n"/><s n="nt"/></l><r>course<s n="n"/></r></p></e>
+<e slr="1"><p><l>kurs<s n="n"/><s n="nt"/></l><r>way<s n="n"/></r></p></e>
+<e slr="2"><p><l>kurs<s n="n"/><s n="nt"/></l><r>direction<s n="n"/></r></p></e>
+<e>        <p><l>kurv<s n="n"/><s n="m"/></l><r>basket<s n="n"/></r></p></e>
+<e>        <p><l>kusma<s n="n"/><s n="m"/></l><r>mumps<s n="n"/></r></p></e>
+<e>        <p><l>kutt<s n="n"/><s n="nt"/></l><r>nick<s n="n"/></r></p></e>
+<e>        <p><l>kuvøse<s n="n"/></l>        <r>incubator<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kvad<s n="n"/><s n="nt"/></l><r>ode<s n="n"/></r></p></e>
+<e slr="1"><p><l>kvad<s n="n"/><s n="nt"/></l><r>lay<s n="n"/></r></p></e>
+<e>        <p><l>kvadratmeter<s n="n"/><s n="m"/></l><r>square<b/>meter<s n="n"/></r></p></e>
+<e>        <p><l>kvalifikasjon<s n="n"/><s n="m"/></l><r>qualification<s n="n"/></r></p></e>
+<e>        <p><l>kvalitet<s n="n"/><s n="m"/></l><r>quality<s n="n"/></r></p></e>
+<e slr="1"><p><l>kvalitet<s n="n"/><s n="m"/></l><r>property<s n="n"/></r></p></e>
+<e>        <p><l>kvalm<s n="n"/><s n="m"/></l><r>queazy<s n="n"/></r></p></e>
+<e slr="1"><p><l>kvalm<s n="n"/><s n="m"/></l><r>squeamish<s n="n"/></r></p></e>
+<e>        <p><l>kvalme<s n="n"/><s n="m"/></l><r>nausea<s n="n"/></r></p></e>
+<e slr="1"><p><l>kvalme<s n="n"/><s n="m"/></l><r>sickness<s n="n"/></r></p></e>
+<e>        <p><l>kvantitet<s n="n"/><s n="m"/></l><r>quantity<s n="n"/></r></p></e>
+<e>        <p><l>kvartal<s n="n"/><s n="nt"/></l><r>block<s n="n"/></r></p></e>
+<e slr="1"><p><l>kvartal<s n="n"/><s n="nt"/></l><r>quarter<s n="n"/></r></p></e>
+<e>        <p><l>kvarter<s n="n"/><s n="nt"/></l><r>quarter<s n="n"/></r></p></e>
+<e slr="1"><p><l>kvarter<s n="n"/><s n="nt"/></l><r>quarter<b/>of<b/>an<b/>hour<s n="n"/></r></p></e>
+<e>        <p><l>kvarts<s n="n"/><s n="m"/></l><r>quartz<s n="n"/></r></p></e>
+<e>        <p><l>kvast<s n="n"/><s n="m"/></l><r>sprig<s n="n"/></r></p></e>
+<e slr="1"><p><l>kvast<s n="n"/><s n="m"/></l><r>tassel<s n="n"/></r></p></e>
+<e>        <p><l>kveil<s n="n"/><s n="m"/></l><r>coil<s n="n"/></r></p></e>
+<e>        <p><l>kveite<s n="n"/></l>        <r>halibut<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="  0"><p><l>kveld<s n="n"/><s n="m"/></l><r>evening<s n="n"/></r></p></e>
+<e slr="1"><p><l>kveld<s n="n"/><s n="m"/></l><r>night<s n="n"/></r></p></e>
+<e>        <p><l>kveldsmat<s n="n"/><s n="m"/></l><r>supper<s n="n"/></r></p></e>
+<e slr="1"><p><l>kveldsmat<s n="n"/><s n="m"/></l><r>evening<b/>meal<s n="n"/></r></p></e>
+<e>        <p><l>kvikksølv<s n="n"/><s n="nt"/></l><r>mercury<s n="n"/></r></p></e>
+<e c="  0"><p><l>kvinne<s n="n"/></l><r>woman<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kvise<s n="n"/></l>         <r>pimple<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kvist<s n="n"/><s n="m"/></l><r>twig<s n="n"/></r></p></e>
+<e slr="1"><p><l>kvist<s n="n"/><s n="m"/></l><r>sprig<s n="n"/></r></p></e>
+<e>        <p><l>kvitt<s n="n"/><s n="nt"/></l><r>quits<s n="n"/></r></p></e>
+<e slr="1"><p><l>kvitt<s n="n"/><s n="nt"/></l><r>receipt<s n="n"/></r></p></e>
+<e>        <p><l>kvitter<s n="n"/><s n="nt"/></l><r>twitter<s n="n"/></r></p></e>
+<e>        <p><l>kylling<s n="n"/><s n="m"/></l><r>chicken<s n="n"/></r></p></e>
+<e>        <p><l>kyst<s n="n"/><s n="m"/></l><r>shore<s n="n"/></r></p></e>
+<e slr="1"><p><l>kyst<s n="n"/><s n="m"/></l><r>seaboard<s n="n"/></r></p></e>
+<e slr="2"><p><l>kyst<s n="n"/><s n="m"/></l><r>seaside<s n="n"/></r></p></e>
+<e>        <p><l>kystlinje<s n="n"/></l>     <r>coast<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>kystlinje<s n="n"/></l>    <r>seaboard<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>kål<s n="n"/><s n="m"/></l> <r>cabbage<s n="n"/></r></p></e>
+<e>        <p><l>kårde<s n="n"/><s n="m"/></l><r>sword<s n="n"/></r></p></e>
+<e>        <p><l>kåseri<s n="n"/><s n="nt"/></l><r>talk<s n="n"/></r></p></e>
+<e>        <p><l>kø<s n="n"/><s n="m"/></l>  <r>queue<s n="n"/></r></p></e>
+<e slr="1"><p><l>kø<s n="n"/><s n="m"/></l>  <r>cue<s n="n"/></r></p></e>
+<e>        <p><l>labb<s n="n"/><s n="m"/></l><r>paw<s n="n"/></r></p></e>
+<e>        <p><l>laboratorium<s n="n"/><s n="nt"/></l><r>laboratory<s n="n"/></r></p></e>
+<e>        <p><l>labyrint<s n="n"/><s n="m"/></l><r>maze<s n="n"/></r></p></e>
+<e>        <p><l>lag<s n="n"/><s n="nt"/></l><r>team<s n="n"/></r></p></e>
+<e slr="1"><p><l>lag<s n="n"/><s n="nt"/></l><r>squad<s n="n"/></r></p></e>
+<e slr="2"><p><l>lag<s n="n"/><s n="nt"/></l><r>layer<s n="n"/></r></p></e>
+<e slr="3"><p><l>lag<s n="n"/><s n="nt"/></l><r>seam<s n="n"/></r></p></e>
+<e>        <p><l>lager<s n="n"/><s n="nt"/></l><r>warehouse<s n="n"/></r></p></e>
+<e slr="1"><p><l>lager<s n="n"/><s n="nt"/></l><r>stock<s n="n"/></r></p></e>
+<e slr="2"><p><l>lager<s n="n"/><s n="nt"/></l><r>store<s n="n"/></r></p></e>
+<e>        <p><l>lakk<s n="n"/><s n="m"/></l><r>varnish<s n="n"/></r></p></e>
+<e slr="1"><p><l>lakk<s n="n"/><s n="m"/></l><r>sealing<b/>wax<s n="n"/></r></p></e>
+<e slr="2"><p><l>lakk<s n="n"/><s n="m"/></l><r>laquer<s n="n"/></r></p></e>
+<e>        <p><l>laks<s n="n"/><s n="m"/></l><r>salmon<s n="n"/></r></p></e>
+<e>        <p><l>lakserolje<s n="n"/></l>    <r>castor<b/>oil<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>lam<s n="n"/><s n="nt"/></l><r>lamb<s n="n"/></r></p></e>
+<e>        <p><l>lammekotelett<s n="n"/><s n="m"/></l><r>muttonchop<s n="n"/></r></p></e>
+<e>        <p><l>lampe<s n="n"/></l>         <r>lamp<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>lampefeber<s n="n"/><s n="m"/></l><r>stage<b/>fright<s n="n"/></r></p></e>
+
 <e c="  0"><p><l>mann<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
 <e c="  0"><p><l>menneske<s n="n"/><s n="nt"/></l><r>man<s n="n"/></r></p></e>
 <e slr="1"><p><l>menneske<s n="n"/><s n="nt"/></l><r>mankind<s n="n"/></r></p></e>
@@ -3119,12 +3518,8 @@
 <e c="  0"><p><l>svar<s n="n"/><s n="nt"/></l><r>answer<s n="n"/></r></p></e>
 <e c="  0"><p><l>ben<s n="n"/><s n="nt"/></l><r>bone<s n="n"/></r></p></e>
 <e c="  0"><p><l>liv<s n="n"/><s n="nt"/></l><r>life<s n="n"/></r></p></e>
-<e c="  0"><p><l>kjøtt<s n="n"/><s n="nt"/></l><r>flesh<s n="n"/></r></p></e>
-<e slr="1"><p><l>kjøtt<s n="n"/><s n="nt"/></l><r>meat<s n="n"/></r></p></e>
 <e c="  0"><p><l>natt<s n="n"/></l><r>night<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="  0"><p><l>stjerne<s n="n"/></l><r>star<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="  0"><p><l>klokke<s n="n"/></l><r>clock<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="  0"><p><l>kvinne<s n="n"/></l><r>woman<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="  0"><p><l>skapning<s n="n"/></l><r>creature<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="  0"><p><l>slag<s n="n"/><s n="nt"/></l><r>kind<s n="n"/></r></p></e>
 <e slr="1"><p><l>slag<s n="n"/><s n="nt"/></l><r>hit<s n="n"/></r></p></e>
