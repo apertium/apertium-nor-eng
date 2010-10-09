@@ -327,6 +327,8 @@
     <e><p><l>hva<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>hvem<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
+    <e><p><l>man<s n="prn"/></l><r>one<s n="prn"/></r></p></e>
+
     <!-- Determiners -->
 
     <e><p><l>en<s n="det"/><s n="qnt"/></l><r>a<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
@@ -478,6 +480,7 @@
 <e c="  0"><p><l>allergi<s n="n"/><s n="m"/></l><r>allergy<s n="n"/></r></p></e>
 <e c="  0"><p><l>allé<s n="n"/><s n="m"/></l><r>avenue<s n="n"/></r></p></e>
 <e slr="1"><p><l>allé<s n="n"/><s n="m"/></l><r>alley<s n="n"/></r></p></e>
+<e c="  0"><p><l>alkohol<s n="n"/><s n="m"/></l><r>alkohol<s n="n"/></r></p></e>
 <e c="  0"><p><l>alm<s n="n"/><s n="m"/></l> <r>elm<s n="n"/></r></p></e>
 <e c="  0"><p><l>almisse<s n="n"/></l>       <r>alms<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="  0"><p><l>altan<s n="n"/><s n="m"/></l><r>balcony<s n="n"/></r></p></e>
@@ -1906,6 +1909,7 @@
 <e>        <p><l>folie<s n="n"/><s n="m"/></l><r>foil<s n="n"/></r></p></e>
 <e>        <p><l>folk<s n="n"/><s n="nt"/></l><r>people<s n="n"/></r></p></e>
 <e slr="1"><p><l>folk<s n="n"/><s n="nt"/></l><r>folk<s n="n"/></r></p></e>
+<e c="rather culture-specific..."><p><l>målfolk<s n="n"/><s n="nt"/></l><r>nynorsk<b/>supporters<s n="n"/></r></p></e>
 <e>        <p><l>folkeregister<s n="n"/><s n="nt"/></l><r>National<b/>Registry<s n="n"/></r></p></e>
 <e>        <p><l>folkeslag<s n="n"/><s n="nt"/></l><r>people<s n="n"/></r></p></e>
 <e slr="1"><p><l>folkeslag<s n="n"/><s n="nt"/></l><r>nation<s n="n"/></r></p></e>
@@ -4280,6 +4284,7 @@
 <e>        <p><l>normal<s n="n"/><s n="m"/></l><r>normal<s n="n"/></r></p></e>
 <e slr="1"><p><l>normal<s n="n"/><s n="m"/></l><r>sane<s n="n"/></r></p></e>
 <e slr="2"><p><l>normal<s n="n"/><s n="m"/></l><r>standard<s n="n"/></r></p></e>
+<e>        <p><l>norrønt<s n="n"/><s n="nt"/></l><r>Norse<s n="n"/></r></p></e>
 <e>        <p><l>nostalgi<s n="n"/><s n="m"/></l><r>nostalgia<s n="n"/></r></p></e>
 <e>        <p><l>note<s n="n"/><s n="m"/></l><r>note<s n="n"/></r></p></e>
 <e>        <p><l>notis<s n="n"/><s n="m"/></l><r>notice<s n="n"/></r></p></e>
@@ -5345,6 +5350,7 @@
 <e slr="1"><p><l>sannhet<s n="n"/></l>       <r>verity<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>sans<s n="n"/><s n="m"/></l><r>sense<s n="n"/></r></p></e>
 <e>        <p><l>sansing<s n="n"/></l>       <r>sense<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>sanskrit<s n="n"/><s n="nt"/></l>       <r>sanskrit<s n="n"/></r></p></e>
 <e>        <p><l>sardin<s n="n"/><s n="m"/></l><r>sardine<s n="n"/></r></p></e>
 <e>        <p><l>sarkasme<s n="n"/><s n="m"/></l><r>sarcasm<s n="n"/></r></p></e>
 <e>        <p><l>satellitt<s n="n"/><s n="m"/></l><r>satellite<s n="n"/></r></p></e>
@@ -6825,6 +6831,7 @@
 <e slr="1"><p><l>uro<s n="n"/></l>           <r>racket<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>uro<s n="n"/></l>           <r>disturbance<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="3"><p><l>uro<s n="n"/></l>           <r>turmoil<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>urspråk<s n="n"/><s n="nt"/></l><r>proto-language<s n="n"/></r></p></e>
 <e>        <p><l>usling<s n="n"/><s n="m"/></l><r>scoundrel<s n="n"/></r></p></e>
 <e>        <p><l>utbredelse<s n="n"/><s n="m"/></l><r>spread<s n="n"/></r></p></e>
 <e slr="1"><p><l>utbredelse<s n="n"/><s n="m"/></l><r>propagation<s n="n"/></r></p></e>
@@ -9914,9 +9921,10 @@
     <e slr="2"><p><l>blank<s n="adj"/></l><r>glossy<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="3"><p><l>blank<s n="adj"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="4"><p><l>blank<s n="adj"/></l><r>blank<s n="adj"/></r></p></e>
-    <e slr="5"><p><l>blank<s n="adj"/></l><r>break<s n="vblex"/><s n="past"/></r></p></e><!--(be without money)-->
+    <e c="  0"><p><l>blakk<s n="adj"/></l><r>break<s n="vblex"/><s n="past"/></r></p></e><!--(be without money)-->
     <e c="  0"><p><l>bred<s n="adj"/></l><r>broad<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="1"><p><l>bred<s n="adj"/></l><r>wide<s n="adj"/><s n="sint"/></r></p></e>
+    <e c="  0"><p><l>daglig<s n="adj"/></l><r>daily<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>dårlig<s n="adj"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="1"><p><l>dårlig<s n="adj"/></l><r>*unwell<s n="adj"/></r></p></e>
     <e slr="2"><p><l>dårlig<s n="adj"/></l><r>poor-quality<s n="adj"/></r></p></e><!--(of poor quality)-->
@@ -10073,6 +10081,8 @@
     <e c="  0"><p><l>naken<s n="adj"/></l><r>nude<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="1"><p><l>naken<s n="adj"/></l><r>naked<s n="adj"/></r></p></e>
     <e c="  0"><p><l>nødvendig<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>nordisk<s n="adj"/></l><r>nordic<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>norrøn<s n="adj"/></l><r>norse<s n="adj"/></r></p></e>
     <e c="  0"><p><l>ond<s n="adj"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="1"><p><l>ond<s n="adj"/></l><r>evil<s n="adj"/></r></p></e>
     <e slr="2"><p><l>ond<s n="adj"/></l><r>*wicked<s n="adj"/></r></p></e>
@@ -10173,6 +10183,7 @@
     <e c="  0"><p><l>tung<s n="adj"/></l><r>heavy<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>ufattelig<s n="adj"/></l><r>incomprehensible<s n="adj"/></r></p></e>
     <e c="  0"><p><l>ugift<s n="adj"/></l><r>unmarried<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>ukjent<s n="adj"/></l><r>unknown<s n="adj"/></r></p></e>
     <e c="  0"><p><l>ung<s n="adj"/></l><r>young<s n="adj"/><s n="sint"/></r></p></e><!--(in the early part of life or growth)-->
     <e c="  0"><p><l>urettferdig<s n="adj"/></l><r>unfair<s n="adj"/></r></p></e>
     <e slr="1"><p><l>urettferdig<s n="adj"/></l><r>*unrighteous<s n="adj"/></r></p></e>
@@ -11485,6 +11496,7 @@
     <e slr="1"><p><l>vinke<s n="vblex"/></l><r>motion<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="2"><p><l>vinke<s n="vblex"/></l><r>beckon<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>torturere<s n="vblex"/></l><r>torture<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e c="  0"><p><l>rekonstruere<s n="vblex"/></l><r>reconstruct<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>svirre<s n="vblex"/></l><r>whirr<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>svirre<s n="vblex"/></l><r>buzz<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="2"><p><l>svirre<s n="vblex"/></l><r>whiz<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
