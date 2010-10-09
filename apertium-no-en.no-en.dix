@@ -97,6 +97,15 @@
       <e><p><l><s n="pl"/></l>	<r><s n="pl"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/><s n="sg"/></l>	<r><s n="sp"/></r></p></e>
     </pardef>
+    <pardef n="prnpers_dem">
+      <e r="LR"> <p><l><s n="m"/></l>	<r><s n="mf"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/></l>	<r><s n="mf"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/></l>	<r><s n="mf"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/></l>	<r><s n="mf"/></r></p></e>
+      <e><p><l><s n="pl"/></l>	<r><s n="pl"/></r></p></e>
+    </pardef>
+
+
     <pardef n="dem_dem">
       <e r="LR"> <p><l><s n="m"/></l>	<r></r></p></e>
       <e r="LR"><p><l><s n="nt"/></l>	<r></r></p></e>
@@ -272,6 +281,8 @@
     <e c="  0"><p><l>ned<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
     <e slr="1"><p><l>ned<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
     <e c="  0"><p><l>nedenfra<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>øst<b/>for<s n="pr"/></l><r>east<b/>of<s n="pr"/></r></p></e>
     
     
 
@@ -289,7 +300,7 @@
     <e><p><l>han<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
     <e><p><l>de<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p3"/></r></p></e>
 
-    <e><p><l>denne<s n="prn"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="p2"/></r></p></e>
+    <e><p><l>denne<s n="prn"/><s n="p3"/></l><r>this<s n="prn"/><s n="dem"/></r></p><par n="prnpers_dem"/></e>
 
     <e><p><l>seg<b/>selv<s n="prn"/><s n="ref"/><s n="p1"/></l><r>myself<s n="prn"/><s n="p1"/></r></p></e>
     <e><p><l>seg<b/>selv<s n="prn"/><s n="ref"/><s n="p2"/></l><r>yourself<s n="prn"/><s n="p2"/></r></p></e>
@@ -303,7 +314,7 @@
 
     <!-- Determiners -->
 
-    <e><p><l>en<s n="det"/><s n="qnt"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>en<s n="det"/><s n="qnt"/></l><r>a<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
     <e><p><l>annen<s n="det"/><s n="dem"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>samme<s n="det"/><s n="dem"/></l><r>same<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>den<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p><par n="dem_dem"/></e>

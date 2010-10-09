@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="prndem">
+      <cat-item lemma="denne" tags="prn.p3.*"/>
+    </def-cat>
     <def-cat n="prnpers">
       <cat-item tags="prn.p1.*"/>
       <cat-item tags="prn.p2.*"/>
@@ -216,6 +219,33 @@
         </let>
       </action>
     </rule>
+
+    <rule comment="REGLA: prndem">
+      <pattern>
+        <pattern-item n="prndem"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="prn" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <clip pos="1" side="tl" part="gen" link-to="3"/>
+              <clip pos="1" side="tl" part="nbr" link-to="4"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: prnpers">
       <pattern>
