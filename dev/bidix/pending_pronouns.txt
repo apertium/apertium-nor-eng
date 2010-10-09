@@ -1,0 +1,5 @@
+      1 ^@volleyball<n>$ ë ^prpers<prn><subj><p2><mf>$
+      1 ^@sak<n>$ ë ^prpers<prn><subj><p3><nt>$
+      1 ^@sak<n>$ ë ^prpers<prn><subj><p3><m>$
+      1 ^prpers<prn><subj><p3><m>$   ë ^@morten<np>$
+      1 ^@kultur<n>$ ë ^prpers<prn><subj><p3><nt>$
