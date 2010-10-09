@@ -4156,6 +4156,242 @@
     <e slr="4"><p><l>til<s n="adv"/></l><r>untill<s n="adv"/></r></p></e> 
     <e slr="5"><p><l>til<s n="adv"/></l><r>till<s n="adv"/></r></p></e> 
 
+    <e c="  0"><p><l>når<s n="adv"/></l><r>when<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>der<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>der<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>der<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>der<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>selv<s n="adv"/></l><r>alternately<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>enn<s n="adv"/></l><r>ever<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>enn<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>enn<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>ennå<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>ennå<s n="adv"/></l><r>even<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>langt<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>langt<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>langt<s n="adv"/></l><r>far<b/>from<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>langt<s n="adv"/></l><r>not<b/>at<b/>all<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>ellers<s n="adv"/></l><r>otherwise<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>ellers<s n="adv"/></l><r>else<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>sannelig<s n="adv"/></l><r>certainly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>sannelig<s n="adv"/></l><r>assuredly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>så<b/>lenge<s n="adv"/></l><r>long<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>opp<b/>igjen<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>heller<s n="adv"/></l><r>rather<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>heller<s n="adv"/></l><r>if<b/>anything<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>heller<s n="adv"/></l><r>either<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>heller<s n="adv"/></l><r>nor<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>heller<s n="adv"/></l><r>neither<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>like<s n="adv"/></l><r>just<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>like<s n="adv"/></l><r>just<b/>before<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>like<s n="adv"/></l><r>just<b/>after<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>like<s n="adv"/></l><r>very<b/>close<b/>to<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>like<s n="adv"/></l><r>very<b/>close<s n="adv"/></r></p></e>
+    <e slr="5"><p><l>like<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
+    <e slr="6"><p><l>like<s n="adv"/></l><r>directly<b/>beside<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>gjerne<s n="adv"/></l><r>easily<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>gjerne<s n="adv"/></l><r>willingly<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>gjerne<s n="adv"/></l><r>gladly<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>gjerne<s n="adv"/></l><r>equal<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>snart<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>snart<s n="adv"/></l><r>shortly<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>snart<s n="adv"/></l><r>before<b/>long<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>snart<s n="adv"/></l><r>away<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>snart<s n="adv"/></l><r>off<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>i<b/>morgen<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>ille<s n="adv"/></l><r>badly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>altså<s n="adv"/></l><r>accordingly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>altså<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>altså<s n="adv"/></l><r>consequently<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>altså<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>altså<s n="adv"/></l><r>in<b/>other<b/>words<s n="adv"/></r></p></e>
+    <e slr="5"><p><l>altså<s n="adv"/></l><r>that<b/>is<b/>to<b/>say<s n="adv"/></r></p></e>
+    <e slr="6"><p><l>altså<s n="adv"/></l><r>hence<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>dessuten<s n="adv"/></l><r>besides<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>dessuten<s n="adv"/></l><r>moreover<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>dessuten<s n="adv"/></l><r>furthermore<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>dessuten<s n="adv"/></l><r>in<b/>addition<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>deretter<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>deretter<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>deretter<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>sist<s n="adv"/></l><r>last<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>sist<s n="adv"/></l><r>at<b/>the<b/>end<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>litt<s n="adv"/></l><r>little<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>litt<s n="adv"/></l><r>slightly<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>litt<s n="adv"/></l><r>gradually<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>litt<s n="adv"/></l><r>by<b/>degrees<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>litt<s n="adv"/></l><r>little<b/>by<b/>little<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>lenger<s n="adv"/></l><r>long<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>lenger<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>dermed<s n="adv"/></l><r>with<b/>that<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>dermed<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>dermed<s n="adv"/></l><r>accordingly<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>dermed<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>dermed<s n="adv"/></l><r>consequently<s n="adv"/></r></p></e>
+    <e slr="5"><p><l>dermed<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
+    <e slr="6"><p><l>dermed<s n="adv"/></l><r>in<b/>other<b/>words<s n="adv"/></r></p></e>
+    <e slr="7"><p><l>dermed<s n="adv"/></l><r>that<b/>is<b/>to<b/>say<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>vel<s n="adv"/></l><r>surely<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>vel<s n="adv"/></l><r>too<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>vel<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>likeså<s n="adv"/></l><r>as<b/>it<b/>were<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>likeså<s n="adv"/></l><r>so<b/>to<b/>speak<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>lenge<s n="adv"/></l><r>long<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>lenge<s n="adv"/></l><r>backward<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>lenge<s n="adv"/></l><r>backwards<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>støtt<s n="adv"/></l><r>constantly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>støtt<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>aller<s n="adv"/></l><r>of<b/>all<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>aller<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>lett<s n="adv"/></l><r>readily<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>tidligere<s n="adv"/></l><r>before<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>omme<s n="adv"/></l><r>over<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>omme<s n="adv"/></l><r>at<b/>an<b/>end<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>på<b/>gang<s n="adv"/></l><r>brewing<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>på<b/>gang<s n="adv"/></l><r>going<b/>on<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>nærmere<s n="adv"/></l><r>almost<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>nærmere<s n="adv"/></l><r>nearly<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>nærmere<s n="adv"/></l><r>close<b/>to<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>lengst<s n="adv"/></l><r>long<b/>ago<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>lengst<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>imens<s n="adv"/></l><r>in<b/>the<b/>meantime<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>imens<s n="adv"/></l><r>meanwhile<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>isteden<s n="adv"/></l><r>instead<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>visst<s n="adv"/></l><r>probably<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>sann<s n="adv"/></l><r>certainly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>sann<s n="adv"/></l><r>assuredly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>vide<s n="adv"/></l><r>widely<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>omtrent<s n="adv"/></l><r>about<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>omtrent<s n="adv"/></l><r>about<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>helt<b/>opp<s n="adv"/></l><r>up<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>hele<b/>tiden<s n="adv"/></l><r>almost<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>hende<s n="adv"/></l><r>perhaps<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>hende<s n="adv"/></l><r>maybe<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>nærmest<s n="adv"/></l><r>almost<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>nærmest<s n="adv"/></l><r>nearly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>med<b/>rette<s n="adv"/></l><r>reasonably<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>langt<b/>fra<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>kan<b/>hende<s n="adv"/></l><r>perhaps<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>kan<b/>hende<s n="adv"/></l><r>maybe<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>kan<b/>hende<s n="adv"/></l><r>possibly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>så<b/>vidt<s n="adv"/></l><r>as<b/>far<b/>as<b/>it<b/>goes<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>så<b/>nær<s n="adv"/></l><r>near<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>så<b/>nær<s n="adv"/></l><r>except<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>heretter<s n="adv"/></l><r>henceforth<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>heretter<s n="adv"/></l><r>from<b/>now<b/>on<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>heretter<s n="adv"/></l><r>in<b/>the<b/>future<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>ytterst<s n="adv"/></l><r>furthest<b/>back<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>ytterst<s n="adv"/></l><r>right<b/>at<b/>the<b/>back<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>ytterst<s n="adv"/></l><r>at<b/>the<b/>very<b/>back<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>tvers<s n="adv"/></l><r>across<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>tvers<s n="adv"/></l><r>hither<b/>and<b/>thither<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>tvers<s n="adv"/></l><r>all<b/>over<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>tvers<s n="adv"/></l><r>crossways<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>om<b/>igjen<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>nordover<s n="adv"/></l><r>towards<b/>the<b/>north<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>nordover<s n="adv"/></l><r>northwards<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>tilsammen<s n="adv"/></l><r>in<b/>all<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>like<b/>godt<s n="adv"/></l><r>at<b/>least<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>langt<b/>ifra<s n="adv"/></l><r>far<b/>from<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>langt<b/>ifra<s n="adv"/></l><r>not<b/>at<b/>all<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>knapt<s n="adv"/></l><r>hardly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>knapt<s n="adv"/></l><r>slightly<b/>less<b/>than<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>knapt<s n="adv"/></l><r>scanty<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>knapt<s n="adv"/></l><r>hardly<b/>any<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>for<b/>resten<s n="adv"/></l><r>by<b/>the<b/>way<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>for<b/>resten<s n="adv"/></l><r>incidentally<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>for<b/>resten<s n="adv"/></l><r>talking<b/>about<b/>which<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>for<b/>resten<s n="adv"/></l><r>for<b/>the<b/>rest<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>for<b/>resten<s n="adv"/></l><r>otherwise<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>derimot<s n="adv"/></l><r>on<b/>the<b/>other<b/>hand<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>derimot<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>derav<s n="adv"/></l><r>of<b/>which<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>derav<s n="adv"/></l><r>of<b/>whom<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>overens<s n="adv"/></l><r>agreed<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>nære<s n="adv"/></l><r>almost<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>innover<s n="adv"/></l><r>inwards<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>innover<s n="adv"/></l><r>toward<b/>the<b/>interior<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>i<b/>mellomtiden<s n="adv"/></l><r>in<b/>the<b/>meantime<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>i<b/>mellomtiden<s n="adv"/></l><r>meanwhile<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>i<b/>det<b/>hele<b/>tatt<s n="adv"/></l><r>at<b/>all<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>i<b/>det<b/>hele<b/>tatt<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>etterpå<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>etterpå<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>etterpå<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>etterpå<s n="adv"/></l><r>in<b/>arrears<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>etter<b/>hvert<s n="adv"/></l><r>gradually<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>der<b/>borte<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>der<b/>borte<s n="adv"/></l><r>absent;<b/>away<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>der<b/>borte<s n="adv"/></l><r>away<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>tvert<s n="adv"/></l><r>suddenly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>tvert<s n="adv"/></l><r>against;<b/>on<b/>the<b/>other<b/>side<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>tvert<s n="adv"/></l><r>on<b/>the<b/>other<b/>side<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>tvert<s n="adv"/></l><r>on<b/>the<b/>contrary<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>stundom<s n="adv"/></l><r>at<b/>times<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>stundom<s n="adv"/></l><r>now<b/>and<b/>then<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>stundom<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>stundom<s n="adv"/></l><r>at<b/>that<b/>time<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>stundom<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>riktignok<s n="adv"/></l><r>certainly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>riktignok<s n="adv"/></l><r>surely<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>riktignok<s n="adv"/></l><r>quite<b/>true<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>riktig<b/>nok<s n="adv"/></l><r>certainly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>riktig<b/>nok<s n="adv"/></l><r>surely<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>riktig<b/>nok<s n="adv"/></l><r>quite<b/>true<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>neppe<s n="adv"/></l><r>hardly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>minst<s n="adv"/></l><r>at<b/>least<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>minst<s n="adv"/></l><r>least<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>haugevis<s n="adv"/></l><r>in<b/>heaps<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>halvveis<s n="adv"/></l><r>half-way<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>halvveis<s n="adv"/></l><r>midway<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>for<b/>øvrig<s n="adv"/></l><r>besides<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>for<b/>øvrig<s n="adv"/></l><r>moreover<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>for<b/>øvrig<s n="adv"/></l><r>furthermore<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>for<b/>øvrig<s n="adv"/></l><r>in<b/>addition<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>for<b/>lengst<s n="adv"/></l><r>long<b/>ago<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>dels<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>bom<s n="adv"/></l><r>absolutely<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>bom<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>av<b/>og<b/>til<s n="adv"/></l><r>at<b/>times<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>av<b/>og<b/>til<s n="adv"/></l><r>occasionally<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>av<b/>og<b/>til<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>av<b/>og<b/>til<s n="adv"/></l><r>now<b/>and<b/>then<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>ved<b/>like<s n="adv"/></l><r>in<b/>shape;<b/>fit<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>ved<b/>like<s n="adv"/></l><r>fit<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>tusenvis<s n="adv"/></l><r>by<b/>the<b/>thousand<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>tusenvis<s n="adv"/></l><r>in<b/>thousands<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>tusenvis<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>skiftevis<s n="adv"/></l><r>alternately<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>såpass<s n="adv"/></l><r>about<b/>so<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>såpass<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>så<b/>pass<s n="adv"/></l><r>about<b/>so<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>så<b/>pass<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>opp<b/>ned<s n="adv"/></l><r>upside-down<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>opp<b/>ned<s n="adv"/></l><r>turned<b/>upside-down<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>opp<b/>ned<s n="adv"/></l><r>down<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>nest<s n="adv"/></l><r>next<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>nest<s n="adv"/></l><r>second<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>nest<s n="adv"/></l><r>almost<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>nåvel<s n="adv"/></l><r>inwards<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>nåvel<s n="adv"/></l><r>toward<b/>the<b/>interior<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>nær<b/>på<s n="adv"/></l><r>almost<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>liksom<s n="adv"/></l><r>as<b/>it<b/>were<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>liksom<s n="adv"/></l><r>so<b/>to<b/>speak<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>jamsides<s n="adv"/></l><r>side<b/>by<b/>side<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>i<b/>tide<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>især<s n="adv"/></l><r>tremendously<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>især<s n="adv"/></l><r>exceptionally<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>især<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>især<s n="adv"/></l><r>particularly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>hermed<s n="adv"/></l><r>hereby<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>hermed<s n="adv"/></l><r>herewith<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>fælt<s n="adv"/></l><r>badly<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>baklengs<s n="adv"/></l><r>backward<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>baklengs<s n="adv"/></l><r>backwards<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>alltid<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>alltid<s n="adv"/></l><r>anyway<s n="adv"/></r></p></e>
+
+
 
     <!-- Verbs -->
 
