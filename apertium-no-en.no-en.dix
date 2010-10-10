@@ -136,6 +136,7 @@
     <e><p><l>både<s n="cnjcoo"/></l><r>both<s n="cnjcoo"/></r></p></e>
     <e><p><l>så<s n="cnjcoo"/></l><r>so<s n="cnjadv"/></r></p></e>
     <e><p><l>samt<s n="cnjcoo"/></l><r>and<s n="cnjadv"/></r></p></e>
+    <e><p><l>for<s n="cnjcoo"/></l><r>for<s n="cnjadv"/></r></p></e>
 
     <e><p><l>der<s n="cnjsub"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>hvor<s n="cnjsub"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
@@ -310,6 +311,9 @@
     <e c="  0"><p><l>nedenfra<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>øst<b/>for<s n="pr"/></l><r>east<b/>of<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>innom<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>innom<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     
     
 
@@ -361,13 +365,19 @@
     <e><p><l>mange<s n="adj"/><s n="sup"/></l><r>most<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>mye<s n="adj"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>mange<s n="det"/><s n="qnt"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
-    <e><p><l>sådan<s n="det"/><s n="qnt"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>samtlige<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>hvor<b/>mange<s n="det"/><s n="qnt"/></l><r>how<b/>many<s n="det"/><s n="itg"/></r></p></e>
+    <e><p><l>sådan<s n="det"/><s n="dem"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>slik<s n="det"/><s n="qnt"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>halvannen<s n="det"/><s n="qnt"/></l><r>one<b/>and<b/>a<b/>half<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>begge<s n="det"/><s n="qnt"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>de<b/>fleste<s n="det"/><s n="qnt"/></l><r>the<b/>most<s n="det"/><s n="qnt"/></r></p><par n="dem_dem"/></e>
 
     <e><p><l>hin<s n="det"/><s n="dem"/></l><r>the<b/>other<s n="det"/><s n="dem"/></r></p></e>
 
     <e><p><l>en<b/>slags<s n="det"/><s n="qnt"/></l><r>a<b/>kind<b/>of<s n="det"/><s n="ind"/></r></p></e>
 
+    <e><p><l>selv<s n="det"/><s n="emph"/></l><r>self<s n="prn"/><s n="ref"/><s n="PD"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>egen<s n="det"/><s n="emph"/></l><r>own<s n="adj"/></r></p><par n="dem_dem"/></e>
     <e><p><l>forrige<s n="det"/><s n="dem"/></l><r>previous<s n="adj"/></r></p><par n="dem_dem"/></e>
     <e><p><l>neste<s n="det"/><s n="dem"/></l><r>next<s n="adj"/></r></p><par n="dem_dem"/></e>
@@ -377,6 +387,7 @@
     <e><p><l>jeg<s n="det"/><s n="pos"/></l><r>my<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
     <e><p><l>du<s n="det"/><s n="pos"/></l><r>your<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
     <e><p><l>De<s n="det"/><s n="pos"/></l><r>your<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
+    <e><p><l>De<s n="det"/><s n="pos"/><s n="p2"/></l><r>your<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
     <e><p><l>vi<s n="det"/><s n="pos"/></l><r>our<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
 
     <e><p><l>han<s n="det"/><s n="pos"/></l><r>his<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e>
@@ -11054,7 +11065,8 @@
     <e c="  0"><p><l>for<b/>eksempel<s n="adv"/></l><r>for<b/>example<s n="adv"/></r></p></e>
     <e c="  0"><p><l>godt<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
     <e c="  0"><p><l>også<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>da<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>da<s n="adv"/></l><r>though<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>da<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
     <e c="  0"><p><l>opp<s n="adv"/></l><r>up<s n="adv"/></r></p></e>
     <e c="  0"><p><l>igjen<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
     <e c="  0"><p><l>derfor<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
