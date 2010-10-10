@@ -10,6 +10,7 @@
 /apertium-no-en.no-en.t1x -text
 /apertium-no-en.no-en.t2x -text
 /apertium-no-en.no-en.t3x -text
+/autogen.sh -text
 /configure.ac -text
 dev/bidix/pending_adjectives.txt -text
 dev/bidix/pending_adverbs.txt -text
