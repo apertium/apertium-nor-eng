@@ -11691,7 +11691,6 @@
     <e c="  0"><p><l>skje</l><r>happen<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (to occur)-->
     <e c="  0"><p><l>helle</l><r>pour<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>bite</l><r>bite<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="1"><p><l>stikke</l><r>bite<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>bøye</l><r>bend<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (cause something to change its shape)-->
     <e slr="1"><p><l>bøye</l><r>change<g><b/>shape</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (change one's shape)-->
     <e slr="2"><p><l>bøye</l><r>bow<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
@@ -11916,26 +11915,26 @@
     <e slr="3"><p><l>forme</l><r>form<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="4"><p><l>forme</l><r>frame<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>time</l><r>time<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e c="  0"><p><l>stikke</l><r>stick<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="1"><p><l>stikke</l><r>put<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="2"><p><l>stikke</l><r>thrust<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="3"><p><l>stikke</l><r>shove<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="4"><p><l>stikke</l><r>slip<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="5"><p><l>stikke</l><r>hand<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="6"><p><l>stikke</l><r>bung<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="7"><p><l>stikke</l><r>prick<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="8"><p><l>stikke</l><r>prod<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="9"><p><l>stikke</l><r>poke<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="10"><p><l>stikke</l><r>stab<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="11"><p><l>stikke</l><r>sting<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="12"><p><l>stikke</l><r>bite<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="13"><p><l>stikke</l><r>engrave<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="14"><p><l>stikke</l><r>stitch<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="15"><p><l>stikke</l><r>quilt<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="16"><p><l>stikke</l><r>beat<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (do better than)-->
-    <e slr="17"><p><l>stikke</l><r>run<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="18"><p><l>stikke</l><r>bolt<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="19"><p><l>stikke</l><r>pop<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e c="  0"><p><l>stikke</l><r>pop<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="1"><p><l>stikke</l><r>stick<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="2"><p><l>stikke</l><r>put<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="3"><p><l>stikke</l><r>thrust<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="4"><p><l>stikke</l><r>shove<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="5"><p><l>stikke</l><r>slip<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="6"><p><l>stikke</l><r>hand<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="7"><p><l>stikke</l><r>bung<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="8"><p><l>stikke</l><r>prick<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="9"><p><l>stikke</l><r>prod<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="10"><p><l>stikke</l><r>poke<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="11"><p><l>stikke</l><r>stab<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="12"><p><l>stikke</l><r>sting<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="13"><p><l>stikke</l><r>bite<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="14"><p><l>stikke</l><r>engrave<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="15"><p><l>stikke</l><r>stitch<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="16"><p><l>stikke</l><r>quilt<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (do better than)-->
+    <e slr="17"><p><l>stikke</l><r>beat<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="18"><p><l>stikke</l><r>run<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="19"><p><l>stikke</l><r>bolt<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="20"><p><l>stikke</l><r>nip<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="21"><p><l>stikke</l><r>inform<g><b/>against</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="22"><p><l>stikke</l><r>squeal<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
