@@ -146,6 +146,7 @@
     <def-var n="case"/>
     <def-var n="genere"/>
     <def-var n="np_q"/>
+    <def-var n="a_h"/>
   </section-def-vars>
 
   <section-rules>
@@ -187,7 +188,6 @@
       </action>
     </rule>
 
-
     <rule comment="REGLA: adjec">
       <pattern>
         <pattern-item n="adjec"/>
@@ -215,12 +215,52 @@
             </let>
           </when>
         </choose>
+        <let>
+          <var n="a_h"/>
+          <lit v=""/>
+        </let>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <not>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_adj"/>
+                    <lit-tag v="adj.sint"/>
+                  </equal>
+                </not>
+                <equal>
+                  <clip pos="1" side="tl" part="a_adj"/>
+                  <lit-tag v="adj"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="tl" part="grau"/>
+                  <lit-tag v="comp"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="grau"/>
+              <lit v=""/>
+            </let>
+            <let>
+              <var n="a_h"/>
+              <concat>
+                <lit v="more"/>
+                <lit-tag v="preadv"/>
+                <lit v="$ ^"/>
+              </concat>
+            </let>
+          </when>
+        </choose>
+
         <out>
           <chunk name="adj" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SA"/></tag>
             </tags>
             <lu>
+              <var n="a_h"/>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_adj"/>
               <clip pos="1" side="tl" part="grau"/>
@@ -229,6 +269,10 @@
             </lu>
           </chunk>
         </out>
+        <let>
+          <var n="a_h"/>
+          <lit v=""/>
+        </let>
       </action>
     </rule>
 
