@@ -12,6 +12,7 @@
     <def-cat n="det">
       <cat-item tags="det.dem.*"/>
       <cat-item tags="det.ind.*"/>
+      <cat-item tags="det.qnt.*"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
@@ -66,6 +67,7 @@
       <attr-item tags="adj.ord"/>
       <attr-item tags="num.ord"/>
       <attr-item tags="det.qnt"/>
+      <attr-item tags="det.itg"/>
       <attr-item tags="det.dem"/>
       <attr-item tags="det.ind"/>
     </def-attr>
