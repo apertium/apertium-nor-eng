@@ -316,6 +316,7 @@
     <e slr="1"><p><l>innom<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>blant<s n="pr"/></l><r>among<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>via<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
     
     
 
@@ -366,6 +367,7 @@
     <e><p><l>mange<s n="adj"/><s n="comp"/></l><r>more<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>mange<s n="adj"/><s n="sup"/></l><r>most<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>mye<s n="adj"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>mye<s n="adj"/><s n="sup"/></l><r>most<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>mange<s n="det"/><s n="qnt"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>samtlige<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>hvor<b/>mange<s n="det"/><s n="qnt"/></l><r>how<b/>many<s n="det"/><s n="itg"/></r></p></e>
@@ -2091,7 +2093,7 @@
 <e>        <p><l>forstmann<s n="n"/><s n="m"/></l><r>forester<s n="n"/></r></p></e>
 <e>        <p><l>forstoppelse<s n="n"/><s n="m"/></l><r>constipation<s n="n"/></r></p></e>
 <e>        <p><l>forståelse<s n="n"/><s n="m"/></l><r>understanding<s n="n"/></r></p></e>
-<e slr="1"><p><l>forståelse<s n="n"/><s n="m"/></l><r>realization<s n="n"/></r></p></e>
+<e slr="1"><p><l>forståelse<s n="n"/><s n="m"/></l><r>realisation<s n="n"/></r></p></e>
 <e slr="2"><p><l>forståelse<s n="n"/><s n="m"/></l><r>apprehension<s n="n"/></r></p></e>
 <e>        <p><l>forsvar<s n="n"/><s n="nt"/></l><r>shield<s n="n"/></r></p></e>
 <e slr="1"><p><l>forsvar<s n="n"/><s n="nt"/></l><r>defence<s n="n"/></r></p></e>
@@ -2670,6 +2672,7 @@
 <e>        <p><l>hittebarn<s n="n"/><s n="nt"/></l><r>orphan<s n="n"/></r></p></e>
 <e>        <p><l>hjelm<s n="n"/><s n="m"/></l><r>helmet<s n="n"/></r></p></e>
 <e>        <p><l>hjelp<s n="n"/></l>         <r>help<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>hjelp<s n="n"/></l>         <r>aid<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>hjelpemann<s n="n"/><s n="m"/></l><r>helper<s n="n"/></r></p></e>
 <e>        <p><l>hjelpemiddel<s n="n"/><s n="nt"/></l><r>remedy<s n="n"/></r></p></e>
 <e>        <p><l>hjelper<s n="n"/><s n="m"/></l><r>helper<s n="n"/></r></p></e>
@@ -4388,6 +4391,7 @@
 <e slr="1"><p><l>nød<s n="n"/></l>           <r>need<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>nød<s n="n"/></l>           <r>destitution<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="3"><p><l>nød<s n="n"/></l>           <r>want<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="4"><p><l>nød<s n="n"/></l>           <r>emergency<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>nødstilfelle<s n="n"/><s n="nt"/></l><r>emergency<s n="n"/></r></p></e>
 <e>        <p><l>nøkkel<s n="n"/><s n="m"/></l><r>key<s n="n"/></r></p></e>
 <e>        <p><l>nøkkelord<s n="n"/><s n="nt"/></l><r>keyword<s n="n"/></r></p></e>
@@ -4547,7 +4551,7 @@
 <e>        <p><l>ordtak<s n="n"/><s n="nt"/></l><r>saying<s n="n"/></r></p></e>
 <e>        <p><l>organ<s n="n"/><s n="nt"/></l><r>organ<s n="n"/></r></p></e>
 <e slr="1"><p><l>organ<s n="n"/><s n="nt"/></l><r>department<s n="n"/></r></p></e>
-<e>        <p><l>organisasjon<s n="n"/><s n="m"/></l><r>organization<s n="n"/></r></p></e>
+<e>        <p><l>organisasjon<s n="n"/><s n="m"/></l><r>organisation<s n="n"/></r></p></e>
 <e c="instrument"><p><l>orgel<s n="n"/><s n="nt"/></l><r>organ<s n="n"/></r></p></e>
 <e>        <p><l>orgie<s n="n"/><s n="m"/></l><r>orgy<s n="n"/></r></p></e>
 <e>        <p><l>orientering<s n="n"/></l>   <r>orientation<s n="n"/></r></p><par n="m_LR_f"/></e>
@@ -5539,7 +5543,7 @@
 <e>        <p><l>sitteplass<s n="n"/><s n="m"/></l><r>seat<s n="n"/></r></p></e>
 <e>        <p><l>situasjon<s n="n"/><s n="m"/></l><r>situation<s n="n"/></r></p></e>
 <e>        <p><l>siv<s n="n"/><s n="nt"/></l><r>reed<s n="n"/></r></p></e>
-<e>        <p><l>sivilisasjon<s n="n"/><s n="m"/></l><r>civilization<s n="n"/></r></p></e>
+<e>        <p><l>sivilisasjon<s n="n"/><s n="m"/></l><r>civilisation<s n="n"/></r></p></e>
 <e>        <p><l>sivilstand<s n="n"/><s n="m"/></l><r>marital<b/>status<s n="n"/></r></p></e>
 <e>        <p><l>sjakal<s n="n"/><s n="m"/></l><r>jackal<s n="n"/></r></p></e>
 <e>        <p><l>sjakk<s n="n"/><s n="m"/></l><r>chess<s n="n"/></r></p></e>
@@ -7348,6 +7352,71 @@
 <e>        <p><l>million<s n="n"/><s n="m"/></l><r>million<s n="n"/></r></p></e>
 <e c="  0"><p><l>bygging<s n="n"/></l>     <r>building<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="  0"><p><l>krone<s n="n"/></l>     <r>crown<s n="n"/></r></p><par n="m_LR_f"/></e>
+
+<e c="  0"><p><l>å<s n="n"/><s n="m"/></l><r>river<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>kommune<s n="n"/><s n="m"/></l><r>municipality<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>være<s n="n"/><s n="nt"/></l><r>existence<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>mens<s n="n"/><s n="m"/></l><r>menstruation<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>kommunestyre<s n="n"/><s n="nt"/></l><r>city<b/>council<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>arbeiderparti<s n="n"/><s n="nt"/></l><r>labour<b/>party<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>klubb<s n="n"/><s n="m"/></l><r>club<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>norsk<s n="n"/><s n="m"/></l><r>Norwegian<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>vedtak<s n="n"/><s n="nt"/></l><r>resolution<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>fylkeskommune<s n="n"/><s n="m"/></l><r>county<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>framtid<s n="n"/><s n="m"/></l><r>future<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>får<s n="n"/><s n="m"/></l><r>sheep<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>forelder<s n="n"/><s n="m"/></l><r>parent<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>kultur<s n="n"/><s n="m"/></l><r>culture<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>plan<s n="n"/><s n="m"/></l><r>plan<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>ting<s n="n"/><s n="m"/></l><r>entity<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>nord<s n="n"/><s n="m"/></l><r>north<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>gjeld<s n="n"/><s n="m"/></l><r>money<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>rådmann<s n="n"/><s n="m"/></l><r>councillor<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>kritikk<s n="n"/><s n="m"/></l><r>review<s n="n"/><s n="m"/></r></p></e>
+<e slr="1"><p><l>kritikk<s n="n"/><s n="m"/></l><r>critique<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>næringsliv<s n="n"/><s n="nt"/></l><r>business<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>utdanning<s n="n"/><s n="m"/></l><r>education<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>budsjett<s n="n"/><s n="nt"/></l><r>budget<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>internasjonale<s n="n"/><s n="m"/></l><r>international<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>kontrakt<s n="n"/><s n="m"/></l><r>contract<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>venstre<s n="n"/><s n="m"/></l><r>left<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>konflikt<s n="n"/><s n="m"/></l><r>conflict<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>alternativ<s n="n"/><s n="nt"/></l><r>alternative<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>august<s n="n"/><s n="m"/></l><r>august<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>april<s n="n"/><s n="m"/></l><r>april<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>veg<s n="n"/><s n="m"/></l><r>road<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>samisk<s n="n"/><s n="m"/></l><r>Sami<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>ball<s n="n"/><s n="m"/></l><r>ball<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>fylkesmann<s n="n"/><s n="m"/></l><r>governor<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>informasjon<s n="n"/><s n="m"/></l><r>information<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>tall<s n="n"/><s n="m"/></l><r>number<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>senter<s n="n"/><s n="m"/></l><r>centre<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>fylkesting<s n="n"/><s n="nt"/></l><r>county<b/>council<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>kilometer<s n="n"/><s n="m"/></l><r>kilometre<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>festival<s n="n"/><s n="m"/></l><r>festival<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>bank<s n="n"/><s n="m"/></l><r>bank<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>valgkamp<s n="n"/><s n="m"/></l><r>campaign<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>politikammer<s n="n"/><s n="nt"/></l><r>police<b/>service<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>finn<s n="n"/><s n="m"/></l><r>Finn<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>milliard<s n="n"/><s n="m"/></l><r>billion<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>lov<s n="n"/><s n="m"/></l><r>law<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>forsker<s n="n"/><s n="m"/></l><r>researcher<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>årsmøte<s n="n"/><s n="nt"/></l><r>annual<b/>meeting<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>russisk<s n="n"/><s n="m"/></l><r>Russian<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>cup<s n="n"/><s n="m"/></l><r>cup<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>band<s n="n"/><s n="nt"/></l><r>band<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>kostnad<s n="n"/><s n="m"/></l><r>cost<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>same<s n="n"/><s n="m"/></l><r>Sami<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>tv<s n="n"/><s n="m"/></l><r>television<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>sekund<s n="n"/><s n="m"/></l><r>second<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>rune<s n="n"/><s n="m"/></l><r>rune<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>vant<s n="n"/><s n="nt"/></l><r>shroud<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>fiskeriminister<s n="n"/><s n="m"/></l><r>minister<b/><s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>sykehjem<s n="n"/><s n="nt"/></l><r>nursing<b/>home<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>professor<s n="n"/><s n="m"/></l><r>professor<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>kunstner<s n="n"/><s n="m"/></l><r>artist<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>kompetanse<s n="n"/><s n="m"/></l><r>competence<s n="n"/><s n="m"/></r></p></e>
+
 
     <!-- Proper nouns -->
 
@@ -10706,6 +10775,8 @@
     <e c="  0"><p><l>sjette<s n="adj"/><s n="ord"/></l><r>sixth<s n="adj"/><s n="ord"/></r></p></e>
     <e c="  0"><p><l>sjuende<s n="adj"/><s n="ord"/></l><r>seventh<s n="adj"/><s n="ord"/></r></p></e>
 
+    <e c="  0"><p><l>tidlig<s n="adj"/></l><r>early<s n="adj"/><s n="sint"/></r></p></e>
+    <e slr="1"><p><l>tidlig<s n="adj"/><s n="comp"/></l><r>former<s n="adj"/></r></p></e>
     <e c="  0"><p><l>ny<s n="adj"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>god<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
     <e c="  0"><p><l>stor<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
@@ -11049,6 +11120,7 @@
     <e slr="2"><p><l>voksen<s n="adj"/></l><r>full-grown<s n="adj"/></r></p></e>
 
     <e c="  0"><p><l>velkommen<s n="adj"/></l><r>welcome<s n="adj"/></r></p></e>
+    <e c="  0"><p><l>humanitær<s n="adj"/></l><r>humanitarian<s n="adj"/></r></p></e>
 
     <e c="  0"><p><l>svenske<s n="adj"/></l><r>Swedish<s n="adj"/></r></p></e>
     <e c="  0"><p><l>svensk<s n="adj"/></l><r>Swedish<s n="adj"/></r></p></e>

@@ -65,6 +65,7 @@
     <def-attr n="a_det">
       <attr-item tags="adj"/>
       <attr-item tags="adj.ord"/>
+      <attr-item tags="num"/>
       <attr-item tags="num.ord"/>
       <attr-item tags="det.qnt"/>
       <attr-item tags="det.itg"/>
