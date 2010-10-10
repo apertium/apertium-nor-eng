@@ -1,25 +1,25 @@
-   7209 ^@for<adv>$
+   7572 ^@for<adv>$
    4139 ^@ei<adv>$
    3549 ^@svært<adv>$
    2944 ^@imidlertid<adv>$
-   2870 ^@fortsatt<adv>$
+   2856 ^@fortsatt<adv>$
    2839 ^@meget<adv>$
    2820 ^@videre<adv>$
-   2606 ^@lite<adv>$
+   2593 ^@lite<adv>$
    2589 ^@stort<adv>$
    2161 ^@spesielt<adv>$
    1772 ^@særlig<adv>$
    1708 ^@full<adv>$
    1523 ^@sjøl<adv>$
-   1466 ^@rett<adv>$
    1446 ^@senere<adv>$
+   1442 ^@rett<adv>$
    1409 ^@i gang<adv>$
    1358 ^@selvsagt<adv>$
    1342 ^@faktisk<adv>$
    1084 ^@ene<adv>$
-   1036 ^@hjemme<adv>$
    1028 ^@foreløpig<adv>$
    1026 ^@fullt<adv>$
+   1001 ^@hjemme<adv>$
     972 ^@tidlig<adv>$
     909 ^@hardt<adv>$
     858 ^@spennende<adv>$
@@ -33,13 +33,13 @@
     471 ^@annerledes<adv>$
     462 ^@tydelig<adv>$
     457 ^@sjelden<adv>$
-    449 ^@rent<adv>$
+    445 ^@rent<adv>$
     418 ^@i bruk<adv>$
     408 ^@sent<adv>$
-    385 ^@midt<adv>$
     384 ^@heldigvis<adv>$
+    383 ^@midt<adv>$
     383 ^@delvis<adv>$
-    378 ^@halvt<adv>$
+    377 ^@halvt<adv>$
     367 ^@muligens<adv>$
     363 ^@stein<adv>$
     303 ^@noen gang<adv>$
@@ -56,8 +56,7 @@
     220 ^@særdeles<adv>$
     218 ^@nokså<adv>$
     217 ^@i det<adv>$
-    205 ^@likt<adv>$
-    204 ^@sted<adv>$
+    204 ^@likt<adv>$
     201 ^@cirka<adv>$
     196 ^@lovlig<adv>$
     194 ^@jevnt<adv>$
@@ -69,9 +68,9 @@
     152 ^@forhåpentligvis<adv>$
     145 ^@eks<adv>$
     142 ^@hvorav<adv>$
-    141 ^@sørpå<adv>$
     138 ^@så snart<adv>$
     137 ^@utelukkende<adv>$
+    135 ^@sørpå<adv>$
     135 ^@naturligvis<adv>$
     135 ^@i henhold til<adv>$
     129 ^@så godt som<adv>$
@@ -82,8 +81,8 @@
     115 ^@eksempelvis<adv>$
     114 ^@ingenting<adv>$
     113 ^@noenlunde<adv>$
-    113 ^@ende<adv>$
     112 ^@for så vidt<adv>$
+    111 ^@ende<adv>$
     108 ^@senest<adv>$
     107 ^@følgelig<adv>$
     104 ^@gradvis<adv>$
@@ -91,21 +90,22 @@
      98 ^@brått<adv>$
      97 ^@en masse<adv>$
      92 ^@attpåtil<adv>$
+     91 ^@sted<adv>$
      87 ^@tidvis<adv>$
      87 ^@årevis<adv>$
      85 ^@netto<adv>$
      79 ^@visstnok<adv>$
-     72 ^@foruten<adv>$
      71 ^@respektive<adv>$
      71 ^@jevnlig<adv>$
      70 ^@omsider<adv>$
      70 ^@i mellomtida<adv>$
+     70 ^@foruten<adv>$
      70 ^@aldeles<adv>$
      69 ^@dernest<adv>$
      67 ^@hengende<adv>$
-     65 ^@pluss<adv>$
      65 ^@mange steder<adv>$
      63 ^@sådan<adv>$
+     63 ^@pluss<adv>$
      62 ^@allikevel<adv>$
      59 ^@periodevis<adv>$
      57 ^@sørfra<adv>$
@@ -114,39 +114,40 @@
      55 ^@herre<adv>$
      55 ^@ganske enkelt<adv>$
      54 ^@sågar<adv>$
-     52 ^@tids<adv>$
      52 ^@fjernt<adv>$
+     50 ^@tids<adv>$
      50 ^@simpelthen<adv>$
-     50 ^@innimellom<adv>$
      50 ^@endog<adv>$
      50 ^@drivende<adv>$
      50 ^@anslagsvis<adv>$
+     49 ^@innimellom<adv>$
      48 ^@klinkende<adv>$
      47 ^@etterhvert<adv>$
      46 ^@omlag<adv>$
      46 ^@forøvrig<adv>$
      45 ^@såvidt<adv>$
      45 ^@fortrinnsvis<adv>$
-     44 ^@såre<adv>$
+     43 ^@såre<adv>$
      43 ^@derpå<adv>$
      43 ^@der nede<adv>$
      41 ^@tilfeldigvis<adv>$
+     40 ^@splitter<adv>$
      40 ^@overhodet<adv>$
-     40 ^@ender<adv>$
      39 ^@inn igjen<adv>$
+     39 ^@ender<adv>$
      39 ^@av sted<adv>$
      38 ^@trutt<adv>$
-     37 ^@samt<adv>$
      36 ^@lys<adv>$
      36 ^@der oppe<adv>$
-     36 ^@bi<adv>$
      35 ^@sommerstid<adv>$
+     35 ^@samt<adv>$
+     35 ^@bi<adv>$
      34 ^@hvor som helst<adv>$
-     33 ^@stokk<adv>$
      33 ^@øyensynlig<adv>$
      33 ^@mo<adv>$
      33 ^@igang<adv>$
      32 ^@visst nok<adv>$
+     32 ^@stokk<adv>$
      32 ^@milevis<adv>$
      32 ^@likeledes<adv>$
      32 ^@ditto<adv>$
@@ -155,18 +156,17 @@
      31 ^@når som helst<adv>$
      31 ^@fortløpende<adv>$
      30 ^@så visst<adv>$
-     29 ^@splitter<adv>$
      29 ^@spill<adv>$
+     29 ^@middels<adv>$
      29 ^@innledningsvis<adv>$
      29 ^@hva som helst<adv>$
      29 ^@bitte<adv>$
      28 ^@vekselvis<adv>$
      28 ^@såvel<adv>$
-     28 ^@middels<adv>$
      28 ^@jammen<adv>$
      28 ^@glødende<adv>$
-     28 ^@der ute<adv>$
      27 ^@enkeltvis<adv>$
+     27 ^@der ute<adv>$
      26 ^@vedrørende<adv>$
      26 ^@over lang<adv>$
      26 ^@nattestid<adv>$
@@ -214,7 +214,6 @@
      16 ^@just<adv>$
      16 ^@en profil<adv>$
      15 ^@skinnende<adv>$
-     15 ^@fore<adv>$
      15 ^@der inne<adv>$
      14 ^@foreksempel<adv>$
      13 ^@ukevis<adv>$
@@ -227,6 +226,7 @@
      12 ^@idag<adv>$
      12 ^@flust<adv>$
      12 ^@fløyten<adv>$
+     12 ^@alias<adv>$
      11 ^@trill<adv>$
      11 ^@langtfra<adv>$
      11 ^@knakende<adv>$
@@ -237,7 +237,6 @@
      10 ^@surr<adv>$
      10 ^@forsåvidt<adv>$
      10 ^@fjellstøtt<adv>$
-     10 ^@alias<adv>$
       9 ^@unntaksvis<adv>$
       9 ^@sørpe<adv>$
       9 ^@pyton<adv>$
@@ -258,6 +257,7 @@
       8 ^@ihvertfall<adv>$
       8 ^@i forgårs<adv>$
       8 ^@gid<adv>$
+      8 ^@fore<adv>$
       7 ^@unnskyld<adv>$
       7 ^@umåtelig<adv>$
       7 ^@summa summarum<adv>$
@@ -298,7 +298,6 @@
       5 ^@prompte<adv>$
       5 ^@proforma<adv>$
       5 ^@på tverke<adv>$
-      5 ^@luta<adv>$
       5 ^@kul<adv>$
       5 ^@ifjor<adv>$
       5 ^@hundretusenvis<adv>$
@@ -308,13 +307,13 @@
       4 ^@storlig<adv>$
       4 ^@stakkato<adv>$
       4 ^@sprut<adv>$
-      4 ^@sprell<adv>$
       4 ^@overvettes<adv>$
       4 ^@overmorgen<adv>$
       4 ^@milevidt<adv>$
       4 ^@midtvinters<adv>$
       4 ^@metervis<adv>$
       4 ^@medio<adv>$
+      4 ^@luta<adv>$
       4 ^@klokelig<adv>$
       4 ^@klin<adv>$
       4 ^@kilometervis<adv>$
@@ -334,6 +333,7 @@
       3 ^@vibrato<adv>$
       3 ^@stemplende<adv>$
       3 ^@stappende<adv>$
+      3 ^@sprell<adv>$
       3 ^@sidelengs<adv>$
       3 ^@raspende<adv>$
       3 ^@puljevis<adv>$

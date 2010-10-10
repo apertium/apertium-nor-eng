@@ -1,5 +1,5 @@
-   5570 ^@der<pr>$
-   4290 ^@her<pr>$
+   5608 ^@der<pr>$
+   4336 ^@her<pr>$
    3422 ^@inn i<pr>$
    2685 ^@sammen med<pr>$
    2349 ^@foran<pr>$
@@ -8,10 +8,10 @@
    1540 ^@imot<pr>$
    1447 ^@ut i<pr>$
    1220 ^@inne<pr>$
-   1117 ^@per<pr>$
+    955 ^@per<pr>$
     942 ^@unna<pr>$
     890 ^@borte<pr>$
-    795 ^@hjem<pr>$
+    798 ^@hjem<pr>$
     771 ^@i ferd med<pr>$
     766 ^@opp på<pr>$
     635 ^@av dette<pr>$
@@ -22,11 +22,11 @@
     481 ^@nede<pr>$
     478 ^@opp mot<pr>$
     364 ^@på vegne av<pr>$
+    358 ^@hjemme<pr>$
     337 ^@dit<pr>$
-    323 ^@hjemme<pr>$
     316 ^@hittil<pr>$
-    264 ^@etterpå<pr>$
-    253 ^@foruten<pr>$
+    268 ^@etterpå<pr>$
+    255 ^@foruten<pr>$
     252 ^@fremover<pr>$
     237 ^@sørover<pr>$
     231 ^@sammenlignet med<pr>$
@@ -41,10 +41,10 @@
     126 ^@utpå<pr>$
     121 ^@bortimot<pr>$
     114 ^@istedenfor<pr>$
+    109 ^@nordover<pr>$
     104 ^@utfor<pr>$
      95 ^@innendørs<pr>$
      94 ^@vedrørende<pr>$
-     92 ^@nordover<pr>$
      91 ^@hen<pr>$
      91 ^@akter<pr>$
      90 ^@innad<pr>$
@@ -54,22 +54,22 @@
      83 ^@borti<pr>$
      76 ^@midtveis<pr>$
      75 ^@van<pr>$
-     74 ^@innover<pr>$
+     71 ^@innover<pr>$
      70 ^@herfra<pr>$
      69 ^@trass i<pr>$
      67 ^@hjemmefra<pr>$
      66 ^@frem i<pr>$
      64 ^@i følge<pr>$
      63 ^@utad<pr>$
+     63 ^@innimellom<pr>$
      63 ^@dertil<pr>$
-     62 ^@innimellom<pr>$
      60 ^@bakfra<pr>$
      58 ^@oppi<pr>$
+     57 ^@sørpå<pr>$
      57 ^@østover<pr>$
      55 ^@von<pr>$
      55 ^@hit<pr>$
      52 ^@derved<pr>$
-     51 ^@sørpå<pr>$
      51 ^@nordpå<pr>$
      50 ^@iblant<pr>$
      49 ^@ad<pr>$
@@ -86,15 +86,15 @@
      39 ^@herved<pr>$
      39 ^@frå<pr>$
      39 ^@frampå<pr>$
+     37 ^@øst<pr>$
      37 ^@herunder<pr>$
      37 ^@eksklusive<pr>$
-     36 ^@øst<pr>$
      34 ^@avgårde<pr>$
      31 ^@utenpå<pr>$
      30 ^@nedpå<pr>$
-     30 ^@alias<pr>$
      29 ^@inklusive<pr>$
      28 ^@ombord<pr>$
+     28 ^@alias<pr>$
      27 ^@sørfra<pr>$
      26 ^@vestover<pr>$
      26 ^@utfra<pr>$
@@ -112,12 +112,12 @@
      16 ^@innenlands<pr>$
      16 ^@forfra<pr>$
      16 ^@efter<pr>$
+     14 ^@der ute<pr>$
      14 ^@bakpå<pr>$
      13 ^@oppimot<pr>$
      13 ^@midtvegs<pr>$
      13 ^@gatelangs<pr>$
      13 ^@forover<pr>$
-     13 ^@der ute<pr>$
      13 ^@derifra<pr>$
      12 ^@henne<pr>$
      11 ^@opp imot<pr>$
@@ -133,9 +133,9 @@
       8 ^@herav<pr>$
       7 ^@langsetter<pr>$
       7 ^@innunder<pr>$
+      7 ^@der borte<pr>$
       6 ^@utav<pr>$
       6 ^@der oppe<pr>$
-      6 ^@der borte<pr>$
       6 ^@bortetter<pr>$
       5 ^@veggimellom<pr>$
       5 ^@sør<pr>$
