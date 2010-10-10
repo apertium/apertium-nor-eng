@@ -1,11 +1,16 @@
 * text=auto !eol
-/Makefile -text
+/AUTHORS -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
 /apertium-no-en.nb.dix -text
 /apertium-no-en.no-en.dix -text
 /apertium-no-en.no-en.lex -text
 /apertium-no-en.no-en.t1x -text
 /apertium-no-en.no-en.t2x -text
 /apertium-no-en.no-en.t3x -text
+/configure.ac -text
 dev/bidix/pending_adjectives.txt -text
 dev/bidix/pending_adverbs.txt -text
 dev/bidix/pending_conjunctions.txt -text

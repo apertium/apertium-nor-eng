@@ -143,7 +143,6 @@
 
   <section-def-vars>
     <def-var n="number"/>
-    <def-var n="case"/>
     <def-var n="genere"/>
     <def-var n="np_q"/>
     <def-var n="a_h"/>
