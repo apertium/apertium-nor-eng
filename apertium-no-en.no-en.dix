@@ -130,11 +130,11 @@
   </pardefs>
 
   <section id="main" type="standard">
-    <!-- Particles -->
+    <!-- SECTION Particles -->
 
     <e c="infinitive mark"><p><l>å<s n="part"/></l><r>to<s n="pr"/></r></p></e>
 
-    <!-- Conjunctions -->
+    <!-- SECTION Conjunctions: -->
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>eller<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>men<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
@@ -164,7 +164,7 @@
     <e c="wat?"><p><l>at<s n="cnjcoo"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e c="wat?"><p><l>enten<s n="cnjcoo"/></l><r>either<s n="cnjsub"/></r></p></e>
 
-    <!-- Prepositions -->
+    <!-- SECTION Prepositions, unchecked: -->
 
     <e c="  0"><p><l>med<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
 
@@ -325,7 +325,7 @@
     
     
 
-    <!-- Pronouns -->
+    <!-- SECTION Pronouns -->
 
     <e><p><l>jeg<s n="prn"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="p1"/></r></p></e>
     <e><p><l>vi<s n="prn"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="p1"/></r></p></e>
@@ -353,7 +353,7 @@
 
     <e><p><l>man<s n="prn"/></l><r>one<s n="prn"/></r></p></e>
 
-    <!-- Determiners -->
+    <!-- SECTION Determiners -->
 
     <e><p><l>en<s n="det"/><s n="qnt"/></l><r>a<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
     <e><p><l>ingen<s n="det"/><s n="qnt"/></l><r>no<s n="det"/><s n="ind"/></r></p><par n="dem_dem"/></e>
@@ -407,7 +407,7 @@
 
     <e><p><l>seg<s n="det"/><s n="pos"/></l><r>his<s n="det"/><s n="pos"/></r></p><par n="dem_dem"/></e> <!-- his/her/its -->
 
-    <!-- Numerals -->
+    <!-- SECTION Numerals -->
 
     <e><p><l>null<s n="det"/><s n="qnt"/></l><r>zero<s n="num"/></r></p></e>
     <e><p><l>én<s n="det"/><s n="qnt"/></l><r>one<s n="num"/></r></p></e>
@@ -451,7 +451,7 @@
     <e><p><l>milliard<s n="det"/><s n="qnt"/></l><r>billion<s n="num"/></r></p></e>
     <e slr="1"><p><l>milliard<s n="det"/><s n="qnt"/></l><r>milliard<s n="num"/></r></p></e>
 
-    <!-- Nouns -->
+    <!-- SECTION Nouns, checked -->
 
 <e c="  0"><p><l>abbed<s n="n"/><s n="m"/></l><r>abbot<s n="n"/></r></p></e>
 <e c="  0"><p><l>abbedi<s n="n"/><s n="nt"/></l><r>abbey<s n="n"/></r></p></e>
@@ -7355,12 +7355,13 @@
 <e>        <p><l>øyeblikk<s n="n"/><s n="nt"/></l><r>moment<s n="n"/></r></p></e>
 <e slr="1"><p><l>øyeblikk<s n="n"/><s n="nt"/></l><r>instant<s n="n"/></r></p></e>
 <e>        <p><l>øygruppe<s n="n"/></l>      <r>archipelago<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>å<s n="n"/></l><r>river<s n="n"/><s n="m"/></r></p><par n="f|m_LR_f"/></e>
 
 <e>        <p><l>million<s n="n"/><s n="m"/></l><r>million<s n="n"/></r></p></e>
 <e c="  0"><p><l>bygging<s n="n"/></l>     <r>building<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e c="  0"><p><l>krone<s n="n"/></l>     <r>crown<s n="n"/></r></p><par n="m_LR_f"/></e>
 
-<e c="  0"><p><l>å<s n="n"/><s n="m"/></l><r>river<s n="n"/><s n="m"/></r></p></e>
+<!-- SECTION Nouns, unchecked: -->
 <e c="  0"><p><l>kommune<s n="n"/><s n="m"/></l><r>municipality<s n="n"/><s n="m"/></r></p></e>
 <e c="  0"><p><l>være<s n="n"/><s n="nt"/></l><r>existence<s n="n"/><s n="nt"/></r></p></e>
 <e c="  0"><p><l>mens<s n="n"/><s n="m"/></l><r>menstruation<s n="n"/><s n="m"/></r></p></e>
@@ -7475,8 +7476,7 @@
 <e c="  0"><p><l>styreleder<s n="n"/><s n="m"/></l><r>chairman<s n="n"/><s n="m"/></r></p></e>
 
 
-
-    <!-- Proper nouns -->
+    <!-- SECTION Proper nouns, unchecked -->
 
     <e><p><l>Gud<s n="np"/></l><r>God<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Wikipedia<s n="np"/></l><r>Wikipedia<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
@@ -10823,7 +10823,7 @@
     <e><p><l>Aleksandar<s n="np"/></l><r>Aleksandar<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Abdul<s n="np"/></l><r>Abdul<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
         
-    <!-- Adjectives -->
+    <!-- SECTION Adjectives, unchecked: -->
 
     <e c="  0"><p><l>første<s n="adj"/><s n="ord"/></l><r>first<s n="adj"/><s n="ord"/></r></p></e>
     <e c="  0"><p><l>andre<s n="adj"/><s n="ord"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
@@ -11185,7 +11185,7 @@
     <e c="  0"><p><l>norsk<s n="adj"/></l><r>Norwegian<s n="adj"/></r></p></e>
     <e c="  0"><p><l>palestinsk<s n="adj"/></l><r>Palestinian<s n="adj"/></r></p></e>
 
-    <!-- Adverbs -->
+    <!-- SECTION Adverbs, unchecked: -->
 
     <e c="  0"><p><l>hvordan<s n="adv"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e> 
     <e c="  0"><p><l>hvorfor<s n="adv"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e> 
@@ -11592,16 +11592,19 @@
 
 
 
-    <!-- Verbs -->
+    <!-- SECTION Verbs, checked: -->
 
     <e c="  0"><p><l>være</l><r>be<s n="vbser"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>ha</l><r>have<s n="vbhaver"/></r></p><par n="vblex_vblex"/></e>
 
     <e c="  0"><p><l>skulle<s n="vblex"/></l><r>shall<s n="vaux"/></r></p><par n="skulle_shall"/></e>
     <e c="  0"><p><l>skulle<s n="vblex"/><s n="pret"/></l><r>should<s n="vaux"/><s n="inf"/></r></p></e>
+    <e slr="1"><p><l>skulle<s n="vblex"/></l><r>would<s n="vaux"/><s n="inf"/></r><par n="skulle_shall"/></p></e>
     <e c="  0"><p><l>kunne</l><r>can<s n="vaux"/></r></p><par n="vblex_vblex"/></e>
 
+    <!-- SECTION Verbs, unchecked: -->
     <e c="  0"><p><l>bli</l><r>become<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>bli</l><r>be<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>skape</l><r>create<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>ligge</l><r>lie<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>si</l><r>say<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
@@ -13844,10 +13847,10 @@
     <e c="  0"><p><l>revidere</l><r>revise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>presentere</l><r>present<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
  
-    <!-- Interjections -->
+    <!-- SECTION: Interjections -->
 
 
-    <!-- Punctuation -->
+    <!-- SECTION: Punctuation -->
 
     <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="det"/><s n="qnt"/></l><r><s n="num"/></r></p><par n="qnt_num"/></e>
     <e><re>[0-9]+</re><p><l>.<s n="adj"/><s n="ord"/></l><r><s n="num"/><s n="ord"/></r></p></e>
