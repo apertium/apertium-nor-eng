@@ -1,7 +1,6 @@
    5775 ^@blant<pr>$
    5570 ^@der<pr>$
    4290 ^@her<pr>$
-   3688 ^@tilbake<pr>$
    3422 ^@inn i<pr>$
    2685 ^@sammen med<pr>$
    2349 ^@foran<pr>$
@@ -44,7 +43,6 @@
     126 ^@utpå<pr>$
     121 ^@bortimot<pr>$
     114 ^@istedenfor<pr>$
-    113 ^@bakover<pr>$
     104 ^@utfor<pr>$
      95 ^@innendørs<pr>$
      94 ^@vedrørende<pr>$

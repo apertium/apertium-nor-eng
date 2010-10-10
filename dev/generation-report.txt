@@ -26,14 +26,11 @@ Tag mismatch between transfer and generation
    8786 #when\<adv\>	^when<adv>$
    8329 #something\<prn\>\<subj\>\<sg\>	^something<prn><subj><sg>$
    8264 #sow\<vblex\>\<inf\>	^sow<vblex><inf>$
-   7378 #many\<det\>\<qnt\>\<comp\>	^many<det><qnt><comp>$
    5955 #last\<adj\>\<sup\>	^last<adj><sup>$
    5925 #many\<det\>\<qnt\>\<pl\>	^many<det><qnt><pl><unc>$
    5893 #something\<prn\>\<subj\>	^something<prn><subj>$
    5685 #no\<det\>\<ind\>\<pl\>	^no<det><ind><pl>$
    5517 #forth\<pr\>	^forth<pr>$
-   5066 #same\<det\>\<ind\>\<m\>\<sp\>\<def\>	^same<det><ind><m><sp><def>$
-   4922 #other\<det\>\<ind\>\<nt\>\<sg\>\<ind\>	^other<det><ind><nt><sg><ind>$
    4888 #its\<vblex\>\<inf\>	^its<vblex><inf>$
    4546 #Harstad\<np\>\<top\>\<sg\>	^Harstad<np><top><sg>$
    4449 #much\<det\>\<qnt\>\<sup\>	^much<det><qnt><sup>$
@@ -41,12 +38,13 @@ Tag mismatch between transfer and generation
    4050 #below\<pr\>	^below<pr>$
    3917 #better\<vblex\>\<inf\>	^better<vblex><inf>$
    3735 #alternately\<adv\>	^alternately<adv>$
+   3611 #back\<pr\>	^back<pr>$
    3498 #must\<vblex\>\<inf\># to	^must<vblex><inf># to$
    3413 #Northern Norway\<np\>\<top\>\<sg\>	^Northern Norway<np><top><sg>$
    3270 #coming\<n\>\<sg\>	^coming<n><sg>$
    3166 #coming\<n\>\<pl\>	^coming<n><pl>$
    2938 #measurment\<n\>\<sg\>	^measurment<n><sg>$
-   2707 #other\<det\>\<ind\>\<m\>\<sg\>\<ind\>	^other<det><ind><m><sg><ind>$
+   2447 #single\<adv\>	^single<adv>$
    2341 #nevertheless\<adv\>	^nevertheless<adv>$
    2337 #nest\<vblex\>\<inf\>	^nest<vblex><inf>$
    2262 #TROMSØ\<np\>\<top\>\<sg\>	^TROMSØ<np><top><sg>$
@@ -85,6 +83,7 @@ Tag mismatch between transfer and generation
    1172 #Skjervøy\<np\>\<top\>\<sg\>	^Skjervøy<np><top><sg>$
    1171 #Yes\<n\>\<sg\>	^Yes<n><sg>$
    1143 #find\<n\>\<sg\>	^find<n><sg>$
+   1132 #daily\<adj\>\<sint\>	^daily<adj><sint>$
    1130 #important\<adj\>\<sup\>	^important<adj><sup>$
    1122 #in any case\<adv\>	^in any case<adv>$
    1111 #ante\<n\>\<sg\>	^ante<n><sg>$
@@ -107,11 +106,9 @@ Tag mismatch between transfer and generation
     840 #Stone\<vblex\>\<inf\>	^Stone<vblex><inf>$
     832 #Balsfjord\<np\>\<top\>\<sg\>	^Balsfjord<np><top><sg>$
     820 #Something\<prn\>\<subj\>	^Something<prn><subj>$
-    818 #Many\<det\>\<qnt\>\<comp\>	^Many<det><qnt><comp>$
     818 #disbelief\<n\>\<sg\>	^disbelief<n><sg>$
     814 #A\<n\>\<sg\>	^A<n><sg>$
     807 #FINNSNES\<np\>\<top\>\<sg\>	^FINNSNES<np><top><sg>$
-    805 #many\<det\>\<qnt\>\<sup\>	^many<det><qnt><sup>$
     804 #precinct\<n\>\<sg\>	^precinct<n><sg>$
     789 #revolve\<vblex\>\<pres\>	^revolve<vblex><pres>$
     780 #become# quiet\<vblex\>\<inf\>	^become# quiet<vblex><inf>$
@@ -248,6 +245,7 @@ Tag mismatch between transfer and generation
     283 #pensioner\<n\>\<pl\>	^pensioner<n><pl>$
     283 #minister of Foreign Affairs\<n\>\<sg\>	^minister of Foreign Affairs<n><sg>$
     283 #inflict\<vblex\>\<pp\>	^inflict<vblex><pp>$
+    281 #Pål\<np\>\<ant\>\<m\>\<sg\>	^Pål<np><ant><m><sg>$
     280 #inside\<n\>\<sp\>	^inside<n><sp>$
     280 #adversary\<n\>\<pl\>	^adversary<n><pl>$
     278 #Stavanger\<np\>\<top\>\<sg\>	^Stavanger<np><top><sg>$
@@ -272,6 +270,7 @@ Tag mismatch between transfer and generation
     257 #excise\<vblex\>\<pp\>	^excise<vblex><pp>$
     256 #Inside\<n\>\<sp\>	^Inside<n><sp>$
     256 #county\<vblex\>\<inf\>	^county<vblex><inf>$
+    253 #English\<n\>\<sp\>	^English<n><sp>$
     251 #Tranøy\<np\>\<top\>\<sg\>	^Tranøy<np><top><sg>$
     249 #important\<adj\>\<comp\>	^important<adj><comp>$
     247 #house\<vblex\>\<inf\>	^house<vblex><inf>$
@@ -283,6 +282,7 @@ Tag mismatch between transfer and generation
     239 #Lillehammer\<np\>\<top\>\<sg\>	^Lillehammer<np><top><sg>$
     238 #mommy\<n\>\<sg\>	^mommy<n><sg>$
     237 #Gryllefjord\<np\>\<top\>\<sg\>	^Gryllefjord<np><top><sg>$
+    236 #schedule	^schedule$
     235 #waters\<n\>\<sg\>	^waters<n><sg>$
     235 #see-saw\<n\>\<sg\>	^see-saw<n><sg>$
     234 #skipper\<n\>\<sg\>	^skipper<n><sg>$
@@ -291,8 +291,8 @@ Tag mismatch between transfer and generation
     233 #interlock\<vblex\>\<pres\>	^interlock<vblex><pres>$
     232 #lighten\<vblex\>\<pp\>	^lighten<vblex><pp>$
     231 #toll\<vblex\>\<inf\>	^toll<vblex><inf>$
-    231 #that\<det\>\<dem\>\<sg\>\<gen\>	^that<det><dem><sg><gen>$
     231 #New Year\<n\>\<sg\>	^New Year<n><sg>$
+    231 #a kind of\<det\>\<ind\>\<m\>\<sg\>	^a kind of<det><ind><m><sg>$
     228 #Last\<adv\>	^Last<adv>$
     228 #din\<vblex\>\<inf\>	^din<vblex><inf>$
     227 #dupe\<vblex\>\<inf\>	^dupe<vblex><inf>$
@@ -327,7 +327,6 @@ Tag mismatch between transfer and generation
     205 #Kvæfjord\<np\>\<top\>\<sg\>	^Kvæfjord<np><top><sg>$
     203 #denigh\<vblex\>\<inf\>	^denigh<vblex><inf>$
     202 #funds\<n\>\<sg\>	^funds<n><sg>$
-    200 #Many\<det\>\<qnt\>\<sup\>	^Many<det><qnt><sup>$
     200 #Bellona\<np\>\<top\>\<sg\>	^Bellona<np><top><sg>$
     198 #Skånland\<np\>\<top\>\<sg\>	^Skånland<np><top><sg>$
     198 #salvage\<vblex\>\<inf\>	^salvage<vblex><inf>$
@@ -355,12 +354,10 @@ Tag mismatch between transfer and generation
     180 #Heimdal\<np\>\<top\>\<sg\>	^Heimdal<np><top><sg>$
     179 #harassment\<n\>\<sg\>	^harassment<n><sg>$
     178 #Vardø\<np\>\<top\>\<sg\>	^Vardø<np><top><sg>$
-    178 #Same\<det\>\<ind\>\<m\>\<sp\>\<def\>	^Same<det><ind><m><sp><def>$
     178 #gladness\<vblex\>\<pres\>	^gladness<vblex><pres>$
     178 #be# called\<vblex\>\<inf\>	^be# called<vblex><inf>$
     177 #invigorate\<vblex\>\<pp\>	^invigorate<vblex><pp>$
     176 #Vesterålen\<np\>\<top\>\<sg\>	^Vesterålen<np><top><sg>$
-    175 #Other\<det\>\<ind\>\<f\>\<sg\>\<ind\>	^Other<det><ind><f><sg><ind>$
     175 #Ålesund\<np\>\<top\>\<sg\>	^Ålesund<np><top><sg>$
     174 #negative\<n\>\<sg\>	^negative<n><sg>$
     174 #grasp\<n\>\<sg\>	^grasp<n><sg>$
@@ -418,6 +415,7 @@ Tag mismatch between transfer and generation
     154 #sámi\<n\>\<sg\>	^sámi<n><sg>$
     154 #Next\<n\>\<sg\>	^Next<n><sg>$
     153 #perish\<vblex\>\<inf\>	^perish<vblex><inf>$
+    153 #collect	^collect$
     152 #umpire\<n\>\<sg\>	^umpire<n><sg>$
     152 #Much\<det\>\<qnt\>\<sup\>	^Much<det><qnt><sup>$
     152 #mighty\<adj\>	^mighty<adj>$
@@ -468,10 +466,12 @@ Tag mismatch between transfer and generation
     128 #Labour\<vblex\>\<pp\>	^Labour<vblex><pp>$
     127 #Bærum\<np\>\<top\>\<sg\>	^Bærum<np><top><sg>$
     126 #fasten\<vblex\>\<pp\>	^fasten<vblex><pp>$
+    126 #Daily\<adj\>\<sint\>	^Daily<adj><sint>$
     126 #cellular phone\<n\>\<sg\>	^cellular phone<n><sg>$
     125 #voice\<vblex\>\<pp\>	^voice<vblex><pp>$
     125 #Vest\<n\>\<sg\>	^Vest<n><sg>$
     125 #schooling\<n\>\<sg\>	^schooling<n><sg>$
+    125 #presume\<vblex\>\<pp\>	^presume<vblex><pp>$
     124 #tempest\<n\>\<sg\>	^tempest<n><sg>$
     124 #perpetrate\<vblex\>\<pp\>	^perpetrate<vblex><pp>$
     124 #exultation\<n\>\<sg\>	^exultation<n><sg>$
@@ -483,6 +483,7 @@ Tag mismatch between transfer and generation
     122 #Lie\<np\>\<top\>\<sg\>	^Lie<np><top><sg>$
     122 #authentic\<vblex\>\<inf\>	^authentic<vblex><inf>$
     121 #Trøndelag\<np\>\<top\>\<sg\>	^Trøndelag<np><top><sg>$
+    121 #repeat	^repeat$
     121 #lighten\<vblex\>\<past\>	^lighten<vblex><past>$
     121 #fancy\<n\>\<sg\>	^fancy<n><sg>$
     121 #fag\<vblex\>\<inf\>	^fag<vblex><inf>$
@@ -492,10 +493,12 @@ Tag mismatch between transfer and generation
     120 #Nourishment\<n\>\<sg\>	^Nourishment<n><sg>$
     119 #toll\<vblex\>\<pp\>	^toll<vblex><pp>$
     119 #Rogaland\<np\>\<top\>\<sg\>	^Rogaland<np><top><sg>$
+    119 #promote	^promote$
     119 #county\<vblex\>\<pp\>	^county<vblex><pp>$
     119 #by the thousand\<adv\>	^by the thousand<adv>$
     119 #apprentice\<n\>\<pl\>	^apprentice<n><pl>$
     118 #transfuse\<vblex\>\<pp\>	^transfuse<vblex><pp>$
+    118 #presume\<vblex\>\<pres\>	^presume<vblex><pres>$
     118 #might\<n\>\<pl\>	^might<n><pl>$
     117 #Sandnes\<np\>\<top\>\<sg\>	^Sandnes<np><top><sg>$
     117 #salvage\<vblex\>\<pp\>	^salvage<vblex><pp>$
@@ -526,6 +529,7 @@ Tag mismatch between transfer and generation
     108 #Newcastle\<np\>\<top\>\<sg\>	^Newcastle<np><top><sg>$
     108 #Barrister\<n\>\<sg\>	^Barrister<n><sg>$
     107 #immerse\<vblex\>\<inf\>	^immerse<vblex><inf>$
+    107 #backwards\<pr\>	^backwards<pr>$
     106 #Strife\<n\>\<sg\>	^Strife<n><sg>$
     106 #Naess\<np\>\<top\>\<sg\>	^Naess<np><top><sg>$
     105 #waken\<vblex\>\<pp\>	^waken<vblex><pp>$
@@ -537,7 +541,9 @@ Tag mismatch between transfer and generation
     104 #Quote\<n\>\<sg\>	^Quote<n><sg>$
     104 #personnel\<n\>\<sg\>	^personnel<n><sg>$
     104 #little\<vblex\>\<pres\>	^little<vblex><pres>$
+    103 #presume\<vblex\>\<inf\>	^presume<vblex><inf>$
     103 #One\<num\>\<m\>\<sg\>	^One<num><m><sg>$
+    103 #head clerk\<n\>\<sg\>	^head clerk<n><sg>$
     103 #Everton\<np\>\<top\>\<sg\>	^Everton<np><top><sg>$
     103 #close to\<pr\>	^close to<pr>$
     102 #traveller\<n\>\<sp\>	^traveller<n><sp>$
@@ -548,6 +554,7 @@ Tag mismatch between transfer and generation
     101 #peer\<n\>\<pl\>	^peer<n><pl>$
     101 #miscarriage\<n\>\<sg\>	^miscarriage<n><sg>$
     101 #Evanger\<np\>\<top\>\<sg\>	^Evanger<np><top><sg>$
+    100 #suggest	^suggest$
     100 #remunerate\<vblex\>\<inf\>	^remunerate<vblex><inf>$
     100 #pal\<n\>\<pl\>	^pal<n><pl>$
     100 #motive\<n\>\<pl\>	^motive<n><pl>$
@@ -566,9 +573,11 @@ Tag mismatch between transfer and generation
      97 #TROMSDALEN\<np\>\<top\>\<sg\>	^TROMSDALEN<np><top><sg>$
      97 #Haugesund\<np\>\<top\>\<sg\>	^Haugesund<np><top><sg>$
      97 #happening\<n\>\<pl\>	^happening<n><pl>$
+     97 #fasten	^fasten$
      96 #storm\<vblex\>\<inf\>	^storm<vblex><inf>$
      96 #gathering\<n\>\<pl\>	^gathering<n><pl>$
      96 #Barentsburg\<np\>\<top\>\<sg\>	^Barentsburg<np><top><sg>$
+     95 #vote	^vote$
      95 #parking lot\<n\>\<sg\>	^parking lot<n><sg>$
      95 #Møre\<np\>\<top\>\<sg\>	^Møre<np><top><sg>$
      95 #liaison\<n\>\<pl\>	^liaison<n><pl>$
@@ -639,7 +648,6 @@ Tag mismatch between transfer and generation
      83 #trench\<vblex\>\<pp\>	^trench<vblex><pp>$
      83 #set\<vblex\>\<inf\># out	^set<vblex><inf># out$
      83 #Sámi\<n\>\<sg\>	^Sámi<n><sg>$
-     83 #other\<det\>\<ind\>\<f\>\<sg\>\<ind\>	^other<det><ind><f><sg><ind>$
      83 #madness\<n\>\<sg\>	^madness<n><sg>$
      83 #gulp\<vblex\>\<inf\>	^gulp<vblex><inf>$
      83 #Eli\<np\>	^Eli<np>$
@@ -653,6 +661,7 @@ Tag mismatch between transfer and generation
      81 #Grieg\<np\>\<top\>\<sg\>	^Grieg<np><top><sg>$
      81 #favourite\<n\>\<sg\>	^favourite<n><sg>$
      81 #Elverum\<np\>\<top\>\<sg\>	^Elverum<np><top><sg>$
+     81 #a kind of\<det\>\<ind\>\<nt\>\<sg\>	^a kind of<det><ind><nt><sg>$
      80 #starch\<vblex\>\<inf\>	^starch<vblex><inf>$
      80 #standpoint\<n\>\<sg\>	^standpoint<n><sg>$
      80 #repeal\<vblex\>\<inf\>	^repeal<vblex><inf>$
@@ -735,6 +744,7 @@ Tag mismatch between transfer and generation
      68 #Minister of Foreign Affairs\<n\>\<sg\>	^Minister of Foreign Affairs<n><sg>$
      68 #At times\<adv\>	^At times<adv>$
      67 #stone\<vblex\>\<inf\>	^stone<vblex><inf>$
+     67 #Single\<adv\>	^Single<adv>$
      67 #Saturate\<vblex\>\<inf\>	^Saturate<vblex><inf>$
      67 #reach\<n\>\<sg\>	^reach<n><sg>$
      67 #Pasvik\<np\>\<top\>\<sg\>	^Pasvik<np><top><sg>$
@@ -745,8 +755,10 @@ Tag mismatch between transfer and generation
      66 #Middle East\<np\>\<top\>\<sg\>	^Middle East<np><top><sg>$
      66 #lengthen\<vblex\>\<pp\>	^lengthen<vblex><pp>$
      66 #inflict\<vblex\>\<inf\>	^inflict<vblex><inf>$
+     66 #identify	^identify$
      66 #Grimstad\<np\>\<top\>\<sg\>	^Grimstad<np><top><sg>$
      66 #bestow\<vblex\>\<inf\>	^bestow<vblex><inf>$
+     66 #Back\<pr\>	^Back<pr>$
      66 #\<adv\>	^<adv>$
      65 #venom\<n\>\<sg\>	^venom<n><sg>$
      65 #quits\<n\>\<sg\>	^quits<n><sg>$
@@ -895,6 +907,7 @@ Tag mismatch between transfer and generation
      49 #lap\<vblex\>\<pres\>	^lap<vblex><pres>$
      49 #influenza\<n\>\<sg\>	^influenza<n><sg>$
      49 #fist\<n\>\<sg\>	^fist<n><sg>$
+     49 #expand	^expand$
      49 #Beethoven\<np\>\<top\>\<sg\>	^Beethoven<np><top><sg>$
      49 #Ashes\<n\>\<pl\>	^Ashes<n><pl>$
      49 #ache\<vblex\>\<pp\>	^ache<vblex><pp>$
@@ -920,6 +933,7 @@ Tag mismatch between transfer and generation
      47 #puff\<vblex\>\<pres\>	^puff<vblex><pres>$
      47 #Norrbotten\<np\>\<top\>\<sg\>	^Norrbotten<np><top><sg>$
      47 #Nesseby\<np\>\<top\>\<sg\>	^Nesseby<np><top><sg>$
+     47 #miss	^miss$
      47 #KARLSØY\<np\>\<top\>\<sg\>	^KARLSØY<np><top><sg>$
      47 #hull\<n\>\<sg\>	^hull<n><sg>$
      47 #Håland\<np\>\<top\>\<sg\>	^Håland<np><top><sg>$
@@ -1033,6 +1047,7 @@ Tag mismatch between transfer and generation
      40 #rev\<vblex\>\<past\>	^rev<vblex><past>$
      40 #reconcilation\<n\>\<sg\>	^reconcilation<n><sg>$
      40 #pronounciation\<n\>\<sg\>	^pronounciation<n><sg>$
+     40 #perish	^perish$
      40 #nuclear\<n\>\<sg\>	^nuclear<n><sg>$
      40 #mother tongue\<n\>\<sg\>	^mother tongue<n><sg>$
      40 #mat\<n\>\<sg\>	^mat<n><sg>$
@@ -1047,6 +1062,7 @@ Tag mismatch between transfer and generation
      40 #Academic\<n\>\<pl\>	^Academic<n><pl>$
      39 #TRONDHEIM\<np\>\<top\>\<sg\>	^TRONDHEIM<np><top><sg>$
      39 #tendon\<n\>\<sg\>	^tendon<n><sg>$
+     39 #steal	^steal$
      39 #squad\<n\>\<sg\>	^squad<n><sg>$
      39 #Sogn og Fjordane\<np\>\<top\>\<sg\>	^Sogn og Fjordane<np><top><sg>$
      39 #scrutinise\<vblex\>\<pp\>	^scrutinise<vblex><pp>$
@@ -1059,6 +1075,7 @@ Tag mismatch between transfer and generation
      39 #Incitement\<vblex\>\<pp\>	^Incitement<vblex><pp>$
      39 #hog\<n\>\<sg\>	^hog<n><sg>$
      39 #doom\<n\>\<sg\>	^doom<n><sg>$
+     39 #distinguish	^distinguish$
      39 #clay\<vblex\>\<inf\>	^clay<vblex><inf>$
      39 #Bjugn\<np\>\<top\>\<sg\>	^Bjugn<np><top><sg>$
      39 #attach\<n\>\<pl\>	^attach<n><pl>$
@@ -1088,6 +1105,7 @@ Tag mismatch between transfer and generation
      37 #helper\<n\>\<pl\>	^helper<n><pl>$
      37 #girdle\<n\>\<sg\>	^girdle<n><sg>$
      37 #gas station\<n\>\<pl\>	^gas station<n><pl>$
+     37 #freeze	^freeze$
      37 #fold\<vblex\>\<pres\># up	^fold<vblex><pres># up$
      37 #developer\<n\>\<sg\>	^developer<n><sg>$
      37 #Central Norway\<np\>\<top\>\<sg\>	^Central Norway<np><top><sg>$
@@ -1100,6 +1118,7 @@ Tag mismatch between transfer and generation
      36 #ray\<vblex\>\<pres\>	^ray<vblex><pres>$
      36 #prophesise\<vblex\>\<pres\>	^prophesise<vblex><pres>$
      36 #polarbear\<n\>\<pl\>	^polarbear<n><pl>$
+     36 #maintain	^maintain$
      36 #Its\<vblex\>\<inf\>	^Its<vblex><inf>$
      36 #hue\<vblex\>\<inf\>	^hue<vblex><inf>$
      36 #have\<vblex\>\<inf\># space for	^have<vblex><inf># space for$
@@ -1173,6 +1192,7 @@ Tag mismatch between transfer and generation
      33 #hump\<n\>\<sg\>	^hump<n><sg>$
      33 #Hønefoss\<np\>\<top\>\<sg\>	^Hønefoss<np><top><sg>$
      33 #flame\<vblex\>\<pres\>	^flame<vblex><pres>$
+     33 #fix	^fix$
      33 #excel\<vblex\>\<pres\>	^excel<vblex><pres>$
      33 #drugs\<n\>\<sg\>	^drugs<n><sg>$
      33 #Buskerud\<np\>\<top\>\<sg\>	^Buskerud<np><top><sg>$
@@ -1236,11 +1256,13 @@ Tag mismatch between transfer and generation
      30 #posting\<n\>\<pl\>	^posting<n><pl>$
      30 #ploy\<n\>\<sg\>	^ploy<n><sg>$
      30 #pint\<n\>\<pl\>	^pint<n><pl>$
+     30 #own	^own$
      30 #Organization\<n\>\<pl\>	^Organization<n><pl>$
      30 #MUST\<vblex\>\<pres\># TO	^MUST<vblex><pres># TO$
      30 #lumber\<n\>\<sg\>	^lumber<n><sg>$
      30 #junction\<n\>\<sg\>	^junction<n><sg>$
      30 #Ice\<vblex\>\<inf\>	^Ice<vblex><inf>$
+     30 #Head clerk\<n\>\<sg\>	^Head clerk<n><sg>$
      30 #hail\<vblex\>\<pp\>	^hail<vblex><pp>$
      30 #fling\<vblex\>\<inf\>	^fling<vblex><inf>$
      30 #fence\<vblex\>\<inf\>	^fence<vblex><inf>$
@@ -1248,6 +1270,7 @@ Tag mismatch between transfer and generation
      30 #envelope\<n\>\<sg\>	^envelope<n><sg>$
      30 #eager\<adj\>\<sup\>	^eager<adj><sup>$
      30 #bully\<vblex\>\<pres\>	^bully<vblex><pres>$
+     30 #alert	^alert$
      29 #Utsjoki\<np\>\<top\>\<sg\>	^Utsjoki<np><top><sg>$
      29 #tune\<n\>\<sg\>	^tune<n><sg>$
      29 #ticket-window\<vblex\>\<inf\>	^ticket-window<vblex><inf>$
@@ -1259,6 +1282,7 @@ Tag mismatch between transfer and generation
      29 #pair\<vblex\>\<pp\>	^pair<vblex><pp>$
      29 #NORDREISA\<np\>\<top\>\<sg\>	^NORDREISA<np><top><sg>$
      29 #Nannestad\<np\>\<top\>\<sg\>	^Nannestad<np><top><sg>$
+     29 #leave	^leave$
      29 #launderette\<n\>\<sg\>	^launderette<n><sg>$
      29 #Kværner\<np\>\<top\>\<sg\>	^Kværner<np><top><sg>$
      29 #kit\<n\>\<pl\>	^kit<n><pl>$
@@ -1306,6 +1330,7 @@ Tag mismatch between transfer and generation
      27 #set\<vblex\>\<pres\># alight	^set<vblex><pres># alight$
      27 #scout\<vblex\>\<pres\>	^scout<vblex><pres>$
      27 #peek\<n\>\<sg\>	^peek<n><sg>$
+     27 #passing-by\<adj\>	^passing-by<adj>$
      27 #Measurment\<n\>\<pl\>	^Measurment<n><pl>$
      27 #intrude\<vblex\>\<pp\>	^intrude<vblex><pp>$
      27 #intoxicant\<n\>\<pl\>	^intoxicant<n><pl>$
@@ -1322,6 +1347,7 @@ Tag mismatch between transfer and generation
      27 #codliver oil\<n\>\<sg\>	^codliver oil<n><sg>$
      27 #Christy\<np\>	^Christy<np>$
      27 #central\<n\>\<pl\>	^central<n><pl>$
+     27 #break	^break$
      26 #wording\<n\>\<sg\>	^wording<n><sg>$
      26 #whiten\<vblex\>\<inf\>	^whiten<vblex><inf>$
      26 #West Ice\<np\>\<top\>\<sg\>	^West Ice<np><top><sg>$
@@ -1350,6 +1376,8 @@ Tag mismatch between transfer and generation
      26 #Hallow\<vblex\>\<inf\>	^Hallow<vblex><inf>$
      26 #Furnes\<np\>\<top\>\<sg\>	^Furnes<np><top><sg>$
      26 #frontpage\<n\>\<sg\>	^frontpage<n><sg>$
+     26 #frame	^frame$
+     26 #exaggerate	^exaggerate$
      26 #ear\<vblex\>\<pres\>	^ear<vblex><pres>$
      26 #cobble\<vblex\>\<pp\>	^cobble<vblex><pp>$
      26 #Chicago\<np\>\<top\>\<sg\>	^Chicago<np><top><sg>$
@@ -1382,6 +1410,7 @@ Tag mismatch between transfer and generation
      25 #Glasgow\<np\>\<top\>\<sg\>	^Glasgow<np><top><sg>$
      25 #Gjerdrum\<np\>\<top\>\<sg\>	^Gjerdrum<np><top><sg>$
      25 #garrison\<n\>\<sg\>	^garrison<n><sg>$
+     25 #force	^force$
      25 #foetus\<n\>\<sg\>	^foetus<n><sg>$
      25 #fell\<vblex\>\<past\>	^fell<vblex><past>$
      25 #FART\<n\>\<sg\>	^FART<n><sg>$
@@ -1415,6 +1444,7 @@ Tag mismatch between transfer and generation
      24 #Happening\<n\>\<sg\>	^Happening<n><sg>$
      24 #Hamarøy\<np\>\<top\>\<sg\>	^Hamarøy<np><top><sg>$
      24 #grate\<n\>\<sg\>	^grate<n><sg>$
+     24 #form# a part of	^form# a part of$
      24 #Daily paper\<n\>\<pl\>	^Daily paper<n><pl>$
      24 #course\<vblex\>\<pp\>	^course<vblex><pp>$
      24 #coarse\<adj\>\<sup\>	^coarse<adj><sup>$
@@ -1480,6 +1510,7 @@ Tag mismatch between transfer and generation
      22 #Pensioner\<n\>\<sg\>	^Pensioner<n><sg>$
      22 #Other\<pl\>	^Other<pl>$
      22 #Notodden\<np\>\<top\>\<sg\>	^Notodden<np><top><sg>$
+     22 #norse\<adj\>	^norse<adj>$
      22 #Meløy\<np\>\<top\>\<sg\>	^Meløy<np><top><sg>$
      22 #Johannesburg\<np\>\<top\>\<sg\>	^Johannesburg<np><top><sg>$
      22 #Inland\<n\>\<sg\>	^Inland<n><sg>$
@@ -1516,6 +1547,7 @@ Tag mismatch between transfer and generation
      21 #paw\<vblex\>\<inf\>	^paw<vblex><inf>$
      21 #Odense\<np\>\<top\>\<sg\>	^Odense<np><top><sg>$
      21 #Motive\<n\>\<sg\>	^Motive<n><sg>$
+     21 #mix	^mix$
      21 #minister of Foreign Affairs\<n\>\<pl\>	^minister of Foreign Affairs<n><pl>$
      21 #Mediterranean Sea\<np\>\<top\>\<sg\>	^Mediterranean Sea<np><top><sg>$
      21 #lap\<vblex\>\<pp\>	^lap<vblex><pp>$
@@ -1527,12 +1559,14 @@ Tag mismatch between transfer and generation
      21 #giant\<vblex\>\<past\>	^giant<vblex><past>$
      21 #genre\<n\>\<pl\>	^genre<n><pl>$
      21 #fancy\<n\>\<pl\>	^fancy<n><pl>$
+     21 #expect	^expect$
      21 #Denigh\<vblex\>\<pres\>	^Denigh<vblex><pres>$
      21 #Cuxhaven\<np\>\<top\>\<sg\>	^Cuxhaven<np><top><sg>$
      21 #chap\<n\>\<pl\>	^chap<n><pl>$
      21 #burglar\<n\>\<pl\>	^burglar<n><pl>$
      21 #become\<vblex\>\<pres\># quiet	^become<vblex><pres># quiet$
      21 #abate\<vblex\>\<inf\>	^abate<vblex><inf>$
+     20 #write	^write$
      20 #wreath\<n\>\<sg\>	^wreath<n><sg>$
      20 #whaler\<n\>\<pl\>	^whaler<n><pl>$
      20 #Wang\<np\>\<top\>\<sg\>	^Wang<np><top><sg>$
@@ -1559,6 +1593,7 @@ Tag mismatch between transfer and generation
      20 #harassment\<n\>\<pl\>	^harassment<n><pl>$
      20 #hail\<vblex\>\<pres\>	^hail<vblex><pres>$
      20 #Green\<np\>\<top\>\<sg\>	^Green<np><top><sg>$
+     20 #give	^give$
      20 #frugalness\<n\>\<pl\>	^frugalness<n><pl>$
      20 #Folkestad\<np\>\<top\>\<sg\>	^Folkestad<np><top><sg>$
      20 #fighterjet\<n\>\<sg\>	^fighterjet<n><sg>$
@@ -1597,6 +1632,7 @@ Tag mismatch between transfer and generation
      19 #Queue\<n\>\<sg\>	^Queue<n><sg>$
      19 #prophesise\<vblex\>\<pp\>	^prophesise<vblex><pp>$
      19 #Pricetag\<n\>\<sg\>	^Pricetag<n><sg>$
+     19 #presume\<vblex\>\<past\>	^presume<vblex><past>$
      19 #Plug\<vblex\>\<inf\>	^Plug<vblex><inf>$
      19 #plethora\<n\>\<sg\>	^plethora<n><sg>$
      19 #ordnance\<n\>\<sg\>	^ordnance<n><sg>$
@@ -1616,6 +1652,7 @@ Tag mismatch between transfer and generation
      19 #Gadget\<vblex\>\<inf\>	^Gadget<vblex><inf>$
      19 #frown\<vblex\>\<pres\>	^frown<vblex><pres>$
      19 #frenzy\<n\>\<sg\>	^frenzy<n><sg>$
+     19 #forsake	^forsake$
      19 #feud\<n\>\<sg\>	^feud<n><sg>$
      19 #Fairy tale\<n\>\<sg\>	^Fairy tale<n><sg>$
      19 #fable\<vblex\>\<pres\>	^fable<vblex><pres>$
@@ -1656,7 +1693,9 @@ Tag mismatch between transfer and generation
      18 #hearth\<n\>\<sg\>	^hearth<n><sg>$
      18 #handcuffs\<n\>\<sg\>	^handcuffs<n><sg>$
      18 #graveyard\<n\>\<pl\>	^graveyard<n><pl>$
+     18 #free	^free$
      18 #foreground\<n\>\<sg\>	^foreground<n><sg>$
+     18 #fear	^fear$
      18 #Fast\<vblex\>\<inf\>	^Fast<vblex><inf>$
      18 #FALUN\<np\>\<top\>\<sg\>	^FALUN<np><top><sg>$
      18 #excel\<vblex\>\<inf\>	^excel<vblex><inf>$
@@ -1749,6 +1788,7 @@ Tag mismatch between transfer and generation
      16 #Oppdal\<np\>\<top\>\<sg\>	^Oppdal<np><top><sg>$
      16 #Nissan\<np\>\<top\>\<sg\>	^Nissan<np><top><sg>$
      16 #Namdalen\<np\>\<top\>\<sg\>	^Namdalen<np><top><sg>$
+     16 #love	^love$
      16 #Løding\<np\>\<top\>\<sg\>	^Løding<np><top><sg>$
      16 #KAUTOKEINO\<np\>\<top\>\<sg\>	^KAUTOKEINO<np><top><sg>$
      16 #Important\<adj\>\<comp\>	^Important<adj><comp>$
@@ -1764,6 +1804,7 @@ Tag mismatch between transfer and generation
      16 #foolish\<adj\>\<comp\>	^foolish<adj><comp>$
      16 #Fist\<n\>\<sg\>	^Fist<n><sg>$
      16 #fence\<vblex\>\<pres\>	^fence<vblex><pres>$
+     16 #fag	^fag$
      16 #Excise\<vblex\>\<inf\>	^Excise<vblex><inf>$
      16 #Elkem\<np\>\<top\>\<sg\>	^Elkem<np><top><sg>$
      16 #Dovre\<np\>\<top\>\<sg\>	^Dovre<np><top><sg>$
@@ -1776,6 +1817,7 @@ Tag mismatch between transfer and generation
      16 #beefsteak\<n\>\<sg\>	^beefsteak<n><sg>$
      16 #Barley\<n\>\<pl\>	^Barley<n><pl>$
      16 #axe\<vblex\>\<inf\>	^axe<vblex><inf>$
+     16 #alter	^alter$
      16 #abomination\<n\>\<pl\>	^abomination<n><pl>$
      15 #wring\<vblex\>\<pp\>	^wring<vblex><pp>$
      15 #wrapper\<n\>\<sg\>	^wrapper<n><sg>$
@@ -1791,6 +1833,7 @@ Tag mismatch between transfer and generation
      15 #Toll\<vblex\>\<inf\>	^Toll<vblex><inf>$
      15 #tilt\<vblex\>\<pp\>	^tilt<vblex><pp>$
      15 #throb\<n\>\<sg\>	^throb<n><sg>$
+     15 #tan	^tan$
      15 #stumble\<vblex\>\<pp\>	^stumble<vblex><pp>$
      15 #sleepingbag\<n\>\<sg\>	^sleepingbag<n><sg>$
      15 #shop assistant\<n\>\<sg\>	^shop assistant<n><sg>$
@@ -1810,8 +1853,10 @@ Tag mismatch between transfer and generation
      15 #Nuclear\<n\>\<sg\>	^Nuclear<n><sg>$
      15 #NOA\<np\>	^NOA<np>$
      15 #Nittedal\<np\>\<top\>\<sg\>	^Nittedal<np><top><sg>$
+     15 #move	^move$
      15 #mould\<vblex\>\<pp\>	^mould<vblex><pp>$
      15 #Mjøndalen\<np\>\<top\>\<sg\>	^Mjøndalen<np><top><sg>$
+     15 #Mix	^Mix$
      15 #Messiah\<np\>	^Messiah<np>$
      15 #manslaughter\<n\>\<pl\>	^manslaughter<n><pl>$
      15 #LESJA\<np\>\<top\>\<sg\>	^LESJA<np><top><sg>$
@@ -1819,9 +1864,13 @@ Tag mismatch between transfer and generation
      15 #Kiel\<np\>\<top\>\<sg\>	^Kiel<np><top><sg>$
      15 #jar\<vblex\>\<inf\>	^jar<vblex><inf>$
      15 #jam\<vblex\>\<past\>	^jam<vblex><past>$
+     15 #incriminate	^incriminate$
+     15 #Identify	^Identify$
      15 #Hustad\<np\>\<top\>\<sg\>	^Hustad<np><top><sg>$
      15 #Hill\<np\>\<top\>\<sg\>	^Hill<np><top><sg>$
      15 #herd\<vblex\>\<past\>	^herd<vblex><past>$
+     15 #harm	^harm$
+     15 #forbid	^forbid$
      15 #fold\<vblex\>\<past\># up	^fold<vblex><past># up$
      15 #Feeler\<n\>\<sg\>	^Feeler<n><sg>$
      15 #father-in-law\<n\>\<sg\>	^father-in-law<n><sg>$
@@ -1835,6 +1884,7 @@ Tag mismatch between transfer and generation
      15 #calling\<n\>\<sg\>	^calling<n><sg>$
      15 #barracks\<vblex\>\<pp\>	^barracks<vblex><pp>$
      15 #amok\<adv\>	^amok<adv>$
+     15 #A kind of\<det\>\<ind\>\<m\>\<sg\>	^A kind of<det><ind><m><sg>$
      15 #ache\<vblex\>\<pres\>	^ache<vblex><pres>$
      14 #yell\<vblex\>\<past\>	^yell<vblex><past>$
      14 #wring\<vblex\>\<past\>	^wring<vblex><past>$
@@ -1868,6 +1918,7 @@ Tag mismatch between transfer and generation
      14 #remarkable\<adj\>\<sup\>	^remarkable<adj><sup>$
      14 #queazy\<n\>\<sg\>	^queazy<n><sg>$
      14 #prophesise\<vblex\>\<past\>	^prophesise<vblex><past>$
+     14 #presume	^presume$
      14 #Posting\<n\>\<sg\>	^Posting<n><sg>$
      14 #Plain and simple\<adv\>	^Plain and simple<adv>$
      14 #paw\<vblex\>\<pp\>	^paw<vblex><pp>$
@@ -1878,7 +1929,6 @@ Tag mismatch between transfer and generation
      14 #Nazi Germany\<np\>\<top\>\<sg\>	^Nazi Germany<np><top><sg>$
      14 #Modum\<np\>\<top\>\<sg\>	^Modum<np><top><sg>$
      14 #Michael\<np\>	^Michael<np>$
-     14 #MANY\<det\>\<qnt\>\<comp\>	^MANY<det><qnt><comp>$
      14 #linger\<vblex\>\<past\>	^linger<vblex><past>$
      14 #Kvam\<np\>\<top\>\<sg\>	^Kvam<np><top><sg>$
      14 #KVALØYSLETTA\<np\>\<top\>\<sg\>	^KVALØYSLETTA<np><top><sg>$
@@ -1890,15 +1940,18 @@ Tag mismatch between transfer and generation
      14 #intenstine\<n\>\<sg\>	^intenstine<n><sg>$
      14 #indictment\<vblex\>\<pres\>	^indictment<vblex><pres>$
      14 #Incitement\<vblex\>\<inf\>	^Incitement<vblex><inf>$
+     14 #hue	^hue$
      14 #grudge\<vblex\>\<pres\>	^grudge<vblex><pres>$
      14 #Giant\<vblex\>\<past\>	^Giant<vblex><past>$
      14 #Gdańsk\<np\>\<top\>\<sg\>	^Gdańsk<np><top><sg>$
+     14 #finish	^finish$
      14 #eye\<vblex\>\<pres\>	^eye<vblex><pres>$
      14 #engender\<vblex\>\<pres\>	^engender<vblex><pres>$
      14 #egoism\<n\>\<sg\>	^egoism<n><sg>$
      14 #ebb\<vblex\>\<pres\>	^ebb<vblex><pres>$
      14 #Drift\<n\>\<sg\>	^Drift<n><sg>$
      14 #Din\<vblex\>\<pp\>	^Din<vblex><pp>$
+     14 #din	^din$
      14 #depict\<n\>\<sg\>	^depict<n><sg>$
      14 #coronate\<vblex\>\<pp\>	^coronate<vblex><pp>$
      14 #contamination\<n\>\<pl\>	^contamination<n><pl>$
@@ -1908,10 +1961,12 @@ Tag mismatch between transfer and generation
      14 #behold\<vblex\>\<pres\>	^behold<vblex><pres>$
      14 #Banak\<np\>\<top\>\<sg\>	^Banak<np><top><sg>$
      14 #Automoton\<n\>\<pl\>	^Automoton<n><pl>$
+     14 #allow	^allow$
      14 #Aass\<np\>\<top\>\<sg\>	^Aass<np><top><sg>$
      13 #YES\<n\>\<sg\>	^YES<n><sg>$
      13 #yell\<vblex\>\<inf\>	^yell<vblex><inf>$
      13 #wreck\<vblex\>\<inf\>	^wreck<vblex><inf>$
+     13 #wish	^wish$
      13 #Voice\<vblex\>\<pres\>	^Voice<vblex><pres>$
      13 #Uusikaupunki\<np\>\<top\>\<sg\>	^Uusikaupunki<np><top><sg>$
      13 #Ulsteinvik\<np\>\<top\>\<sg\>	^Ulsteinvik<np><top><sg>$
@@ -1919,7 +1974,7 @@ Tag mismatch between transfer and generation
      13 #Tysnes\<np\>\<top\>\<sg\>	^Tysnes<np><top><sg>$
      13 #treatise\<n\>\<sg\>	^treatise<n><sg>$
      13 #tilt\<vblex\>\<inf\>	^tilt<vblex><inf>$
-     13 #that\<det\>\<dem\>\<pl\>\<gen\>	^that<det><dem><pl><gen>$
+     13 #the other\<det\>\<dem\>\<sg\>	^the other<det><dem><sg>$
      13 #terrify\<vblex\>\<pp\>	^terrify<vblex><pp>$
      13 #stroll\<n\>\<sg\>	^stroll<n><sg>$
      13 #strew\<vblex\>\<inf\>	^strew<vblex><inf>$
@@ -1989,6 +2044,7 @@ Tag mismatch between transfer and generation
      13 #disciple\<n\>\<pl\>	^disciple<n><pl>$
      13 #Cowboy\<n\>\<sg\>	^Cowboy<n><sg>$
      13 #counterpart\<n\>\<sg\>	^counterpart<n><sg>$
+     13 #confuse	^confuse$
      13 #choke\<vblex\>\<pp\>	^choke<vblex><pp>$
      13 #choke\<vblex\>\<inf\>	^choke<vblex><inf>$
      13 #caterpillar\<n\>\<sg\>	^caterpillar<n><sg>$
@@ -2020,6 +2076,7 @@ Tag mismatch between transfer and generation
      12 #Røyken\<np\>\<top\>\<sg\>	^Røyken<np><top><sg>$
      12 #ROSENBORG\<np\>\<top\>\<sg\>	^ROSENBORG<np><top><sg>$
      12 #resemble\<vblex\>\<pp\>	^resemble<vblex><pp>$
+     12 #Repeat	^Repeat$
      12 #Rent\<vblex\>\<pres\># money	^Rent<vblex><pres># money$
      12 #remote control\<n\>\<sg\>	^remote control<n><sg>$
      12 #relate\<vblex\>\<past\># to	^relate<vblex><past># to$
@@ -2050,10 +2107,12 @@ Tag mismatch between transfer and generation
      12 #lug\<vblex\>\<pp\>	^lug<vblex><pp>$
      12 #loch\<n\>\<pl\>	^loch<n><pl>$
      12 #liniment\<n\>\<sg\>	^liniment<n><sg>$
+     12 #lengthen	^lengthen$
      12 #ladle\<vblex\>\<pp\>	^ladle<vblex><pp>$
      12 #Kiev\<np\>\<top\>\<sg\>	^Kiev<np><top><sg>$
      12 #KARASJOK\<np\>\<top\>\<sg\>	^KARASJOK<np><top><sg>$
      12 #jar\<vblex\>\<pres\>	^jar<vblex><pres>$
+     12 #invite	^invite$
      12 #Influenza\<n\>\<sg\>	^Influenza<n><sg>$
      12 #Important\<adj\>\<sup\>	^Important<adj><sup>$
      12 #hobgoblin\<n\>\<pl\>	^hobgoblin<n><pl>$
@@ -2089,12 +2148,15 @@ Tag mismatch between transfer and generation
      12 #Austin\<np\>\<top\>\<sg\>	^Austin<np><top><sg>$
      12 #Apprehend\<vblex\>\<pp\>	^Apprehend<vblex><pp>$
      12 #Altaelva\<np\>\<top\>\<sg\>	^Altaelva<np><top><sg>$
+     12 #a kind of\<det\>\<ind\>\<pl\>	^a kind of<det><ind><pl>$
      12 #Aker\<np\>\<top\>\<sg\>	^Aker<np><top><sg>$
      11 #Yorkshire\<np\>\<top\>\<sg\>	^Yorkshire<np><top><sg>$
      11 #Verdal\<np\>\<top\>\<sg\>	^Verdal<np><top><sg>$
      11 #Upkeep\<n\>\<sg\>	^Upkeep<n><sg>$
+     11 #untidy	^untidy$
      11 #underwear\<n\>\<sg\>	^underwear<n><sg>$
      11 #Trail\<n\>\<sg\>	^Trail<n><sg>$
+     11 #tie	^tie$
      11 #thatch\<vblex\>\<inf\>	^thatch<vblex><inf>$
      11 #tariff\<n\>\<sg\>	^tariff<n><sg>$
      11 #sunbeam\<n\>\<sg\>	^sunbeam<n><sg>$
@@ -2132,12 +2194,12 @@ Tag mismatch between transfer and generation
      11 #Peril\<n\>\<sg\>	^Peril<n><sg>$
      11 #Parish\<n\>\<sg\>	^Parish<n><sg>$
      11 #ØVERBYGD\<np\>\<top\>\<sg\>	^ØVERBYGD<np><top><sg>$
-     11 #Other\<det\>\<ind\>\<nt\>\<sg\>\<ind\>	^Other<det><ind><nt><sg><ind>$
      11 #Of which\<adv\>	^Of which<adv>$
      11 #mirror\<vblex\>\<pres\>	^mirror<vblex><pres>$
      11 #Manslaughter\<n\>\<sg\>	^Manslaughter<n><sg>$
      11 #liner\<n\>\<sg\>	^liner<n><sg>$
      11 #Levanger\<np\>\<top\>\<sg\>	^Levanger<np><top><sg>$
+     11 #Latin\<n\>\<sp\>	^Latin<n><sp>$
      11 #KVÆFJORD\<np\>\<top\>\<sg\>	^KVÆFJORD<np><top><sg>$
      11 #Kuwait\<np\>\<top\>\<sg\>	^Kuwait<np><top><sg>$
      11 #Kiberg\<np\>\<top\>\<sg\>	^Kiberg<np><top><sg>$
@@ -2166,6 +2228,7 @@ Tag mismatch between transfer and generation
      11 #Eidsvoll\<np\>\<top\>\<sg\>	^Eidsvoll<np><top><sg>$
      11 #drum\<vblex\>\<pp\>	^drum<vblex><pp>$
      11 #drip\<vblex\>\<pres\>	^drip<vblex><pres>$
+     11 #distress	^distress$
      11 #discredit\<n\>\<sg\>	^discredit<n><sg>$
      11 #cutlet\<n\>\<pl\>	^cutlet<n><pl>$
      11 #cow\<vblex\>\<pp\>	^cow<vblex><pp>$
@@ -2179,6 +2242,7 @@ Tag mismatch between transfer and generation
      11 #be\<vblex\>\<pp\># queasy	^be<vblex><pp># queasy$
      11 #barbed wire\<n\>\<sg\>	^barbed wire<n><sg>$
      11 #balcony\<n\>\<sg\>	^balcony<n><sg>$
+     11 #BACK\<pr\>	^BACK<pr>$
      11 #Associate\<n\>\<sg\>	^Associate<n><sg>$
      11 #Åsen\<np\>\<top\>\<sg\>	^Åsen<np><top><sg>$
      10 #Zaire\<np\>\<top\>\<sg\>	^Zaire<np><top><sg>$
@@ -2227,6 +2291,7 @@ Tag mismatch between transfer and generation
      10 #Renault\<np\>\<top\>\<sg\>	^Renault<np><top><sg>$
      10 #Relinquish\<vblex\>\<pres\>	^Relinquish<vblex><pres>$
      10 #ray\<vblex\>\<past\>	^ray<vblex><past>$
+     10 #rape	^rape$
      10 #Rake\<vblex\>\<pres\>	^Rake<vblex><pres>$
      10 #quieten\<vblex\>\<pres\>	^quieten<vblex><pres>$
      10 #quake\<vblex\>\<inf\>	^quake<vblex><inf>$
@@ -2251,8 +2316,10 @@ Tag mismatch between transfer and generation
      10 #KRISTIANSAND\<np\>\<top\>\<sg\>	^KRISTIANSAND<np><top><sg>$
      10 #jeweller\<n\>\<sg\>	^jeweller<n><sg>$
      10 #inkling\<n\>\<pl\>	^inkling<n><pl>$
+     10 #injure	^injure$
      10 #Inconvenience\<vblex\>\<pres\>	^Inconvenience<vblex><pres>$
      10 #inaugurate\<vblex\>\<past\>	^inaugurate<vblex><past>$
+     10 #imprison	^imprison$
      10 #hurl\<vblex\>\<inf\>	^hurl<vblex><inf>$
      10 #hubbub\<n\>\<sg\>	^hubbub<n><sg>$
      10 #horrify\<vblex\>\<pp\>	^horrify<vblex><pp>$
@@ -2288,6 +2355,7 @@ Tag mismatch between transfer and generation
      10 #ensign\<n\>\<sg\>	^ensign<n><sg>$
      10 #ebb\<vblex\>\<pp\>	^ebb<vblex><pp>$
      10 #Dupe\<vblex\>\<pp\>	^Dupe<vblex><pp>$
+     10 #disappoint	^disappoint$
      10 #dirty\<vblex\>\<inf\>	^dirty<vblex><inf>$
      10 #devoid\<vblex\>\<pres\>	^devoid<vblex><pres>$
      10 #Denigh\<vblex\>\<pp\>	^Denigh<vblex><pp>$
@@ -2341,6 +2409,7 @@ Tag mismatch between transfer and generation
       9 #SKIEN\<np\>\<top\>\<sg\>	^SKIEN<np><top><sg>$
       9 #showroom\<n\>\<sg\>	^showroom<n><sg>$
       9 #shorts\<n\>\<sg\>	^shorts<n><sg>$
+      9 #shelter	^shelter$
       9 #Shanghai\<np\>\<top\>\<sg\>	^Shanghai<np><top><sg>$
       9 #scorch\<vblex\>\<past\>	^scorch<vblex><past>$
       9 #scold\<vblex\>\<pres\>	^scold<vblex><pres>$
@@ -2368,7 +2437,6 @@ Tag mismatch between transfer and generation
       9 #OWN\<adj\>\<sg\>	^OWN<adj><sg>$
       9 #overall\<n\>\<pl\>	^overall<n><pl>$
       9 #out-patient clinic\<n\>\<pl\>	^out-patient clinic<n><pl>$
-      9 #Other\<det\>\<ind\>\<m\>\<sg\>\<ind\>	^Other<det><ind><m><sg><ind>$
       9 #Ore\<n\>\<sg\>	^Ore<n><sg>$
       9 #Odds\<n\>\<sg\>	^Odds<n><sg>$
       9 #obliterate\<vblex\>\<inf\>	^obliterate<vblex><inf>$
@@ -2388,7 +2456,10 @@ Tag mismatch between transfer and generation
       9 #Kit\<n\>\<sg\>	^Kit<n><sg>$
       9 #intenstine\<n\>\<pl\>	^intenstine<n><pl>$
       9 #infest\<vblex\>\<pp\>	^infest<vblex><pp>$
+      9 #ice	^ice$
       9 #hurl\<vblex\>\<pres\>	^hurl<vblex><pres>$
+      9 #Honour	^Honour$
+      9 #honour	^honour$
       9 #Holmestrand\<np\>\<top\>\<sg\>	^Holmestrand<np><top><sg>$
       9 #Hillestad\<np\>\<top\>\<sg\>	^Hillestad<np><top><sg>$
       9 #Heal\<vblex\>\<inf\># up	^Heal<vblex><inf># up$
@@ -2408,8 +2479,10 @@ Tag mismatch between transfer and generation
       9 #emptyness\<n\>\<sg\>	^emptyness<n><sg>$
       9 #eject\<vblex\>\<pp\>	^eject<vblex><pp>$
       9 #DYRØY\<np\>\<top\>\<sg\>	^DYRØY<np><top><sg>$
+      9 #drought	^drought$
       9 #drip\<n\>\<sg\>	^drip<n><sg>$
       9 #Disbelief\<n\>\<sg\>	^Disbelief<n><sg>$
+      9 #disappear	^disappear$
       9 #cow\<vblex\>\<inf\>	^cow<vblex><inf>$
       9 #Coventry\<np\>\<top\>\<sg\>	^Coventry<np><top><sg>$
       9 #Colorado\<np\>\<top\>\<sg\>	^Colorado<np><top><sg>$
@@ -2423,6 +2496,7 @@ Tag mismatch between transfer and generation
       9 #ashes\<n\>\<sg\>	^ashes<n><sg>$
       9 #apprehend\<vblex\>\<past\>	^apprehend<vblex><past>$
       9 #Amerika\<np\>\<top\>\<sg\>	^Amerika<np><top><sg>$
+      9 #A kind of\<det\>\<ind\>\<nt\>\<sg\>	^A kind of<det><ind><nt><sg>$
       9 #Adversary\<n\>\<sg\>	^Adversary<n><sg>$
       9 #accessories\<n\>\<sg\>	^accessories<n><sg>$
       9 #ABBA\<np\>	^ABBA<np>$
@@ -2443,6 +2517,7 @@ Tag mismatch between transfer and generation
       8 #TÓRSHAVN\<np\>\<top\>\<sg\>	^TÓRSHAVN<np><top><sg>$
       8 #Toledo\<np\>\<top\>\<sg\>	^Toledo<np><top><sg>$
       8 #throw\<vblex\>\<pres\># away	^throw<vblex><pres># away$
+      8 #threaten	^threaten$
       8 #Termination\<n\>\<sg\>	^Termination<n><sg>$
       8 #taunt\<vblex\>\<inf\>	^taunt<vblex><inf>$
       8 #Tank\<vblex\>\<pres\># up	^Tank<vblex><pres># up$
@@ -2487,6 +2562,7 @@ Tag mismatch between transfer and generation
       8 #Ørnes\<np\>\<top\>\<sg\>	^Ørnes<np><top><sg>$
       8 #ornament\<n\>\<pl\>	^ornament<n><pl>$
       8 #Orion\<np\>	^Orion<np>$
+      8 #originate	^originate$
       8 #One\<num\>\<nt\>\<sg\>	^One<num><nt><sg>$
       8 #Offset\<n\>\<pl\>	^Offset<n><pl>$
       8 #Oar\<n\>\<pl\>	^Oar<n><pl>$
@@ -2525,6 +2601,7 @@ Tag mismatch between transfer and generation
       8 #foolish\<adj\>\<sup\>	^foolish<adj><sup>$
       8 #Foetus\<n\>\<sg\>	^Foetus<n><sg>$
       8 #flurry\<vblex\>\<inf\>	^flurry<vblex><inf>$
+      8 #fluctuate	^fluctuate$
       8 #flog\<vblex\>\<pp\>	^flog<vblex><pp>$
       8 #flog\<vblex\>\<inf\>	^flog<vblex><inf>$
       8 #fling\<vblex\>\<past\>	^fling<vblex><past>$
@@ -2533,11 +2610,13 @@ Tag mismatch between transfer and generation
       8 #feeler\<n\>\<pl\>	^feeler<n><pl>$
       8 #Fable\<vblex\>\<inf\>	^Fable<vblex><inf>$
       8 #escapade\<n\>\<sg\>	^escapade<n><sg>$
+      8 #ensign	^ensign$
       8 #East Germany\<np\>\<top\>\<sg\>	^East Germany<np><top><sg>$
       8 #disgrace\<n\>\<sg\>	^disgrace<n><sg>$
       8 #Discoteque\<n\>\<sg\>	^Discoteque<n><sg>$
       8 #devoid\<vblex\>\<past\>	^devoid<vblex><past>$
       8 #cutler\<n\>\<sg\>	^cutler<n><sg>$
+      8 #crush	^crush$
       8 #crackle\<vblex\>\<pres\>	^crackle<vblex><pres>$
       8 #cobble\<vblex\>\<pres\>	^cobble<vblex><pres>$
       8 #chop\<vblex\>\<inf\>	^chop<vblex><inf>$
@@ -2551,9 +2630,11 @@ Tag mismatch between transfer and generation
       8 #breadth\<n\>\<pl\>	^breadth<n><pl>$
       8 #bore\<vblex\>\<pp\>	^bore<vblex><pp>$
       8 #Blindern\<np\>\<top\>\<sg\>	^Blindern<np><top><sg>$
+      8 #bless	^bless$
       8 #Black Sea\<np\>\<top\>\<sg\>	^Black Sea<np><top><sg>$
       8 #BJARKØY\<np\>\<top\>\<sg\>	^BJARKØY<np><top><sg>$
       8 #beverage\<n\>\<sg\>	^beverage<n><sg>$
+      8 #besiege	^besiege$
       8 #Berlin Wall\<np\>\<top\>\<sg\>	^Berlin Wall<np><top><sg>$
       8 #Bering Strait\<np\>\<top\>\<sg\>	^Bering Strait<np><top><sg>$
       8 #Be# called\<vblex\>\<inf\>	^Be# called<vblex><inf>$
@@ -2578,6 +2659,7 @@ Tag mismatch between transfer and generation
       7 #Vigeland\<np\>\<top\>\<sg\>	^Vigeland<np><top><sg>$
       7 #vest\<n\>\<pl\>	^vest<n><pl>$
       7 #vermin\<n\>\<sg\>	^vermin<n><sg>$
+      7 #upset	^upset$
       7 #Turin\<np\>\<top\>\<sg\>	^Turin<np><top><sg>$
       7 #Tub\<n\>\<sg\>	^Tub<n><sg>$
       7 #trumpet\<vblex\>\<inf\>	^trumpet<vblex><inf>$
@@ -2615,6 +2697,7 @@ Tag mismatch between transfer and generation
       7 #requisition\<n\>\<sg\>	^requisition<n><sg>$
       7 #Rennebu\<np\>\<top\>\<sg\>	^Rennebu<np><top><sg>$
       7 #Remunerate\<vblex\>\<pp\>	^Remunerate<vblex><pp>$
+      7 #remunerate	^remunerate$
       7 #Relinquish\<vblex\>\<inf\>	^Relinquish<vblex><inf>$
       7 #relate# to\<vblex\>\<inf\>	^relate# to<vblex><inf>$
       7 #reign\<n\>\<sg\>	^reign<n><sg>$
@@ -2658,6 +2741,7 @@ Tag mismatch between transfer and generation
       7 #kitty\<n\>\<sg\>	^kitty<n><sg>$
       7 #JUST\<vblex\>\<inf\>	^JUST<vblex><inf>$
       7 #jeer\<vblex\>\<inf\>	^jeer<vblex><inf>$
+      7 #jam	^jam$
       7 #Ivalo\<np\>\<top\>\<sg\>	^Ivalo<np><top><sg>$
       7 #Invigorate\<vblex\>\<pp\>	^Invigorate<vblex><pp>$
       7 #Instigate\<vblex\>\<inf\>	^Instigate<vblex><inf>$
@@ -2665,6 +2749,7 @@ Tag mismatch between transfer and generation
       7 #Innsbruck\<np\>\<top\>\<sg\>	^Innsbruck<np><top><sg>$
       7 #Innermost\<n\>\<sg\>	^Innermost<n><sg>$
       7 #in heaps\<adv\>	^in heaps<adv>$
+      7 #impose	^impose$
       7 #Hug\<n\>\<sg\>	^Hug<n><sg>$
       7 #hooligan\<n\>\<sg\>	^hooligan<n><sg>$
       7 #honk\<n\>\<sg\>	^honk<n><sg>$
@@ -2696,14 +2781,17 @@ Tag mismatch between transfer and generation
       7 #Few\<sup\>	^Few<sup>$
       7 #fell\<vblex\>\<pres\>	^fell<vblex><pres>$
       7 #Fancy\<n\>\<sg\>	^Fancy<n><sg>$
+      7 #fail	^fail$
       7 #facelift\<n\>\<sg\>	^facelift<n><sg>$
       7 #Fable\<vblex\>\<pp\>	^Fable<vblex><pp>$
+      7 #extort	^extort$
       7 #err\<vblex\>\<pp\>	^err<vblex><pp>$
       7 #endowment\<n\>\<sg\>	^endowment<n><sg>$
       7 #embankment\<n\>\<sg\>	^embankment<n><sg>$
       7 #dwindle\<vblex\>\<pres\>	^dwindle<vblex><pres>$
       7 #Dubai\<np\>\<top\>\<sg\>	^Dubai<np><top><sg>$
       7 #doom\<n\>\<pl\>	^doom<n><pl>$
+      7 #divide	^divide$
       7 #dip\<vblex\>\<inf\>	^dip<vblex><inf>$
       7 #DEVOID\<vblex\>\<inf\>	^DEVOID<vblex><inf>$
       7 #Denigh\<vblex\>\<inf\>	^Denigh<vblex><inf>$
@@ -2711,6 +2799,7 @@ Tag mismatch between transfer and generation
       7 #crust\<vblex\>\<inf\>	^crust<vblex><inf>$
       7 #cowboy\<n\>\<pl\>	^cowboy<n><pl>$
       7 #Contender\<n\>\<pl\>	^Contender<n><pl>$
+      7 #consecrate	^consecrate$
       7 #clerical officer\<n\>\<sg\>	^clerical officer<n><sg>$
       7 #clasp\<vblex\>\<inf\>	^clasp<vblex><inf>$
       7 #choke\<vblex\>\<pres\>	^choke<vblex><pres>$
@@ -2742,6 +2831,7 @@ Tag mismatch between transfer and generation
       6 #Yearning\<n\>\<sg\>	^Yearning<n><sg>$
       6 #wheat flour\<n\>\<sg\>	^wheat flour<n><sg>$
       6 #well\<n\>\<pl\>	^well<n><pl>$
+      6 #weaken	^weaken$
       6 #way out\<n\>\<pl\>	^way out<n><pl>$
       6 #wane\<vblex\>\<pres\>	^wane<vblex><pres>$
       6 #wallet\<n\>\<sg\>	^wallet<n><sg>$
@@ -2846,6 +2936,7 @@ Tag mismatch between transfer and generation
       6 #Orkdal\<np\>\<top\>\<sg\>	^Orkdal<np><top><sg>$
       6 #Operetta\<n\>\<sg\>	^Operetta<n><sg>$
       6 #Ontario\<np\>\<top\>\<sg\>	^Ontario<np><top><sg>$
+      6 #occupy	^occupy$
       6 #notch\<n\>\<pl\>	^notch<n><pl>$
       6 #NORDKJOSBOTN\<np\>\<top\>\<sg\>	^NORDKJOSBOTN<np><top><sg>$
       6 #Nordfjordeid\<np\>\<top\>\<sg\>	^Nordfjordeid<np><top><sg>$
@@ -2928,6 +3019,7 @@ Tag mismatch between transfer and generation
       6 #express\<n\>\<sg\>	^express<n><sg>$
       6 #exalt\<vblex\>\<inf\>	^exalt<vblex><inf>$
       6 #ERR\<vblex\>\<inf\>	^ERR<vblex><inf>$
+      6 #ensure	^ensure$
       6 #Ensign\<n\>\<sg\>	^Ensign<n><sg>$
       6 #enclosure\<n\>\<sg\>	^enclosure<n><sg>$
       6 #Ekeberg\<np\>\<top\>\<sg\>	^Ekeberg<np><top><sg>$
@@ -2944,6 +3036,8 @@ Tag mismatch between transfer and generation
       6 #cursor\<n\>\<pl\>	^cursor<n><pl>$
       6 #curl\<vblex\>\<pres\>	^curl<vblex><pres>$
       6 #Craft certificate\<n\>\<sg\>	^Craft certificate<n><sg>$
+      6 #confirm	^confirm$
+      6 #come	^come$
       6 #codfish\<n\>\<pl\>	^codfish<n><pl>$
       6 #coarse\<adj\>\<comp\>	^coarse<adj><comp>$
       6 #Casablanca\<np\>\<top\>\<sg\>	^Casablanca<np><top><sg>$
@@ -2965,12 +3059,14 @@ Tag mismatch between transfer and generation
       6 #black\<vblex\>\<pres\>	^black<vblex><pres>$
       6 #be\<vblex\>\<inf\># queasy	^be<vblex><inf># queasy$
       6 #BETTER\<vblex\>\<inf\>	^BETTER<vblex><inf>$
+      6 #Backwards\<pr\>	^Backwards<pr>$
       6 #attempted rape\<n\>\<sg\>	^attempted rape<n><sg>$
       6 #asylum seeker\<n\>\<sg\>	^asylum seeker<n><sg>$
       6 #ash tray\<n\>\<sg\>	^ash tray<n><sg>$
       6 #Archaeologist\<n\>\<pl\>	^Archaeologist<n><pl>$
       6 #Altafjord\<np\>\<top\>\<sg\>	^Altafjord<np><top><sg>$
       6 #Alme\<np\>\<top\>\<sg\>	^Alme<np><top><sg>$
+      6 #a kind of\<det\>\<ind\>\<f\>\<sg\>	^a kind of<det><ind><f><sg>$
       6 #acquit\<vblex\>\<past\>	^acquit<vblex><past>$
       6 #Accra\<np\>\<top\>\<sg\>	^Accra<np><top><sg>$
       6 #abate\<vblex\>\<pres\>	^abate<vblex><pres>$
@@ -2998,7 +3094,6 @@ Tag mismatch between transfer and generation
       5 #Toll\<vblex\>\<pres\>	^Toll<vblex><pres>$
       5 #toast\<vblex\>\<past\>	^toast<vblex><past>$
       5 #throat\<vblex\>\<inf\>	^throat<vblex><inf>$
-      5 #this\<det\>\<dem\>\<sg\>\<gen\>	^this<det><dem><sg><gen>$
       5 #Textile\<n\>\<sg\>	^Textile<n><sg>$
       5 #tap-dance\<vblex\>\<inf\>	^tap-dance<vblex><inf>$
       5 #tangle\<n\>\<sg\>	^tangle<n><sg>$
@@ -3056,6 +3151,7 @@ Tag mismatch between transfer and generation
       5 #Reek\<n\>\<sg\>	^Reek<n><sg>$
       5 #Reek\<n\>\<pl\>	^Reek<n><pl>$
       5 #redemption\<n\>\<sg\>	^redemption<n><sg>$
+      5 #reclaim	^reclaim$
       5 #Raw\<adj\>\<comp\>	^Raw<adj><comp>$
       5 #rake\<vblex\>\<pp\>	^rake<vblex><pp>$
       5 #rag\<n\>\<sg\>	^rag<n><sg>$
@@ -3148,10 +3244,12 @@ Tag mismatch between transfer and generation
       5 #falls\<n\>\<pl\>	^falls<n><pl>$
       5 #Eye\<vblex\>\<pres\>	^Eye<vblex><pres>$
       5 #EXPENSIVE\<adj\>\<comp\>	^EXPENSIVE<adj><comp>$
+      5 #excite	^excite$
       5 #Excise\<vblex\>\<pres\>	^Excise<vblex><pres>$
       5 #excel\<vblex\>\<pp\>	^excel<vblex><pp>$
       5 #excel\<vblex\>\<past\>	^excel<vblex><past>$
       5 #err\<vblex\>\<past\>	^err<vblex><past>$
+      5 #engender	^engender$
       5 #encumber\<vblex\>\<inf\>	^encumber<vblex><inf>$
       5 #EKEBERG\<np\>\<top\>\<sg\>	^EKEBERG<np><top><sg>$
       5 #Eikeland\<np\>\<top\>\<sg\>	^Eikeland<np><top><sg>$
@@ -3164,6 +3262,7 @@ Tag mismatch between transfer and generation
       5 #dam\<n\>\<pl\>	^dam<n><pl>$
       5 #Czechoslovakia\<np\>\<top\>\<sg\>	^Czechoslovakia<np><top><sg>$
       5 #cylinder head\<n\>\<sg\>	^cylinder head<n><sg>$
+      5 #curse	^curse$
       5 #curl\<vblex\>\<inf\>	^curl<vblex><inf>$
       5 #cuddly toy\<n\>\<pl\>	^cuddly toy<n><pl>$
       5 #crockery set\<n\>\<sg\>	^crockery set<n><sg>$
@@ -3241,7 +3340,6 @@ Tag mismatch between transfer and generation
       4 #toast\<vblex\>\<pres\>	^toast<vblex><pres>$
       4 #tilt\<vblex\>\<pres\>	^tilt<vblex><pres>$
       4 #tile\<n\>\<sg\>	^tile<n><sg>$
-      4 #That\<det\>\<dem\>\<sg\>\<gen\>	^That<det><dem><sg><gen>$
       4 #Termination\<n\>\<pl\>	^Termination<n><pl>$
       4 #Tennessee\<np\>\<top\>\<sg\>	^Tennessee<np><top><sg>$
       4 #teem\<vblex\>\<pp\># with	^teem<vblex><pp># with$
@@ -3259,9 +3357,12 @@ Tag mismatch between transfer and generation
       4 #Surnadal\<np\>\<top\>\<sg\>	^Surnadal<np><top><sg>$
       4 #sunshade\<n\>\<pl\>	^sunshade<n><pl>$
       4 #succession\<n\>\<sg\>	^succession<n><sg>$
+      4 #subordinate	^subordinate$
       4 #strawberry\<n\>\<pl\>	^strawberry<n><pl>$
+      4 #stone	^stone$
       4 #stepfather\<n\>\<sg\>	^stepfather<n><sg>$
       4 #steamer\<n\>\<sg\>	^steamer<n><sg>$
+      4 #Steal	^Steal$
       4 #Statfjord\<np\>\<top\>\<sg\>	^Statfjord<np><top><sg>$
       4 #stain\<vblex\>\<inf\>	^stain<vblex><inf>$
       4 #Stad\<np\>\<top\>\<sg\>	^Stad<np><top><sg>$
@@ -3292,6 +3393,7 @@ Tag mismatch between transfer and generation
       4 #shackle\<n\>\<pl\>	^shackle<n><pl>$
       4 #sexually transmitted disease\<n\>\<pl\>	^sexually transmitted disease<n><pl>$
       4 #sewage\<n\>\<pl\>	^sewage<n><pl>$
+      4 #season	^season$
       4 #seagull\<vblex\>\<inf\>	^seagull<vblex><inf>$
       4 #scout\<vblex\>\<inf\>	^scout<vblex><inf>$
       4 #Scotch\<n\>\<sg\>	^Scotch<n><sg>$
@@ -3300,6 +3402,7 @@ Tag mismatch between transfer and generation
       4 #scenery\<n\>\<pl\>	^scenery<n><pl>$
       4 #scaffold\<n\>\<sg\>	^scaffold<n><sg>$
       4 #Savannah\<np\>\<top\>\<sg\>	^Savannah<np><top><sg>$
+      4 #saturate	^saturate$
       4 #satchel\<n\>\<sg\>	^satchel<n><sg>$
       4 #Satan\<np\>\<al\>\<sg\>	^Satan<np><al><sg>$
       4 #SANDNES\<np\>\<top\>\<sg\>	^SANDNES<np><top><sg>$
@@ -3337,6 +3440,7 @@ Tag mismatch between transfer and generation
       4 #Printing office\<n\>\<sg\>	^Printing office<n><sg>$
       4 #pricetag\<n\>\<pl\>	^pricetag<n><pl>$
       4 #Pretoria\<np\>\<top\>\<sg\>	^Pretoria<np><top><sg>$
+      4 #Presume\<vblex\>\<pp\>	^Presume<vblex><pp>$
       4 #Predator\<n\>\<pl\>	^Predator<n><pl>$
       4 #Precision\<n\>\<sg\>	^Precision<n><sg>$
       4 #precipitate\<n\>\<sg\>	^precipitate<n><sg>$
@@ -3375,6 +3479,7 @@ Tag mismatch between transfer and generation
       4 #Muren\<np\>	^Muren<np>$
       4 #MUCH\<det\>\<qnt\>\<sup\>	^MUCH<det><qnt><sup>$
       4 #MOVIE THEATRE\<n\>\<sg\>	^MOVIE THEATRE<n><sg>$
+      4 #MISS	^MISS$
       4 #misconduct\<vblex\>\<pp\>	^misconduct<vblex><pp>$
       4 #mischief\<n\>\<sg\>	^mischief<n><sg>$
       4 #miscarriage\<n\>\<pl\>	^miscarriage<n><pl>$
@@ -3415,6 +3520,7 @@ Tag mismatch between transfer and generation
       4 #Jeremiah\<np\>	^Jeremiah<np>$
       4 #Jar\<vblex\>\<pp\>	^Jar<vblex><pp>$
       4 #itch\<vblex\>\<pp\>	^itch<vblex><pp>$
+      4 #investigate	^investigate$
       4 #Interlock\<vblex\>\<pres\>	^Interlock<vblex><pres>$
       4 #incitement\<vblex\>\<pres\>	^incitement<vblex><pres>$
       4 #imprint\<n\>\<sg\>	^imprint<n><sg>$
@@ -3460,6 +3566,7 @@ Tag mismatch between transfer and generation
       4 #fuel oil\<n\>\<sg\>	^fuel oil<n><sg>$
       4 #frown\<vblex\>\<pp\>	^frown<vblex><pp>$
       4 #froth\<vblex\>\<pp\>	^froth<vblex><pp>$
+      4 #Freeze	^Freeze$
       4 #fraternity\<n\>\<sg\>	^fraternity<n><sg>$
       4 #Franz Kafka\<np\>\<top\>\<sg\>	^Franz Kafka<np><top><sg>$
       4 #forfeit\<vblex\>\<past\>	^forfeit<vblex><past>$
@@ -3475,10 +3582,12 @@ Tag mismatch between transfer and generation
       4 #Extort\<vblex\>\<pres\>	^Extort<vblex><pres>$
       4 #Excerpt\<n\>\<sg\>	^Excerpt<n><sg>$
       4 #EVENES\<np\>\<top\>\<sg\>	^EVENES<np><top><sg>$
+      4 #equip	^equip$
       4 #Emptyness\<n\>\<sg\>	^Emptyness<n><sg>$
       4 #Eggedal\<np\>\<top\>\<sg\>	^Eggedal<np><top><sg>$
       4 #Eder\<np\>	^Eder<np>$
       4 #Ear\<vblex\>\<pp\>	^Ear<vblex><pp>$
+      4 #dwindle	^dwindle$
       4 #Duck\<vblex\>\<pres\>	^Duck<vblex><pres>$
       4 #Dresden\<np\>\<top\>\<sg\>	^Dresden<np><top><sg>$
       4 #DRAMMEN\<np\>\<top\>\<sg\>	^DRAMMEN<np><top><sg>$
@@ -3493,6 +3602,8 @@ Tag mismatch between transfer and generation
       4 #dialling tone\<n\>\<sg\>	^dialling tone<n><sg>$
       4 #DENIGH\<vblex\>\<pp\>	^DENIGH<vblex><pp>$
       4 #Dalby\<np\>\<top\>\<sg\>	^Dalby<np><top><sg>$
+      4 #curve	^curve$
+      4 #cultivate	^cultivate$
       4 #crucify\<vblex\>\<inf\>	^crucify<vblex><inf>$
       4 #crossword puzzle\<n\>\<sg\>	^crossword puzzle<n><sg>$
       4 #cripple\<n\>\<sg\>	^cripple<n><sg>$
@@ -3502,6 +3613,7 @@ Tag mismatch between transfer and generation
       4 #cork\<n\>\<sg\>	^cork<n><sg>$
       4 #Contender\<n\>\<sg\>	^Contender<n><sg>$
       4 #COLOMBO\<np\>\<top\>\<sg\>	^COLOMBO<np><top><sg>$
+      4 #Collect	^Collect$
       4 #CITY\<np\>\<top\>\<sg\>	^CITY<np><top><sg>$
       4 #cipher\<n\>\<sg\>	^cipher<n><sg>$
       4 #Christening\<n\>\<sg\>	^Christening<n><sg>$
@@ -3529,6 +3641,7 @@ Tag mismatch between transfer and generation
       4 #Bestow\<vblex\>\<inf\>	^Bestow<vblex><inf>$
       4 #Belfast\<np\>\<top\>\<sg\>	^Belfast<np><top><sg>$
       4 #Beehive\<n\>\<sg\>	^Beehive<n><sg>$
+      4 #bear	^bear$
       4 #Basin\<n\>\<sg\>	^Basin<n><sg>$
       4 #BARENTSBURG\<np\>\<top\>\<sg\>	^BARENTSBURG<np><top><sg>$
       4 #Babylon\<np\>\<top\>\<sg\>	^Babylon<np><top><sg>$
@@ -3607,7 +3720,6 @@ Tag mismatch between transfer and generation
       3 #thyme\<n\>\<sg\>	^thyme<n><sg>$
       3 #thud\<n\>\<pl\>	^thud<n><pl>$
       3 #throw\<vblex\>\<pp\># away	^throw<vblex><pp># away$
-      3 #THAT\<det\>\<dem\>\<pl\>\<gen\>	^THAT<det><dem><pl><gen>$
       3 #THANK YOU\<n\>\<sg\>	^THANK YOU<n><sg>$
       3 #Thank you\<n\>\<pl\>	^Thank you<n><pl>$
       3 #tent canvas\<n\>\<sg\>	^tent canvas<n><sg>$
@@ -3616,6 +3728,7 @@ Tag mismatch between transfer and generation
       3 #swimwear\<n\>\<sg\>	^swimwear<n><sg>$
       3 #swell\<vblex\>\<pp\>	^swell<vblex><pp>$
       3 #Sweetheart\<n\>\<sg\>	^Sweetheart<n><sg>$
+      3 #swear	^swear$
       3 #sway\<vblex\>\<pres\>	^sway<vblex><pres>$
       3 #swarm\<vblex\>\<inf\>	^swarm<vblex><inf>$
       3 #Swarm\<n\>\<sg\>	^Swarm<n><sg>$
@@ -3629,6 +3742,7 @@ Tag mismatch between transfer and generation
       3 #strew\<vblex\>\<past\>	^strew<vblex><past>$
       3 #strait\<n\>\<pl\>	^strait<n><pl>$
       3 #strainer\<n\>\<sg\>	^strainer<n><sg>$
+      3 #straighten	^straighten$
       3 #straddle\<vblex\>\<pres\>	^straddle<vblex><pres>$
       3 #Storm\<vblex\>\<pp\>	^Storm<vblex><pp>$
       3 #starch\<vblex\>\<pp\>	^starch<vblex><pp>$
@@ -3643,6 +3757,7 @@ Tag mismatch between transfer and generation
       3 #Squadron\<n\>\<sg\>	^Squadron<n><sg>$
       3 #spy\<vblex\>\<past\>	^spy<vblex><past>$
       3 #spot\<vblex\>\<pp\>	^spot<vblex><pp>$
+      3 #spot	^spot$
       3 #splinter\<vblex\>\<inf\>	^splinter<vblex><inf>$
       3 #spew\<vblex\>\<pp\>	^spew<vblex><pp>$
       3 #speech therapist\<n\>\<sg\>	^speech therapist<n><sg>$
@@ -3658,14 +3773,18 @@ Tag mismatch between transfer and generation
       3 #slit\<n\>\<pl\>	^slit<n><pl>$
       3 #slipper\<n\>\<pl\>	^slipper<n><pl>$
       3 #Sled\<vblex\>\<pp\>	^Sled<vblex><pp>$
+      3 #slander\<vblex\>\<pres\>	^slander<vblex><pres>$
       3 #ski pole\<n\>\<sg\>	^ski pole<n><sg>$
       3 #Skate\<n\>\<pl\>	^Skate<n><pl>$
+      3 #sink	^sink$
       3 #Shove\<vblex\>\<inf\>	^Shove<vblex><inf>$
       3 #shortcut\<n\>\<pl\>	^shortcut<n><pl>$
       3 #Shop\<vblex\>\<inf\>	^Shop<vblex><inf>$
+      3 #shield	^shield$
       3 #shave\<n\>\<sg\>	^shave<n><sg>$
       3 #shadow\<vblex\>\<pp\>	^shadow<vblex><pp>$
       3 #Seychelles\<np\>\<top\>\<sg\>	^Seychelles<np><top><sg>$
+      3 #settle	^settle$
       3 #Setesdal\<np\>\<top\>\<sg\>	^Setesdal<np><top><sg>$
       3 #seatbelt\<n\>\<pl\>	^seatbelt<n><pl>$
       3 #season\<vblex\>\<pres\>	^season<vblex><pres>$
@@ -3674,6 +3793,7 @@ Tag mismatch between transfer and generation
       3 #screwdriver\<n\>\<sg\>	^screwdriver<n><sg>$
       3 #Scotia\<np\>\<top\>\<sg\>	^Scotia<np><top><sg>$
       3 #scorn\<vblex\>\<pp\>	^scorn<vblex><pp>$
+      3 #scandalise	^scandalise$
       3 #Sauda\<np\>\<top\>\<sg\>	^Sauda<np><top><sg>$
       3 #SATURATE\<vblex\>\<inf\>	^SATURATE<vblex><inf>$
       3 #satchel\<n\>\<pl\>	^satchel<n><pl>$
@@ -3691,6 +3811,7 @@ Tag mismatch between transfer and generation
       3 #Rind\<n\>\<pl\>	^Rind<n><pl>$
       3 #rind\<n\>\<pl\>	^rind<n><pl>$
       3 #Rib\<vblex\>\<inf\>	^Rib<vblex><inf>$
+      3 #rib	^rib$
       3 #rheumatism\<n\>\<sg\>	^rheumatism<n><sg>$
       3 #reverberate\<vblex\>\<pres\>	^reverberate<vblex><pres>$
       3 #return ticket\<n\>\<sg\>	^return ticket<n><sg>$
@@ -3701,6 +3822,7 @@ Tag mismatch between transfer and generation
       3 #Regulations\<n\>\<sg\>	^Regulations<n><sg>$
       3 #Reek\<vblex\>\<pres\>	^Reek<vblex><pres>$
       3 #Reconcilation\<n\>\<sg\>	^Reconcilation<n><sg>$
+      3 #recieve	^recieve$
       3 #rebuke\<vblex\>\<pres\>	^rebuke<vblex><pres>$
       3 #rebuke\<vblex\>\<past\>	^rebuke<vblex><past>$
       3 #Rat\<vblex\>\<pres\>	^Rat<vblex><pres>$
@@ -3719,6 +3841,7 @@ Tag mismatch between transfer and generation
       3 #prefab\<n\>\<sg\>	^prefab<n><sg>$
       3 #PREDATOR\<n\>\<sg\>	^PREDATOR<n><sg>$
       3 #Preacher\<n\>\<pl\>	^Preacher<n><pl>$
+      3 #praise	^praise$
       3 #Post office box\<n\>\<sg\>	^Post office box<n><sg>$
       3 #postcode\<n\>\<sg\>	^postcode<n><sg>$
       3 #PORSANGER\<np\>\<top\>\<sg\>	^PORSANGER<np><top><sg>$
@@ -3747,9 +3870,11 @@ Tag mismatch between transfer and generation
       3 #OPPSAL\<np\>\<top\>\<sg\>	^OPPSAL<np><top><sg>$
       3 #Oppegård\<np\>\<top\>\<sg\>	^Oppegård<np><top><sg>$
       3 #operetta\<n\>\<pl\>	^operetta<n><pl>$
+      3 #open	^open$
       3 #numberplate\<n\>\<sg\>	^numberplate<n><sg>$
       3 #NOTTINGHAM\<np\>\<top\>\<sg\>	^NOTTINGHAM<np><top><sg>$
       3 #Norwegian\<adj\>\<sup\>	^Norwegian<adj><sup>$
+      3 #Norse\<n\>\<sp\>	^Norse<n><sp>$
       3 #non-fiction\<n\>\<sg\>	^non-fiction<n><sg>$
       3 #Nidaros\<np\>\<top\>\<sg\>	^Nidaros<np><top><sg>$
       3 #Nick\<n\>\<sg\>	^Nick<n><sg>$
@@ -3761,6 +3886,7 @@ Tag mismatch between transfer and generation
       3 #mute\<n\>\<sg\>	^mute<n><sg>$
       3 #musk\<n\>\<sg\>	^musk<n><sg>$
       3 #muse\<vblex\>\<pres\>	^muse<vblex><pres>$
+      3 #murder	^murder$
       3 #Mumbai\<np\>\<top\>\<sg\>	^Mumbai<np><top><sg>$
       3 #Mugging\<n\>\<sg\>	^Mugging<n><sg>$
       3 #Muck\<n\>\<sg\>	^Muck<n><sg>$
@@ -3776,6 +3902,7 @@ Tag mismatch between transfer and generation
       3 #merry-go-round\<n\>\<pl\>	^merry-go-round<n><pl>$
       3 #Memphis\<np\>\<top\>\<sg\>	^Memphis<np><top><sg>$
       3 #memorial volume\<n\>\<sg\>	^memorial volume<n><sg>$
+      3 #maul	^maul$
       3 #Mat\<n\>\<sg\>	^Mat<n><sg>$
       3 #Mash\<vblex\>\<pp\>	^Mash<vblex><pp>$
       3 #manure\<vblex\>\<pp\>	^manure<vblex><pp>$
@@ -3783,6 +3910,7 @@ Tag mismatch between transfer and generation
       3 #MALVIK\<np\>\<top\>\<sg\>	^MALVIK<np><top><sg>$
       3 #Male\<adj\>	^Male<adj>$
       3 #maim\<vblex\>\<pres\>	^maim<vblex><pres>$
+      3 #maim	^maim$
       3 #Lysaker\<np\>\<top\>\<sg\>	^Lysaker<np><top><sg>$
       3 #LYNGSEIDET\<np\>\<top\>\<sg\>	^LYNGSEIDET<np><top><sg>$
       3 #Lyngdal\<np\>\<top\>\<sg\>	^Lyngdal<np><top><sg>$
@@ -3812,6 +3940,7 @@ Tag mismatch between transfer and generation
       3 #Kvitfjell\<np\>\<top\>\<sg\>	^Kvitfjell<np><top><sg>$
       3 #Kvinnherad\<np\>\<top\>\<sg\>	^Kvinnherad<np><top><sg>$
       3 #Knoll\<n\>\<sg\>	^Knoll<n><sg>$
+      3 #knit	^knit$
       3 #knickers\<n\>\<sg\>	^knickers<n><sg>$
       3 #knead\<vblex\>\<inf\>	^knead<vblex><inf>$
       3 #Khartoum\<np\>\<top\>\<sg\>	^Khartoum<np><top><sg>$
@@ -3830,10 +3959,12 @@ Tag mismatch between transfer and generation
       3 #interference\<n\>\<pl\>	^interference<n><pl>$
       3 #instigate\<vblex\>\<pres\>	^instigate<vblex><pres>$
       3 #instigate\<vblex\>\<pp\>	^instigate<vblex><pp>$
+      3 #infect	^infect$
       3 #indulge\<vblex\>\<pp\>	^indulge<vblex><pp>$
       3 #Indictment\<vblex\>\<inf\>	^Indictment<vblex><inf>$
       3 #Inconvenience\<vblex\>\<past\>	^Inconvenience<vblex><past>$
       3 #imprint\<vblex\>\<pp\>	^imprint<vblex><pp>$
+      3 #impeachment	^impeachment$
       3 #Immerse\<vblex\>\<pres\>	^Immerse<vblex><pres>$
       3 #Immerse\<vblex\>\<pp\>	^Immerse<vblex><pp>$
       3 #hypnotist\<n\>\<sg\>	^hypnotist<n><sg>$
@@ -3866,6 +3997,7 @@ Tag mismatch between transfer and generation
       3 #Haugerud\<np\>\<top\>\<sg\>	^Haugerud<np><top><sg>$
       3 #Haslum\<np\>\<top\>\<sg\>	^Haslum<np><top><sg>$
       3 #Harassment\<n\>\<pl\>	^Harassment<n><pl>$
+      3 #handle	^handle$
       3 #handcuffs\<n\>\<pl\>	^handcuffs<n><pl>$
       3 #hallow\<vblex\>\<pres\>	^hallow<vblex><pres>$
       3 #Halland\<np\>\<top\>\<sg\>	^Halland<np><top><sg>$
@@ -3899,6 +4031,8 @@ Tag mismatch between transfer and generation
       3 #fractional\<n\>\<sg\>	^fractional<n><sg>$
       3 #forwarding agent\<n\>\<sg\>	^forwarding agent<n><sg>$
       3 #Forus\<np\>\<top\>\<sg\>	^Forus<np><top><sg>$
+      3 #form	^form$
+      3 #Force	^Force$
       3 #Folldal\<np\>\<top\>\<sg\>	^Folldal<np><top><sg>$
       3 #foil\<n\>\<sg\>	^foil<n><sg>$
       3 #foal\<vblex\>\<inf\>	^foal<vblex><inf>$
@@ -3926,6 +4060,8 @@ Tag mismatch between transfer and generation
       3 #FAG\<vblex\>\<past\>	^FAG<vblex><past>$
       3 #Fag\<vblex\>\<past\>	^Fag<vblex><past>$
       3 #exterior\<n\>\<pl\>	^exterior<n><pl>$
+      3 #exploit	^exploit$
+      3 #Exaggerate	^Exaggerate$
       3 #EVERTON\<np\>\<top\>\<sg\>	^EVERTON<np><top><sg>$
       3 #Ethics\<n\>\<sg\>	^Ethics<n><sg>$
       3 #Esbjerg\<np\>\<top\>\<sg\>	^Esbjerg<np><top><sg>$
@@ -3960,11 +4096,14 @@ Tag mismatch between transfer and generation
       3 #DIN\<vblex\>\<inf\>	^DIN<vblex><inf>$
       3 #different\<adj\>\<sup\>	^different<adj><sup>$
       3 #Dice\<n\>\<sg\>	^Dice<n><sg>$
+      3 #devastate	^devastate$
+      3 #detect	^detect$
       3 #delude\<vblex\>\<pp\>	^delude<vblex><pp>$
       3 #Delude\<vblex\>\<inf\>	^Delude<vblex><inf>$
       3 #Degerfors\<np\>\<top\>\<sg\>	^Degerfors<np><top><sg>$
       3 #Dakota\<np\>\<top\>\<sg\>	^Dakota<np><top><sg>$
       3 #cursor\<n\>\<sg\>	^cursor<n><sg>$
+      3 #curl	^curl$
       3 #Culprit\<n\>\<pl\>	^Culprit<n><pl>$
       3 #cuddly toy\<n\>\<sg\>	^cuddly toy<n><sg>$
       3 #cripple\<n\>\<pl\>	^cripple<n><pl>$
@@ -4020,6 +4159,7 @@ Tag mismatch between transfer and generation
       3 #BÆRUM\<np\>\<top\>\<sg\>	^BÆRUM<np><top><sg>$
       3 #back wheel\<n\>\<sg\>	^back wheel<n><sg>$
       3 #Austevoll\<np\>\<top\>\<sg\>	^Austevoll<np><top><sg>$
+      3 #attach	^attach$
       3 #assent\<n\>\<pl\>	^assent<n><pl>$
       3 #ASHES\<n\>\<pl\>	^ASHES<n><pl>$
       3 #arrears\<n\>\<sg\>	^arrears<n><sg>$
@@ -4028,6 +4168,7 @@ Tag mismatch between transfer and generation
       3 #APART FROM\<pr\>	^APART FROM<pr>$
       3 #ante\<n\>\<pl\>	^ante<n><pl>$
       3 #Antenna\<n\>\<sg\>	^Antenna<n><sg>$
+      3 #animate\<vblex\>\<pp\>	^animate<vblex><pp>$
       3 #ANDØY\<np\>\<top\>\<sg\>	^ANDØY<np><top><sg>$
       3 #Andalusia\<np\>\<top\>\<sg\>	^Andalusia<np><top><sg>$
       3 #all\<det\>\<qnt\>\<sp\>\<gen\>	^all<det><qnt><sp><gen>$
@@ -4088,6 +4229,7 @@ Tag mismatch between transfer and generation
       2 #VALHALLA\<np\>\<top\>\<sg\>	^VALHALLA<np><top><sg>$
       2 #Vågå\<np\>\<top\>\<sg\>	^Vågå<np><top><sg>$
       2 #Uri\<np\>	^Uri<np>$
+      2 #Urdu\<n\>\<sp\>	^Urdu<n><sp>$
       2 #Ural\<np\>\<top\>\<sg\>	^Ural<np><top><sg>$
       2 #Ural Mountains\<np\>\<top\>\<pl\>	^Ural Mountains<np><top><pl>$
       2 #upstairs\<vblex\>\<pp\>	^upstairs<vblex><pp>$
@@ -4128,6 +4270,7 @@ Tag mismatch between transfer and generation
       2 #throat\<vblex\>\<pres\>	^throat<vblex><pres>$
       2 #THREE\<vblex\>\<inf\>	^THREE<vblex><inf>$
       2 #thoroughfare\<n\>\<sg\>	^thoroughfare<n><sg>$
+      2 #the other\<det\>\<dem\>\<pl\>	^the other<det><dem><pl>$
       2 #Tendon\<n\>\<sg\>	^Tendon<n><sg>$
       2 #TEMPEST\<n\>\<sg\>	^TEMPEST<n><sg>$
       2 #Tellus\<np\>\<top\>\<sg\>	^Tellus<np><top><sg>$
@@ -4207,7 +4350,6 @@ Tag mismatch between transfer and generation
       2 #Slice\<vblex\>\<inf\>	^Slice<vblex><inf>$
       2 #sled\<vblex\>\<pp\>	^sled<vblex><pp>$
       2 #slave\<vblex\>\<inf\>	^slave<vblex><inf>$
-      2 #slander\<vblex\>\<pres\>	^slander<vblex><pres>$
       2 #Skreia\<np\>\<top\>\<sg\>	^Skreia<np><top><sg>$
       2 #Skogn\<np\>\<top\>\<sg\>	^Skogn<np><top><sg>$
       2 #Skjerstad\<np\>\<top\>\<sg\>	^Skjerstad<np><top><sg>$
@@ -4245,6 +4387,7 @@ Tag mismatch between transfer and generation
       2 #Scrap iron\<n\>\<sg\>	^Scrap iron<n><sg>$
       2 #SCOUT\<vblex\>\<pres\>	^SCOUT<vblex><pres>$
       2 #scout\<vblex\>\<pp\>	^scout<vblex><pp>$
+      2 #score	^score$
       2 #SCORCH\<vblex\>\<pp\>	^SCORCH<vblex><pp>$
       2 #Schooling\<n\>\<sg\>	^Schooling<n><sg>$
       2 #Scenery\<n\>\<pl\>	^Scenery<n><pl>$
@@ -4253,6 +4396,7 @@ Tag mismatch between transfer and generation
       2 #savings account\<n\>\<sg\>	^savings account<n><sg>$
       2 #Samoa\<np\>\<top\>\<sg\>	^Samoa<np><top><sg>$
       2 #Samnanger\<np\>\<top\>\<sg\>	^Samnanger<np><top><sg>$
+      2 #salt	^salt$
       2 #Safe\<n\>\<sg\>	^Safe<n><sg>$
       2 #Safeguard\<n\>\<sg\>	^Safeguard<n><sg>$
       2 #Run\<vblex\>\<inf\># aground	^Run<vblex><inf># aground$
@@ -4275,11 +4419,15 @@ Tag mismatch between transfer and generation
       2 #Reviewer\<n\>\<sg\>	^Reviewer<n><sg>$
       2 #Revel\<vblex\>\<pres\>	^Revel<vblex><pres>$
       2 #REVEL\<vblex\>\<inf\>	^REVEL<vblex><inf>$
+      2 #rev	^rev$
       2 #Retreat\<n\>\<sg\>	^Retreat<n><sg>$
       2 #retreat\<n\>\<pl\>	^retreat<n><pl>$
       2 #retaliate\<vblex\>\<pp\>	^retaliate<vblex><pp>$
       2 #retaliate\<vblex\>\<inf\>	^retaliate<vblex><inf>$
       2 #Resemble\<vblex\>\<pres\>	^Resemble<vblex><pres>$
+      2 #resemble	^resemble$
+      2 #reproduce	^reproduce$
+      2 #renew	^renew$
       2 #rein\<vblex\>\<pp\>	^rein<vblex><pp>$
       2 #Reef\<n\>\<sg\>	^Reef<n><sg>$
       2 #Recieve\<vblex\>\<pp\>	^Recieve<vblex><pp>$
@@ -4311,9 +4459,11 @@ Tag mismatch between transfer and generation
       2 #projector\<n\>\<pl\>	^projector<n><pl>$
       2 #Prod\<n\>\<sg\>	^Prod<n><sg>$
       2 #proceeds\<n\>\<pl\>	^proceeds<n><pl>$
+      2 #Presume\<vblex\>\<pres\>	^Presume<vblex><pres>$
       2 #Pound\<vblex\>\<pres\>	^Pound<vblex><pres>$
       2 #Pontius\<np\>\<ant\>\<m\>\<sg\>	^Pontius<np><ant><m><sg>$
       2 #Polarbear\<n\>\<pl\>	^Polarbear<n><pl>$
+      2 #poison	^poison$
       2 #pointer\<n\>\<pl\>	^pointer<n><pl>$
       2 #plush\<n\>\<sg\>	^plush<n><sg>$
       2 #PLUG\<vblex\>\<inf\>	^PLUG<vblex><inf>$
@@ -4330,6 +4480,8 @@ Tag mismatch between transfer and generation
       2 #Phoenix\<np\>\<top\>\<sg\>	^Phoenix<np><top><sg>$
       2 #Philadelphia\<np\>\<top\>\<sg\>	^Philadelphia<np><top><sg>$
       2 #pheasant\<n\>\<sg\>	^pheasant<n><sg>$
+      2 #pervert	^pervert$
+      2 #perpetrate	^perpetrate$
       2 #PERIL\<n\>\<sg\>	^PERIL<n><sg>$
       2 #Perennial\<n\>\<sg\>	^Perennial<n><sg>$
       2 #Perennial\<n\>\<pl\>	^Perennial<n><pl>$
@@ -4339,6 +4491,7 @@ Tag mismatch between transfer and generation
       2 #peelings\<n\>\<sg\>	^peelings<n><sg>$
       2 #Peek\<n\>\<sg\>	^Peek<n><sg>$
       2 #Patch\<vblex\>\<inf\>	^Patch<vblex><inf>$
+      2 #Passing-by\<adj\>	^Passing-by<adj>$
       2 #Partake\<n\>\<sg\>	^Partake<n><sg>$
       2 #Parenthesis\<n\>\<sg\>	^Parenthesis<n><sg>$
       2 #parenthesis\<n\>\<pl\>	^parenthesis<n><pl>$
@@ -4350,6 +4503,7 @@ Tag mismatch between transfer and generation
       2 #PALERMO\<np\>\<top\>\<sg\>	^PALERMO<np><top><sg>$
       2 #Øyeren\<np\>\<top\>\<sg\>	^Øyeren<np><top><sg>$
       2 #Overrule\<vblex\>\<inf\>	^Overrule<vblex><inf>$
+      2 #overrule	^overrule$
       2 #Overall\<n\>\<sg\>	^Overall<n><sg>$
       2 #Outrageously\<vblex\>\<inf\>	^Outrageously<vblex><inf>$
       2 #Other\<sg\>	^Other<sg>$
@@ -4394,6 +4548,7 @@ Tag mismatch between transfer and generation
       2 #moor\<vblex\>\<past\>	^moor<vblex><past>$
       2 #Montpellier\<np\>\<top\>\<sg\>	^Montpellier<np><top><sg>$
       2 #MOMMY\<n\>\<sg\>	^MOMMY<n><sg>$
+      2 #misconduct	^misconduct$
       2 #Misapprehension\<n\>\<pl\>	^Misapprehension<n><pl>$
       2 #mirror\<vblex\>\<pp\>	^mirror<vblex><pp>$
       2 #Mirror\<vblex\>\<inf\>	^Mirror<vblex><inf>$
@@ -4423,6 +4578,7 @@ Tag mismatch between transfer and generation
       2 #Lommedalen\<np\>\<top\>\<sg\>	^Lommedalen<np><top><sg>$
       2 #Loathe\<n\>\<sg\>	^Loathe<n><sg>$
       2 #LITTLE\<vblex\>\<inf\>	^LITTLE<vblex><inf>$
+      2 #link	^link$
       2 #Linger\<vblex\>\<pres\>	^Linger<vblex><pres>$
       2 #Limoges\<np\>\<top\>\<sg\>	^Limoges<np><top><sg>$
       2 #Lighten\<vblex\>\<pres\>	^Lighten<vblex><pres>$
@@ -4458,6 +4614,7 @@ Tag mismatch between transfer and generation
       2 #kitchen utensils\<n\>\<sg\>	^kitchen utensils<n><sg>$
       2 #KIRUNA\<np\>\<top\>\<sg\>	^KIRUNA<np><top><sg>$
       2 #Kinshasa\<np\>\<top\>\<sg\>	^Kinshasa<np><top><sg>$
+      2 #kick	^kick$
       2 #kettleholder\<n\>\<pl\>	^kettleholder<n><pl>$
       2 #kettledrum\<n\>\<pl\>	^kettledrum<n><pl>$
       2 #KENNEDY\<np\>\<top\>\<sg\>	^KENNEDY<np><top><sg>$
@@ -4486,6 +4643,7 @@ Tag mismatch between transfer and generation
       2 #hunting dog\<n\>\<sg\>	^hunting dog<n><sg>$
       2 #hunting dog\<n\>\<pl\>	^hunting dog<n><pl>$
       2 #Hull\<vblex\>\<pres\>	^Hull<vblex><pres>$
+      2 #hull	^hull$
       2 #Hub\<n\>\<pl\>	^Hub<n><pl>$
       2 #Hovin\<np\>\<top\>\<sg\>	^Hovin<np><top><sg>$
       2 #Høvik\<np\>\<top\>\<sg\>	^Høvik<np><top><sg>$
@@ -4575,6 +4733,7 @@ Tag mismatch between transfer and generation
       2 #Fume\<vblex\>\<inf\>	^Fume<vblex><inf>$
       2 #fume\<n\>\<pl\>	^fume<n><pl>$
       2 #frown\<vblex\>\<inf\>	^frown<vblex><inf>$
+      2 #frown	^frown$
       2 #Frontpage\<n\>\<sg\>	^Frontpage<n><sg>$
       2 #Freighter\<n\>\<sg\>	^Freighter<n><sg>$
       2 #Forsake\<vblex\>\<pp\>	^Forsake<vblex><pp>$
@@ -4584,6 +4743,7 @@ Tag mismatch between transfer and generation
       2 #foetus\<n\>\<pl\>	^foetus<n><pl>$
       2 #Fluoride\<n\>\<sg\>	^Fluoride<n><sg>$
       2 #fluoride\<n\>\<sg\>	^fluoride<n><sg>$
+      2 #flower	^flower$
       2 #flourish\<n\>\<sg\>	^flourish<n><sg>$
       2 #flourish\<n\>\<pl\>	^flourish<n><pl>$
       2 #flog\<vblex\>\<pres\>	^flog<vblex><pres>$
@@ -4598,6 +4758,7 @@ Tag mismatch between transfer and generation
       2 #Fixation\<n\>\<sg\>	^Fixation<n><sg>$
       2 #FIST\<n\>\<pl\>	^FIST<n><pl>$
       2 #Finnskogen\<np\>\<top\>\<sg\>	^Finnskogen<np><top><sg>$
+      2 #find	^find$
       2 #FINALE\<n\>\<sg\>	^FINALE<n><sg>$
       2 #FIGHT\<vblex\>\<pp\>	^FIGHT<vblex><pstv><pp>$
       2 #feud\<n\>\<pl\>	^feud<n><pl>$
@@ -4618,13 +4779,18 @@ Tag mismatch between transfer and generation
       2 #EXULTATION\<n\>\<sg\>	^EXULTATION<n><sg>$
       2 #EXTORT\<vblex\>\<inf\>	^EXTORT<vblex><inf>$
       2 #extenuate\<vblex\>\<inf\>	^extenuate<vblex><inf>$
+      2 #Expect	^Expect$
+      2 #Expand	^Expand$
       2 #Exhaust\<n\>\<sg\>	^Exhaust<n><sg>$
+      2 #exhaust	^exhaust$
       2 #exclamation\<n\>\<sg\>	^exclamation<n><sg>$
       2 #Excise\<vblex\>\<pp\>	^Excise<vblex><pp>$
       2 #excess postage\<n\>\<sg\>	^excess postage<n><sg>$
       2 #excerpt\<n\>\<pl\>	^excerpt<n><pl>$
+      2 #examine	^examine$
       2 #Evje\<np\>\<top\>\<sg\>	^Evje<np><top><sg>$
       2 #Everest\<np\>\<top\>\<sg\>	^Everest<np><top><sg>$
+      2 #establish	^establish$
       2 #Essex\<np\>\<top\>\<sg\>	^Essex<np><top><sg>$
       2 #ermine\<n\>\<sg\>	^ermine<n><sg>$
       2 #episcopate\<n\>\<sg\>	^episcopate<n><sg>$
@@ -4635,11 +4801,13 @@ Tag mismatch between transfer and generation
       2 #embezzlement\<n\>\<pl\>	^embezzlement<n><pl>$
       2 #Embankment\<n\>\<sg\>	^Embankment<n><sg>$
       2 #ELF\<np\>\<top\>\<sg\>	^ELF<np><top><sg>$
+      2 #elevate	^elevate$
       2 #electric razor\<n\>\<pl\>	^electric razor<n><pl>$
       2 #elasticity\<n\>\<sg\>	^elasticity<n><sg>$
       2 #EKEBERGSLETTA\<np\>\<top\>\<sg\>	^EKEBERGSLETTA<np><top><sg>$
       2 #Eigersund\<np\>\<top\>\<sg\>	^Eigersund<np><top><sg>$
       2 #egoist\<n\>\<pl\>	^egoist<n><pl>$
+      2 #edit	^edit$
       2 #Ebb\<vblex\>\<pp\>	^Ebb<vblex><pp>$
       2 #Ebb\<vblex\>\<inf\>	^Ebb<vblex><inf>$
       2 #Ear\<vblex\>\<inf\>	^Ear<vblex><inf>$
@@ -4653,13 +4821,16 @@ Tag mismatch between transfer and generation
       2 #dressing gown\<n\>\<sg\>	^dressing gown<n><sg>$
       2 #dregs\<n\>\<sg\>	^dregs<n><sg>$
       2 #Drangedal\<np\>\<top\>\<sg\>	^Drangedal<np><top><sg>$
+      2 #drag	^drag$
       2 #doze\<vblex\>\<pres\>	^doze<vblex><pres>$
       2 #Doorknob\<n\>\<sg\>	^Doorknob<n><sg>$
       2 #Doom\<n\>\<sg\>	^Doom<n><sg>$
       2 #diversion\<n\>\<sg\>	^diversion<n><sg>$
       2 #DISTRESS\<vblex\>\<pp\>	^DISTRESS<vblex><pp>$
+      2 #Distress	^Distress$
       2 #distant\<adj\>\<sup\>	^distant<adj><sup>$
       2 #disown\<vblex\>\<inf\>	^disown<vblex><inf>$
+      2 #DISAPPOINT	^DISAPPOINT$
       2 #din\<vblex\>\<past\>	^din<vblex><past>$
       2 #Diffusion\<n\>\<sg\>	^Diffusion<n><sg>$
       2 #Difficult\<adj\>\<sup\>	^Difficult<adj><sup>$
@@ -4668,12 +4839,15 @@ Tag mismatch between transfer and generation
       2 #derrick\<n\>\<sg\>	^derrick<n><sg>$
       2 #Denver\<np\>\<top\>\<sg\>	^Denver<np><top><sg>$
       2 #Dent\<n\>\<sg\>	^Dent<n><sg>$
+      2 #denounce	^denounce$
       2 #DENIGH\<vblex\>\<pres\>	^DENIGH<vblex><pres>$
       2 #DENIGH\<vblex\>\<inf\>	^DENIGH<vblex><inf>$
       2 #deck of cards\<n\>\<sg\>	^deck of cards<n><sg>$
       2 #deck of cards\<n\>\<pl\>	^deck of cards<n><pl>$
       2 #Dardanelles\<np\>\<top\>\<pl\>	^Dardanelles<np><top><pl>$
+      2 #dampen	^dampen$
       2 #Daisy\<n\>\<sg\>	^Daisy<n><sg>$
+      2 #cut	^cut$
       2 #Crust\<vblex\>\<pp\>	^Crust<vblex><pp>$
       2 #Crust\<vblex\>\<inf\>	^Crust<vblex><inf>$
       2 #Crescent moon\<n\>\<sg\>	^Crescent moon<n><sg>$
@@ -4699,17 +4873,20 @@ Tag mismatch between transfer and generation
       2 #Christmas baking\<n\>\<sg\>	^Christmas baking<n><sg>$
       2 #Chop\<n\>\<sg\>	^Chop<n><sg>$
       2 #chequebook\<n\>\<pl\>	^chequebook<n><pl>$
+      2 #charge	^charge$
       2 #Central Asia\<np\>\<top\>\<sg\>	^Central Asia<np><top><sg>$
       2 #Censor\<n\>\<sg\>	^Censor<n><sg>$
       2 #CELLULAR PHONE\<n\>\<sg\>	^CELLULAR PHONE<n><sg>$
       2 #CELLULAR PHONE\<n\>\<pl\>	^CELLULAR PHONE<n><pl>$
       2 #Celebrate\<vblex\>\<inf\># Christmas	^Celebrate<vblex><inf># Christmas$
+      2 #catch	^catch$
       2 #Carpet\<vblex\>\<pres\>	^Carpet<vblex><pres>$
       2 #Canberra\<np\>\<top\>\<sg\>	^Canberra<np><top><sg>$
       2 #calling\<n\>\<pl\>	^calling<n><pl>$
       2 #Cain\<np\>	^Cain<np>$
       2 #CABARET\<n\>\<sg\>	^CABARET<n><sg>$
       2 #Bykle\<np\>\<top\>\<sg\>	^Bykle<np><top><sg>$
+      2 #bully	^bully$
       2 #Brunei\<np\>\<top\>\<sg\>	^Brunei<np><top><sg>$
       2 #Britannia\<np\>\<top\>\<sg\>	^Britannia<np><top><sg>$
       2 #BREW\<n\>\<pl\>	^BREW<n><pl>$
@@ -4752,8 +4929,10 @@ Tag mismatch between transfer and generation
       2 #Automoton\<n\>\<sg\>	^Automoton<n><sg>$
       2 #assent\<vblex\>\<inf\>	^assent<vblex><inf>$
       2 #Askeland\<np\>\<top\>\<sg\>	^Askeland<np><top><sg>$
+      2 #arrive	^arrive$
       2 #ARENDAL\<np\>\<top\>\<sg\>	^ARENDAL<np><top><sg>$
       2 #Antwerp\<np\>\<top\>\<sg\>	^Antwerp<np><top><sg>$
+      2 #animate\<vblex\>\<past\>	^animate<vblex><past>$
       2 #angler fish\<n\>\<sg\>	^angler fish<n><sg>$
       2 #Andes\<np\>\<top\>\<sg\>	^Andes<np><top><sg>$
       2 #Ananias\<np\>	^Ananias<np>$
@@ -4767,6 +4946,7 @@ Tag mismatch between transfer and generation
       2 #ACHE\<vblex\>\<inf\>	^ACHE<vblex><inf>$
       2 #Absalom\<np\>	^Absalom<np>$
       2 #abridge\<vblex\>\<pres\>	^abridge<vblex><pres>$
+      2 #abridge	^abridge$
       2 #Abomination\<n\>\<pl\>	^Abomination<n><pl>$
       1 #Zoologist\<n\>\<sg\>	^Zoologist<n><sg>$
       1 #zoologist\<n\>\<sg\>	^zoologist<n><sg>$
@@ -4792,6 +4972,7 @@ Tag mismatch between transfer and generation
       1 #withstand\<vblex\>\<pres\>	^withstand<vblex><pres>$
       1 #Wisconsin\<np\>\<top\>\<sg\>	^Wisconsin<np><top><sg>$
       1 #wine list\<n\>\<sg\>	^wine list<n><sg>$
+      1 #win	^win$
       1 #WIMBLEDON\<np\>\<top\>\<sg\>	^WIMBLEDON<np><top><sg>$
       1 #wilderness\<n\>\<pl\>	^wilderness<n><pl>$
       1 #Wig\<n\>\<pl\>	^Wig<n><pl>$
@@ -4837,6 +5018,7 @@ Tag mismatch between transfer and generation
       1 #wad\<n\>\<pl\>	^wad<n><pl>$
       1 #Wade\<vblex\>\<pres\>	^Wade<vblex><pres>$
       1 #wadding\<n\>\<sg\>	^wadding<n><sg>$
+      1 #Vote	^Vote$
       1 #VOSS\<np\>\<top\>\<sg\>	^VOSS<np><top><sg>$
       1 #Voice\<vblex\>\<pp\>	^Voice<vblex><pp>$
       1 #VOICE\<vblex\>\<past\>	^VOICE<vblex><past>$
@@ -4867,6 +5049,8 @@ Tag mismatch between transfer and generation
       1 #UNTIDY\<vblex\>\<inf\>	^UNTIDY<vblex><inf>$
       1 #university degree\<n\>\<pl\>	^university degree<n><pl>$
       1 #Underwear\<n\>\<sg\>	^Underwear<n><sg>$
+      1 #undertake	^undertake$
+      1 #understand	^understand$
       1 #UMPIRE\<n\>\<sg\>	^UMPIRE<n><sg>$
       1 #UMPIRE\<n\>\<pl\>	^UMPIRE<n><pl>$
       1 #ULEFOSS\<np\>\<top\>\<sg\>	^ULEFOSS<np><top><sg>$
@@ -4912,6 +5096,8 @@ Tag mismatch between transfer and generation
       1 #Transit\<n\>\<sg\>	^Transit<n><sg>$
       1 #Transfuse\<vblex\>\<pres\>	^Transfuse<vblex><pres>$
       1 #Transformer\<n\>\<pl\>	^Transformer<n><pl>$
+      1 #transfigure	^transfigure$
+      1 #trample	^trample$
       1 #TRAIL\<n\>\<pl\>	^TRAIL<n><pl>$
       1 #TRAILER\<n\>\<sg\>	^TRAILER<n><sg>$
       1 #TO\<vblex\>\<pres\># BUTCHER	^TO<vblex><pres># BUTCHER$
@@ -4935,9 +5121,10 @@ Tag mismatch between transfer and generation
       1 #Thud\<n\>\<sg\>	^Thud<n><sg>$
       1 #Throw\<vblex\>\<pres\># away	^Throw<vblex><pres># away$
       1 #Throw\<vblex\>\<past\># away	^Throw<vblex><past># away$
-      1 #this\<det\>\<dem\>\<pl\>\<gen\>	^this<det><dem><pl><gen>$
+      1 #Threaten	^Threaten$
       1 #texture\<n\>\<sg\>	^texture<n><sg>$
       1 #terrify\<vblex\>\<inf\>	^terrify<vblex><inf>$
+      1 #terrify	^terrify$
       1 #Tendon\<n\>\<pl\>	^Tendon<n><pl>$
       1 #Tear-gas\<n\>\<sg\>	^Tear-gas<n><sg>$
       1 #Teaching aid\<n\>\<pl\>	^Teaching aid<n><pl>$
@@ -4964,6 +5151,8 @@ Tag mismatch between transfer and generation
       1 #swarm\<vblex\>\<past\>	^swarm<vblex><past>$
       1 #Swarm\<vblex\>\<inf\>	^Swarm<vblex><inf>$
       1 #Swansea\<np\>\<top\>\<sg\>	^Swansea<np><top><sg>$
+      1 #suspend	^suspend$
+      1 #surprise	^surprise$
       1 #sunstroke\<n\>\<sg\>	^sunstroke<n><sg>$
       1 #Sunshade\<n\>\<sg\>	^Sunshade<n><sg>$
       1 #sunshade\<n\>\<sg\>	^sunshade<n><sg>$
@@ -4982,6 +5171,7 @@ Tag mismatch between transfer and generation
       1 #Strew\<vblex\>\<pp\>	^Strew<vblex><pp>$
       1 #Strew\<vblex\>\<inf\>	^Strew<vblex><inf>$
       1 #Stretch\<n\>\<pl\>	^Stretch<n><pl>$
+      1 #stretch	^stretch$
       1 #Strawberry\<n\>\<pl\>	^Strawberry<n><pl>$
       1 #Stovner\<np\>\<top\>\<sg\>	^Stovner<np><top><sg>$
       1 #Stordal\<np\>\<top\>\<sg\>	^Stordal<np><top><sg>$
@@ -5065,9 +5255,11 @@ Tag mismatch between transfer and generation
       1 #SNIFTER\<n\>\<sg\>	^SNIFTER<n><sg>$
       1 #snifter\<n\>\<pl\>	^snifter<n><pl>$
       1 #sneeze\<vblex\>\<inf\>	^sneeze<vblex><inf>$
+      1 #smut	^smut$
       1 #smooth\<vblex\>\<pres\>	^smooth<vblex><pres>$
       1 #SMOOTH\<vblex\>\<inf\>	^SMOOTH<vblex><inf>$
       1 #smooching\<n\>\<sg\>	^smooching<n><sg>$
+      1 #smash	^smash$
       1 #Sludge\<n\>\<sg\>	^Sludge<n><sg>$
       1 #slit\<n\>\<sg\>	^slit<n><sg>$
       1 #slipper\<n\>\<sg\>	^slipper<n><sg>$
@@ -5088,6 +5280,7 @@ Tag mismatch between transfer and generation
       1 #ski lift\<n\>\<sg\>	^ski lift<n><sg>$
       1 #skid\<n\>\<pl\>	^skid<n><pl>$
       1 #Skarsvåg\<np\>\<top\>\<sg\>	^Skarsvåg<np><top><sg>$
+      1 #sit	^sit$
       1 #Sip\<n\>\<sg\>	^Sip<n><sg>$
       1 #Sinsen Interchange\<np\>\<top\>\<sg\>	^Sinsen Interchange<np><top><sg>$
       1 #sinker\<n\>\<sg\>	^sinker<n><sg>$
@@ -5107,8 +5300,10 @@ Tag mismatch between transfer and generation
       1 #Shop assistant\<n\>\<sg\>	^Shop assistant<n><sg>$
       1 #shipping agency\<n\>\<sg\>	^shipping agency<n><sg>$
       1 #SHIPMENT\<n\>\<sg\>	^SHIPMENT<n><sg>$
+      1 #Shield	^Shield$
       1 #sheaf\<n\>\<pl\>	^sheaf<n><pl>$
       1 #Shaving foam\<n\>\<sg\>	^Shaving foam<n><sg>$
+      1 #sharpen	^sharpen$
       1 #Shampoo\<n\>\<sg\>	^Shampoo<n><sg>$
       1 #shampoo\<n\>\<pl\>	^shampoo<n><pl>$
       1 #shaft\<n\>\<sg\>	^shaft<n><sg>$
@@ -5120,6 +5315,7 @@ Tag mismatch between transfer and generation
       1 #set# out\<vblex\>\<inf\>	^set# out<vblex><inf>$
       1 #Set\<np\>	^Set<np>$
       1 #Set# alight\<vblex\>\<inf\>	^Set# alight<vblex><inf>$
+      1 #set	^set$
       1 #serving tray\<n\>\<sg\>	^serving tray<n><sg>$
       1 #sentimental value\<n\>\<sg\>	^sentimental value<n><sg>$
       1 #SENIOR\<n\>\<sg\>	^SENIOR<n><sg>$
@@ -5147,6 +5343,7 @@ Tag mismatch between transfer and generation
       1 #scamp\<n\>\<sg\>	^scamp<n><sg>$
       1 #saxon\<n\>\<pl\>	^saxon<n><pl>$
       1 #Savour\<n\>\<sg\>	^Savour<n><sg>$
+      1 #save	^save$
       1 #Savagery\<n\>\<sg\>	^Savagery<n><sg>$
       1 #saucepan\<n\>\<sg\>	^saucepan<n><sg>$
       1 #Sarepta\<np\>	^Sarepta<np>$
@@ -5157,8 +5354,8 @@ Tag mismatch between transfer and generation
       1 #SANDAL\<np\>\<top\>\<sg\>	^SANDAL<np><top><sg>$
       1 #Samson\<np\>	^Samson<np>$
       1 #SÁMI\<n\>\<sg\>	^SÁMI<n><sg>$
-      1 #SAME\<det\>\<ind\>\<m\>\<sp\>\<def\>	^SAME<det><ind><m><sp><def>$
       1 #Samaria\<np\>	^Samaria<np>$
+      1 #salvage	^salvage$
       1 #Salt\<vblex\>\<pres\>	^Salt<vblex><pres>$
       1 #saltpetre\<n\>\<sg\>	^saltpetre<n><sg>$
       1 #SALTDAL\<np\>\<top\>\<sg\>	^SALTDAL<np><top><sg>$
@@ -5174,6 +5371,7 @@ Tag mismatch between transfer and generation
       1 #Ryfylke\<np\>\<top\>\<sg\>	^Ryfylke<np><top><sg>$
       1 #Run\<vblex\>\<pp\># aground	^Run<vblex><pp># aground$
       1 #RUN# AGROUND\<vblex\>\<inf\>	^RUN# AGROUND<vblex><inf>$
+      1 #run# aground	^run# aground$
       1 #Rumble\<vblex\>\<pres\>	^Rumble<vblex><pres>$
       1 #Rumble\<vblex\>\<pp\>	^Rumble<vblex><pp>$
       1 #rug\<n\>\<sg\>	^rug<n><sg>$
@@ -5181,6 +5379,7 @@ Tag mismatch between transfer and generation
       1 #rowanberry\<n\>\<sg\>	^rowanberry<n><sg>$
       1 #Rousseau\<np\>\<top\>\<sg\>	^Rousseau<np><top><sg>$
       1 #Roughneck\<n\>\<sg\>	^Roughneck<n><sg>$
+      1 #rouge	^rouge$
       1 #Rouen\<np\>\<top\>\<sg\>	^Rouen<np><top><sg>$
       1 #rope ladder\<n\>\<sg\>	^rope ladder<n><sg>$
       1 #rope ladder\<n\>\<pl\>	^rope ladder<n><pl>$
@@ -5197,7 +5396,9 @@ Tag mismatch between transfer and generation
       1 #Ring leader\<n\>\<sg\>	^Ring leader<n><sg>$
       1 #ring leader\<n\>\<pl\>	^ring leader<n><pl>$
       1 #Rig\<n\>\<pl\>	^Rig<n><pl>$
+      1 #ride	^ride$
       1 #Rib\<vblex\>\<pres\>	^Rib<vblex><pres>$
+      1 #rhyme	^rhyme$
       1 #Rhubarb\<n\>\<sg\>	^Rhubarb<n><sg>$
       1 #Rhine\<np\>\<top\>\<sg\>	^Rhine<np><top><sg>$
       1 #Rheumatism\<n\>\<sg\>	^Rheumatism<n><sg>$
@@ -5234,9 +5435,11 @@ Tag mismatch between transfer and generation
       1 #reliance\<vblex\>\<pres\>	^reliance<vblex><pres>$
       1 #reliance\<vblex\>\<pp\>	^reliance<vblex><pp>$
       1 #Relate\<vblex\>\<pres\># to	^Relate<vblex><pres># to$
+      1 #reject	^reject$
       1 #Rein\<vblex\>\<pp\>	^Rein<vblex><pp>$
       1 #REIMBURSE\<n\>\<pl\>	^REIMBURSE<n><pl>$
       1 #Regulations\<n\>\<pl\>	^Regulations<n><pl>$
+      1 #register	^register$
       1 #refresh\<vblex\>\<inf\>	^refresh<vblex><inf>$
       1 #reel\<vblex\>\<pp\>	^reel<vblex><pp>$
       1 #REEK\<n\>\<sg\>	^REEK<n><sg>$
@@ -5245,8 +5448,10 @@ Tag mismatch between transfer and generation
       1 #REEF\<vblex\>\<inf\>	^REEF<vblex><inf>$
       1 #reef\<n\>\<pl\>	^reef<n><pl>$
       1 #reclaim\<vblex\>\<inf\>	^reclaim<vblex><inf>$
+      1 #Reclaim	^Reclaim$
       1 #Recieve\<vblex\>\<pres\>	^Recieve<vblex><pres>$
       1 #Recieve\<vblex\>\<past\>	^Recieve<vblex><past>$
+      1 #receive	^receive$
       1 #razorblade\<n\>\<sg\>	^razorblade<n><sg>$
       1 #Ray\<vblex\>\<past\>	^Ray<vblex><past>$
       1 #RAW\<adj\>	^RAW<adj>$
@@ -5257,6 +5462,7 @@ Tag mismatch between transfer and generation
       1 #Ramnes\<np\>\<top\>\<sg\>	^Ramnes<np><top><sg>$
       1 #Raleigh\<np\>\<top\>\<sg\>	^Raleigh<np><top><sg>$
       1 #Rakkestad\<np\>\<top\>\<sg\>	^Rakkestad<np><top><sg>$
+      1 #raise	^raise$
       1 #Rainwear\<n\>\<sg\>	^Rainwear<n><sg>$
       1 #rainforest\<n\>\<pl\>	^rainforest<n><pl>$
       1 #railway track\<n\>\<sg\>	^railway track<n><sg>$
@@ -5282,6 +5488,7 @@ Tag mismatch between transfer and generation
       1 #Put# out\<vblex\>\<inf\>	^Put# out<vblex><inf>$
       1 #push-button\<n\>\<pl\>	^push-button<n><pl>$
       1 #purple\<n\>\<sg\>	^purple<n><sg>$
+      1 #punish	^punish$
       1 #Puff\<vblex\>\<pres\>	^Puff<vblex><pres>$
       1 #puff\<n\>\<pl\>	^puff<n><pl>$
       1 #Publican\<n\>\<sg\>	^Publican<n><sg>$
@@ -5292,6 +5499,7 @@ Tag mismatch between transfer and generation
       1 #prospectus\<n\>\<pl\>	^prospectus<n><pl>$
       1 #Pronounciation\<n\>\<sg\>	^Pronounciation<n><sg>$
       1 #Prompter\<n\>\<sg\>	^Prompter<n><sg>$
+      1 #Promote	^Promote$
       1 #Prologue\<n\>\<sg\>	^Prologue<n><sg>$
       1 #PROCEEDS\<n\>\<sg\>	^PROCEEDS<n><sg>$
       1 #Proceeds\<n\>\<sg\>	^Proceeds<n><sg>$
@@ -5299,6 +5507,7 @@ Tag mismatch between transfer and generation
       1 #Prior\<n\>\<sg\>	^Prior<n><sg>$
       1 #prior\<n\>\<sg\>	^prior<n><sg>$
       1 #Prime\<vblex\>\<inf\>	^Prime<vblex><inf>$
+      1 #Presume\<vblex\>\<inf\>	^Presume<vblex><inf>$
       1 #press clip\<n\>\<pl\>	^press clip<n><pl>$
       1 #PRESCRIPTION\<n\>\<sg\>	^PRESCRIPTION<n><sg>$
       1 #Prescription\<n\>\<sg\>	^Prescription<n><sg>$
@@ -5334,6 +5543,7 @@ Tag mismatch between transfer and generation
       1 #pimple\<n\>\<pl\>	^pimple<n><pl>$
       1 #Pillar\<n\>\<pl\>	^Pillar<n><pl>$
       1 #pie\<n\>\<pl\>	^pie<n><pl>$
+      1 #pick	^pick$
       1 #Philippi\<np\>	^Philippi<np>$
       1 #PHANTOM\<n\>\<sg\>	^PHANTOM<n><sg>$
       1 #phantom\<n\>\<sg\>	^phantom<n><sg>$
@@ -5371,6 +5581,7 @@ Tag mismatch between transfer and generation
       1 #pair\<vblex\>\<pres\>	^pair<vblex><pres>$
       1 #Pair\<vblex\>\<inf\>	^Pair<vblex><inf>$
       1 #padlock\<n\>\<sg\>	^padlock<n><sg>$
+      1 #pack	^pack$
       1 #OZONE LAYER\<n\>\<sg\>	^OZONE LAYER<n><sg>$
       1 #Ozone layer\<n\>\<sg\>	^Ozone layer<n><sg>$
       1 #ØYESTAD\<np\>\<top\>\<sg\>	^ØYESTAD<np><top><sg>$
@@ -5420,6 +5631,7 @@ Tag mismatch between transfer and generation
       1 #Norte\<np\>\<top\>\<sg\>	^Norte<np><top><sg>$
       1 #Nore\<np\>\<top\>\<sg\>	^Nore<np><top><sg>$
       1 #Nord-Odal\<np\>\<top\>\<sg\>	^Nord-Odal<np><top><sg>$
+      1 #nordist\<n\>\<sg\>	^nordist<n><sg>$
       1 #Nordhordland\<np\>\<top\>\<sg\>	^Nordhordland<np><top><sg>$
       1 #NISSAN\<np\>\<top\>\<sg\>	^NISSAN<np><top><sg>$
       1 #Niger\<np\>\<top\>\<sg\>	^Niger<np><top><sg>$
@@ -5431,6 +5643,7 @@ Tag mismatch between transfer and generation
       1 #Nest\<vblex\>\<pp\>	^Nest<vblex><pp>$
       1 #Nesoddtangen\<np\>\<top\>\<sg\>	^Nesoddtangen<np><top><sg>$
       1 #NESNA\<np\>\<top\>\<sg\>	^NESNA<np><top><sg>$
+      1 #needlessness\<n\>\<sg\>	^needlessness<n><sg>$
       1 #Nebraska\<np\>\<top\>\<sg\>	^Nebraska<np><top><sg>$
       1 #Nathan\<np\>	^Nathan<np>$
       1 #narcotic\<n\>\<sg\>	^narcotic<n><sg>$
@@ -5449,8 +5662,10 @@ Tag mismatch between transfer and generation
       1 #MUG\<vblex\>\<pp\>	^MUG<vblex><pp>$
       1 #Mug\<vblex\>\<pp\>	^Mug<vblex><pp>$
       1 #mugging\<n\>\<pl\>	^mugging<n><pl>$
+      1 #mug	^mug$
       1 #mudflap\<n\>\<pl\>	^mudflap<n><pl>$
       1 #muck\<n\>\<pl\>	^muck<n><pl>$
+      1 #Move	^Move$
       1 #mouthpiece\<n\>\<sg\>	^mouthpiece<n><sg>$
       1 #mould\<vblex\>\<pres\>	^mould<vblex><pres>$
       1 #MOTIVE\<n\>\<pl\>	^MOTIVE<n><pl>$
@@ -5473,11 +5688,13 @@ Tag mismatch between transfer and generation
       1 #moan\<n\>\<sg\>	^moan<n><sg>$
       1 #mistletoe\<n\>\<sg\>	^mistletoe<n><sg>$
       1 #MISTER\<n\>\<pl\>	^MISTER<n><pl>$
+      1 #Miss	^Miss$
       1 #miscarriage of justice\<n\>\<pl\>	^miscarriage of justice<n><pl>$
       1 #Mirror\<vblex\>\<pp\>	^Mirror<vblex><pp>$
       1 #Minister of Foreign Affairs\<n\>\<pl\>	^Minister of Foreign Affairs<n><pl>$
       1 #Migrant\<n\>\<pl\>	^Migrant<n><pl>$
       1 #Midsummer's Eve bonfire\<n\>\<sg\>	^Midsummer's Eve bonfire<n><sg>$
+      1 #melt	^melt$
       1 #Mekong\<np\>\<top\>\<sg\>	^Mekong<np><top><sg>$
       1 #medley\<n\>\<sg\>	^medley<n><sg>$
       1 #Mecklenburg\<np\>\<top\>\<sg\>	^Mecklenburg<np><top><sg>$
@@ -5492,7 +5709,6 @@ Tag mismatch between transfer and generation
       1 #Marquis\<n\>\<sg\>	^Marquis<n><sg>$
       1 #marmalade\<n\>\<sg\>	^marmalade<n><sg>$
       1 #Marital status\<n\>\<sg\>	^Marital status<n><sg>$
-      1 #MANY\<det\>\<qnt\>\<sup\>	^MANY<det><qnt><sup>$
       1 #Manure\<vblex\>\<pp\>	^Manure<vblex><pp>$
       1 #manual labour\<n\>\<sg\>	^manual labour<n><sg>$
       1 #manual labour\<n\>\<pl\>	^manual labour<n><pl>$
@@ -5517,12 +5733,15 @@ Tag mismatch between transfer and generation
       1 #Lucerne\<np\>\<top\>\<sg\>	^Lucerne<np><top><sg>$
       1 #Lubricate\<vblex\>\<pp\>	^Lubricate<vblex><pp>$
       1 #LUBRICATE\<vblex\>\<inf\>	^LUBRICATE<vblex><inf>$
+      1 #Lose	^Lose$
       1 #loot\<vblex\>\<inf\>	^loot<vblex><inf>$
       1 #Loot\<n\>\<sg\>	^Loot<n><sg>$
       1 #Loddefjord\<np\>\<top\>\<sg\>	^Loddefjord<np><top><sg>$
       1 #Lobby\<n\>\<pl\>	^Lobby<n><pl>$
       1 #LOATHE\<n\>\<sg\>	^LOATHE<n><sg>$
+      1 #load	^load$
       1 #Liverpaste\<n\>\<sg\>	^Liverpaste<n><sg>$
+      1 #live	^live$
       1 #LITTLE\<vblex\>\<pp\>	^LITTLE<vblex><pp>$
       1 #Little\<vblex\>\<past\>	^Little<vblex><past>$
       1 #LIQUEUR\<n\>\<sg\>	^LIQUEUR<n><sg>$
@@ -5532,6 +5751,8 @@ Tag mismatch between transfer and generation
       1 #Liniment\<vblex\>\<inf\>	^Liniment<vblex><inf>$
       1 #liniment\<vblex\>\<inf\>	^liniment<vblex><inf>$
       1 #Linger\<vblex\>\<past\>	^Linger<vblex><past>$
+      1 #Line	^Line$
+      1 #line	^line$
       1 #Limited company\<n\>\<pl\>	^Limited company<n><pl>$
       1 #LILLE\<np\>	^LILLE<np>$
       1 #Lifejacket\<n\>\<pl\>	^Lifejacket<n><pl>$
@@ -5548,6 +5769,7 @@ Tag mismatch between transfer and generation
       1 #Leipzig\<np\>\<top\>\<sg\>	^Leipzig<np><top><sg>$
       1 #Leikanger\<np\>\<top\>\<sg\>	^Leikanger<np><top><sg>$
       1 #Ledge\<vblex\>\<pp\>	^Ledge<vblex><pp>$
+      1 #ledge	^ledge$
       1 #LEAVE\<n\>\<sg\>	^LEAVE<n><sg>$
       1 #Leave\<n\>\<pl\>	^Leave<n><pl>$
       1 #leaven\<n\>\<sg\>	^leaven<n><sg>$
@@ -5555,12 +5777,14 @@ Tag mismatch between transfer and generation
       1 #Launderette\<n\>\<pl\>	^Launderette<n><pl>$
       1 #Lap\<vblex\>\<pres\>	^Lap<vblex><pres>$
       1 #Lap\<vblex\>\<pp\>	^Lap<vblex><pp>$
+      1 #lapse	^lapse$
       1 #Langesund\<np\>\<top\>\<sg\>	^Langesund<np><top><sg>$
       1 #LANGELAND\<np\>\<top\>\<sg\>	^LANGELAND<np><top><sg>$
       1 #lamp shade\<n\>\<sg\>	^lamp shade<n><sg>$
       1 #LAMP POST\<n\>\<sg\>	^LAMP POST<n><sg>$
       1 #lament\<vblex\>\<pres\>	^lament<vblex><pres>$
       1 #lament\<vblex\>\<inf\>	^lament<vblex><inf>$
+      1 #lamb	^lamb$
       1 #Laksevåg\<np\>\<top\>\<sg\>	^Laksevåg<np><top><sg>$
       1 #LAIR\<n\>\<sg\>	^LAIR<n><sg>$
       1 #LAIR\<n\>\<pl\>	^LAIR<n><pl>$
@@ -5604,6 +5828,7 @@ Tag mismatch between transfer and generation
       1 #JUBILATE\<vblex\>\<pp\>	^JUBILATE<vblex><pp>$
       1 #jowl\<n\>\<pl\>	^jowl<n><pl>$
       1 #JONAH\<np\>	^JONAH<np>$
+      1 #join	^join$
       1 #JOHANNE\<np\>\<ant\>\<m\>\<sg\>	^JOHANNE<np><ant><m><sg>$
       1 #jig\<n\>\<sg\>	^jig<n><sg>$
       1 #jib\<n\>\<sg\>	^jib<n><sg>$
@@ -5616,6 +5841,7 @@ Tag mismatch between transfer and generation
       1 #Jam\<vblex\>\<pp\>	^Jam<vblex><pp>$
       1 #Jam\<vblex\>\<past\>	^Jam<vblex><past>$
       1 #Jämtland\<np\>\<top\>\<sg\>	^Jämtland<np><top><sg>$
+      1 #Jam	^Jam$
       1 #Jakarta\<np\>\<top\>\<sg\>	^Jakarta<np><top><sg>$
       1 #Itch\<vblex\>\<pres\>	^Itch<vblex><pres>$
       1 #itch\<vblex\>\<past\>	^itch<vblex><past>$
@@ -5624,17 +5850,20 @@ Tag mismatch between transfer and generation
       1 #Inwards\<adv\>	^Inwards<adv>$
       1 #INVIGORATE\<vblex\>\<pres\>	^INVIGORATE<vblex><pres>$
       1 #INVIGORATE\<vblex\>\<inf\>	^INVIGORATE<vblex><inf>$
+      1 #intrude	^intrude$
       1 #Intoxicant\<n\>\<pl\>	^Intoxicant<n><pl>$
       1 #intermission\<n\>\<pl\>	^intermission<n><pl>$
       1 #INTERLOCK\<vblex\>\<pp\>	^INTERLOCK<vblex><pp>$
       1 #Interlock\<vblex\>\<pp\>	^Interlock<vblex><pp>$
       1 #INTERLOCK\<vblex\>\<inf\>	^INTERLOCK<vblex><inf>$
+      1 #interlock	^interlock$
       1 #Intercourse\<n\>\<sg\>	^Intercourse<n><sg>$
       1 #intercourse\<n\>\<pl\>	^intercourse<n><pl>$
       1 #INSTIGATE\<vblex\>\<inf\>	^INSTIGATE<vblex><inf>$
       1 #Inntrøndelag\<np\>\<top\>\<sg\>	^Inntrøndelag<np><top><sg>$
       1 #INNSBRUCK\<np\>\<top\>\<sg\>	^INNSBRUCK<np><top><sg>$
       1 #Inkling\<n\>\<sg\>	^Inkling<n><sg>$
+      1 #initiate	^initiate$
       1 #INHERIT\<n\>\<sg\>	^INHERIT<n><sg>$
       1 #inhaler\<n\>\<sg\>	^inhaler<n><sg>$
       1 #Inflict\<vblex\>\<pp\>	^Inflict<vblex><pp>$
@@ -5645,13 +5874,17 @@ Tag mismatch between transfer and generation
       1 #INDICTMENT\<vblex\>\<inf\>	^INDICTMENT<vblex><inf>$
       1 #Inderøy\<np\>\<top\>\<sg\>	^Inderøy<np><top><sg>$
       1 #indentation\<n\>\<pl\>	^indentation<n><pl>$
+      1 #Incriminate	^Incriminate$
+      1 #increase	^increase$
       1 #Inconvenience\<vblex\>\<pp\>	^Inconvenience<vblex><pp>$
+      1 #include	^include$
       1 #Incitement\<vblex\>\<pres\>	^Incitement<vblex><pres>$
       1 #incitement\<vblex\>\<past\>	^incitement<vblex><past>$
       1 #INCITEMENT\<vblex\>\<inf\>	^INCITEMENT<vblex><inf>$
       1 #Incapacity\<n\>\<sg\>	^Incapacity<n><sg>$
       1 #Inbreeding\<n\>\<sg\>	^Inbreeding<n><sg>$
       1 #Inari Okami\<np\>\<top\>\<sg\>	^Inari Okami<np><top><sg>$
+      1 #Imprison	^Imprison$
       1 #imprint\<vblex\>\<pres\>	^imprint<vblex><pres>$
       1 #imprint\<vblex\>\<inf\>	^imprint<vblex><inf>$
       1 #IMPORTANT\<adj\>\<sup\>	^IMPORTANT<adj><sup>$
@@ -5659,6 +5892,8 @@ Tag mismatch between transfer and generation
       1 #imperative\<n\>\<sg\>	^imperative<n><sg>$
       1 #Impeachment\<vblex\>\<pp\>	^Impeachment<vblex><pp>$
       1 #IMMERSE\<vblex\>\<pp\>	^IMMERSE<vblex><pp>$
+      1 #Immerse	^Immerse$
+      1 #immerse	^immerse$
       1 #Idleness\<n\>\<sg\>	^Idleness<n><sg>$
       1 #identity card\<n\>\<sg\>	^identity card<n><sg>$
       1 #Ice\<vblex\>\<pp\>	^Ice<vblex><pp>$
@@ -5729,6 +5964,7 @@ Tag mismatch between transfer and generation
       1 #Headwind\<n\>\<sg\>	^Headwind<n><sg>$
       1 #headstrong\<vblex\>\<pp\>	^headstrong<vblex><pp>$
       1 #HEADSTRONG\<vblex\>\<past\>	^HEADSTRONG<vblex><past>$
+      1 #head clerk\<n\>\<pl\>	^head clerk<n><pl>$
       1 #hayfever\<n\>\<sg\>	^hayfever<n><sg>$
       1 #have\<vblex\>\<pres\># sex	^have<vblex><pres># sex$
       1 #Haunches\<n\>\<sg\>	^Haunches<n><sg>$
@@ -5742,6 +5978,7 @@ Tag mismatch between transfer and generation
       1 #handyman\<n\>\<pl\>	^handyman<n><pl>$
       1 #Handrail\<n\>\<sg\>	^Handrail<n><sg>$
       1 #Handcuffs\<n\>\<pl\>	^Handcuffs<n><pl>$
+      1 #hammer	^hammer$
       1 #HAMBURG\<np\>\<top\>\<sg\>	^HAMBURG<np><top><sg>$
       1 #HÅLOGALAND\<np\>\<top\>\<sg\>	^HÅLOGALAND<np><top><sg>$
       1 #Halibut\<n\>\<pl\>	^Halibut<n><pl>$
@@ -5752,6 +5989,7 @@ Tag mismatch between transfer and generation
       1 #Gulen\<np\>\<top\>\<sg\>	^Gulen<np><top><sg>$
       1 #guest room\<n\>\<pl\>	^guest room<n><pl>$
       1 #Guernsey\<np\>\<top\>\<sg\>	^Guernsey<np><top><sg>$
+      1 #guard	^guard$
       1 #grunt\<n\>\<sg\>	^grunt<n><sg>$
       1 #Grudge\<vblex\>\<pres\>	^Grudge<vblex><pres>$
       1 #Grudge\<n\>\<sg\>	^Grudge<n><sg>$
@@ -5796,6 +6034,7 @@ Tag mismatch between transfer and generation
       1 #glisten\<vblex\>\<pp\>	^glisten<vblex><pp>$
       1 #glare\<vblex\>\<pres\>	^glare<vblex><pres>$
       1 #Glare\<vblex\>\<pp\>	^Glare<vblex><pp>$
+      1 #glare	^glare$
       1 #GLADNESS\<vblex\>\<inf\>	^GLADNESS<vblex><inf>$
       1 #glade\<n\>\<pl\>	^glade<n><pl>$
       1 #GJELLERÅSEN\<np\>\<top\>\<sg\>	^GJELLERÅSEN<np><top><sg>$
@@ -5807,6 +6046,7 @@ Tag mismatch between transfer and generation
       1 #giant\<vblex\>\<inf\>	^giant<vblex><inf>$
       1 #gherkin\<n\>\<pl\>	^gherkin<n><pl>$
       1 #Geyser\<np\>\<top\>\<sg\>	^Geyser<np><top><sg>$
+      1 #get	^get$
       1 #Genre\<n\>\<sg\>	^Genre<n><sg>$
       1 #Genoa\<np\>\<top\>\<sg\>	^Genoa<np><top><sg>$
       1 #Geneva\<np\>\<top\>\<sg\>	^Geneva<np><top><sg>$
@@ -5829,7 +6069,9 @@ Tag mismatch between transfer and generation
       1 #furrow\<vblex\>\<pres\>	^furrow<vblex><pres>$
       1 #Furrow\<vblex\>\<pp\>	^Furrow<vblex><pp>$
       1 #Furrow\<vblex\>\<inf\>	^Furrow<vblex><inf>$
+      1 #furrow	^furrow$
       1 #Funen\<np\>\<top\>\<sg\>	^Funen<np><top><sg>$
+      1 #Fume	^Fume$
       1 #Fry\<n\>\<sg\>	^Fry<n><sg>$
       1 #Frugalness\<n\>\<pl\>	^Frugalness<n><pl>$
       1 #Frøya\<np\>\<top\>\<sg\>	^Frøya<np><top><sg>$
@@ -5838,6 +6080,7 @@ Tag mismatch between transfer and generation
       1 #frogman\<n\>\<sg\>	^frogman<n><sg>$
       1 #frizz\<vblex\>\<pres\>	^frizz<vblex><pres>$
       1 #frizz\<vblex\>\<pp\>	^frizz<vblex><pp>$
+      1 #frizz	^frizz$
       1 #frighten\<adj\>\<sup\>	^frighten<adj><sup>$
       1 #frighten\<adj\>\<comp\>	^frighten<adj><comp>$
       1 #Friction\<n\>\<sg\>	^Friction<n><sg>$
@@ -5849,9 +6092,11 @@ Tag mismatch between transfer and generation
       1 #FORSAKE\<vblex\>\<past\>	^FORSAKE<vblex><past>$
       1 #Forsake\<vblex\>\<past\>	^Forsake<vblex><past>$
       1 #Forsake\<vblex\>\<inf\>	^Forsake<vblex><inf>$
+      1 #Forsake	^Forsake$
       1 #Form\<vblex\>\<pres\># a part of	^Form<vblex><pres># a part of$
       1 #Form\<vblex\>\<pp\># a part of	^Form<vblex><pp># a part of$
       1 #Form# a part of\<vblex\>\<inf\>	^Form# a part of<vblex><inf>$
+      1 #Form# a part of	^Form# a part of$
       1 #Forfeit\<vblex\>\<pres\>	^Forfeit<vblex><pres>$
       1 #forfeit\<vblex\>\<pres\>	^forfeit<vblex><pres>$
       1 #footing\<n\>\<pl\>	^footing<n><pl>$
@@ -5886,6 +6131,7 @@ Tag mismatch between transfer and generation
       1 #Fish hook\<n\>\<sg\>	^Fish hook<n><sg>$
       1 #fish hook\<n\>\<sg\>	^fish hook<n><sg>$
       1 #fish hook\<n\>\<pl\>	^fish hook<n><pl>$
+      1 #fish	^fish$
       1 #First name\<n\>\<sg\>	^First name<n><sg>$
       1 #fingerprint\<n\>\<pl\>	^fingerprint<n><pl>$
       1 #Finery\<n\>\<pl\>	^Finery<n><pl>$
@@ -5894,13 +6140,13 @@ Tag mismatch between transfer and generation
       1 #FIGHT\<vblex\>	^FIGHT<vblex><pstv><pret>$
       1 #Fighterjet\<n\>\<sg\>	^Fighterjet<n><sg>$
       1 #field\<vblex\>\<pres\>	^field<vblex><pres>$
-      1 #few\<pl\>	^few<pl>$
       1 #Feud\<n\>\<sg\>	^Feud<n><sg>$
       1 #festoon\<n\>\<pl\>	^festoon<n><pl>$
       1 #FENCE\<vblex\>\<inf\>	^FENCE<vblex><inf>$
       1 #FELL\<vblex\>\<pp\>	^FELL<vblex><pp>$
       1 #FELLOWSHIP\<n\>\<sg\>	^FELLOWSHIP<n><sg>$
       1 #Feeler\<n\>\<pl\>	^Feeler<n><pl>$
+      1 #Fear	^Fear$
       1 #Favourite\<n\>\<pl\>	^Favourite<n><pl>$
       1 #FATHOM\<vblex\>\<inf\>	^FATHOM<vblex><inf>$
       1 #Fathom\<vblex\>\<inf\>	^Fathom<vblex><inf>$
@@ -5926,9 +6172,11 @@ Tag mismatch between transfer and generation
       1 #Express\<n\>\<sg\>	^Express<n><sg>$
       1 #expiration\<n\>\<pl\>	^expiration<n><pl>$
       1 #EXPENSIVE\<adj\>\<sup\>	^EXPENSIVE<adj><sup>$
+      1 #Exhaust	^Exhaust$
       1 #EXCISE\<vblex\>\<pp\>	^EXCISE<vblex><pp>$
       1 #EXCISE\<vblex\>\<inf\>	^EXCISE<vblex><inf>$
       1 #Excel\<vblex\>\<inf\>	^Excel<vblex><inf>$
+      1 #exalt	^exalt$
       1 #ESTER\<np\>	^ESTER<np>$
       1 #episcopate\<n\>\<pl\>	^episcopate<n><pl>$
       1 #Envelope\<n\>\<sg\>	^Envelope<n><sg>$
@@ -5984,10 +6232,12 @@ Tag mismatch between transfer and generation
       1 #Discoverer\<n\>\<sg\>	^Discoverer<n><sg>$
       1 #Dirty\<vblex\>\<inf\>	^Dirty<vblex><inf>$
       1 #Din\<vblex\>\<past\>	^Din<vblex><past>$
+      1 #Din	^Din$
       1 #Diffuse\<vblex\>\<inf\>	^Diffuse<vblex><inf>$
       1 #DIEGO\<np\>\<top\>\<sg\>	^DIEGO<np><top><sg>$
       1 #dick\<n\>\<sg\>	^dick<n><sg>$
       1 #Devoid\<vblex\>\<pres\>	^Devoid<vblex><pres>$
+      1 #descend	^descend$
       1 #Denofa\<np\>\<top\>\<sg\>	^Denofa<np><top><sg>$
       1 #delude\<vblex\>\<pres\>	^delude<vblex><pres>$
       1 #Delude\<vblex\>\<pp\>	^Delude<vblex><pp>$
@@ -5995,22 +6245,27 @@ Tag mismatch between transfer and generation
       1 #Delaware\<np\>\<top\>\<sg\>	^Delaware<np><top><sg>$
       1 #deforestation\<n\>\<sg\>	^deforestation<n><sg>$
       1 #defector\<n\>\<pl\>	^defector<n><pl>$
+      1 #deduce	^deduce$
       1 #Deception\<n\>\<sg\>	^Deception<n><sg>$
       1 #Dam\<n\>\<sg\>	^Dam<n><sg>$
       1 #Dam\<n\>\<pl\>	^Dam<n><pl>$
       1 #DALEN\<np\>	^DALEN<np>$
       1 #DAILY PAPER\<n\>\<pl\>	^DAILY PAPER<n><pl>$
+      1 #DAILY\<adj\>\<sint\>	^DAILY<adj><sint>$
       1 #Dagali\<np\>\<top\>\<sg\>	^Dagali<np><top><sg>$
       1 #cylinder\<n\>\<sg\>	^cylinder<n><sg>$
       1 #cylinder head\<n\>\<pl\>	^cylinder head<n><pl>$
       1 #CUTLER\<n\>\<sg\>	^CUTLER<n><sg>$
       1 #Cutler\<n\>\<sg\>	^Cutler<n><sg>$
+      1 #Cut	^Cut$
       1 #currant\<n\>\<sg\>	^currant<n><sg>$
       1 #curl\<vblex\>\<pp\>	^curl<vblex><pp>$
       1 #Curl\<vblex\>\<inf\>	^Curl<vblex><inf>$
       1 #Cuddly toy\<n\>\<sg\>	^Cuddly toy<n><sg>$
       1 #Crumb\<vblex\>\<pres\>	^Crumb<vblex><pres>$
       1 #crucify\<vblex\>\<pp\>	^crucify<vblex><pp>$
+      1 #crucify	^crucify$
+      1 #cross	^cross$
       1 #Crescent moon\<n\>\<pl\>	^Crescent moon<n><pl>$
       1 #cranberry\<n\>\<sg\>	^cranberry<n><sg>$
       1 #CRAFT CERTIFICATE\<n\>\<sg\>	^CRAFT CERTIFICATE<n><sg>$
@@ -6022,6 +6277,7 @@ Tag mismatch between transfer and generation
       1 #COUNTY\<np\>\<top\>\<sg\>	^COUNTY<np><top><sg>$
       1 #Counterpart\<n\>\<sg\>	^Counterpart<n><sg>$
       1 #counterfeit\<vblex\>\<pres\>	^counterfeit<vblex><pres>$
+      1 #counterfeit	^counterfeit$
       1 #corrosion\<n\>\<sg\>	^corrosion<n><sg>$
       1 #Coronate\<vblex\>\<pres\>	^Coronate<vblex><pres>$
       1 #Coronate\<vblex\>\<pp\>	^Coronate<vblex><pp>$
@@ -6032,12 +6288,16 @@ Tag mismatch between transfer and generation
       1 #Contraception\<n\>\<sg\>	^Contraception<n><sg>$
       1 #CONTENDER\<n\>\<sg\>	^CONTENDER<n><sg>$
       1 #Contamination\<n\>\<pl\>	^Contamination<n><pl>$
+      1 #consist	^consist$
       1 #Connecticut\<np\>\<top\>\<sg\>	^Connecticut<np><top><sg>$
+      1 #Confuse	^Confuse$
       1 #Confirmand\<n\>\<sg\>	^Confirmand<n><sg>$
       1 #Confirmand\<n\>\<pl\>	^Confirmand<n><pl>$
       1 #Compass\<n\>\<sg\>	^Compass<n><sg>$
       1 #COMING\<n\>\<pl\>	^COMING<n><pl>$
+      1 #COME	^COME$
       1 #Cobble\<vblex\>\<pres\>	^Cobble<vblex><pres>$
+      1 #clay	^clay$
       1 #Clasp\<vblex\>\<pres\>	^Clasp<vblex><pres>$
       1 #Clasp\<vblex\>\<pp\>	^Clasp<vblex><pp>$
       1 #CIVILIZATION\<n\>\<sg\>	^CIVILIZATION<n><sg>$
@@ -6054,10 +6314,13 @@ Tag mismatch between transfer and generation
       1 #CHELSEA\<np\>\<top\>\<sg\>	^CHELSEA<np><top><sg>$
       1 #chatter\<vblex\>\<pp\>	^chatter<vblex><pp>$
       1 #chatter\<vblex\>\<inf\>	^chatter<vblex><inf>$
+      1 #chase	^chase$
       1 #Chap\<n\>\<pl\>	^Chap<n><pl>$
+      1 #chain	^chain$
       1 #Ceramics\<n\>\<sg\>	^Ceramics<n><sg>$
       1 #CENTRAL\<n\>\<sg\>	^CENTRAL<n><sg>$
       1 #CENTRAL NORWAY\<np\>\<top\>\<sg\>	^CENTRAL NORWAY<np><top><sg>$
+      1 #celebrate	^celebrate$
       1 #CD-PLAYER\<n\>\<pl\>	^CD-PLAYER<n><pl>$
       1 #Cayenne\<np\>\<top\>\<sg\>	^Cayenne<np><top><sg>$
       1 #Caterpillar\<n\>\<sg\>	^Caterpillar<n><sg>$
@@ -6090,10 +6353,13 @@ Tag mismatch between transfer and generation
       1 #Brim\<n\>\<sg\>	^Brim<n><sg>$
       1 #BREWING\<adv\>	^BREWING<adv>$
       1 #breakthrough\<n\>\<pl\>	^breakthrough<n><pl>$
+      1 #break\<comp\>	^break<comp>$
+      1 #Break	^Break$
       1 #Bratislava\<np\>\<top\>\<sg\>	^Bratislava<np><top><sg>$
       1 #bran\<n\>\<sg\>	^bran<n><sg>$
       1 #Brandbu\<np\>\<top\>\<sg\>	^Brandbu<np><top><sg>$
       1 #Brains\<n\>\<pl\>	^Brains<n><pl>$
+      1 #braid	^braid$
       1 #box office\<n\>\<sg\>	^box office<n><sg>$
       1 #Bothnian Bay\<np\>\<top\>\<sg\>	^Bothnian Bay<np><top><sg>$
       1 #Bother\<n\>\<sg\>	^Bother<n><sg>$
@@ -6113,6 +6379,7 @@ Tag mismatch between transfer and generation
       1 #Bier\<vblex\>\<pp\>	^Bier<vblex><pp>$
       1 #bewitch\<vblex\>\<pres\>	^bewitch<vblex><pres>$
       1 #be\<vblex\>\<past\># queasy	^be<vblex><past># queasy$
+      1 #better	^better$
       1 #betroth\<vblex\>\<inf\>	^betroth<vblex><inf>$
       1 #berth\<n\>\<sg\>	^berth<n><sg>$
       1 #Bern\<np\>\<top\>\<sg\>	^Bern<np><top><sg>$
@@ -6134,6 +6401,7 @@ Tag mismatch between transfer and generation
       1 #become\<vblex\>\<past\># quiet	^become<vblex><past># quiet$
       1 #Bech\<np\>\<top\>\<sg\>	^Bech<np><top><sg>$
       1 #BE# CALLED\<vblex\>\<inf\>	^BE# CALLED<vblex><inf>$
+      1 #beat	^beat$
       1 #BEACON\<n\>\<sg\>	^BEACON<n><sg>$
       1 #Beacon\<n\>\<pl\>	^Beacon<n><pl>$
       1 #beacon\<n\>\<pl\>	^beacon<n><pl>$
@@ -6152,6 +6420,7 @@ Tag mismatch between transfer and generation
       1 #Baden\<np\>\<top\>\<sg\>	^Baden<np><top><sg>$
       1 #back wheel\<n\>\<pl\>	^back wheel<n><pl>$
       1 #backwater\<n\>\<pl\>	^backwater<n><pl>$
+      1 #back	^back$
       1 #axe\<vblex\>\<pres\>	^axe<vblex><pres>$
       1 #Axe\<vblex\>\<pp\>	^Axe<vblex><pp>$
       1 #AVIV\<np\>\<top\>\<sg\>	^AVIV<np><top><sg>$
@@ -6165,6 +6434,8 @@ Tag mismatch between transfer and generation
       1 #Audnedal\<np\>\<top\>\<sg\>	^Audnedal<np><top><sg>$
       1 #Audi\<np\>\<top\>\<sg\>	^Audi<np><top><sg>$
       1 #Auckland\<np\>\<top\>\<sg\>	^Auckland<np><top><sg>$
+      1 #attack	^attack$
+      1 #Attach	^Attach$
       1 #ASYLUM SEEKER\<n\>\<pl\>	^ASYLUM SEEKER<n><pl>$
       1 #aspirin\<n\>\<sg\>	^aspirin<n><sg>$
       1 #Askøy\<np\>\<top\>\<sg\>	^Askøy<np><top><sg>$
@@ -6180,6 +6451,8 @@ Tag mismatch between transfer and generation
       1 #Antagonism\<n\>\<sg\>	^Antagonism<n><sg>$
       1 #antagonism\<n\>\<pl\>	^antagonism<n><pl>$
       1 #announcer\<n\>\<sg\>	^announcer<n><sg>$
+      1 #Animate\<vblex\>\<pp\>	^Animate<vblex><pp>$
+      1 #Animate\<vblex\>\<past\>	^Animate<vblex><past>$
       1 #Angel\<np\>\<top\>\<sg\>	^Angel<np><top><sg>$
       1 #anchovy\<n\>\<pl\>	^anchovy<n><pl>$
       1 #Anchorage\<np\>\<top\>\<sg\>	^Anchorage<np><top><sg>$
@@ -6195,6 +6468,7 @@ Tag mismatch between transfer and generation
       1 #Aircraft carrier\<n\>\<sg\>	^Aircraft carrier<n><sg>$
       1 #aircraft carrier\<n\>\<pl\>	^aircraft carrier<n><pl>$
       1 #Aga\<np\>\<top\>\<sg\>	^Aga<np><top><sg>$
+      1 #administer	^administer$
       1 #Acropolis\<np\>\<top\>\<sg\>	^Acropolis<np><top><sg>$
       1 #ACQUIT\<vblex\>\<pp\>	^ACQUIT<vblex><pp>$
       1 #Acquit\<vblex\>\<pp\>	^Acquit<vblex><pp>$
@@ -6210,5 +6484,5 @@ Summary
 ===============================================================================
      0 /tmp/no-en.multiform
      5 /tmp/no-en.multibidix
-  6186 /tmp/no-en.tagmismatch
-  6191 total
+  6460 /tmp/no-en.tagmismatch
+  6465 total

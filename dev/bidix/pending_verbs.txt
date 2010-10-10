@@ -1,3 +1,4 @@
+  29086 sige<vblex><inf>
   11912 nye<vblex><inf>
    8413 norske<vblex><inf>
    7166 klare<vblex><inf>
@@ -49,11 +50,9 @@
     805 høye<vblex><inf>
     760 områ<vblex><inf>
     756 benytte<vblex><inf>
-    740 presentere<vblex><inf>
     732 kontakte<vblex><inf>
     727 filme<vblex><inf>
     714 manne<vblex><inf>
-    703 kommentere<vblex><inf>
     703 invitere<vblex><inf>
     685 engasjere<vblex><inf>
     684 live<vblex><inf>
@@ -115,7 +114,6 @@
     378 variere<vblex><inf>
     375 avvikle<vblex><inf>
     373 omtale<vblex><inf>
-    372 anta<vblex><inf>
     371 talle<vblex><inf>
     371 imponere<vblex><inf>
     367 plane<vblex><inf>
@@ -151,6 +149,7 @@
     330 eksistere<vblex><inf>
     328 kvalifisere<vblex><inf>
     324 type<vblex><inf>
+    318 lave<vblex><inf>
     316 krige<vblex><inf>
     316 konkludere<vblex><inf>
     313 prege<vblex><inf>
@@ -1673,7 +1672,6 @@
      10 skake<vblex><inf>
      10 separere<vblex><inf>
      10 røkte<vblex><inf>
-     10 rekonstruere<vblex><inf>
      10 rasle<vblex><inf>
      10 range<vblex><inf>
      10 prognosere<vblex><inf>
@@ -1980,7 +1978,6 @@
       7 avreise<vblex><inf>
       7 avbestille<vblex><inf>
       7 auke<vblex><inf>
-      7 animere<vblex><inf>
       7 alkoholisere<vblex><inf>
       7 akselerere<vblex><inf>
       7 absorbere<vblex><inf>
@@ -3322,7 +3319,6 @@
       1 bedekke<vblex><inf>
       1 basunere<vblex><inf>
       1 banalisere<vblex><inf>
-      1 baksnakke<vblex><inf>
       1 bakbinde<vblex><inf>
       1 bable<vblex><inf>
       1 avskjerme<vblex><inf>

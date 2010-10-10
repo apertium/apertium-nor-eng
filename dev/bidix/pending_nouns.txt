@@ -3,7 +3,6 @@
    9170 ^@om<n>$
    8946 ^@trom<n>$
    8586 ^@kan<n>$
-   8198 ^@krone<n>$
    6863 ^@var<n>$
    6847 ^@nå<n>$
    6637 ^@nordlys<n>$
@@ -156,7 +155,6 @@
     521 ^@rune<n>$
     520 ^@verk<n>$
     519 ^@stem<n>$
-    518 ^@bygging<n>$
     513 ^@vant<n>$
     513 ^@fiskeriminister<n>$
     507 ^@sykehjem<n>$
@@ -202,7 +200,6 @@
     416 ^@råd<n><sp>$
     413 ^@sto<n>$
     412 ^@ram<n>$
-    410 ^@unntak<n>$
     405 ^@lage<n>$
     395 ^@medlemskap<n>$
     391 ^@lære<n>$
@@ -216,7 +213,6 @@
     380 ^@bak<n>$
     378 ^@sameting<n>$
     377 ^@komite<n>$
-    377 ^@alkohol<n>$
     375 ^@langrenn<n>$
     374 ^@sikt<n>$
     371 ^@tysker<n>$
@@ -306,7 +302,6 @@
     257 ^@amerikaner<n>$
     257 ^@80-tall<n>$
     254 ^@viking<n>$
-    253 ^@engelsk<n><sp>$
     251 ^@ungdomsskole<n>$
     251 ^@styreformann<n>$
     251 ^@lo<n>$
@@ -561,7 +556,6 @@
     135 ^@krigsveteran<n>$
     135 ^@kafe<n>$
     134 ^@koordinator<n>$
-    134 ^@kontorsjef<n>$
     134 ^@kontant<n>$
     133 ^@kvartett<n>$
     133 ^@islam<n><sp>$
@@ -3885,7 +3879,6 @@
      11 ^@leven<n>$
      11 ^@lensmannsdistrikt<n>$
      11 ^@leirdue<n>$
-     11 ^@latin<n><sp>$
      11 ^@kvant<n>$
      11 ^@kras<n>$
      11 ^@kostpris<n>$
@@ -7805,7 +7798,6 @@
       3 ^@nullføre<n>$
       3 ^@notfiske<n>$
       3 ^@notatblokk<n>$
-      3 ^@norrønt<n><sp>$
       3 ^@nordsamisk<n><sp>$
       3 ^@nonsens<n>$
       3 ^@nøkkeltall<n>$
@@ -8620,7 +8612,6 @@
       2 ^@uroelement<n>$
       2 ^@urfugl<n>$
       2 ^@urfisk<n>$
-      2 ^@urdu<n><sp>$
       2 ^@uppercut<n>$
       2 ^@unytte<n>$
       2 ^@universitetsstipendiat<n>$
@@ -10429,7 +10420,6 @@
       1 ^@utskytingsbase<n>$
       1 ^@utsiktsplass<n>$
       1 ^@utror<n>$
-      1 ^@utrengsmål<n>$
       1 ^@utkik<n>$
       1 ^@utkikkstårn<n>$
       1 ^@utjamningsmandat<n>$
@@ -10444,7 +10434,6 @@
       1 ^@used<n>$
       1 ^@usd<n><sp>$
       1 ^@urtete<n>$
-      1 ^@urspråk<n>$
       1 ^@urmenneske<n>$
       1 ^@urinvegsinfeksjon<n>$
       1 ^@urinveg<n>$
@@ -11339,7 +11328,6 @@
       1 ^@normalitet<n>$
       1 ^@norgesglas<n>$
       1 ^@nordsamisk<n>$
-      1 ^@nordist<n>$
       1 ^@nordisme<n>$
       1 ^@nordhimmel<n>$
       1 ^@nomadefolk<n>$

@@ -1,65 +1,27 @@
-   1811 ^@slik<det><dem>$
+   3033 ^@slik<det><dem>$
    1604 ^@begge<det><qnt>$
-   1477 ^@neste<det><dem><m><sp><def>$
-   1269 ^@de fleste<det><qnt>$
-   1222 ^@slik<det><dem><nt>$
-    945 ^@forrige<det><dem><m><sp><def>$
-    815 ^@ni<det><qnt>$
-    789 ^@hvilken<det><itg>$
-    590 ^@hvilken<det><itg><m>$
-    574 ^@ti<det><qnt>$
     539 ^@samtlige<det><qnt>$
     529 ^@selv<det><emph><def>$
     529 ^@Begge<det><qnt>$
-    459 ^@De fleste<det><qnt>$
     357 ^@hvor mange<det><qnt><unc>$
     349 ^@hvor mange<det><qnt>$
-    302 ^@hvilken<det><itg><nt>$
-    231 ^@en slags<det><qnt><m>$
-    225 ^@syv<det><qnt>$
-    213 ^@Slik<det><dem>$
+    345 ^@Slik<det><dem>$
     206 ^@en eller annen<det><qnt><m>$
     177 ^@halvannen<det><qnt><m>$
-    176 ^@Hvilken<det><itg>$
     149 ^@De<det><pos><p2>$
-    132 ^@Slik<det><dem><nt>$
     129 ^@Samtlige<det><qnt>$
-    128 ^@Hvilken<det><itg><m>$
     124 ^@halvannen<det><qnt><nt>$
      99 ^@Selv<det><emph><def>$
      99 ^@Hvor mange<det><qnt>$
-     92 ^@Ni<det><qnt>$
-     81 ^@en slags<det><qnt><nt>$
      77 ^@en eller annen<det><qnt><nt>$
-     75 ^@Hvilken<det><itg><nt>$
      74 ^@Hvor mange<det><qnt><unc>$
-     70 ^@Forrige<det><dem><m><sp><def>$
-     61 ^@Neste<det><dem><m><sp><def>$
-     44 ^@tyve<det><qnt>$
-     34 ^@tredve<det><qnt>$
-     30 ^@null<det><qnt>$
-     26 ^@Syv<det><qnt>$
-     16 ^@sådan<det><dem>$
-     15 ^@En slags<det><qnt><m>$
-     12 ^@sådan<det><dem><nt>$
-     12 ^@hin<det><dem><nt>$
-     12 ^@en slags<det><qnt>$
+     28 ^@sådan<det><dem>$
      10 ^@selv<det><emph>$
-      9 ^@En slags<det><qnt><nt>$
       9 ^@En eller annen<det><qnt><m>$
-      8 ^@Ti<det><qnt>$
-      6 ^@en slags<det><qnt><f>$
       5 ^@Halvannen<det><qnt><m>$
-      3 ^@Tyve<det><qnt>$
-      3 ^@NI<det><qnt>$
       3 ^@En eller annen<det><qnt><nt>$
       3 ^@en eller annen<det><qnt><f>$
       2 ^@Selv<det><emph>$
-      2 ^@hin<det><dem>$
       2 ^@Halvannen<det><qnt><nt>$
-      1 ^@TI<det><qnt>$
       1 ^@SELV<det><emph><def>$
       1 ^@Sådan<det><dem>$
-      1 ^@NULL<det><qnt>$
-      1 ^@Null<det><qnt>$
-      1 ^@hin<det><dem><m>$

@@ -7,11 +7,9 @@
    2820 ^@videre<adv>$
    2606 ^@lite<adv>$
    2589 ^@stort<adv>$
-   2514 ^@eneste<adv>$
    2161 ^@spesielt<adv>$
    1772 ^@særlig<adv>$
    1708 ^@full<adv>$
-   1576 ^@enda<adv>$
    1523 ^@sjøl<adv>$
    1466 ^@rett<adv>$
    1446 ^@senere<adv>$
@@ -27,7 +25,6 @@
     858 ^@spennende<adv>$
     767 ^@an<adv>$
     728 ^@dessverre<adv>$
-    610 ^@sånn<adv>$
     530 ^@tusen<adv>$
     520 ^@fullstendig<adv>$
     517 ^@i stand<adv>$
@@ -48,7 +45,6 @@
     303 ^@noen gang<adv>$
     295 ^@høyst<adv>$
     282 ^@henholdsvis<adv>$
-    258 ^@vanligvis<adv>$
     255 ^@tydeligvis<adv>$
     240 ^@nødvendigvis<adv>$
     237 ^@noensinne<adv>$
