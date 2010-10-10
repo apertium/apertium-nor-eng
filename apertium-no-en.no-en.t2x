@@ -20,6 +20,12 @@
       <attr-item tags="nt"/>
       <attr-item tags="GD"/>
     </def-attr>
+    <def-attr n="pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
+    </def-attr>
     <def-attr n="nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
@@ -45,6 +51,43 @@
             <clip pos="1" part="lem"/>
             <clip pos="1" part="tags"/>
             <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SN SV">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <action>
+        <choose><when>
+          <test><and>
+            <not><equal><clip pos="1" part="nbr"/><lit-tag v="pl"/></equal></not>
+            <not><equal><clip pos="1" part="pers"/><lit-tag v="p1"/></equal></not>
+            <not><equal><clip pos="1" part="pers"/><lit-tag v="p2"/></equal></not>
+          </and></test>
+          <let>
+            <clip pos="2" part="tags"/>
+            <concat>
+              <clip pos="2" part="tags"/>
+              <lit-tag v="p3"/>
+              <lit-tag v="sg"/>
+            </concat>
+          </let>
+        </when></choose>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
           </chunk>
         </out>
       </action>

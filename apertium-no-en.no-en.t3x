@@ -6,6 +6,9 @@
     <def-cat n="PD">
       <cat-item name="v_PD"/>
     </def-cat>
+    <def-cat n="v">
+      <cat-item name="v"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -14,6 +17,12 @@
       <attr-item tags="p2"/>
       <attr-item tags="p3"/>
       <attr-item tags="PD"/>
+    </def-attr>
+    <def-attr n="nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+      <attr-item tags="sp"/>
+      <attr-item tags="ND"/>
     </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
@@ -43,6 +52,49 @@
             <let>
               <clip pos="1" part="pers"/>
               <lit-tag v="p3"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <lu>
+            <clip pos="1" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="CHUNK: v">
+      <pattern>
+        <pattern-item n="v"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test><and>
+              <equal>
+                <clip pos="0" part="pers"/>
+                <lit-tag v="p3"/>
+              </equal>
+              <equal>
+                <clip pos="0" part="nbr"/>
+                <lit-tag v="sg"/>
+              </equal>
+              <equal>
+                <clip pos="1" part="pers"/>
+                <lit v=""/>
+              </equal>
+              <equal>
+                <clip pos="1" part="nbr"/>
+                <lit v=""/>
+              </equal>
+            </and></test>
+            <let>
+              <clip pos="1" part="tags"/>
+              <concat>
+                <clip pos="1" part="tags"/>
+                <clip pos="0" part="pers"/>
+                <clip pos="0" part="nbr"/>
+              </concat>
             </let>
           </when>
         </choose>
