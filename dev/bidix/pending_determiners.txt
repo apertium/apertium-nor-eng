@@ -1,27 +1,4 @@
    3033 ^@slik<det><dem>$
-   1604 ^@begge<det><qnt>$
-    539 ^@samtlige<det><qnt>$
-    529 ^@selv<det><emph><def>$
-    529 ^@Begge<det><qnt>$
-    357 ^@hvor mange<det><qnt><unc>$
-    349 ^@hvor mange<det><qnt>$
     345 ^@Slik<det><dem>$
-    206 ^@en eller annen<det><qnt><m>$
-    177 ^@halvannen<det><qnt><m>$
-    149 ^@De<det><pos><p2>$
-    129 ^@Samtlige<det><qnt>$
-    124 ^@halvannen<det><qnt><nt>$
-     99 ^@Selv<det><emph><def>$
-     99 ^@Hvor mange<det><qnt>$
-     77 ^@en eller annen<det><qnt><nt>$
-     74 ^@Hvor mange<det><qnt><unc>$
-     28 ^@sådan<det><dem>$
-     10 ^@selv<det><emph>$
-      9 ^@En eller annen<det><qnt><m>$
-      5 ^@Halvannen<det><qnt><m>$
-      3 ^@En eller annen<det><qnt><nt>$
-      3 ^@en eller annen<det><qnt><f>$
-      2 ^@Selv<det><emph>$
-      2 ^@Halvannen<det><qnt><nt>$
-      1 ^@SELV<det><emph><def>$
-      1 ^@Sådan<det><dem>$
+    286 ^@en eller annen<det><qnt>$
+     12 ^@En eller annen<det><qnt>$

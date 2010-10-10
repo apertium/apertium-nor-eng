@@ -316,7 +316,6 @@
     120 ^@berømt<adj>$
     119 ^@uavgjort<adj>$
     119 ^@bærekraftig<adj>$
-    118 ^@humanitær<adj>$
     118 ^@faktisk<adj>$
     117 ^@spesial<adj>$
     117 ^@serbisk<adj>$
@@ -392,7 +391,6 @@
      88 ^@grusom<adj>$
      88 ^@billig<adj><sup>$
      88 ^@avdød<adj>$
-     87 ^@tidlig<adj><sup>$
      87 ^@teoretisk<adj>$
      87 ^@svak<adj><sup>$
      87 ^@kontinuerlig<adj>$
@@ -665,7 +663,6 @@
      38 ^@kroatisk<adj>$
      38 ^@bortreist<adj>$
      37 ^@tiltrengt<adj>$
-     37 ^@tidlig<adj>$
      37 ^@skjebnesvanger<adj>$
      37 ^@skifte<adj>$
      37 ^@sindig<adj>$

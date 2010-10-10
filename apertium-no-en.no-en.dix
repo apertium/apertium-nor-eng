@@ -93,6 +93,11 @@
       <e> <p><l><s n="m"/></l>	<r></r></p></e>
       <e r="LR"><p><l><s n="f"/></l>	<r></r></p></e>
     </pardef>
+    <pardef n="sp_sg">
+      <e r="LR"> <p><l><s n="sp"/></l>	<r><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="sp"/></l>	<r><s n="sg"/></r></p></e>
+    </pardef>
+
     <pardef n="qnt_num">
       <e r="LR"> <p><l><s n="sg"/></l>	<r></r></p></e>
       <e r="LR"><p><l><s n="pl"/></l>	<r></r></p></e>
@@ -372,6 +377,7 @@
     <e><p><l>samtlige<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>hvor<b/>mange<s n="det"/><s n="qnt"/></l><r>how<b/>many<s n="det"/><s n="itg"/></r></p></e>
     <e><p><l>sådan<s n="det"/><s n="dem"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>slik<s n="det"/><s n="dem"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>slik<s n="det"/><s n="qnt"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>halvannen<s n="det"/><s n="qnt"/></l><r>one<b/>and<b/>a<b/>half<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>begge<s n="det"/><s n="qnt"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
@@ -380,6 +386,7 @@
     <e><p><l>hin<s n="det"/><s n="dem"/></l><r>the<b/>other<s n="det"/><s n="dem"/></r></p></e>
 
     <e><p><l>en<b/>slags<s n="det"/><s n="qnt"/></l><r>a<b/>kind<b/>of<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>en<b/>eller<b/>annen<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
 
     <e><p><l>selv<s n="det"/><s n="emph"/></l><r>self<s n="prn"/><s n="ref"/><s n="PD"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>egen<s n="det"/><s n="emph"/></l><r>own<s n="adj"/></r></p><par n="dem_dem"/></e>
@@ -1630,9 +1637,9 @@
 <e>        <p><l>engasjement<s n="n"/><s n="nt"/></l><r>involvement<s n="n"/></r></p></e>
 <e slr="1"><p><l>engasjement<s n="n"/><s n="nt"/></l><r>engagement<s n="n"/></r></p></e>
 <e>        <p><l>engel<s n="n"/><s n="m"/></l><r>angel<s n="n"/></r></p></e>
-<e>        <p><l>latin<s n="n"/><s n="nt"/></l><r>Latin<s n="n"/></r></p></e>
-<e>        <p><l>engelsk<s n="n"/><s n="nt"/></l><r>English<s n="n"/></r></p></e>
-<e>        <p><l>gammelengelsk<s n="n"/><s n="nt"/></l><r>Old<b/>English<s n="n"/></r></p></e>
+<e>        <p><l>latin<s n="n"/><s n="nt"/></l><r>Latin<s n="n"/></r></p><par n="sp_sg"/></e>
+<e>        <p><l>engelsk<s n="n"/><s n="nt"/></l><r>English<s n="n"/></r></p><par n="sp_sg"/></e>
+<e>        <p><l>gammelengelsk<s n="n"/><s n="nt"/></l><r>Old<b/>English<s n="n"/></r></p><par n="sp_sg"/></e>
 <e>        <p><l>enhet<s n="n"/><s n="m"/></l><r>unit<s n="n"/></r></p></e>
 <e slr="1"><p><l>enhet<s n="n"/><s n="m"/></l><r>unity<s n="n"/></r></p></e>
 <e>        <p><l>enighet<s n="n"/></l>       <r>agreement<s n="n"/></r></p><par n="m_LR_f"/></e>
@@ -4331,11 +4338,11 @@
 <e slr="2"><p><l>nivå<s n="n"/><s n="nt"/></l><r>niveau<s n="n"/></r></p></e>
 <e>        <p><l>nominasjon<s n="n"/><s n="m"/></l><r>nomination<s n="n"/></r></p></e>
 <e>        <p><l>nord<s n="n"/><s n="m"/></l><r>north<s n="n"/></r></p></e>
-<e>        <p><l>nordist<s n="n"/><s n="m"/></l><r>nordist<s n="n"/></r></p></e>
+<e>        <p><l>nordist<s n="n"/><s n="m"/></l><r>nordicist<s n="n"/></r></p></e>
 <e>        <p><l>romanist<s n="n"/><s n="m"/></l><r>romanist<s n="n"/></r></p></e>
-<e>        <p><l>slavist<s n="n"/><s n="m"/></l><r>slavicist<s n="n"/></r></p></e>
-<e>        <p><l>nordisk<s n="n"/><s n="m"/></l><r>Norse<s n="n"/></r></p></e>
-<e>        <p><l>urnordisk<s n="n"/><s n="m"/></l><r>Proto-Norse<s n="n"/></r></p></e>
+<e>        <p><l>slavist<s n="n"/><s n="m"/></l><r>slavist<s n="n"/></r></p></e>
+<e>        <p><l>nordisk<s n="n"/><s n="m"/></l><r>Norse<s n="n"/></r></p><par n="sp_sg"/></e>
+<e>        <p><l>urnordisk<s n="n"/><s n="m"/></l><r>Proto-Norse<s n="n"/></r></p><par n="sp_sg"/></e>
 <e>        <p><l>urdu<s n="n"/><s n="nt"/></l><r>Urdu<s n="n"/></r></p></e>
 <e>        <p><l>norm<s n="n"/><s n="m"/></l><r>norm<s n="n"/></r></p></e>
 <e slr="1"><p><l>norm<s n="n"/><s n="m"/></l><r>standard<s n="n"/></r></p></e>
@@ -7416,6 +7423,57 @@
 <e c="  0"><p><l>professor<s n="n"/><s n="m"/></l><r>professor<s n="n"/><s n="m"/></r></p></e>
 <e c="  0"><p><l>kunstner<s n="n"/><s n="m"/></l><r>artist<s n="n"/><s n="m"/></r></p></e>
 <e c="  0"><p><l>kompetanse<s n="n"/><s n="m"/></l><r>competence<s n="n"/><s n="m"/></r></p></e>
+
+<e c="  0"><p><l>km<s n="n"/><s n="nt"/></l><r>km<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>konklusjon<s n="n"/><s n="m"/></l><r>conclusion<s n="n"/><s n="m"/></r></p></e>
+<e slr="1"><p><l>konklusjon<s n="n"/><s n="m"/></l><r>summary<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>tunnel<s n="n"/><s n="m"/></l><r>tunnel<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>artist<s n="n"/><s n="m"/></l><r>artist<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>argument<s n="n"/><s n="nt"/></l><r>argument<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>realitet<s n="n"/><s n="m"/></l><r>reality<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>høyskole<s n="n"/><s n="m"/></l><r>college<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>ram<s n="n"/><s n="m"/></l><r>ram<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>verdenscup<s n="n"/><s n="m"/></l><r>World<b/>cup<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>sameting<s n="n"/><s n="nt"/></l><r>Sámi<b/>parliament<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>tysker<s n="n"/><s n="m"/></l><r>Germans<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>veteran<s n="n"/><s n="m"/></l><r>veteran<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>menighet<s n="n"/><s n="m"/></l><r>congregation<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>statsbudsjett<s n="n"/><s n="nt"/></l><r>state<b/>budget<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>album<s n="n"/><s n="nt"/></l><r>album<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>omsetning<s n="n"/><s n="m"/></l><r>revenue<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>service<s n="n"/><s n="m"/></l><r>service<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>konkurs<s n="n"/><s n="m"/></l><r>bankruptcy<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>svensk<s n="n"/><s n="m"/></l><r>Swedish<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>finsk<s n="n"/><s n="m"/></l><r>Finnish<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>setter<s n="n"/><s n="m"/></l><r>setter<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>påske<s n="n"/><s n="m"/></l><r>Easter<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>line<s n="n"/><s n="m"/></l><r>line<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>regionsykehus<s n="n"/><s n="nt"/></l><r>regional<b/>hospital<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>strategi<s n="n"/><s n="m"/></l><r>strategy<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>statsråd<s n="n"/><s n="m"/></l><r>council<g><b/>of<b/>state</g><s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>nord<s n="n"/><s n="m"/></l><r>north<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>papir<s n="n"/><s n="nt"/></l><r>paper<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>lån<s n="n"/><s n="m"/></l><r>loan<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>fant<s n="n"/><s n="m"/></l><r>vagrancy<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>sør<s n="n"/><s n="m"/></l><r>south<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>trio<s n="n"/><s n="m"/></l><r>trio<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>debut<s n="n"/><s n="m"/></l><r>debut<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>pressekonferanse<s n="n"/><s n="m"/></l><r>press<b/>conference<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>helikopter<s n="n"/><s n="nt"/></l><r>helicopter<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>tamil<s n="n"/><s n="m"/></l><r>Tamil<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>pris<s n="n"/><s n="m"/></l><r>price<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>karriere<s n="n"/><s n="m"/></l><r>career<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>dagsorden<s n="n"/><s n="m"/></l><r>agenda<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>amerikaner<s n="n"/><s n="m"/></l><r>American<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>viking<s n="n"/><s n="m"/></l><r>viking<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>styreformann<s n="n"/><s n="m"/></l><r>chairman<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>justisdepartement<s n="n"/><s n="nt"/></l><r>justice<b/>department<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>rødt<s n="n"/><s n="nt"/></l><r>red<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>prelat<s n="n"/><s n="m"/></l><r>prelate<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>barnevern<s n="n"/><s n="nt"/></l><r>child<b/>protection<s n="n"/><s n="nt"/></r></p></e>
+<e c="  0"><p><l>faksimile<s n="n"/><s n="m"/></l><r>facsimile<s n="n"/><s n="m"/></r></p></e>
+<e c="  0"><p><l>styreleder<s n="n"/><s n="m"/></l><r>chairman<s n="n"/><s n="m"/></r></p></e>
+
 
 
     <!-- Proper nouns -->

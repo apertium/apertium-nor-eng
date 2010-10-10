@@ -1,4 +1,3 @@
-   5775 ^@blant<pr>$
    5570 ^@der<pr>$
    4290 ^@her<pr>$
    3422 ^@inn i<pr>$
@@ -22,7 +21,6 @@
     501 ^@inn til<pr>$
     481 ^@nede<pr>$
     478 ^@opp mot<pr>$
-    407 ^@innom<pr>$
     364 ^@på vegne av<pr>$
     337 ^@dit<pr>$
     323 ^@hjemme<pr>$

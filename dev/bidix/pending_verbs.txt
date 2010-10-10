@@ -812,7 +812,6 @@
      39 pose<vblex><inf>
      39 legitimere<vblex><inf>
      39 ivre<vblex><inf>
-     39 ele<vblex><inf>
      39 disiplinere<vblex><inf>
      39 delegere<vblex><inf>
      39 avtjene<vblex><inf>
@@ -869,6 +868,7 @@
      35 funksjonere<vblex><inf>
      35 fenge<vblex><inf>
      35 etterleve<vblex><inf>
+     35 ele<vblex><inf>
      35 diktere<vblex><inf>
      35 applaudere<vblex><inf>
      34 versere<vblex><inf>
