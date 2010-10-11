@@ -9325,9 +9325,64 @@
     <!-- SECTION Proper nouns, unchecked -->
 
     <e><p><l>St<s n="np"/></l><r>St<s n="abbr"/></r></p></e>
+    <e><p><l>NRK<s n="np"/></l><r>NRK<s n="abbr"/></r></p></e>
+    <e><p><l>NTB<s n="np"/></l><r>NTB<s n="abbr"/></r></p></e>
+    <e><p><l>IBM<s n="np"/></l><r>IBM<s n="abbr"/></r></p></e>
+    <e><p><l>KGB<s n="np"/></l><r>KGB<s n="abbr"/></r></p></e>
+    <e><p><l>PLO<s n="np"/></l><r>PLO<s n="abbr"/></r></p></e>
+    <e><p><l>ILO<s n="np"/></l><r>ILO<s n="abbr"/></r></p></e>
+    <e><p><l>BBC<s n="np"/></l><r>BBC<s n="abbr"/></r></p></e>
+    <e><p><l>FBI<s n="np"/></l><r>FBI<s n="abbr"/></r></p></e>
+    <e><p><l>CIA<s n="np"/></l><r>CIA<s n="abbr"/></r></p></e>
+    <e><p><l>DDR<s n="np"/></l><r>DDR<s n="abbr"/></r></p></e>
+    <e><p><l>IRA<s n="np"/></l><r>IRA<s n="abbr"/></r></p></e>
+
     <e><p><l>Gud<s n="np"/></l><r>God<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Wikipedia<s n="np"/></l><r>Wikipedia<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Stortinget<s n="np"/><s n="nt"/></l><r>Parliament<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+
+    <e><p><l>Aarstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Alstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Alvestad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Aulestad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Barstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Bjørnstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Bolstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Brustad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Elstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Erstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Farstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Filipstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Finstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Fjeldstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Fjellstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Fremstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Hafstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Halmstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Haugstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Hofstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Holstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Jørstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Kjærstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Kolstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Krogstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Lindstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Løvstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Lystad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Ofstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Olstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Ramstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Reistad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Ringstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Rognstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Rostad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Røstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Rustad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Saupstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Skogstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Solstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Tronstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+
 
     <e><p><l>Norge<s n="np"/><s n="top"/></l><r>Norway<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Israel<s n="np"/></l><r>Israel<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -18233,6 +18288,383 @@
     <e c="  0"><p><l>etablere</l><r>establish<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>ekskommunisere</l><r>excommunicate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
+    <e c="  0"><p><l>representere</l><r>represent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>arrangere</l><r>arrange<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>prioritere</l><r>prioritise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>registrere</l><r>register<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>organisere</l><r>organise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>akseptere</l><r>accept<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>basere</l><r>base<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kontrollere</l><r>control<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>operere</l><r>operate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kritisere</l><r>criticise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kombinere</l><r>combine<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kampere</l><r>camp<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>finansiere</l><r>finance<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skolere</l><r>school<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>karakterisere</l><r>characterise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>konsentrere</l><r>concentrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dokumentere</l><r>document<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>informere</l><r>inform<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>garantere</l><r>guarantee<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>involvere</l><r>involve<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>investere</l><r>invest<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>gradere</l><r>grade<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>argumentere</l><r>argue<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>realisere</l><r>realise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fokusere</l><r>focus<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>definere</l><r>define<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>premiere</l><r>premiere<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>resultere</l><r>result<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>signalisere</l><r>signal<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>signere</l><r>sign<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>signalere</l><r>signal<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>notere</l><r>note<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>eksportere</l><r>export<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>praktisere</l><r>practise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avansere</l><r>avanse<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>nominere</l><r>nominate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>importere</l><r>import<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>budsjettere</l><r>budget<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>detaljere</l><r>detail<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>rekruttere</l><r>recruit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>referere</l><r>referee<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>analysere</l><r>analyse<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>subsidiere</l><r>subsidise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>spekulere</l><r>speculate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>mobilisere</l><r>mobilise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>partere</l><r>part<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>annonsere</l><r>announce<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>posisjonere</l><r>position<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>desentralisere</l><r>decentralise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>halvere</l><r>halve<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>oppdatere</l><r>update<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>reservere</l><r>reserve<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>profilere</l><r>profile<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>formulere</l><r>formulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sortere</l><r>sort<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>okkupere</l><r>occupy<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>privatisere</l><r>privatise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>appellere</l><r>call<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>returnere</l><r>return<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lokalisere</l><r>localise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>restaurere</l><r>restore<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>identifisere</l><r>identify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>pensjonere</l><r>pension<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>konfrontere</l><r>confront<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>nedprioritere</l><r>deprioritise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forsere</l><r>force<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>integrere</l><r>integrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>spesialisere</l><r>specialise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>evakuere</l><r>evacuate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>stasjonere</l><r>station<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>reklamere</l><r>advertise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>evaluere</l><r>evaluate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>permittere</l><r>permit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>prosjektere</l><r>project<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>installere</l><r>install<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>suspendere</l><r>suspend<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>proklamere</l><r>proclaim<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>assosiere</l><r>associate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>modernisere</l><r>modernise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>improvisere</l><r>improvise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>eksperimentere</l><r>experiment<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>distansere</l><r>distance<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ratifisere</l><r>ratify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>korrigere</l><r>correct<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kalkulere</l><r>calculate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>gruppere</l><r>group<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>distribuere</l><r>distribute<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>introdusere</l><r>introduce<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>telefonere</l><r>telephone<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>symbolisere</l><r>symbolise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>disiplinere</l><r>dicipline<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>delegere</l><r>delegate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>aktualisere</l><r>update<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>reformere</l><r>reform<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>publisere</l><r>publicise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>motorisere</l><r>motorise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>funksjonere</l><r>function<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>transportere</l><r>transport<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>modellere</l><r>model<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>diktere</l><r>dictate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>applaudere</l><r>applaud<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>akkompagnere</l><r>accompany<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sponsorere</l><r>sponsor<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>differensiere</l><r>differenciate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>datere</l><r>date<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fabrikkere</l><r>fabricate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>programmere</l><r>programme<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>neglisjere</l><r>neglect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>prosedere</l><r>proceed<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
+    <e c="  0"><p><l>tolerere</l><r>tolerate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>rekvirere</l><r>require<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>legalisere</l><r>legalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>gardere</l><r>guard<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>relatere</l><r>relate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>klassifisere</l><r>classify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>auksjonere</l><r>auction<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>stagnere</l><r>stagnate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>spesifisere</l><r>specify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ekspropriere</l><r>expropriate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>insistere</l><r>insist<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>resirkulere</l><r>recirculate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kriminalisere</l><r>criminalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dekorere</l><r>decorate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sivilisere</l><r>civilise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sanksjonere</l><r>sanction<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>invadere</l><r>invade<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>harmonere</l><r>harmonise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ekspedere</l><r>expedite<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>amputere</l><r>amputate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>oppgradere</l><r>upgrade<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>preparere</l><r>prepare<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>møblere</l><r>furnish<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>massakrere</l><r>massacre<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>manøvrere</l><r>manoeuvre<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kreditere</l><r>credit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kapitulere</l><r>capitulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dramatisere</l><r>dramatise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>bombardere</l><r>bombard<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>adoptere</l><r>adopt<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>refundere</l><r>refund<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>patruljere</l><r>patrol<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>minimalisere</l><r>minimalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>influere</l><r>influence<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fusjonere</l><r>fusion<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fullfinansiere</l><r>fully<b/>finance<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>formalisere</l><r>formalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>autorisere</l><r>authorise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>strukturere</l><r>structure<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>stipulere</l><r>stipulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>prosessere</l><r>process<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>industrialisere</l><r>industrialise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>flankere</l><r>flank<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>adressere</l><r>address<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>vitalisere</l><r>vitalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sympatisere</l><r>sympathise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>resignere</l><r>resign<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>moderere</l><r>moderate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>konsumere</l><r>consume<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kondemnere</l><r>condemn<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>eskortere</l><r>escort<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avertere</l><r>avert<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>abortere</l><r>abort<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>renovere</l><r>renovate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>rasjonalisere</l><r>rationalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>pulverisere</l><r>pulverise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kulminere</l><r>culminate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kommandere</l><r>command<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>finere</l><r>fine<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>arkivere</l><r>archive<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>refusere</l><r>refuse<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>konfirmere</l><r>confirm<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>insinuere</l><r>insinuate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>annullere</l><r>annul<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>vaksinere</l><r>vaccinate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sertifisere</l><r>certify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sementere</l><r>cement<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kommersialisere</l><r>commercialise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>eliminere</l><r>eliminate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>desillusjonere</l><r>disillusion<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>akkumulere</l><r>accumulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>koreografere</l><r>choreograph<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kansellere</l><r>cancel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>inkorporere</l><r>incorporate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sirkulere</l><r>circle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>pilotere</l><r>pilot<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>konferere</l><r>confer<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ignorere</l><r>ignore<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>filmatisere</l><r>film<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>destruere</l><r>destroy<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>stigmatisere</l><r>stigmatise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>separere</l><r>separate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>prognosere</l><r>prognose<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>profittere</l><r>profit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>desertere</l><r>desert<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>akkreditere</l><r>accredit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>verifisere</l><r>verify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>standardisere</l><r>standardise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>pausere</l><r>pause<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kultivere</l><r>cultivate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>effektuere</l><r>effect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>votere</l><r>vote<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>terrorisere</l><r>terrorise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>seksjonere</l><r>section<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>restituere</l><r>restitute<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>overdramatisere</l><r>overdramatise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>nøytralisere</l><r>neutralise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>maskere</l><r>mask<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>konsolidere</l><r>consolidatee<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>katalogisere</l><r>catalogue<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>imitere</l><r>immitate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>diagnostisere</l><r>diagnose<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>reorganisere</l><r>reorganise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>raffinere</l><r>refine<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>modifisere</l><r>modify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>materialisere</l><r>materialise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>liberalisere</l><r>liberalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>konvertere</l><r>convert<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>frekventere</l><r>frequent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>disputere</l><r>dispute<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>patentere</l><r>patent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>parodiere</l><r>parody<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>manifestere</l><r>manifest<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>deportere</l><r>deport<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>demokratisere</l><r>democratise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>bandasjere</l><r>bandage<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>underminere</l><r>undermine<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sentrere</l><r>centre<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>reversere</l><r>reverse<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>rasjonere</l><r>ration<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>proporsjonere</l><r>proportion<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>profesjonalisere</l><r>professionalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>postere</l><r>post<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>posere</l><r>pose<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>popularisere</l><r>popularise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>maltraktere</l><r>maltreat<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kategorisere</l><r>categorise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>institusjonalisere</l><r>institutionalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>generere</l><r>generate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>emigrere</l><r>emigrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dispensere</l><r>dispense<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>digitalisere</l><r>digitalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>barrikadere</l><r>barricade<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>assimilere</l><r>assimilate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>artikulere</l><r>articulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>visualisere</l><r>visualise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>underrepresentere</l><r>underrepresent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>transplantere</l><r>transplant<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>temperere</l><r>temper<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>systematisere</l><r>systematise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>saluttere</l><r>salute<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>revitalisere</l><r>revitalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>renominere</l><r>renominate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>refinansiere</l><r>refinance<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>pretendere</l><r>pretend<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>parfymere</l><r>perfume<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>paralysere</l><r>paralyse<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>økonomisere</l><r>economise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>militarisere</l><r>militarise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>masseprodusere</l><r>massproduce<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>intervenere</l><r>intervene<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>injuriere</l><r>injure<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>individualisere</l><r>individualise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>galvanisere</l><r>galvanise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>eksemplifisere</l><r>exemplify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>distrahere</l><r>distract<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>automatisere</l><r>automate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>armere</l><r>arm<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>amerikanisere</l><r>americanise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>alternere</l><r>alternate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>aktivere</l><r>activate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>urbanisere</l><r>urbanise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>synkronisere</l><r>synchronise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>stensilere</l><r>stencil<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skandalisere</l><r>scandalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>simulere</l><r>simulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sekularisere</l><r>secularise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>segmentere</l><r>segment<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
+    <e c="  0"><p><l>reengasjere</l><r>reengage<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>priviligere</l><r>priviledge<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>predikere</l><r>predict<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>polemisere</l><r>polemicise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>piruettere</l><r>piruette<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>paradere</l><r>parade<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>nedgradere</l><r>downgrade<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>mekanisere</l><r>mechanise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>konversere</l><r>converse<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kompostere</l><r>compost<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kanonisere</l><r>canonise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>internere</l><r>intern<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>internasjonalisere</l><r>internationalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>hyperventilere</l><r>hyperventilate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>harpunere</l><r>harpoon<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fragmentere</l><r>fragment<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fiksere</l><r>fix<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>estimere</l><r>estimate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>diskreditere</l><r>discredit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>devaluere</l><r>devalue<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>demoralisere</l><r>demoralise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>deformere</l><r>deform<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>anonymisere</l><r>anonymise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>affektere</l><r>affect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>terminere</l><r>terminate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>seksualisere</l><r>sexualise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>romantisere</l><r>romanticise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>reprodusere</l><r>reproduce<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>reformulere</l><r>reformulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>promovere</l><r>promote<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>polarisere</l><r>polarise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>pervertere</l><r>pervert<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>overprodusere</l><r>overproduce<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>mortifisere</l><r>mortify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>matrikulere</l><r>register<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>komplementere</l><r>complement<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kolonisere</l><r>colonise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>koagulere</l><r>coagulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kausjonere</l><r>caution<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>invalidisere</l><r>invalidate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>impregnere</l><r>impregnate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>idealisere</l><r>idealise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>humanisere</l><r>humanise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>filtrere</l><r>filter<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>elektrifisere</l><r>electrify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>destabilisere</l><r>destabilise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>demilitarisere</l><r>demilitarise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>brutalisere</l><r>brutalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>applikere</l><r>apply<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>vulgarisere</l><r>vulgarise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>visitere</l><r>visit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>understimulere</l><r>understimulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>trivialisere</l><r>trivialise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>transformere</l><r>transform<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tradere</l><r>trade<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>subvensjonere</l><r>subsidise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>subtrahere</l><r>subtract<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>selektere</l><r>select<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>røntgenfotografere</l><r>x-ray<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>resonere</l><r>resonate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>rebellere</l><r>rebel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>radikalisere</l><r>radicalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>penetrere</l><r>penetrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>parafrasere</l><r>paraphrase<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>palatalisere</l><r>palatalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>overinvestere</l><r>overinvest<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>orkestrere</l><r>orchestrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>naturalisere</l><r>naturalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>nasjonalisere</l><r>nationalise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>monopolisere</l><r>monopolise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>minimere</l><r>minimise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>maksimere</l><r>maximise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lobotomere</l><r>lobotomise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lisensiere</l><r>license<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kvantifisere</l><r>quantify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>korrodere</l><r>corrode<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>konspirere</l><r>conspire<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kondisjonere</l><r>condition<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kondensere</l><r>condense<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>komplimentere</l><r>compliment<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kolorere</l><r>colour<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kolonialisere</l><r>colonise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>interpellere</l><r>interpolate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>intendere</l><r>intend<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>implantere</l><r>implant<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>immigrere</l><r>immigrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>illuminere</l><r>illuminate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fotokopiere</l><r>photocopy<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>etikettere</l><r>tag<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>eksaminere</l><r>examine<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dividere</l><r>divide<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dissekere</l><r>dissect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>desorientere</l><r>disorientate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>deregulere</l><r>deregulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>degenerere</l><r>degenerate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>arrivere</l><r>arrive<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>allokere</l><r>allocate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>agitere</l><r>agitate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
  
     <!-- SECTION: Interjections -->
 
