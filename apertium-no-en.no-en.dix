@@ -143,10 +143,14 @@
     <e><p><l>så<s n="cnjcoo"/></l><r>so<s n="cnjadv"/></r></p></e>
     <e><p><l>samt<s n="cnjcoo"/></l><r>and<s n="cnjadv"/></r></p></e>
     <e><p><l>for<s n="cnjcoo"/></l><r>for<s n="cnjadv"/></r></p></e>
+    <e><p><l>og<b/>at<s n="cnjcoo"/></l><r>and<b/>that<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>der<s n="cnjsub"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>hvor<s n="cnjsub"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>dersom<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e><p><l>selv<b/>om<s n="cnjsub"/></l><r>even<b/>though<s n="cnjadv"/></r></p></e>
+    <e><p><l>for<b/>at<s n="cnjsub"/></l><r>so<b/>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>for<b/>å<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
     <e><p><l>mens<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
     <e><p><l>ettersom<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>enten<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
