@@ -15429,7 +15429,7 @@
 <e c="  0"><p><l>administrere</l><r>manage<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>tilfredsstille</l><r>satisfy<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>imponere</l><r>impress<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>assistere</l><r>assisting<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>assistere</l><r>assist<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>streike</l><r>strike<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>likne</l><r>*resemble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>forebygge</l><r>prevent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -15556,7 +15556,7 @@
 <e slr="1"><p><l>beligge</l><r>lie<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>avklare</l><r>clarify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>vingle</l><r>*wobble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>unnvike</l><r>*dodging<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>unnvike</l><r>*dodge<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>tiltrekke</l><r>attract<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>slurve</l><r>*scamp<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>særprege</l><r>characterise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -15772,7 +15772,7 @@
 <e slr="1"><p><l>harselere</l><r>fun<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- are you funning with me? -->
 <e c="  0"><p><l>gufse</l><r>*gust<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>frastøte</l><r>repel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>frappere</l><r>striking<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>frappere</l><r>strike<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e r="LR" c="  0"><p><l>fotografere</l><r>shoot<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>fotografere</l><r>photograph<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>forverre</l><r>worsen<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -15998,8 +15998,8 @@
 <e c="  0"><p><l>dunke</l><r>knock<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>drønne</l><r>*boom<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>diskvalifisere</l><r>disqualify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>dirigere</l><r>directing<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>demotivere</l><r>*demotivating<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>dirigere</l><r>direct<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>demotivere</l><r>*demotivate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>deise</l><r>*flop<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>degradere</l><r>degrade<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>debattere</l><r>debate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -16469,7 +16469,6 @@
 <e slr="2"><p><l>pipe</l><r>squeak<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>piske</l><r>flog<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>piske</l><r>lash<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e slr="2"><p><l>piske</l><r>flogging<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>pleie</l><r>tend<g><b/>to</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>pleie</l><r>tend<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="2"><p><l>pleie</l><r>care<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
