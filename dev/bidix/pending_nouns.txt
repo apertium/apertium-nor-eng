@@ -549,7 +549,6 @@
      86 ^@pott<n>$
      86 ^@overkant<n>$
      86 ^@kris<n>$
-     86 ^@betegnelse<n>$
      86 ^@årrekke<n>$
      85 ^@styrt<n>$
      85 ^@lede<n>$
@@ -4602,7 +4601,6 @@
       5 ^@kontorplass<n>$
       5 ^@konfliktsituasjon<n>$
       5 ^@kondis<n>$
-      5 ^@kompleksitet<n>$
       5 ^@kommisjonær<n>$
       5 ^@kolos<n>$
       5 ^@kolonialbutikk<n>$

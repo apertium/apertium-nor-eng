@@ -1,77 +1,53 @@
-   3496 ^@Bjørn<np>$
    2615 ^@SV<np>$
-   1925 ^@Kjell<np>$
-   1779 ^@Tor<np>$
    1624 ^@Sp<np>$
-   1606 ^@Morten<np>$
-   1502 ^@Arne<np>$
    1459 ^@Helge<np>$
-   1297 ^@Harald<np>$
-   1192 ^@NTB<np>$
-   1189 ^@Egil<np>$
-   1135 ^@Svein<np>$
    1134 ^@Are<np>$
    1131 ^@Terje<np>$
-   1113 ^@Trond<np>$
    1090 ^@Odd<np>$
-   1088 ^@NRK<np>$
    1066 ^@KrF<np>$
    1064 ^@Leif<np>$
    1059 ^@Geir<np>$
    1047 ^@Steinar<np>$
-   1030 ^@Sigurd<np>$
     955 ^@Senterpartiet<np>$
     932 ^@Ragnhild<np>$
     923 ^@Frp<np>$
-    899 ^@Øystein<np>$
     892 ^@Senja<np>$
     799 ^@FN<np>$
     777 ^@Nils<np>$
     765 ^@Inge<np>$
     740 ^@RV<np>$
     728 ^@Rian<np>$
-    721 ^@Børre<np>$
     702 ^@Petter<np>$
-    699 ^@Ivar<np>$
     689 ^@Telenor<np>$
     656 ^@Mogård<np>$
     624 ^@Bjarte<np>$
     604 ^@Yngve<np>$
-    590 ^@Olav<np>$
     588 ^@Marit<np>$
     586 ^@Solheim<np>$
     586 ^@NHO<np>$
     566 ^@Åge<np>$
-    543 ^@Jens<np>$
     535 ^@Lundberg<np><top>$
-    531 ^@Anders<np>$
     521 ^@Lindstrøm<np>$
     517 ^@TV<np>$
     508 ^@Fjørtoft<np><top>$
     507 ^@Bente<np>$
     499 ^@Oddny<np>$
     486 ^@AUF<np>$
-    485 ^@Rolf<np>$
     485 ^@Erlend<np>$
     485 ^@Dag<np>$
     470 ^@Vidar<np>$
-    470 ^@Henrik<np>$
     469 ^@Espen<np>$
     459 ^@Alf<np>$
     458 ^@Myhre<np><top>$
     458 ^@Frode<np>$
     457 ^@Alvhild<np>$
-    455 ^@Eirik<np>$
     452 ^@Schulstad<np>$
     442 ^@SAS<np>$
-    434 ^@Ulf<np>$
-    425 ^@Håkon<np>$
     423 ^@Kjetil<np>$
     411 ^@Lise<np>$
     409 ^@Fyhn<np>$
     404 ^@Magne<np>$
     401 ^@Drillo<np>$
-    398 ^@Torgeir<np>$
     397 ^@Dreyer<np>$
     396 ^@Gerd<np>$
     386 ^@Winge<np>$
@@ -89,14 +65,10 @@
     337 ^@Morken<np><top>$
     336 ^@Ragnar<np>$
     332 ^@Håvard<np>$
-    321 ^@Sverre<np>$
-    321 ^@Gudmund<np>$
     318 ^@New<np><top>$
     317 ^@Mack<np>$
     313 ^@Inger<np>$
-    307 ^@Roald<np>$
     305 ^@Jeltsin<np>$
-    304 ^@Torbjørn<np>$
     302 ^@Vår<np>$
     302 ^@Åsgård<np>$
     301 ^@Gustad<np>$
@@ -106,8 +78,6 @@
     289 ^@Lasse<np>$
     286 ^@Thorbjørn<np>$
     281 ^@II<np>$
-    277 ^@Asbjørn<np>$
-    276 ^@Torstein<np>$
     273 ^@Torkil<np>$
     272 ^@Elin<np>$
     270 ^@Steinholt<np>$
@@ -125,22 +95,18 @@
     244 ^@Thor<np>$
     242 ^@Ove<np>$
     240 ^@Ståle<np>$
-    240 ^@Jørgen<np>$
     239 ^@Hege<np>$
     237 ^@Jostein<np>$
     237 ^@Haugli<np>$
     235 ^@Rindestu<np>$
     233 ^@Silje<np>$
-    232 ^@Viggo<np>$
     231 ^@Dæhlie<np>$
     228 ^@AF<np>$
     226 ^@Hammer<np>$
     223 ^@Bjørnar<np>$
-    220 ^@Bjarne<np>$
     219 ^@Sissel<np>$
     217 ^@Hanne<np>$
     216 ^@Stoltenberg<np>$
-    216 ^@Ronny<np>$
     215 ^@Harlem<np>$
     213 ^@Fossli<np>$
     211 ^@Wenche<np>$
@@ -160,7 +126,6 @@
     201 ^@Siri<np>$
     200 ^@Rønbeck<np>$
     197 ^@Sør-Troms<np><top>$
-    197 ^@Jonny<np>$
     195 ^@Music<np>$
     193 ^@Bård<np>$
     192 ^@Sri<np><top>$
@@ -168,7 +133,6 @@
     191 ^@Opseth<np>$
     191 ^@Lanka<np><top>$
     190 ^@Stenvold<np>$
-    189 ^@Sigbjørn<np>$
     187 ^@Eivind<np>$
     186 ^@Ottar<np>$
     184 ^@Pollestad<np>$
@@ -182,7 +146,6 @@
     179 ^@Stabæk<np>$
     179 ^@Schrøder<np><top>$
     178 ^@Braathen<np><top>$
-    177 ^@Fredrik<np>$
     176 ^@Tidende<np>$
     176 ^@Ørjan<np>$
     175 ^@Trygve<np>$
@@ -195,8 +158,6 @@
     167 ^@Solvang<np>$
     166 ^@VIF<np>$
     165 ^@Ulvang<np>$
-    165 ^@Peder<np>$
-    165 ^@Magnus<np>$
     165 ^@Magnar<np>$
     165 ^@Gaute<np>$
     164 ^@Wiggo<np>$
@@ -205,7 +166,6 @@
     162 ^@Kirsti<np>$
     160 ^@Gunn<np>$
     159 ^@Ingeborg<np>$
-    159 ^@Hafstad<np><top>$
     157 ^@Cecilie<np>$
     156 ^@Inger-Lise<np>$
     155 ^@Atle<np>$
@@ -226,7 +186,6 @@
     140 ^@Stangnes<np>$
     140 ^@Bernt<np>$
     139 ^@Sør-Norge<np><top>$
-    139 ^@Jørstad<np><top>$
     139 ^@Dalheim<np>$
     138 ^@Hay<np>$
     137 ^@Røkke<np>$
@@ -291,7 +250,6 @@
     102 ^@Dagfinn<np>$
     101 ^@Kristine<np>$
     101 ^@Ingerid<np>$
-    100 ^@Skogstad<np><top>$
      99 ^@Wood<np>$
      99 ^@Torleif<np>$
      99 ^@LSK<np>$
@@ -390,7 +348,6 @@
      71 ^@Utsi<np>$
      71 ^@Snorre<np>$
      71 ^@Kjersti<np>$
-     71 ^@Bjørnstad<np><top>$
      70 ^@Vigdis<np>$
      70 ^@Tangen<np>$
      70 ^@Svetlana<np>$
@@ -438,7 +395,6 @@
      62 ^@Brahms<np>$
      61 ^@Vestfjorden<np><top>$
      61 ^@Stabell<np>$
-     61 ^@Solstad<np><top>$
      61 ^@Oskar<np>$
      61 ^@Køhn<np>$
      61 ^@Holst<np><top>$
@@ -465,7 +421,6 @@
      58 ^@Arja<np>$
      57 ^@Stenberg<np><top>$
      57 ^@Gjermund<np>$
-     57 ^@Alstad<np><top>$
      57 ^@Aamodt<np><top>$
      56 ^@Solli<np>$
      56 ^@Nordheim<np>$
@@ -572,7 +527,6 @@
      44 ^@Schjetne<np>$
      44 ^@Pia<np>$
      44 ^@Munch<np>$
-     44 ^@Kolstad<np><top>$
      44 ^@Fredheim<np><top>$
      44 ^@Falck<np>$
      44 ^@Angeles<np><top>$
@@ -609,7 +563,6 @@
      41 ^@Bjerkli<np>$
      40 ^@Schmidt<np><top>$
      40 ^@Riksteatret<np>$
-     40 ^@PLO<np>$
      40 ^@Nordahl<np><top>$
      40 ^@Ingjerd<np>$
      40 ^@Holten<np><top>$
@@ -628,8 +581,6 @@
      39 ^@Ingebjørg<np>$
      39 ^@Hilmar<np>$
      39 ^@Heggelund<np><top>$
-     39 ^@Elstad<np><top>$
-     39 ^@BBC<np>$
      38 ^@Wist<np>$
      38 ^@UEFA<np>$
      38 ^@Tipping<np>$
@@ -650,7 +601,6 @@
      38 ^@Birkelund<np><top>$
      38 ^@Arnhild<np>$
      38 ^@Anniken<np>$
-     38 ^@Alvestad<np><top>$
      37 ^@Westrum<np>$
      37 ^@Stokkan<np>$
      37 ^@Sigvald<np>$
@@ -663,7 +613,6 @@
      37 ^@Hamnvik<np>$
      37 ^@Elvestad<np>$
      37 ^@Day<np>$
-     37 ^@Brustad<np><top>$
      37 ^@Barman<np>$
      37 ^@Aslaug<np>$
      36 ^@Vannvåg<np>$
@@ -737,7 +686,6 @@
      32 ^@Krane<np>$
      32 ^@Koch<np>$
      32 ^@Innset<np><top>$
-     32 ^@Holstad<np><top>$
      32 ^@Heimstad<np>$
      32 ^@EF<np>$
      32 ^@Asbjørg<np>$
@@ -746,7 +694,6 @@
      31 ^@Tyldum<np>$
      31 ^@Top<np>$
      31 ^@Therese<np>$
-     31 ^@Reistad<np><top>$
      31 ^@Palace<np>$
      31 ^@Opstad<np>$
      31 ^@Ødegård<np><top>$
@@ -763,9 +710,7 @@
      31 ^@Harila<np>$
      31 ^@Halldis<np>$
      31 ^@FRP<np>$
-     31 ^@Farstad<np><top>$
      31 ^@Company<np>$
-     31 ^@Bolstad<np><top>$
      31 ^@Birgitte<np>$
      31 ^@Bentzen<np><top>$
      31 ^@Bartnes<np>$
@@ -780,7 +725,6 @@
      30 ^@HVPU<np>$
      30 ^@Harri<np>$
      30 ^@Galtung<np>$
-     30 ^@Fjellstad<np><top>$
      30 ^@Barbro<np>$
      30 ^@Anneli<np>$
      29 ^@Thoen<np>$
@@ -844,7 +788,6 @@
      26 ^@Moum<np>$
      26 ^@Mikkel<np>$
      26 ^@Maråk<np>$
-     26 ^@Krogstad<np><top>$
      26 ^@Jehova<np>$
      26 ^@Friis<np>$
      26 ^@Egeland<np><top>$
@@ -887,7 +830,6 @@
      24 ^@Moon<np>$
      24 ^@Løkken<np>$
      24 ^@Kristoffer<np>$
-     24 ^@Kjærstad<np><top>$
      24 ^@Jokke<np>$
      24 ^@Inghild<np>$
      24 ^@Haugan<np><top>$
@@ -962,13 +904,11 @@
      21 ^@War<np>$
      21 ^@Tveter<np><top>$
      21 ^@Tvedt<np><top>$
-     21 ^@Tronstad<np><top>$
      21 ^@Tandberg<np><top>$
      21 ^@Steiro<np>$
      21 ^@Søren<np>$
      21 ^@Søndre<np><top>$
      21 ^@Saltnes<np>$
-     21 ^@Rustad<np><top>$
      21 ^@Rundhaug<np>$
      21 ^@Røe<np><top>$
      21 ^@Riksdagen<np>$
@@ -985,7 +925,6 @@
      21 ^@Kroer<np>$
      21 ^@Klemet<np>$
      21 ^@Kjelsberg<np>$
-     21 ^@KGB<np>$
      21 ^@Joar<np>$
      21 ^@Hagerup<np>$
      21 ^@Evenstad<np>$
@@ -1025,7 +964,6 @@
      20 ^@European<np>$
      20 ^@Darling<np>$
      20 ^@Buvik<np>$
-     20 ^@BJØRN<np>$
      20 ^@Befring<np>$
      20 ^@AMO<np>$
      20 ^@Agnete<np>$
@@ -1049,12 +987,10 @@
      19 ^@Institute<np>$
      19 ^@Holtan<np><top>$
      19 ^@Hetta<np>$
-     19 ^@Halmstad<np><top>$
      19 ^@Hallstein<np>$
      19 ^@Gunnhild<np>$
      19 ^@From<np>$
      19 ^@Francois<np>$
-     19 ^@Fjeldstad<np><top>$
      19 ^@Elbjørg<np>$
      19 ^@Eirin<np>$
      19 ^@Egede<np>$
@@ -1126,7 +1062,6 @@
      17 ^@Litmanen<np>$
      17 ^@Lindquist<np>$
      17 ^@Kirstin<np>$
-     17 ^@IBM<np>$
      17 ^@Høyer<np>$
      17 ^@Høydahl<np>$
      17 ^@Hovland<np><top>$
@@ -1166,7 +1101,6 @@
      16 ^@Matz<np>$
      16 ^@Margareth<np>$
      16 ^@Majala<np>$
-     16 ^@Lystad<np><top>$
      16 ^@Krystad<np>$
      16 ^@Klinsmann<np>$
      16 ^@Klev<np>$
@@ -1244,10 +1178,8 @@
      14 ^@Veslemøy<np>$
      14 ^@TV1<np>$
      14 ^@Trengereid<np><top>$
-     14 ^@TOR<np>$
      14 ^@Stabursvik<np>$
      14 ^@Skaidi<np><top>$
-     14 ^@SIGURD<np>$
      14 ^@Sigrun<np>$
      14 ^@Saarikoski<np>$
      14 ^@Rokstad<np>$
@@ -1334,7 +1266,6 @@
      13 ^@EFTA<np>$
      13 ^@Ditlev<np>$
      13 ^@Datatilsynet<np>$
-     13 ^@CIA<np>$
      13 ^@Cathrin<np>$
      13 ^@Borten<np>$
      13 ^@Blomli<np>$
@@ -1365,7 +1296,6 @@
      12 ^@Shepherd<np>$
      12 ^@Saint<np><top>$
      12 ^@Rygh<np><top>$
-     12 ^@Røstad<np><top>$
      12 ^@Rønningen<np><top>$
      12 ^@Reinhardt<np>$
      12 ^@Ravna<np>$
@@ -1400,7 +1330,6 @@
      12 ^@Hunstad<np>$
      12 ^@Herdis<np>$
      12 ^@Helberg<np>$
-     12 ^@HARALD<np>$
      12 ^@Hanisch<np>$
      12 ^@HAMMER<np>$
      12 ^@Halonen<np>$
@@ -1514,7 +1443,6 @@
      10 ^@Risberg<np>$
      10 ^@Ringen<np>$
      10 ^@Refsnes<np><top>$
-     10 ^@Ramstad<np><top>$
      10 ^@Rahkonen<np>$
      10 ^@Østbye<np>$
      10 ^@Øgrim<np>$
@@ -1541,7 +1469,6 @@
      10 ^@Jernsletten<np>$
      10 ^@Ingor<np>$
      10 ^@Ingard<np>$
-     10 ^@ILO<np>$
      10 ^@Høybråten<np>$
      10 ^@Hovden<np>$
      10 ^@Horntvedt<np>$
@@ -1582,7 +1509,6 @@
       9 ^@Vangen<np>$
       9 ^@UNESCO<np>$
       9 ^@Trosten<np>$
-      9 ^@TROND<np>$
       9 ^@Torsvåg<np>$
       9 ^@Tonny<np>$
       9 ^@Tarzan<np>$
@@ -1700,7 +1626,6 @@
       8 ^@Salla<np>$
       8 ^@Roth<np>$
       8 ^@Rørholt<np>$
-      8 ^@Ringstad<np><top>$
       8 ^@Rigoberta<np>$
       8 ^@Restad<np>$
       8 ^@Reidulf<np>$
@@ -1717,7 +1642,6 @@
       8 ^@Opheim<np>$
       8 ^@Omdal<np><top>$
       8 ^@Olle<np>$
-      8 ^@OLAV<np>$
       8 ^@OBOS<np>$
       8 ^@Njål<np>$
       8 ^@NEW<np><top>$
@@ -1781,7 +1705,6 @@
       8 ^@Elly<np>$
       8 ^@Elen<np>$
       8 ^@Eine<np>$
-      8 ^@EGIL<np>$
       8 ^@Edny<np>$
       8 ^@Dyping<np>$
       8 ^@Dåvøy<np>$
@@ -1801,7 +1724,6 @@
       8 ^@Baumann<np>$
       8 ^@Balstad<np>$
       8 ^@Award<np>$
-      8 ^@ASBJØRN<np>$
       8 ^@Anne-Britt<np>$
       8 ^@Annbjørg<np>$
       8 ^@ANGELES<np><top>$
@@ -1857,7 +1779,6 @@
       7 ^@Petrus<np>$
       7 ^@Pete<np>$
       7 ^@Pessi<np>$
-      7 ^@ØYSTEIN<np>$
       7 ^@Øydvin<np>$
       7 ^@Østenstad<np>$
       7 ^@Ono<np>$
@@ -1902,7 +1823,6 @@
       7 ^@Herald<np>$
       7 ^@Helgelandskysten<np><top>$
       7 ^@Hedlund<np>$
-      7 ^@Haugstad<np><top>$
       7 ^@Haavik<np>$
       7 ^@Gudbrand<np>$
       7 ^@Gravdal<np><top>$
@@ -1913,8 +1833,6 @@
       7 ^@Fox<np>$
       7 ^@Fougner<np>$
       7 ^@Forsdahl<np>$
-      7 ^@Finstad<np><top>$
-      7 ^@FBI<np>$
       7 ^@Fagerli<np>$
       7 ^@Evjenth<np>$
       7 ^@Ethel<np>$
@@ -1984,9 +1902,7 @@
       6 ^@SAAB<np>$
       6 ^@Rynning<np>$
       6 ^@Rørtveit<np>$
-      6 ^@RONNY<np>$
       6 ^@Rønneberg<np><top>$
-      6 ^@ROLF<np>$
       6 ^@Risnes<np>$
       6 ^@Ringvold<np>$
       6 ^@Rikstoto<np>$
@@ -2018,7 +1934,6 @@
       6 ^@Nesheim<np><top>$
       6 ^@Myran<np><top>$
       6 ^@Muladal<np>$
-      6 ^@MORTEN<np>$
       6 ^@Mjøen<np>$
       6 ^@Mestad<np>$
       6 ^@Melheim<np>$
@@ -2119,7 +2034,6 @@
       6 ^@Backer<np>$
       6 ^@Audny<np>$
       6 ^@Aspaas<np>$
-      6 ^@ARNE<np>$
       6 ^@Ann-Mari<np>$
       6 ^@Anett<np>$
       6 ^@AMMERUD<np>$
@@ -2127,7 +2041,6 @@
       6 ^@Ailu<np>$
       6 ^@Academy<np>$
       6 ^@Aasbø<np>$
-      6 ^@Aarstad<np><top>$
       5 ^@Zotora<np>$
       5 ^@Yme<np>$
       5 ^@Wiktor<np>$
@@ -2173,7 +2086,6 @@
       5 ^@Sixten<np>$
       5 ^@Sirma<np>$
       5 ^@Signy<np>$
-      5 ^@SIGBJØRN<np>$
       5 ^@Sekken<np>$
       5 ^@Schreuder<np>$
       5 ^@Schreiner<np>$
@@ -2221,7 +2133,6 @@
       5 ^@Manninen<np>$
       5 ^@Manglerud<np>$
       5 ^@LTD<np>$
-      5 ^@Løvstad<np><top>$
       5 ^@Løvberg<np>$
       5 ^@LOOC<np>$
       5 ^@Lofthus<np><top>$
@@ -2238,7 +2149,6 @@
       5 ^@KONGEN<np>$
       5 ^@Kleven<np><top>$
       5 ^@Kjølaas<np>$
-      5 ^@KJELL<np>$
       5 ^@Kjell-Arne<np>$
       5 ^@Kitti<np>$
       5 ^@Kikki<np>$
@@ -2273,7 +2183,6 @@
       5 ^@Hasse<np>$
       5 ^@HANNE<np>$
       5 ^@Haltvik<np><top>$
-      5 ^@HÅKON<np>$
       5 ^@Hæstad<np>$
       5 ^@Gynt<np>$
       5 ^@GUTT<np>$
@@ -2290,11 +2199,9 @@
       5 ^@Fosshaug<np>$
       5 ^@Fiat<np>$
       5 ^@Fasting<np>$
-      5 ^@Erstad<np><top>$
       5 ^@ERLEND<np>$
       5 ^@Enid<np>$
       5 ^@Engh<np><top>$
-      5 ^@EIRIK<np>$
       5 ^@Eiliv<np>$
       5 ^@EGE<np>$
       5 ^@Digre<np>$
@@ -2311,7 +2218,6 @@
       5 ^@Brørs<np>$
       5 ^@Broch<np>$
       5 ^@Borud<np>$
-      5 ^@BØRRE<np>$
       5 ^@Boberg<np>$
       5 ^@Blunck<np>$
       5 ^@Bjerk<np>$
@@ -2348,7 +2254,6 @@
       4 ^@Valborg<np>$
       4 ^@Vagn<np>$
       4 ^@Værnes<np>$
-      4 ^@ULF<np>$
       4 ^@Tveiten<np><top>$
       4 ^@TV4<np>$
       4 ^@TRULS<np>$
@@ -2367,7 +2272,6 @@
       4 ^@Tapani<np>$
       4 ^@Taarnesvik<np>$
       4 ^@Syver<np>$
-      4 ^@SVEIN<np>$
       4 ^@SVEA<np>$
       4 ^@Sunniva<np>$
       4 ^@Straume<np><top>$
@@ -2424,7 +2328,6 @@
       4 ^@ØRJAN<np>$
       4 ^@Orange<np>$
       4 ^@ON<np>$
-      4 ^@Olstad<np><top>$
       4 ^@Olavi<np>$
       4 ^@Oddveig<np>$
       4 ^@Oddlaug<np>$
@@ -2500,7 +2403,6 @@
       4 ^@Jakov<np>$
       4 ^@Jakola<np>$
       4 ^@Jakobselv<np><top>$
-      4 ^@IVAR<np>$
       4 ^@Ingvart<np>$
       4 ^@Ingilæ<np>$
       4 ^@Ingelin<np>$
@@ -2554,7 +2456,6 @@
       4 ^@Edvart<np>$
       4 ^@Dybvik<np><top>$
       4 ^@Dionysos<np>$
-      4 ^@DDR<np>$
       4 ^@Connie<np>$
       4 ^@CLUB<np>$
       4 ^@Christoffer<np>$
@@ -2582,7 +2483,6 @@
       4 ^@Bekkevold<np><top>$
       4 ^@BEITOSTØLEN<np><top>$
       4 ^@Båstad<np>$
-      4 ^@Barstad<np><top>$
       4 ^@AUNE<np><top>$
       4 ^@Aspengren<np>$
       4 ^@Åsne<np>$
@@ -2700,7 +2600,6 @@
       3 ^@Oppheim<np><top>$
       3 ^@Omholt<np>$
       3 ^@Ole-Christian<np>$
-      3 ^@Ofstad<np><top>$
       3 ^@Ødipus<np>$
       3 ^@Nyvold<np>$
       3 ^@Nietzsche<np>$
@@ -2768,7 +2667,6 @@
       3 ^@Jan-Einar<np>$
       3 ^@Ivanovitsj<np>$
       3 ^@Istad<np>$
-      3 ^@IRA<np>$
       3 ^@Iqbal<np>$
       3 ^@Ingemann<np>$
       3 ^@Ikaros<np>$
@@ -2901,7 +2799,6 @@
       3 ^@Ann-Sissel<np>$
       3 ^@Ann-Jorid<np>$
       3 ^@Anne-Grethe<np>$
-      3 ^@ANDERS<np>$
       3 ^@Amor<np>$
       3 ^@Alzheimer<np>$
       3 ^@Alv<np>$
@@ -2943,7 +2840,6 @@
       2 ^@Viljar<np>$
       2 ^@Vilhelm<np>$
       2 ^@Vikan<np><top>$
-      2 ^@VIGGO<np>$
       2 ^@Vicky<np>$
       2 ^@VESTLI<np>$
       2 ^@VESTERTANA<np><top>$
@@ -2969,10 +2865,8 @@
       2 ^@Tulleng<np>$
       2 ^@Tudor<np>$
       2 ^@Torsti<np>$
-      2 ^@TORSTEIN<np>$
       2 ^@TORFINN<np>$
       2 ^@Tordenskjold<np>$
-      2 ^@TORBJØRN<np>$
       2 ^@Toralv<np>$
       2 ^@Tjæder<np>$
       2 ^@Tiril<np>$
@@ -3229,7 +3123,6 @@
       2 ^@Jimmi<np>$
       2 ^@Jiang<np>$
       2 ^@Jette<np>$
-      2 ^@JENS<np>$
       2 ^@Jektvik<np>$
       2 ^@Jean-marie<np>$
       2 ^@Jeanett<np>$
@@ -3267,7 +3160,6 @@
       2 ^@HOLAND<np>$
       2 ^@Høgetveit<np>$
       2 ^@Høgden<np>$
-      2 ^@Hofstad<np><top>$
       2 ^@Hjelde<np>$
       2 ^@Hilkka<np>$
       2 ^@Hildegard<np>$
@@ -3562,7 +3454,6 @@
       1 ^@Torje<np>$
       1 ^@Tor-Inge<np>$
       1 ^@TORIL<np>$
-      1 ^@TORGEIR<np>$
       1 ^@Torborg<np>$
       1 ^@TOP<np>$
       1 ^@Tonheim<np>$
@@ -3633,7 +3524,6 @@
       1 ^@Sør-England<np><top>$
       1 ^@Sørby<np>$
       1 ^@Sønderland<np>$
-      1 ^@SOLSTAD<np><top>$
       1 ^@Solrunn<np>$
       1 ^@Søgård<np>$
       1 ^@Søgaard<np>$
@@ -3690,7 +3580,6 @@
       1 ^@Scharffenberg<np>$
       1 ^@Scavenius<np>$
       1 ^@Saxi<np>$
-      1 ^@Saupstad<np><top>$
       1 ^@Sark<np>$
       1 ^@Sanni<np>$
       1 ^@SANDVIK<np>$
@@ -3713,7 +3602,6 @@
       1 ^@ROYAL<np>$
       1 ^@Rovik<np>$
       1 ^@Røsvik<np>$
-      1 ^@Rostad<np><top>$
       1 ^@Rossi<np>$
       1 ^@Rosseland<np><top>$
       1 ^@Rosnes<np>$
@@ -3726,7 +3614,6 @@
       1 ^@Romanov<np>$
       1 ^@ROLV<np>$
       1 ^@Roll<np>$
-      1 ^@Rognstad<np><top>$
       1 ^@Røen<np>$
       1 ^@Roede<np>$
       1 ^@Rodin<np>$
@@ -3742,7 +3629,6 @@
       1 ^@REMI<np>$
       1 ^@Relling<np>$
       1 ^@Reiulf<np>$
-      1 ^@REISTAD<np><top>$
       1 ^@Reinstad<np>$
       1 ^@Reini<np>$
       1 ^@Reindriftsnytt<np>$
@@ -3915,7 +3801,6 @@
       1 ^@Marakatt<np>$
       1 ^@Manum<np>$
       1 ^@Maksimova<np>$
-      1 ^@MAGNUS<np>$
       1 ^@MAGNI<np>$
       1 ^@MACK<np>$
       1 ^@Lysgaard<np>$
@@ -3941,7 +3826,6 @@
       1 ^@Lindvik<np>$
       1 ^@LINDVALL<np>$
       1 ^@Lindtner<np>$
-      1 ^@Lindstad<np><top>$
       1 ^@Lindh<np>$
       1 ^@LINDFORS<np>$
       1 ^@Limousine<np>$
@@ -3986,7 +3870,6 @@
       1 ^@Korsfjorden<np><top>$
       1 ^@Kørner<np>$
       1 ^@Konstanse<np>$
-      1 ^@KOLSTAD<np><top>$
       1 ^@KOLNES<np>$
       1 ^@KOLLSTRØM<np>$
       1 ^@Kolgujev<np>$
@@ -4046,10 +3929,8 @@
       1 ^@Juhani<np>$
       1 ^@JOSTEIN<np>$
       1 ^@JØRN<np>$
-      1 ^@JØRGEN<np>$
       1 ^@JØRAN<np>$
       1 ^@Joppe<np>$
-      1 ^@JONNY<np>$
       1 ^@Jonetta<np>$
       1 ^@Joktan<np>$
       1 ^@Joki<np>$
@@ -4133,7 +4014,6 @@
       1 ^@HERULF<np>$
       1 ^@HERMOD<np>$
       1 ^@HERBORG<np>$
-      1 ^@HENRIK<np>$
       1 ^@Hennig<np>$
       1 ^@Hemming<np>$
       1 ^@HELSING<np>$
@@ -4179,7 +4059,6 @@
       1 ^@Hallan<np>$
       1 ^@Halfrid<np>$
       1 ^@Hakadal<np><top>$
-      1 ^@HAFSTAD<np><top>$
       1 ^@HÆTTA<np>$
       1 ^@Hackman<np>$
       1 ^@Håbjørg<np>$
@@ -4198,7 +4077,6 @@
       1 ^@Gunilla<np>$
       1 ^@GUNHILD<np>$
       1 ^@Guldahl<np>$
-      1 ^@GUDMUND<np>$
       1 ^@Guddal<np>$
       1 ^@Grytten<np>$
       1 ^@Grude<np>$
@@ -4245,7 +4123,6 @@
       1 ^@Frøseth<np>$
       1 ^@FRISELL<np>$
       1 ^@Freud<np>$
-      1 ^@Fremstad<np><top>$
       1 ^@Fredrikke<np>$
       1 ^@Fossem<np>$
       1 ^@Forsgren<np>$
@@ -4266,7 +4143,6 @@
       1 ^@FIVE<np>$
       1 ^@Fiskvik<np>$
       1 ^@Finjord<np>$
-      1 ^@Filipstad<np><top>$
       1 ^@FIGENSCHOU<np>$
       1 ^@Fellini<np>$
       1 ^@Fedje<np><top>$
@@ -4431,7 +4307,6 @@
       1 ^@Bakkerud<np>$
       1 ^@Bajkal<np><top>$
       1 ^@Baird<np>$
-      1 ^@Aulestad<np><top>$
       1 ^@Aukrust<np>$
       1 ^@Augusta<np>$
       1 ^@AUD<np>$
@@ -4462,7 +4337,6 @@
       1 ^@AMUND<np>$
       1 ^@Åmo<np>$
       1 ^@Alvilde<np>$
-      1 ^@ALVESTAD<np><top>$
       1 ^@ALSGAARD<np>$
       1 ^@Akilles<np>$
       1 ^@Åkerlund<np>$

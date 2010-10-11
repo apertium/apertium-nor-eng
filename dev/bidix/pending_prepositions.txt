@@ -1,56 +1,18 @@
    5608 ^@der<pr>$
    4336 ^@her<pr>$
-   3422 ^@inn i<pr>$
    2349 ^@foran<pr>$
    1841 ^@ute<pr>$
    1541 ^@innen<pr>$
-   1540 ^@imot<pr>$
-   1447 ^@ut i<pr>$
-   1220 ^@inne<pr>$
-    955 ^@per<pr>$
     942 ^@unna<pr>$
-    890 ^@borte<pr>$
-    798 ^@hjem<pr>$
-    771 ^@i ferd med<pr>$
-    766 ^@opp på<pr>$
     635 ^@av dette<pr>$
     612 ^@i hele<pr>$
-    602 ^@framover<pr>$
-    582 ^@ned i<pr>$
-    501 ^@inn til<pr>$
-    481 ^@nede<pr>$
-    478 ^@opp mot<pr>$
-    364 ^@på vegne av<pr>$
-    358 ^@hjemme<pr>$
     337 ^@dit<pr>$
-    316 ^@hittil<pr>$
-    268 ^@etterpå<pr>$
-    255 ^@foruten<pr>$
-    252 ^@fremover<pr>$
     237 ^@sørover<pr>$
-    231 ^@sammenlignet med<pr>$
-    228 ^@opptil<pr>$
-    211 ^@derfra<pr>$
-    182 ^@ifra<pr>$
-    168 ^@angående<pr>$
     160 ^@underveis<pr>$
     146 ^@deriblant<pr>$
     145 ^@med hensyn til<pr>$
-    135 ^@unntatt<pr>$
-    126 ^@utpå<pr>$
-    121 ^@bortimot<pr>$
-    114 ^@istedenfor<pr>$
-    109 ^@nordover<pr>$
-    104 ^@utfor<pr>$
-     95 ^@innendørs<pr>$
-     94 ^@vedrørende<pr>$
-     91 ^@hen<pr>$
      91 ^@akter<pr>$
-     88 ^@framme<pr>$
      86 ^@fremfor<pr>$
-     85 ^@utendørs<pr>$
-     83 ^@borti<pr>$
-     76 ^@midtveis<pr>$
      75 ^@van<pr>$
      71 ^@innover<pr>$
      70 ^@herfra<pr>$
@@ -59,7 +21,6 @@
      66 ^@frem i<pr>$
      64 ^@i følge<pr>$
      63 ^@utad<pr>$
-     63 ^@innimellom<pr>$
      63 ^@dertil<pr>$
      60 ^@bakfra<pr>$
      58 ^@oppi<pr>$
