@@ -78,6 +78,7 @@
       <attr-item tags="adj.ord"/>
       <attr-item tags="num.ord"/>
       <attr-item tags="vblex.pp"/>
+      <attr-item tags="vblex.ger"/>
       <attr-item tags="det.qnt"/> <!-- mange -->
     </def-attr>
     <def-attr n="a_prn">
@@ -98,6 +99,7 @@
     <def-attr n="a_nom">
       <attr-item tags="n"/>
       <attr-item tags="np"/>
+      <attr-item tags="abbr"/>
       <attr-item tags="np.al"/>
       <attr-item tags="np.top"/>
       <attr-item tags="np.cog"/>

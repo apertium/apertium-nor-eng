@@ -62,6 +62,8 @@
     <sdef n="past"       c="Past"/>
     <sdef n="imp"        c="Imperative"/>
     <sdef n="inf"        c="Infinitive"/>
+    <sdef n="pprs"       c="Present participle"/>
+    <sdef n="ger"        c="Gerund"/>
 
     <sdef n="GD"         c="Gender to be determined"/>
     <sdef n="ND"         c="Number to be determined"/>
@@ -85,6 +87,7 @@
       <e r="LR"> <p><l><s n="vblex"/><s n="imp"/></l>	<r><s n="inf"/></r></p></e>
       <e> <p><l><s n="vblex"/></l>	<r></r></p></e>
       <e> <p><l><s n="adj"/><s n="pp"/></l>	<r><s n="pp"/></r></p></e>
+      <e> <p><l><s n="adj"/><s n="pprs"/></l>	<r><s n="ger"/></r></p></e>
     </pardef>
 
     <pardef n="f|m_LR_f" c="TODO: use for nouns that are m_LR_f in nb, but only f in nn">
