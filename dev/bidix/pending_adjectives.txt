@@ -66,7 +66,6 @@
      82 ^@tollfri<adj>$
      82 ^@ofte<adj>$
      81 ^@ytre<adj><sup>$
-     81 ^@tett<adj>$
      80 ^@heftig<adj>$
      76 ^@ettertraktet<adj>$
      75 ^@samfunnsmessig<adj>$
@@ -120,7 +119,6 @@
      25 ^@underliggende<adj>$
      25 ^@nøye<adj>$
      25 ^@hårreisende<adj>$
-     24 ^@tett<adj><sup>$
      24 ^@rasfarlig<adj>$
      24 ^@østre<adj>$
      24 ^@gullkantet<adj>$
@@ -175,7 +173,6 @@
      13 ^@fulltallig<adj>$
      13 ^@fremmøtt<adj>$
      13 ^@fordyre<adj>$
-     13 ^@flyge<adj>$
      12 ^@verdenskjent<adj>$
      12 ^@trygde<adj>$
      12 ^@støve<adj>$
@@ -219,7 +216,6 @@
       7 ^@vidtrekkende<adj>$
       7 ^@tusenårig<adj>$
       7 ^@spillefri<adj>$
-      7 ^@skjerme<adj>$
       7 ^@sjangermessig<adj>$
       7 ^@særnorsk<adj>$
       7 ^@rådløs<adj>$
@@ -229,7 +225,6 @@
       7 ^@mestvinnende<adj>$
       7 ^@kjøpelysten<adj>$
       7 ^@himmelhøy<adj>$
-      7 ^@halse<adj>$
       7 ^@feriere<adj>$
       7 ^@braute<adj>$
       7 ^@arbeidsvillig<adj>$
@@ -321,14 +316,12 @@
       3 ^@historisk-filosofisk<adj>$
       3 ^@halvtørr<adj>$
       3 ^@halvgammal<adj>$
-      3 ^@grise<adj>$
       3 ^@fullstendig<adj>$
       3 ^@fremre<adj>$
       3 ^@fly forbannet<adj>$
       3 ^@fleipe<adj>$
       3 ^@buske<adj>$
       3 ^@brumme<adj>$
-      3 ^@blive<adj>$
       3 ^@blaut<adj>$
       3 ^@bemanne<adj>$
       3 ^@bein<adj>$
@@ -339,7 +332,6 @@
       2 ^@var<adj><sup>$
       2 ^@underbygge<adj>$
       2 ^@tjenestevillig<adj>$
-      2 ^@supplere<adj>$
       2 ^@steintøff<adj>$
       2 ^@sondere<adj>$
       2 ^@snøfri<adj>$
@@ -361,7 +353,6 @@
       2 ^@maskinskrive<adj>$
       2 ^@krisepsykiatrisk<adj>$
       2 ^@knapp<adj><sup>$
-      2 ^@hytte<adj>$
       2 ^@hemmeligstemple<adj>$
       2 ^@helfrelst<adj>$
       2 ^@harke<adj>$
@@ -370,7 +361,6 @@
       2 ^@gjøgle<adj>$
       2 ^@genremessig<adj>$
       2 ^@fosse<adj>$
-      2 ^@forelske<adj>$
       2 ^@fergefri<adj>$
       2 ^@femårig<adj>$
       2 ^@feig<adj><sup>$
@@ -408,7 +398,6 @@
       1 ^@strene<adj>$
       1 ^@startklar<adj>$
       1 ^@spile<adj>$
-      1 ^@spidde<adj>$
       1 ^@spane<adj>$
       1 ^@snirkle<adj>$
       1 ^@smertelig<adj><sup>$
@@ -422,7 +411,6 @@
       1 ^@raske<adj>$
       1 ^@rappe<adj>$
       1 ^@råflire<adj>$
-      1 ^@prute<adj>$
       1 ^@programfeste<adj>$
       1 ^@poengtere<adj>$
       1 ^@pludre<adj>$
@@ -482,5 +470,4 @@
       1 ^@belegge<adj>$
       1 ^@avføre<adj>$
       1 ^@århundrelang<adj>$
-      1 ^@ape<adj>$
       1 ^@akte<adj>$

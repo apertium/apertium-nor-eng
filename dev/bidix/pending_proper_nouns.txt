@@ -53,7 +53,6 @@
     397 ^@Dreyer<np>$
     396 ^@Gerd<np>$
     386 ^@Winge<np>$
-    380 ^@Truls<np>$
     380 ^@Torsken<np>$
     380 ^@Bråthen<np><top>$
     378 ^@Bakken<np>$
@@ -2265,7 +2264,6 @@
       4 ^@Værnes<np>$
       4 ^@Tveiten<np><top>$
       4 ^@TV4<np>$
-      4 ^@TRULS<np>$
       4 ^@Trønnes<np>$
       4 ^@Torsvik<np><top>$
       4 ^@Torkel<np>$
@@ -2882,7 +2880,6 @@
       2 ^@Thorkild<np>$
       2 ^@Thor-Inge<np>$
       2 ^@Thora<np>$
-      2 ^@Tell<np>$
       2 ^@Tarja<np>$
       2 ^@Tapio<np>$
       2 ^@Svenning<np>$

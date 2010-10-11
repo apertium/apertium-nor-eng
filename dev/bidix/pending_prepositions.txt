@@ -32,7 +32,6 @@
      51 ^@nordpå<pr>$
      50 ^@iblant<pr>$
      49 ^@ad<pr>$
-     47 ^@mellem<pr>$
      47 ^@heretter<pr>$
      45 ^@undervegs<pr>$
      45 ^@nordfra<pr>$
@@ -43,7 +42,6 @@
      39 ^@utenlands<pr>$
      39 ^@hit til<pr>$
      39 ^@herved<pr>$
-     39 ^@frå<pr>$
      39 ^@frampå<pr>$
      37 ^@herunder<pr>$
      37 ^@eksklusive<pr>$
@@ -70,7 +68,6 @@
      16 ^@oppunder<pr>$
      16 ^@innenlands<pr>$
      16 ^@forfra<pr>$
-     16 ^@efter<pr>$
      14 ^@der ute<pr>$
      14 ^@bakpå<pr>$
      13 ^@oppimot<pr>$
@@ -105,7 +102,6 @@
       5 ^@derom<pr>$
       4 ^@nordenfor<pr>$
       4 ^@langveisfra<pr>$
-      4 ^@ifrå<pr>$
       4 ^@heriblant<pr>$
       4 ^@der inne<pr>$
       3 ^@versus<pr>$
@@ -132,7 +128,6 @@
       2 ^@hermed<pr>$
       2 ^@herifra<pr>$
       2 ^@fremad<pr>$
-      1 ^@vis-a-vis<pr>$
       1 ^@utetter<pr>$
       1 ^@tillikemed<pr>$
       1 ^@sønnenfor<pr>$
@@ -168,5 +163,4 @@
       1 ^@bakut<pr>$
       1 ^@attpå<pr>$
       1 ^@attende<pr>$
-      1 ^@attåt<pr>$
       1 ^@allesteds<pr>$
