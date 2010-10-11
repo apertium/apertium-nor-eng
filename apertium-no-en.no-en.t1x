@@ -10,6 +10,7 @@
       <cat-item tags="prn.p3.*"/>
     </def-cat>
     <def-cat n="det">
+      <cat-item tags="det.emph.*"/>
       <cat-item tags="det.dem.*"/>
       <cat-item tags="det.ind.*"/>
       <cat-item tags="det.qnt.*"/>

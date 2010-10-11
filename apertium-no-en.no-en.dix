@@ -7560,6 +7560,7 @@
 <e c="  0"><p><l>nei<s n="n"/><s n="nt"/></l><r>no<s n="n"/></r></p></e>
 
 <!-- SECTION Nouns, unchecked: -->
+<e c="  0"><p><l>katedralskole<s n="n"/><s n="m"/></l><r>cathedral<b/>school<s n="n"/></r></p></e>
 <e c="  0"><p><l>data<s n="n"/><s n="m"/></l><r>data<s n="n"/></r></p></e>
 <e c="  0"><p><l>talent<s n="n"/><s n="m"/></l><r>talent<s n="n"/></r></p></e>
 <e c="  0"><p><l>råstoff<s n="n"/><s n="nt"/></l><r>raw<b/>material<s n="n"/></r></p></e>
@@ -18745,195 +18746,197 @@
     <e c="  0"><p><l>allokere</l><r>allocate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>agitere</l><r>agitate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
-    <e c="  0"><p><l>abonnere</l><r>subscribe<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>ankre</l><r>anchor<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>annektere</l><r>annex<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>ape</l><r>mimic<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>ape</l><r>imitate<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>ape</l><r>ape<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>bable</l><r>babble<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>bidra</l><r>contribute<s n="vblex"/></r></p></e><!--(to give something)-->
-    <e c="  0"><p><l>blingse</l><r>glance<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>blive</l><r>become<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>brune</l><r>brown<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>brygge</l><r>brew<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>busse</l><r>bus<s n="vblex"/></r></p></e><!--(to transport via a motor bus)-->
-    <e c="  0"><p><l>byde</l><r>order<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>byde</l><r>command<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>dabbe</l><r>diminish<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>dabbe</l><r>decline<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>dabbe</l><r>slacken<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>demontere</l><r>dismantle<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>demontere</l><r>defuse<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>demontere</l><r>disassemble<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>dressere</l><r>train<s n="vblex"/></r></p></e><!--(an animal)-->
-    <e c="  0"><p><l>drille</l><r>tease<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>drille</l><r>kid<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>drille</l><r>banter<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>duellere</l><r>duel<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>dysse</l><r>lull<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>dysse</l><r>calm<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>filetere</l><r>fillet<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>finne</l><r>find<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>flambere</l><r>flambé<s n="vblex"/></r></p></e><!--(to add and ignite alcohol to food)-->
-    <e c="  0"><p><l>flyge</l><r>fly<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>flyge</l><r>rush<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>flyge</l><r>dash<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>flyge</l><r>dart<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>føde</l><r>feed<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>føde</l><r>support<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>føde</l><r>bear<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>føde</l><r>give<g><b/>birth</g><s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>føle</l><r>feel<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>føle</l><r>sense<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>forelske</l><r>fall<g><b/>in<b/>love</g><s n="vblex"/></r></p></e><!--(reflexive)-->
-    <e c="  0"><p><l>forfremme</l><r>promote<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>forlegge</l><r>misplace<s n="vblex"/></r></p></e><!--(putting something somewhere)-->
-    <e slr="1"><p><l>forlegge</l><r>deploy<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>forlegge</l><r>station<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>forlegge</l><r>relocate<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>forsake</l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>forsake</l><r>relinquish<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>forsake</l><r>denounce<s n="vblex"/></r></p></e><!--(the devil)-->
-    <e c="  0"><p><l>frakte</l><r>transport<s n="vblex"/></r></p></e><!--(goods)-->
-    <e c="  0"><p><l>genere</l><r>bother<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>genere</l><r>trouble<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>genere</l><r>disturb<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>genere</l><r>inconvenience<s n="vblex"/></r></p></e>
-    <e slr="4"><p><l>genere</l><r>annoy<s n="vblex"/></r></p></e>
-    <e slr="5"><p><l>genere</l><r>embarrass<s n="vblex"/></r></p></e>
-    <e slr="6"><p><l>genere</l><r>hamper<s n="vblex"/></r></p></e>
-    <e slr="7"><p><l>genere</l><r>block<s n="vblex"/></r></p></e>
-    <e slr="8"><p><l>genere</l><r>obstruct<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>gratulere</l><r>congratulate<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>grille</l><r>grill<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>grise</l><r>dirty<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>grise</l><r>mess<g><b/>up</g><s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>grunde</l><r>prime<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>grunde</l><r>ground<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>grunde</l><r>found<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>grunde</l><r>base<s n="vblex"/></r></p></e>
-    <e slr="4"><p><l>grunde</l><r>establish<s n="vblex"/></r></p></e>
-    <e slr="5"><p><l>grunde</l><r>ponder<s n="vblex"/></r></p></e>
-    <e slr="6"><p><l>grunde</l><r>meditate<s n="vblex"/></r></p></e>
-    <e slr="7"><p><l>grunde</l><r>ruminate<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>halse</l><r>bark<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>halse</l><r>rush<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>henvise</l><r>refer<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>høre</l><r>hear<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>hoste</l><r>cough<s n="vblex"/></r></p></e><!--(onomatopoeia)-->
-    <e slr="1"><p><l>hoste</l><r>host<s n="vblex"/></r></p></e><!--(computing)-->
-    <e c="  0"><p><l>hue</l><r>please<s n="vblex"/></r></p></e><!--(transitive)-->
-    <e c="  0"><p><l>hytte</l><r>protect<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>hytte</l><r>shelter<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>ile</l><r>hurry<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>ile</l><r>hasten<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>intensivere</l><r>intensify<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>interessere</l><r>interest<s n="vblex"/></r></p></e><!--(to attract attention or concern)-->
-    <e c="  0"><p><l>jatte</l><r>agree<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>jodle</l><r>yodel<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>kile</l><r>wedge<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>kjenne</l><r>know<s n="vblex"/></r></p></e><!--(be acquainted or familiar with)-->
-    <e c="  0"><p><l>klovne</l><r>clown<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>kneppe</l><r>fuck<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>kokettere</l><r>coquet<s n="vblex"/></r></p></e><!--(intransitive)-->
-    <e c="  0"><p><l>kondolere</l><r>commiserate<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>kontakte</l><r>contact<s n="vblex"/></r></p></e><!--(establish communication with)-->
-    <e c="  0"><p><l>kremte</l><r>cough<s n="vblex"/></r></p></e><!--(onomatopoeia) clear one's throat-->
-    <e c="  0"><p><l>kringkaste</l><r>broadcast<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>kule</l><r>pit<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>kure</l><r>slide<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>kure</l><r>slither<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>lake</l><r>pickle<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>lave</l><r>make<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>lave</l><r>create<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>lave</l><r>construct<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>lave</l><r>produce<s n="vblex"/></r></p></e>
-    <e slr="4"><p><l>lave</l><r>cook<s n="vblex"/></r></p></e>
-    <e slr="5"><p><l>lave</l><r>prepare<s n="vblex"/></r></p></e>
-    <e slr="6"><p><l>lave</l><r>do<s n="vblex"/></r></p></e>
-    <e slr="7"><p><l>lave</l><r>repair<s n="vblex"/></r></p></e>
-    <e slr="8"><p><l>lave</l><r>mend<s n="vblex"/></r></p></e>
-    <e slr="9"><p><l>lave</l><r>fix<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>legere</l><r>alloy<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>lespe</l><r>lisp<s n="vblex"/></r></p></e><!--(onomatopoeia) -->
-    <e c="  0"><p><l>lime</l><r>glue<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>live</l><r>enliven<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>lune</l><r>warm<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>lunte</l><r>walk<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>lyske</l><r>louse<s n="vblex"/></r></p></e><!--(rare) louse to remove lice from the body of a person or animal)-->
-    <e c="  0"><p><l>marsjere</l><r>march<s n="vblex"/></r></p></e><!--(walk)-->
-    <e c="  0"><p><l>memorere</l><r>memorise<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>mobbe</l><r>bully<s n="vblex"/></r></p></e><!--(to intimidate)-->
-    <e slr="1"><p><l>mobbe</l><r>victimise<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>mobbe</l><r>gang<g><b/>up<b/>on</g><s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>mørne</l><r>tenderise<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>mørne</l><r>become<g><b/>tender</g><s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>mørne</l><r>crumble<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>mørne</l><r>perish<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>mule</l><r>pommel<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>mule</l><r>pummel<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>mule</l><r>pound<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>mule</l><r>lick<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>onanere</l><r>masturbate<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>overvåke</l><r>monitor<s n="vblex"/></r></p></e><!--(watch over)-->
-    <e slr="1"><p><l>overvåke</l><r>guard<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>perforere</l><r>perforate<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>plombere</l><r>seal<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>plombere</l><r>fill<s n="vblex"/></r></p></e><!--(dentistry)-->
-    <e c="  0"><p><l>prute</l><r>haggle<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>putte</l><r>set<s n="vblex"/></r></p></e><!--(to put something down)-->
-    <e c="  0"><p><l>rakne</l><r>fray<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>rakne</l><r>unravel<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>redigere</l><r>edit<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>redigere</l><r>copy<g><b/>edit</g><s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>redigere</l><r>redact<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>remje</l><r>bawl<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>remje</l><r>bellow<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>sjonglere</l><r>juggle<s n="vblex"/></r></p></e><!--(manipulate objects artistically)-->
-    <e c="  0"><p><l>skjerme</l><r>shield<s n="vblex"/></r></p></e><!--(to protect)-->
-    <e slr="1"><p><l>skjerme</l><r>defend<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>skotte</l><r>glance<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>skravere</l><r>hatch<s n="vblex"/></r></p></e><!--(Bokmål) To hatch shade an area of a figure-->
-    <e c="  0"><p><l>skulke</l><r>skive<s n="vblex"/></r></p></e><!--(to not go to school)-->
-    <e c="  0"><p><l>sne</l><r>snow<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>snorke</l><r>snore<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>spidde</l><r>pierce<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>spidde</l><r>spear<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>spidde</l><r>impale<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>spidde</l><r>skewer<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>spørre</l><r>ask<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>sprade</l><r>prance<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>supplere</l><r>supplement<s n="vblex"/></r></p></e><!--(to provide or make a supplement to something)-->
-    <e slr="1"><p><l>supplere</l><r>complement<s n="vblex"/></r></p></e><!--(to provide what the partner lacks and lack what the partner provides)-->
-    <e c="  0"><p><l>sutte</l><r>suck<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>syde</l><r>sizzle<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>syde</l><r>fizz<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>syde</l><r>seethe<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>te</l><r>behave<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>tekste</l><r>subtitle<s n="vblex"/></r></p></e><!--(film)-->
-    <e slr="1"><p><l>tekste</l><r>text<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>tenne</l><r>burn<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>tenne</l><r>light<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>testamentere</l><r>will<s n="vblex"/></r></p></e><!--(to bequeath)-->
-    <e c="  0"><p><l>teste</l><r>test<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>tine</l><r>thaw<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>tisse</l><r>pee<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>tisse</l><r>piddle<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>traske</l><r>trudge<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>traske</l><r>plod<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>traske</l><r>slog<s n="vblex"/></r></p></e><!--(to walk heavily and laboriously with slow steps)-->
-    <e c="  0"><p><l>trenge</l><r>need<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>trille</l><r>trill<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>tru</l><r>think<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>tru</l><r>believe<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>tru</l><r>imagine<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>tru</l><r>suppose<s n="vblex"/></r></p></e>
-    <e slr="4"><p><l>tru</l><r>have<g><b/>faith</g><s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>undervurdere</l><r>underestimate<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>viske</l><r>wipe<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>viske</l><r>rub<s n="vblex"/></r></p></e>
-    <e c="  0"><p><l>vrikke</l><r>wriggle<s n="vblex"/></r></p></e>
+    <e c="  0"><p><l>abonnere</l><r>subscribe<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ankre</l><r>anchor<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>annektere</l><r>annex<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ape</l><r>mimic<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>ape</l><r>imitate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>ape</l><r>ape<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>bable</l><r>babble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>bidra</l><r>contribute<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to give something)-->
+    <e c="  0"><p><l>blingse</l><r>glance<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>blive</l><r>become<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>brune</l><r>brown<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>brygge</l><r>brew<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>busse</l><r>bus<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to transport via a motor bus)-->
+    <e c="  0"><p><l>byde</l><r>order<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>byde</l><r>command<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dabbe</l><r>diminish<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>dabbe</l><r>decline<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>dabbe</l><r>slacken<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>demontere</l><r>dismantle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>demontere</l><r>defuse<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>demontere</l><r>disassemble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dressere</l><r>train<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(an animal)-->
+    <e c="  0"><p><l>drille</l><r>tease<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>drille</l><r>kid<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>drille</l><r>banter<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>duellere</l><r>duel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dysse</l><r>lull<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>dysse</l><r>calm<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>filetere</l><r>fillet<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>finne</l><r>find<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>flambere</l><r>flambé<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to add and ignite alcohol to food)-->
+    <e c="  0"><p><l>flyge</l><r>fly<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>flyge</l><r>rush<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>flyge</l><r>dash<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>flyge</l><r>dart<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>føde</l><r>feed<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>føde</l><r>support<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>føde</l><r>bear<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>føde</l><r>give<g><b/>birth</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>føle</l><r>feel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>føle</l><r>sense<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forelske</l><r>fall<g><b/>in<b/>love</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(reflexive)-->
+    <e c="  0"><p><l>forfremme</l><r>promote<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forlegge</l><r>misplace<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(putting something somewhere)-->
+    <e slr="1"><p><l>forlegge</l><r>deploy<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>forlegge</l><r>station<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>forlegge</l><r>relocate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forsake</l><r>give<g><b/>up</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>forsake</l><r>relinquish<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>forsake</l><r>denounce<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(the devil)-->
+    <e c="  0"><p><l>frakte</l><r>transport<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(goods)-->
+    <e c="  0"><p><l>genere</l><r>bother<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>genere</l><r>trouble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>genere</l><r>disturb<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>genere</l><r>inconvenience<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="4"><p><l>genere</l><r>annoy<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="5"><p><l>genere</l><r>embarrass<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="6"><p><l>genere</l><r>hamper<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="7"><p><l>genere</l><r>block<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="8"><p><l>genere</l><r>obstruct<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>gratulere</l><r>congratulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>grille</l><r>grill<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>grise</l><r>dirty<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>grise</l><r>mess<g><b/>up</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>grunde</l><r>prime<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>grunde</l><r>ground<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>grunde</l><r>found<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>grunde</l><r>base<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="4"><p><l>grunde</l><r>establish<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="5"><p><l>grunde</l><r>ponder<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="6"><p><l>grunde</l><r>meditate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="7"><p><l>grunde</l><r>ruminate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>halse</l><r>bark<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>halse</l><r>rush<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>henvise</l><r>refer<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>høre</l><r>hear<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>hoste</l><r>cough<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(onomatopoeia)-->
+    <e slr="1"><p><l>hoste</l><r>host<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(computing)-->
+    <e c="  0"><p><l>hue</l><r>please<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(transitive)-->
+    <e c="  0"><p><l>hytte</l><r>protect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>hytte</l><r>shelter<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ile</l><r>hurry<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>ile</l><r>hasten<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>intensivere</l><r>intensify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>interessere</l><r>interest<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to attract attention or concern)-->
+    <e c="  0"><p><l>jatte</l><r>agree<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>jodle</l><r>yodel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kile</l><r>wedge<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kjenne</l><r>know<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(be acquainted or familiar with)-->
+    <e c="  0"><p><l>klovne</l><r>clown<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kneppe</l><r>fuck<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kokettere</l><r>coquet<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(intransitive)-->
+    <e c="  0"><p><l>kondolere</l><r>commiserate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kontakte</l><r>contact<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(establish communication with)-->
+    <e c="  0"><p><l>kremte</l><r>cough<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(onomatopoeia) clear one's throat-->
+    <e c="  0"><p><l>kringkaste</l><r>broadcast<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kule</l><r>pit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kure</l><r>slide<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>kure</l><r>slither<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lake</l><r>pickle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lave</l><r>make<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>lave</l><r>create<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>lave</l><r>construct<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>lave</l><r>produce<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="4"><p><l>lave</l><r>cook<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="5"><p><l>lave</l><r>prepare<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="6"><p><l>lave</l><r>do<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="7"><p><l>lave</l><r>repair<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="8"><p><l>lave</l><r>mend<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="9"><p><l>lave</l><r>fix<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>legere</l><r>alloy<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lespe</l><r>lisp<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(onomatopoeia) -->
+    <e c="  0"><p><l>lime</l><r>glue<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>live</l><r>enliven<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lune</l><r>warm<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lunte</l><r>walk<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lyske</l><r>louse<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(rare) louse to remove lice from the body of a person or animal)-->
+    <e c="  0"><p><l>marsjere</l><r>march<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(walk)-->
+    <e c="  0"><p><l>memorere</l><r>memorise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>mobbe</l><r>bully<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to intimidate)-->
+    <e slr="1"><p><l>mobbe</l><r>victimise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>mobbe</l><r>gang<g><b/>up<b/>on</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>mørne</l><r>tenderise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>mørne</l><r>become<g><b/>tender</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>mørne</l><r>crumble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>mørne</l><r>perish<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>mule</l><r>pommel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>mule</l><r>pummel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>mule</l><r>pound<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>mule</l><r>lick<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>onanere</l><r>masturbate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>overvåke</l><r>monitor<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(watch over)-->
+    <e slr="1"><p><l>overvåke</l><r>guard<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>perforere</l><r>perforate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>plombere</l><r>seal<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>plombere</l><r>fill<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(dentistry)-->
+    <e c="  0"><p><l>prute</l><r>haggle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>putte</l><r>set<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to put something down)-->
+    <e c="  0"><p><l>rakne</l><r>fray<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>rakne</l><r>unravel<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>redigere</l><r>edit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>redigere</l><r>copy<g><b/>edit</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>redigere</l><r>redact<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>remje</l><r>bawl<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>remje</l><r>bellow<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sjonglere</l><r>juggle<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(manipulate objects artistically)-->
+    <e c="  0"><p><l>skjerme</l><r>shield<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to protect)-->
+    <e slr="1"><p><l>skjerme</l><r>defend<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skotte</l><r>glance<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skravere</l><r>hatch<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(Bokmål) To hatch shade an area of a figure-->
+    <e c="  0"><p><l>skulke</l><r>skive<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to not go to school)-->
+    <e c="  0"><p><l>sne</l><r>snow<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>snorke</l><r>snore<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>spidde</l><r>pierce<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>spidde</l><r>spear<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>spidde</l><r>impale<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>spidde</l><r>skewer<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>spørre</l><r>ask<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sprade</l><r>prance<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>supplere</l><r>supplement<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to provide or make a supplement to something)-->
+    <e slr="1"><p><l>supplere</l><r>complement<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to provide what the partner lacks and lack what the partner provides)-->
+    <e c="  0"><p><l>sutte</l><r>suck<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>syde</l><r>sizzle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>syde</l><r>fizz<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>syde</l><r>seethe<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>te</l><r>behave<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tekste</l><r>subtitle<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(film)-->
+    <e slr="1"><p><l>tekste</l><r>text<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tenne</l><r>burn<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>tenne</l><r>light<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>testamentere</l><r>will<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to bequeath)-->
+    <e c="  0"><p><l>teste</l><r>test<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tine</l><r>thaw<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tisse</l><r>pee<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>tisse</l><r>piddle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>traske</l><r>trudge<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>traske</l><r>plod<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>traske</l><r>slog<s n="vblex"/></r></p><par n="vblex_vblex"/></e><!--(to walk heavily and laboriously with slow steps)-->
+    <e c="  0"><p><l>trenge</l><r>need<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>trille</l><r>trill<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tru</l><r>think<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>tru</l><r>believe<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>tru</l><r>imagine<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="3"><p><l>tru</l><r>suppose<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="4"><p><l>tru</l><r>have<g><b/>faith</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>undervurdere</l><r>underestimate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>viske</l><r>wipe<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>viske</l><r>rub<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>vrikke</l><r>wriggle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
+    <e c="  0"><p><l>oppløse</l><r>dissolve<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
  
     <!-- SECTION: Interjections -->
