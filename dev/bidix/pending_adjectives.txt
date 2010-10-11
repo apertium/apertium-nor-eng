@@ -827,7 +827,6 @@
       2 ^@perle<adj>$
       2 ^@pendle<adj>$
       2 ^@peke<adj>$
-      2 ^@påby<adj>$
       2 ^@overrumple<adj>$
       2 ^@overlegge<adj>$
       2 ^@overlappe<adj>$
@@ -846,7 +845,6 @@
       2 ^@lure<adj>$
       2 ^@logre<adj>$
       2 ^@krisepsykiatrisk<adj>$
-      2 ^@krasje<adj>$
       2 ^@krangle<adj>$
       2 ^@kopiere<adj>$
       2 ^@konkludere<adj>$
@@ -856,14 +854,11 @@
       2 ^@klatre<adj>$
       2 ^@irettesette<adj>$
       2 ^@inspisere<adj>$
-      2 ^@innrette<adj>$
       2 ^@hytte<adj>$
       2 ^@hypnotisere<adj>$
       2 ^@hvine<adj>$
       2 ^@humre<adj>$
-      2 ^@hugge<adj>$
       2 ^@hoie<adj>$
-      2 ^@herde<adj>$
       2 ^@hemmeligstemple<adj>$
       2 ^@helfrelst<adj>$
       2 ^@harselere<adj>$
@@ -878,14 +873,10 @@
       2 ^@frappere<adj>$
       2 ^@fotografere<adj>$
       2 ^@fosse<adj>$
-      2 ^@forverre<adj>$
       2 ^@fortære<adj>$
-      2 ^@forstuve<adj>$
       2 ^@fornye<adj>$
       2 ^@formidle<adj>$
       2 ^@formane<adj>$
-      2 ^@forhøye<adj>$
-      2 ^@forherde<adj>$
       2 ^@forelske<adj>$
       2 ^@forderve<adj>$
       2 ^@fomle<adj>$
@@ -903,26 +894,19 @@
       2 ^@divertere<adj>$
       2 ^@debutere<adj>$
       2 ^@byråkratisere<adj>$
-      2 ^@buste<adj>$
       2 ^@buldre<adj>$
       2 ^@bråke<adj>$
       2 ^@brake<adj>$
-      2 ^@blotte<adj>$
       2 ^@blåse<adj>$
       2 ^@blankslite<adj>$
-      2 ^@blankpusse<adj>$
       2 ^@bevisstgjøre<adj>$
       2 ^@bevege<adj>$
       2 ^@beredvillig<adj>$
-      2 ^@beordre<adj>$
       2 ^@belære<adj>$
       2 ^@avverge<adj>$
       2 ^@avstresse<adj>$
-      2 ^@avkrefte<adj>$
-      2 ^@avbryte<adj>$
       2 ^@avbilde<adj>$
       2 ^@aspirere<adj>$
-      2 ^@anslå<adj>$
       2 ^@anklage<adj>$
       2 ^@akselerere<adj>$
       1 ^@vurdere<adj>$
@@ -932,18 +916,12 @@
       1 ^@vinke<adj>$
       1 ^@vide<adj>$
       1 ^@vestnorsk<adj>$
-      1 ^@verve<adj>$
       1 ^@ven<adj>$
       1 ^@velte<adj>$
       1 ^@velsigne<adj>$
       1 ^@velpreparert<adj>$
       1 ^@vekke<adj>$
-      1 ^@vege<adj>$
-      1 ^@vansmekte<adj>$
-      1 ^@vannkjemme<adj>$
       1 ^@vanære<adj>$
-      1 ^@utveksle<adj>$
-      1 ^@utvanne<adj>$
       1 ^@utvandre<adj>$
       1 ^@utslette<adj>$
       1 ^@utprøve<adj>$
@@ -953,16 +931,12 @@
       1 ^@urnorsk<adj>$
       1 ^@unnsette<adj>$
       1 ^@underforstå<adj>$
-      1 ^@uglese<adj>$
-      1 ^@ugjøre<adj>$
       1 ^@tyvende<adj><ord>$
       1 ^@trykke<adj>$
       1 ^@trygge<adj>$
-      1 ^@trulove<adj>$
       1 ^@trulig<adj>$
       1 ^@trøtte<adj>$
       1 ^@trone<adj>$
-      1 ^@trene<adj>$
       1 ^@trålfri<adj>$
       1 ^@trafikkere<adj>$
       1 ^@trå<adj>$
@@ -971,15 +945,10 @@
       1 ^@tone<adj>$
       1 ^@tofarget<adj>$
       1 ^@tjenestefri<adj>$
-      1 ^@tippe<adj>$
       1 ^@tiltre<adj>$
-      1 ^@tilspisse<adj>$
-      1 ^@tilnærme<adj>$
       1 ^@tilgi<adj>$
-      1 ^@tidfeste<adj>$
       1 ^@terminfeste<adj>$
       1 ^@teknisk-naturvitenskapelig<adj>$
-      1 ^@tegne<adj>$
       1 ^@taue<adj>$
       1 ^@tasse<adj>$
       1 ^@tallfeste<adj>$
@@ -998,7 +967,6 @@
       1 ^@styrke<adj>$
       1 ^@stuve<adj>$
       1 ^@strigråte<adj>$
-      1 ^@strigle<adj>$
       1 ^@strene<adj>$
       1 ^@streife<adj>$
       1 ^@stotre<adj>$
@@ -1006,7 +974,6 @@
       1 ^@sterilisere<adj>$
       1 ^@startklar<adj>$
       1 ^@starte<adj>$
-      1 ^@stadfeste<adj>$
       1 ^@sprette<adj>$
       1 ^@sprenge<adj>$
       1 ^@spore<adj>$
@@ -1014,12 +981,10 @@
       1 ^@spinne<adj>$
       1 ^@spile<adj>$
       1 ^@spidde<adj>$
-      1 ^@spesialtilpasse<adj>$
       1 ^@spane<adj>$
       1 ^@spalte<adj>$
       1 ^@sosialisere<adj>$
       1 ^@snirkle<adj>$
-      1 ^@snerpe<adj>$
       1 ^@smertelig<adj><sup>$
       1 ^@smerte<adj>$
       1 ^@småprate<adj>$
@@ -1027,14 +992,12 @@
       1 ^@sløve<adj>$
       1 ^@slime<adj>$
       1 ^@slenge<adj>$
-      1 ^@slaske<adj>$
       1 ^@slamre<adj>$
       1 ^@skratte<adj>$
       1 ^@skråne<adj>$
       1 ^@skråle<adj>$
       1 ^@skingre<adj>$
       1 ^@skimre<adj>$
-      1 ^@skilte<adj>$
       1 ^@skikke<adj>$
       1 ^@skarpskodd<adj>$
       1 ^@skade<adj>$
@@ -1049,10 +1012,8 @@
       1 ^@sammenlikne<adj>$
       1 ^@sammenligne<adj>$
       1 ^@rygge<adj>$
-      1 ^@ruske<adj>$
       1 ^@rushe<adj>$
       1 ^@ruse<adj>$
-      1 ^@rugle<adj>$
       1 ^@rope<adj>$
       1 ^@roe<adj>$
       1 ^@rocke<adj>$
@@ -1068,7 +1029,6 @@
       1 ^@reflektere<adj>$
       1 ^@redusere<adj>$
       1 ^@raute<adj>$
-      1 ^@raspe<adj>$
       1 ^@raske<adj>$
       1 ^@rappe<adj>$
       1 ^@råflire<adj>$
@@ -1093,11 +1053,7 @@
       1 ^@ørte<adj>$
       1 ^@orientere<adj>$
       1 ^@opptre<adj>$
-      1 ^@opprettholde<adj>$
-      1 ^@oppdrive<adj>$
       1 ^@oppdage<adj>$
-      1 ^@omskrive<adj>$
-      1 ^@omhandle<adj>$
       1 ^@offervillig<adj>$
       1 ^@observere<adj>$
       1 ^@nyte<adj>$
@@ -1109,24 +1065,19 @@
       1 ^@murre<adj>$
       1 ^@motta<adj>$
       1 ^@motebevisst<adj>$
-      1 ^@mørbanke<adj>$
       1 ^@moralisere<adj>$
-      1 ^@minelegge<adj>$
       1 ^@mime<adj>$
       1 ^@mette<adj>$
       1 ^@mene<adj>$
       1 ^@mangefarget<adj>$
-      1 ^@løsrive<adj>$
       1 ^@losjere<adj>$
       1 ^@lørdagsfri<adj>$
       1 ^@lokke<adj>$
       1 ^@ljome<adj>$
       1 ^@like<adj>$
       1 ^@leie<adj>$
-      1 ^@latterliggjøre<adj>$
       1 ^@langfri<adj>$
       1 ^@lalle<adj>$
-      1 ^@lagre<adj>$
       1 ^@lære<adj>$
       1 ^@labbe<adj>$
       1 ^@kverulere<adj>$
@@ -1149,8 +1100,6 @@
       1 ^@kompensere<adj>$
       1 ^@kommentere<adj>$
       1 ^@kollidere<adj>$
-      1 ^@kollapse<adj>$
-      1 ^@knusle<adj>$
       1 ^@knurre<adj>$
       1 ^@knise<adj>$
       1 ^@knirke<adj>$
@@ -1159,7 +1108,6 @@
       1 ^@knaske<adj>$
       1 ^@knapp<adj>$
       1 ^@klunke<adj>$
-      1 ^@klumse<adj>$
       1 ^@kløfte<adj>$
       1 ^@kline<adj>$
       1 ^@klapre<adj>$
@@ -1169,7 +1117,6 @@
       1 ^@kaste<adj>$
       1 ^@kakle<adj>$
       1 ^@jumpe<adj>$
-      1 ^@jukse<adj>$
       1 ^@jubilere<adj>$
       1 ^@jernbeslått<adj>$
       1 ^@jamme<adj>$
@@ -1179,12 +1126,10 @@
       1 ^@invalidisere<adj>$
       1 ^@innstille<adj>$
       1 ^@innskrenke<adj>$
-      1 ^@innskjerpe<adj>$
-      1 ^@inngjerde<adj>$
       1 ^@inderlig<adj><sup>$
       1 ^@idyllisere<adj>$
-      1 ^@hvitvaske<adj>$
       1 ^@hulke<adj>$
+      1 ^@hugge<adj>$
       1 ^@høytidelig<adj><sup>$
       1 ^@høvle<adj>$
       1 ^@hjemmevant<adj>$
@@ -1192,10 +1137,7 @@
       1 ^@hikste<adj>$
       1 ^@heroisere<adj>$
       1 ^@herje<adj>$
-      1 ^@henlegge<adj>$
-      1 ^@hengsle<adj>$
       1 ^@helbrede<adj>$
-      1 ^@hekle<adj>$
       1 ^@harmonisere<adj>$
       1 ^@hardtrampe<adj>$
       1 ^@handikappe<adj>$
@@ -1204,7 +1146,6 @@
       1 ^@gyte<adj>$
       1 ^@gurgle<adj>$
       1 ^@gulne<adj>$
-      1 ^@guide<adj>$
       1 ^@grense<adj>$
       1 ^@grave<adj>$
       1 ^@godkjenne<adj>$
@@ -1221,32 +1162,22 @@
       1 ^@fundere<adj>$
       1 ^@fryse<adj>$
       1 ^@fosforisere<adj>$
-      1 ^@forville<adj>$
-      1 ^@forveksle<adj>$
       1 ^@forvalte<adj>$
-      1 ^@forundre<adj>$
       1 ^@forsure<adj>$
       1 ^@forskrekke<adj>$
-      1 ^@forpeste<adj>$
-      1 ^@fornorske<adj>$
       1 ^@formørke<adj>$
       1 ^@forlange<adj>$
-      1 ^@forkvakle<adj>$
       1 ^@forholde<adj>$
       1 ^@forhandle<adj>$
       1 ^@forgå<adj>$
       1 ^@forflate<adj>$
       1 ^@forfjamse<adj>$
       1 ^@foredle<adj>$
-      1 ^@forankre<adj>$
       1 ^@fnyse<adj>$
       1 ^@fnise<adj>$
       1 ^@flørte<adj>$
-      1 ^@floke<adj>$
       1 ^@flø<adj>$
-      1 ^@fliselegge<adj>$
       1 ^@fiske<adj>$
-      1 ^@finsikte<adj>$
       1 ^@filosofere<adj>$
       1 ^@fettfri<adj>$
       1 ^@fete<adj>$
@@ -1255,7 +1186,6 @@
       1 ^@feilinformere<adj>$
       1 ^@favne<adj>$
       1 ^@fastmontert<adj>$
-      1 ^@fargelegge<adj>$
       1 ^@fantasere<adj>$
       1 ^@falme<adj>$
       1 ^@fabrikkny<adj>$
@@ -1278,30 +1208,23 @@
       1 ^@debattere<adj>$
       1 ^@chartre<adj>$
       1 ^@bykse<adj>$
-      1 ^@bulke<adj>$
       1 ^@bue<adj>$
       1 ^@brøyte<adj>$
       1 ^@bøtelegge<adj>$
       1 ^@bortforklare<adj>$
-      1 ^@booke<adj>$
       1 ^@bønnfalle<adj>$
-      1 ^@bombe<adj>$
       1 ^@bokse<adj>$
       1 ^@blunke<adj>$
       1 ^@blokkere<adj>$
-      1 ^@blære<adj>$
       1 ^@bivre<adj>$
       1 ^@bevre<adj>$
-      1 ^@beskatte<adj>$
       1 ^@beruse<adj>$
       1 ^@belegge<adj>$
       1 ^@beklage<adj>$
-      1 ^@befrukte<adj>$
       1 ^@befale<adj>$
       1 ^@balansere<adj>$
       1 ^@avkjøle<adj>$
       1 ^@avføre<adj>$
-      1 ^@avfolke<adj>$
       1 ^@avfeie<adj>$
       1 ^@århundrelang<adj>$
       1 ^@ape<adj>$
