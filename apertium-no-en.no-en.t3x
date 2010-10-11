@@ -24,6 +24,13 @@
       <attr-item tags="sp"/>
       <attr-item tags="ND"/>
     </def-attr>
+    <def-attr n="a_verb">
+      <attr-item tags="vaux"/>
+      <attr-item tags="vbser"/>
+      <attr-item tags="vbhaver"/>
+      <attr-item tags="vbmod"/>
+      <attr-item tags="vblex"/>
+    </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
       <attr-item tags="np"/>
@@ -71,6 +78,10 @@
         <choose>
           <when>
             <test><and>
+              <not><equal>
+                <clip pos="1" part="a_verb"/>
+                <lit-tag v="vaux"/>
+              </equal></not>
               <equal>
                 <clip pos="0" part="pers"/>
                 <lit-tag v="p3"/>

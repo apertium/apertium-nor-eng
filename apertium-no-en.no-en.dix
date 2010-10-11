@@ -7380,6 +7380,11 @@
 <e c="  0"><p><l>nonneorden<s n="n"/><s n="m"/></l><r>religious<b/>order<s n="n"/></r></p></e>
 <e c="  0"><p><l>australier<s n="n"/><s n="m"/></l><r>Australian<s n="n"/></r></p></e>
 <e c="  0"><p><l>kontrovers<s n="n"/><s n="m"/></l><r>controversy<s n="n"/></r></p></e>
+<e c="  0"><p><l>kompleksitet<s n="n"/><s n="m"/></l><r>complexity<s n="n"/></r></p></e>
+<e c="  0"><p><l>biosfære<s n="n"/><s n="m"/></l><r>biosphere<s n="n"/></r></p></e>
+<e c="  0"><p><l>betegnelse<s n="n"/><s n="m"/></l><r>description<s n="n"/></r></p></e>
+<e slr="1"><p><l>betegnelse<s n="n"/><s n="m"/></l><r>designation<s n="n"/></r></p></e>
+<e slr="2"><p><l>betegnelse<s n="n"/><s n="m"/></l><r>term<s n="n"/></r></p></e>
 <e c="  0"><p><l>kongregasjon<s n="n"/><s n="m"/></l><r>congregation<s n="n"/></r></p></e>
 <e c="  0"><p><l>kommune<s n="n"/><s n="m"/></l><r>municipality<s n="n"/><s n="m"/></r></p></e>
 <e c="  0"><p><l>være<s n="n"/><s n="nt"/></l><r>existence<s n="n"/><s n="nt"/></r></p></e>
@@ -15031,8 +15036,8 @@
     <e slr="4"><p><l>snart<s n="adv"/></l><r>off<s n="adv"/></r></p></e>
     <e c="  0"><p><l>i<b/>morgen<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
     <e c="  0"><p><l>ille<s n="adv"/></l><r>badly<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>altså<s n="adv"/></l><r>accordingly<s n="adv"/></r></p></e>
-    <e slr="1"><p><l>altså<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>altså<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>altså<s n="adv"/></l><r>accordingly<s n="adv"/></r></p></e>
     <e slr="2"><p><l>altså<s n="adv"/></l><r>consequently<s n="adv"/></r></p></e>
     <e slr="3"><p><l>altså<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
     <e slr="4"><p><l>altså<s n="adv"/></l><r>in<b/>other<b/>words<s n="adv"/></r></p></e>
@@ -15711,6 +15716,7 @@
 <e r="LR" c="  0 make it there"><p><l>rekke</l><r>make<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>rekke</l><r>reach<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="2"><p><l>rekke</l><r>range<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e slr="3"><p><l>rekke</l><r>hand<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>rehabilitere</l><r>*rehabilitate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>regulere</l><r>regulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>reflektere</l><r>reflect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -17517,7 +17523,8 @@
     <e c="  0"><p><l>de</l><r>they<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>de</l><r>them<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>olje</l><r>oil<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e c="  0"><p><l>omgi</l><r>girdle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>omgi</l><r>surround<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>omgi</l><r>girdle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>omringe</l><r>hem<g><b/>in</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>oppe</l><r>upstairs<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>oppe</l><r>on<g><b/>top</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -17547,7 +17554,6 @@
     <e slr="1"><p><l>pryde</l><r>adorn<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>ramme</l><r>frame<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>ramme</l><r>hit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e c="  0"><p><l>rekke</l><r>hand<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>renne</l><r>gully<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>rense</l><r>hull<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>rense</l><r>fan<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
