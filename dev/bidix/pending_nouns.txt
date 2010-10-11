@@ -2632,7 +2632,6 @@
      12 ^@avgiftssystem<n>$
      12 ^@avgiftsnivå<n>$
      12 ^@avbrudd<n>$
-     12 ^@australier<n>$
      12 ^@au<n>$
      12 ^@arkitektkonkurranse<n>$
      12 ^@arbeidskapasitet<n>$
@@ -5270,7 +5269,6 @@
       4 ^@kraftsats<n>$
       4 ^@kov<n>$
       4 ^@kosmopolitt<n>$
-      4 ^@kontrovers<n>$
       4 ^@kontrollkommisjon<n>$
       4 ^@kontraktør<n>$
       4 ^@kontrabassist<n>$
@@ -10033,7 +10031,6 @@
       1 ^@konsesjonær<n>$
       1 ^@konsertpianist<n>$
       1 ^@konjunkturpolitikk<n>$
-      1 ^@kongregasjon<n>$
       1 ^@kongle<n>$
       1 ^@kongedømme<n>$
       1 ^@konfirmasjonsdress<n>$

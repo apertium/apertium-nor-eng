@@ -207,7 +207,6 @@
     159 ^@Ingeborg<np>$
     159 ^@Hafstad<np><top>$
     157 ^@Cecilie<np>$
-    156 ^@St<np>$
     156 ^@Inger-Lise<np>$
     155 ^@Atle<np>$
     154 ^@Beatles<np>$
@@ -2157,7 +2156,6 @@
       5 ^@Strong<np>$
       5 ^@Støstad<np>$
       5 ^@Stølan<np>$
-      5 ^@ST<np>$
       5 ^@Stina<np>$
       5 ^@Stensrud<np><top>$
       5 ^@Stenseth<np><top>$

@@ -1,7 +1,6 @@
    5608 ^@der<pr>$
    4336 ^@her<pr>$
    3422 ^@inn i<pr>$
-   2685 ^@sammen med<pr>$
    2349 ^@foran<pr>$
    1841 ^@ute<pr>$
    1541 ^@innen<pr>$
@@ -47,7 +46,6 @@
      94 ^@vedrørende<pr>$
      91 ^@hen<pr>$
      91 ^@akter<pr>$
-     90 ^@innad<pr>$
      88 ^@framme<pr>$
      86 ^@fremfor<pr>$
      85 ^@utendørs<pr>$
