@@ -238,6 +238,7 @@
     <e c="  0"><p><l>overfor<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
     <e c="  0"><p><l>uten<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
     <e c="  0"><p><l>ut<s n="pr"/></l><r>out<s n="pr"/></r></p></e><!-- (direction)-->
+
     <e c="  0"><p><l>ved<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
     <e slr="1"><p><l>ved<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
     <e slr="2"><p><l>ved<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
@@ -5417,7 +5418,7 @@
 <e slr="1"><p><l>sannhet<s n="n"/></l>       <r>verity<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>sans<s n="n"/><s n="m"/></l><r>sense<s n="n"/></r></p></e>
 <e>        <p><l>sansing<s n="n"/></l>       <r>sense<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e>        <p><l>sanskrit<s n="n"/><s n="nt"/></l>       <r>sanskrit<s n="n"/></r></p></e>
+<e>        <p><l>sanskrit<s n="n"/><s n="nt"/></l>       <r>Sanskrit<s n="n"/></r></p></e>
 <e>        <p><l>sardin<s n="n"/><s n="m"/></l><r>sardine<s n="n"/></r></p></e>
 <e>        <p><l>sarkasme<s n="n"/><s n="m"/></l><r>sarcasm<s n="n"/></r></p></e>
 <e>        <p><l>satellitt<s n="n"/><s n="m"/></l><r>satellite<s n="n"/></r></p></e>
@@ -6918,7 +6919,7 @@
 <e slr="3"><p><l>utdrag<s n="n"/><s n="nt"/></l><r>abridgement<s n="n"/></r></p></e>
 <e slr="4"><p><l>utdrag<s n="n"/><s n="nt"/></l><r>synopsis<s n="n"/></r></p></e>
 <e>        <p><l>utdrikkingslag<s n="n"/><s n="nt"/></l><r>stag-party<s n="n"/></r></p></e>
-<e>        <p><l>utenriksminister<s n="n"/><s n="m"/></l><r>minister<b/>of<b/>Foreign<b/>Affairs<s n="n"/></r></p></e>
+<e>        <p><l>utenriksminister<s n="n"/><s n="m"/></l><r>minister<g><b/>of<b/>foreign<b/>affairs</g><s n="n"/></r></p></e>
 <e>        <p><l>utfall<s n="n"/><s n="nt"/></l><r>outcome<s n="n"/></r></p></e>
 <e>        <p><l>utfordring<s n="n"/></l>    <r>challenge<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>utforskning<s n="n"/><s n="m"/></l><r>exploration<s n="n"/></r></p></e>

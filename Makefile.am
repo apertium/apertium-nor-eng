@@ -48,8 +48,10 @@ $(PREFIX1).lex.bin: $(BASENAME).$(PREFIX1).lex
 	cg-comp $(BASENAME).$(PREFIX1).lex $@
 
 $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
-	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-	lt-comp lr $(BASENAME).$(PREFIX1).dix $@
+	if [ ! -d .deps ]; then mkdir .deps; fi
+	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > .deps/$(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary .deps/$(BASENAME).$(PREFIX1).dix
+	lt-comp lr .deps/$(BASENAME).$(PREFIX1).dix $@
 
 $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x
