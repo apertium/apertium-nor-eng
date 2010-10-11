@@ -23,7 +23,7 @@ cat $INPUT | grep '@' | grep '<num>'  | sed 's/<sg>//g' | sed 's/<pl>//g' | sed 
 
 cat $INPUT | grep '@' | grep '<np>'  | sed 's/<sg>//g' | sed 's/<pl>//g' | sed 's/^\W*\^/^/g' | sort -f | uniq -c  | sort -gr  | grep -v '[0-9] $' > $DEV/pending_proper_nouns.txt
 
-cat $INPUT | grep '@' | grep '<cnj'  | sed 's/<sg>//g' | sed 's/<pl>//g' |sed 's/[Ëë]//g' | sh ~/scripts/lowercash.sh | sed 's/^\W*\^/^/g' | sort -f | uniq -c  | sort -gr  | grep -v '[0-9] $' > $DEV/pending_conjunctions.txt
+cat $INPUT | grep '@' | grep '<cnj'  | sed 's/<sg>//g' | sed 's/<pl>//g' |sed 's/[Ëë]//g' | sh ~/scripts/lowercase.sh | sed 's/^\W*\^/^/g' | sort -f | uniq -c  | sort -gr  | grep -v '[0-9] $' > $DEV/pending_conjunctions.txt
 
 cat $INPUT | grep '@' | grep '<det>'  | sed 's/<sg>//g' | sed 's/<pl>//g' | sed 's/[Ëë]//g'  | sed 's/^\W*\^/^/g' | sort -f | uniq -c  | sort -gr  | grep -v '[0-9] $' > $DEV/pending_determiners.txt
 
