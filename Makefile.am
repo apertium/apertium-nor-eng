@@ -87,7 +87,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1b).dix \
 apertium_no_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_modesdir=$(prefix)/share/apertium/modes/
 
-modes/$(PREFIX1b).mode: modes.xml
+modes/$(PREFIX1).mode: modes.xml
 	apertium-validate-modes modes.xml
 	apertium-gen-modes modes.xml
 	cp *.mode modes/
@@ -104,20 +104,22 @@ apertium_no_en_DATA=$(PREFIX1b).automorf.bin \
 		    $(PREFIX1).t3x.bin            \
 		    modes.xml 
 
-noinst_DATA=modes/$(PREFIX1b).mode
+noinst_DATA=modes/$(PREFIX1).mode
 
 install-data-local:
 	mv modes modes.bak
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
+	test -d $(DESTDIR)$(apertium_modesdir) || mkdir $(DESTDIR)$(apertium_modesdir)
+	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_modesdir)
+	rm $(PREFIX1).mode
 	rm -rf modes
 	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_modesdir) || mkdir $(DESTDIR)$(apertium_modesdir)
-	$(INSTALL_DATA) $(PREFIX1b).mode $(DESTDIR)$(apertium_modesdir)
-	$(INSTALL_DATA) $(PREFIX1n).mode $(DESTDIR)$(apertium_modesdir)
-	rm $(PREFIX1b).mode $(PREFIX1n).mode 
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_no_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_no_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_no_endir)
 
+# $(INSTALL_DATA) $(PREFIX1b).mode $(DESTDIR)$(apertium_modesdir)
+# $(INSTALL_DATA) $(PREFIX1n).mode $(DESTDIR)$(apertium_modesdir)
+# rm $(PREFIX1b).mode $(PREFIX1n).mode 
 
 CLEANFILES = -rf $(TARGETS_COMMON) modes .deps

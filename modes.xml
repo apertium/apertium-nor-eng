@@ -3,7 +3,7 @@
   <mode name="no-en-morph">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -11,7 +11,7 @@
   <mode name="no-en-morph-cmpd">
     <pipeline>
       <program name="lt-proc -e -w">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -20,10 +20,10 @@
   <mode name="no-en-constraint">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="no-en.rlx.bin"/>
+        <file name="nb-en.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -31,10 +31,10 @@
   <mode name="no-en-tagger">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="no-en.rlx.bin"/>
+        <file name="nb-en.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
         <file name="no-en.lex.bin"/>
@@ -48,10 +48,10 @@
   <mode name="no-en-lex">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="no-en.rlx.bin"/>
+        <file name="nb-en.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
         <file name="no-en.lex.bin"/>
@@ -62,10 +62,10 @@
   <mode name="no-en-chunker">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="no-en.rlx.bin"/>
+        <file name="nb-en.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
         <file name="no-en.lex.bin"/>
@@ -85,10 +85,10 @@
   <mode name="no-en-interchunk">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="no-en.rlx.bin"/>
+        <file name="nb-en.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
         <file name="no-en.lex.bin"/>
@@ -112,7 +112,7 @@
   <mode name="no-en-postchunk-nocg"> <!-- For generation test script -->
     <pipeline>
       <program name="lt-proc">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
         <file name="no-en.prob"/>
@@ -138,10 +138,10 @@
   <mode name="no-en-postchunk">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="no-en.rlx.bin"/>
+        <file name="nb-en.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
         <file name="no-en.lex.bin"/>
@@ -169,10 +169,10 @@
   <mode name="no-en-cmpd">
     <pipeline>
       <program name="lt-proc -e -w">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="no-en.rlx.bin"/>
+        <file name="nb-en.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
         <file name="no-en.lex.bin"/>
@@ -212,10 +212,10 @@
   <mode name="no-en" install="yes">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="no-en.automorf.bin"/>
+        <file name="nb-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="no-en.rlx.bin"/>
+        <file name="nb-en.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
         <file name="no-en.lex.bin"/>
