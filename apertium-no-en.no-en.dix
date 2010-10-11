@@ -14969,6 +14969,20 @@
     <e c="  0"><p><l>hvor<s n="adv"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e> 
     <e c="  0"><p><l>hva<s n="adv"/></l><r>what<s n="det"/><s n="itg"/><s n="sp"/></r></p></e>  <!-- WRONG -->
 
+    <e c="  0"><p><l>f.<b/>eks.<s n="adv"/></l><r>e.g.<s n="abbr"/></r></p></e>
+    <e c="  0"><p><l>f.eks.<s n="adv"/></l><r>e.g.<s n="abbr"/></r></p></e>
+    <e c="  0"><p><l>td.<s n="adv"/></l><r>e.g.<s n="abbr"/></r></p></e>
+    <e c="  0"><p><l>cf<s n="adv"/></l><r>cf<s n="abbr"/></r></p></e>
+    <e c="  0"><p><l>til<b/>dømes<s n="adv"/></l><r>for<b/>example<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>foreksempel<s n="adv"/></l><r>for<b/>example<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>de<b/>facto<s n="adv"/></l><r>de<b/>facto<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>apropos<s n="adv"/></l><r>apropos<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>cirka<s n="adv"/></l><r>circa<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>a<b/>cappella<s n="adv"/></l><r>a<b/>cappella<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>ad<b/>hoc<s n="adv"/></l><r>ad<b/>hoc<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>non<b/>stop<s n="adv"/></l><r>non<b/>stop<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>nonstop<s n="adv"/></l><r>non<b/>stop<s n="adv"/></r></p></e>
+
     <e c="  0"><p><l>ikke<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
     <e c="  0"><p><l>bra<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
     <e c="  0"><p><l>for<b/>eksempel<s n="adv"/></l><r>for<b/>example<s n="adv"/></r></p></e>
