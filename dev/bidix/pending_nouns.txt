@@ -1,76 +1,48 @@
-   9207 ^@om<n>$
-   8946 ^@trom<n>$
-   8582 ^@kan<n>$
-   6892 ^@var<n>$
-   6770 ^@nå<n>$
    6637 ^@nordlys<n>$
-   4844 ^@alt<n>$
-   4350 ^@norsk<n><sp>$
-   3685 ^@men<n>$
-   3349 ^@ville<n>$
-   3095 ^@beste<n>$
-   3083 ^@vel<n><sp>$
+   4341 ^@norsk<n><sp>$
    3055 ^@nei<n>$
    2975 ^@verd<n>$
-   2847 ^@godt<n><sp>$
-   2615 ^@disse<n>$
-   2561 ^@bør<n>$
-   2303 ^@led<n>$
-   2299 ^@ved<n>$
-   2260 ^@høyre<n><sp>$
-   2204 ^@ole<n>$
+   2510 ^@ved<n>$
+   2151 ^@høyre<n><sp>$
    2111 ^@ting<n>$
+   2089 ^@lede<n>$
    2044 ^@lit<n>$
-   2022 ^@ap<n>$
-   1890 ^@godt<n>$
+   2002 ^@ap<n>$
+   1859 ^@nord<n><sp>$
    1770 ^@lokale<n>$
-   1638 ^@sterkt<n><sp>$
-   1595 ^@klare<n>$
-   1515 ^@stille<n>$
    1501 ^@tross<n>$
-   1442 ^@best<n>$
-   1421 ^@per<n>$
-   1396 ^@ligger<n>$
-   1388 ^@tore<n>$
-   1344 ^@føre<n>$
+   1436 ^@per<n>$
+   1403 ^@ligger<n>$
+   1350 ^@føre<n>$
    1313 ^@omgang<n>$
    1269 ^@formannskap<n>$
-   1249 ^@lenge<n>$
    1237 ^@tilfelle<n>$
-   1199 ^@så<n>$
    1197 ^@ca.<n>$
-   1191 ^@flo<n>$
-   1187 ^@nord<n><sp>$
+   1196 ^@flo<n>$
    1184 ^@m.<n>$
-   1183 ^@jeg<n>$
    1181 ^@landsdel<n>$
    1173 ^@arbeidsplass<n>$
    1153 ^@kulturhus<n>$
-   1149 ^@e<n>$
-   1145 ^@får<n>$
-   1114 ^@hele<n>$
-   1092 ^@glad<n>$
+   1153 ^@hele<n>$
+   1088 ^@gjeld<n>$
    1083 ^@nordland<n>$
-   1083 ^@gjeld<n>$
    1079 ^@nm<n>$
-   1027 ^@dele<n>$
    1002 ^@økt<n>$
-    981 ^@venstre<n><sp>$
-    967 ^@framtid<n>$
-    945 ^@rette<n>$
+    966 ^@framtid<n>$
+    949 ^@rette<n>$
+    934 ^@venstre<n><sp>$
     919 ^@vm<n>$
     915 ^@solidaritet<n>$
-    911 ^@b<n><sp>$
     897 ^@nordmann<n>$
     868 ^@sei<n>$
-    860 ^@nordnorsk<n><sp>$
-    848 ^@al<n>$
+    859 ^@nordnorsk<n><sp>$
+    854 ^@al<n>$
     829 ^@pr<n>$
     824 ^@utbygging<n>$
     819 ^@arrangement<n>$
-    806 ^@samisk<n><sp>$
-    800 ^@aksjon<n>$
-    798 ^@bruk<n>$
+    805 ^@samisk<n><sp>$
+    801 ^@aksjon<n>$
+    797 ^@bruk<n>$
     757 ^@re<n>$
     754 ^@fartøy<n>$
     749 ^@kommentar<n>$
@@ -78,109 +50,108 @@
     730 ^@regle<n>$
     724 ^@utspill<n>$
     720 ^@skarp<n>$
-    714 ^@verken<n>$
-    713 ^@vist<n>$
-    709 ^@senter<n>$
-    706 ^@skrev<n>$
-    685 ^@går<n><sp>$
+    716 ^@vist<n>$
+    716 ^@skrev<n>$
+    712 ^@verken<n>$
+    710 ^@senter<n>$
+    707 ^@fall<n>$
     678 ^@cd<n>$
-    661 ^@vinne<n>$
+    668 ^@vinne<n>$
     661 ^@england<n>$
     649 ^@tilskudd<n>$
-    648 ^@vis<n>$
+    647 ^@vis<n>$
     647 ^@jo<n>$
     632 ^@satsing<n>$
     624 ^@opplegg<n>$
-    614 ^@reis<n>$
-    611 ^@gode<n>$
+    621 ^@gode<n>$
     607 ^@keeper<n>$
+    601 ^@reis<n>$
+    601 ^@lov<n><sp>$
     594 ^@arild<n><sp>$
-    588 ^@holdt<n><sp>$
     585 ^@ordførerkandidat<n>$
+    585 ^@holdt<n><sp>$
     583 ^@utgift<n>$
     578 ^@deltaker<n>$
-    573 ^@lov<n><sp>$
+    575 ^@fort<n>$
     570 ^@eventuelt<n><sp>$
-    559 ^@fort<n>$
     558 ^@midt<n>$
-    553 ^@russisk<n><sp>$
-    553 ^@far<n>$
-    544 ^@lange<n>$
-    538 ^@as<n>$
+    555 ^@far<n>$
+    554 ^@russisk<n><sp>$
+    551 ^@as<n>$
+    550 ^@snakk<n>$
+    545 ^@lange<n>$
     534 ^@gårsdag<n>$
-    533 ^@la<n>$
-    526 ^@verk<n>$
-    517 ^@stem<n>$
+    530 ^@la<n>$
+    529 ^@verk<n>$
+    523 ^@stem<n>$
     506 ^@initiativ<n>$
-    498 ^@utdanning<n>$
     498 ^@nestleder<n>$
+    495 ^@utdanning<n>$
     493 ^@absolutt<n>$
-    492 ^@hall<n>$
+    491 ^@hall<n>$
     491 ^@bl.a<n><acr>.$
     485 ^@konferanse<n>$
     485 ^@halvpart<n>$
-    483 ^@snakk<n>$
-    477 ^@m<n>$
-    473 ^@gro<n>$
+    478 ^@m<n>$
+    472 ^@gro<n>$
     471 ^@omsorg<n>$
     468 ^@slags<n><sp>$
     468 ^@bakk<n>$
+    467 ^@slå<n>$
     465 ^@bein<n>$
     462 ^@regi<n>$
-    460 ^@slå<n>$
+    460 ^@tyder<n>$
     460 ^@kr<n>$
     454 ^@ol<n>$
     452 ^@lære<n>$
-    446 ^@fall<n>$
-    443 ^@u<n><sp>$
     440 ^@landslag<n>$
     438 ^@lokal<n>$
-    434 ^@stund<n>$
     433 ^@eliteserie<n>$
+    432 ^@stund<n>$
     428 ^@herredsrett<n>$
     428 ^@døgn<n>$
+    426 ^@råd<n><sp>$
     422 ^@utland<n>$
-    422 ^@tyder<n>$
-    422 ^@råd<n><sp>$
-    410 ^@sto<n>$
-    410 ^@legg<n>$
+    411 ^@legg<n>$
+    407 ^@sto<n>$
     406 ^@røde<n>$
     406 ^@lage<n>$
+    402 ^@stiller<n>$
     395 ^@medlemskap<n>$
     390 ^@sektor<n>$
     389 ^@fjorår<n>$
     387 ^@stortingsrepresentant<n>$
+    383 ^@hit<n>$
     382 ^@vedkommende<n><sp>$
-    381 ^@hit<n>$
     377 ^@komite<n>$
     375 ^@sikt<n>$
     375 ^@langrenn<n>$
     371 ^@hovedsak<n>$
     369 ^@landsmøte<n>$
     369 ^@begrunnelse<n>$
-    359 ^@press<n>$
+    360 ^@press<n>$
     359 ^@forhånd<n><sp>$
     355 ^@etat<n>$
     354 ^@kr.<n>$
     354 ^@arbeidsgiver<n>$
-    350 ^@bak<n>$
-    346 ^@buss<n>$
+    352 ^@bak<n>$
+    347 ^@buss<n>$
     345 ^@ettertid<n>$
     343 ^@syke<n>$
     339 ^@utøver<n>$
     336 ^@reindrift<n>$
-    328 ^@nordnorsk<n>$
+    329 ^@nordnorsk<n>$
     326 ^@em<n>$
     325 ^@sosial<n>$
+    324 ^@gir<n>$
     323 ^@løs<n>$
     322 ^@utredning<n>$
     322 ^@svensk<n><sp>$
     321 ^@hold<n>$
-    318 ^@finsk<n><sp>$
-    315 ^@rune<n>$
-    315 ^@bidrag<n>$
-    313 ^@lei<n>$
-    313 ^@gir<n>$
+    319 ^@bidrag<n>$
+    317 ^@finsk<n><sp>$
+    316 ^@rune<n>$
+    314 ^@lei<n>$
     312 ^@nordlending<n>$
     311 ^@sum<n>$
     307 ^@sekund<n>$
@@ -188,20 +159,20 @@
     300 ^@norden<n><sp>$
     300 ^@grand<n>$
     298 ^@kl.<n>$
-    294 ^@sør<n><sp>$
+    293 ^@sør<n><sp>$
+    293 ^@bøk<n>$
     293 ^@aktør<n>$
-    292 ^@spille<n><sp>$
-    291 ^@slått<n>$
-    290 ^@bøk<n>$
+    292 ^@slått<n>$
+    291 ^@spille<n><sp>$
+    291 ^@leve<n><sp>$
+    291 ^@bringe<n>$
     290 ^@ambisjon<n>$
     288 ^@russ<n>$
     288 ^@opplæring<n>$
     287 ^@statssekretær<n>$
     287 ^@osv.<n>$
-    286 ^@leve<n><sp>$
+    286 ^@grunne<n>$
     286 ^@dagblad<n>$
-    285 ^@grunne<n>$
-    285 ^@bringe<n>$
     284 ^@allianse<n>$
     277 ^@seminar<n>$
     275 ^@roll<n>$
@@ -216,46 +187,47 @@
     260 ^@framgang<n>$
     258 ^@rettssak<n>$
     251 ^@ungdomsskole<n>$
-    251 ^@lo<n>$
     250 ^@vilkår<n>$
+    247 ^@lo<n>$
     246 ^@sysselmann<n>$
-    244 ^@drev<n>$
+    243 ^@drev<n>$
     241 ^@opprykk<n>$
     240 ^@kombinasjon<n>$
     240 ^@il<n>$
+    235 ^@fly<n>$
     235 ^@a-presse<n>$
     234 ^@ram<n>$
     233 ^@planlegging<n>$
     232 ^@markering<n>$
-    232 ^@fly<n>$
     231 ^@nr.<n>$
     226 ^@toppscorer<n>$
-    224 ^@vente<n><sp>$
     224 ^@seksåring<n>$
+    223 ^@vente<n><sp>$
+    222 ^@hører<n>$
     221 ^@musikkskole<n>$
     220 ^@utslag<n>$
-    219 ^@hører<n>$
-    219 ^@amerikansk<n><sp>$
-    217 ^@kol<n>$
+    218 ^@kol<n>$
+    218 ^@amerikansk<n><sp>$
     217 ^@dokumentasjon<n>$
-    215 ^@kurs<n>$
+    216 ^@kurs<n>$
+    215 ^@mente<n>$
     215 ^@informasjonssjef<n>$
-    211 ^@mente<n>$
     211 ^@hjemmebane<n>$
     211 ^@arbeidsliv<n>$
-    210 ^@regner<n>$
+    209 ^@regner<n>$
     208 ^@steg<n>$
     208 ^@årsskifte<n>$
     206 ^@distriktspolitikk<n>$
+    203 ^@glimt<n>$
     203 ^@bosetting<n>$
     202 ^@senior<n>$
     201 ^@mestepart<n>$
-    201 ^@glimt<n>$
     199 ^@arbeidsgruppe<n>$
     198 ^@manager<n>$
     198 ^@lokalsamfunn<n>$
-    196 ^@slo<n>$
     195 ^@avklaring<n>$
+    194 ^@slo<n>$
+    193 ^@tips<n>$
     192 ^@proff<n>$
     192 ^@nærlys<n>$
     191 ^@skutt<n>$
@@ -267,9 +239,9 @@
     188 ^@organisering<n>$
     188 ^@innføring<n>$
     187 ^@overhode<n>$
+    185 ^@trekk<n>$
     185 ^@kjører<n>$
     185 ^@comeback<n>$
-    184 ^@trekk<n>$
     184 ^@kjøring<n>$
     184 ^@data<n>$
     181 ^@lensmannsbetjent<n>$
@@ -278,32 +250,31 @@
     181 ^@elitelag<n>$
     180 ^@hende<n>$
     180 ^@fransk<n><sp>$
-    180 ^@fang<n>$
     179 ^@sysselsetting<n>$
+    179 ^@fang<n>$
     178 ^@opptreden<n>$
     178 ^@avstemning<n>$
-    177 ^@tips<n>$
-    176 ^@åpner<n>$
+    177 ^@åpner<n>$
     175 ^@servicesenter<n>$
     175 ^@respons<n>$
     174 ^@lån<n>$
+    173 ^@galt<n>$
     172 ^@or<n>$
     171 ^@utlending<n>$
-    168 ^@tom<n>$
+    170 ^@tom<n>$
     168 ^@sosialkontor<n>$
-    168 ^@galt<n>$
+    167 ^@rose<n>$
     167 ^@nybygg<n>$
     167 ^@instruktør<n>$
     166 ^@seriekamp<n>$
-    166 ^@lyse<n>$
     166 ^@intensjon<n>$
-    166 ^@halve<n>$
+    165 ^@lyse<n>$
+    165 ^@halve<n>$
     165 ^@dispensasjon<n>$
     165 ^@bilfører<n>$
-    164 ^@rose<n>$
+    164 ^@kost<n>$
     164 ^@balanse<n>$
     163 ^@mangfold<n>$
-    163 ^@kost<n>$
     162 ^@landskamp<n>$
     161 ^@styremøte<n>$
     161 ^@kriterium<n>$
@@ -311,12 +282,14 @@
     160 ^@overlege<n>$
     159 ^@promille<n>$
     158 ^@nes<n>$
+    158 ^@kant<n>$
     157 ^@tysk<n><sp>$
     157 ^@ps<n>$
     157 ^@optimisme<n>$
-    156 ^@kant<n>$
+    157 ^@jeger<n>$
     155 ^@semifinale<n>$
     155 ^@lokalpolitiker<n>$
+    155 ^@jan<n>$
     153 ^@solist<n>$
     152 ^@handlingsplan<n>$
     152 ^@22-åring<n>$
@@ -326,72 +299,70 @@
     150 ^@19-åring<n>$
     149 ^@mottak<n>$
     149 ^@fiskeflåte<n>$
+    148 ^@stopp<n>$
     148 ^@mad<n>$
-    147 ^@stopp<n>$
+    147 ^@tvinge<n>$
     147 ^@match<n>$
+    147 ^@kombinert<n><sp>$
     147 ^@heimevern<n>$
-    146 ^@tvinge<n>$
     146 ^@sosialsjef<n>$
     146 ^@personbil<n>$
     146 ^@landsbasis<n>$
-    146 ^@kombinert<n><sp>$
+    146 ^@begynner<n>$
     145 ^@øst<n><sp>$
     145 ^@bus<n>$
     144 ^@trend<n>$
     144 ^@potensial<n>$
     144 ^@leir<n>$
-    144 ^@jan<n>$
-    144 ^@begynner<n>$
     143 ^@yrke<n>$
+    143 ^@påske<n>$
     143 ^@friidrett<n>$
-    142 ^@påske<n>$
     141 ^@nedtur<n>$
     140 ^@kulde<n>$
     140 ^@flott<n>$
     139 ^@tredjeplass<n>$
-    139 ^@svarer<n>$
     139 ^@glas<n>$
     139 ^@direktorat<n>$
+    138 ^@svarer<n>$
+    138 ^@lyng<n>$
     138 ^@komité<n>$
     138 ^@eøs-avtale<n>$
     137 ^@treningskamp<n>$
-    137 ^@jeger<n>$
     137 ^@bortekamp<n>$
-    135 ^@lyng<n>$
     135 ^@krigsveteran<n>$
     134 ^@trakk<n>$
     134 ^@koordinator<n>$
     134 ^@kontant<n>$
-    133 ^@greie<n>$
+    133 ^@line<n>$
     133 ^@fysioterapeut<n>$
     132 ^@permanent<n>$
-    132 ^@line<n>$
     132 ^@len<n>$
+    132 ^@greie<n>$
     131 ^@trøst<n>$
     131 ^@mo<n>$
     131 ^@miljøverndepartement<n>$
     131 ^@kongress<n>$
     131 ^@fiskeridirektorat<n>$
-    131 ^@busse<n>$
     130 ^@vanske<n>$
     130 ^@talent<n>$
-    130 ^@mister<n>$
+    130 ^@spis<n>$
     130 ^@franskmann<n>$
     130 ^@disponent<n>$
+    130 ^@busse<n>$
     129 ^@sokneprest<n>$
-    129 ^@kår<n>$
+    129 ^@mister<n>$
     128 ^@vilt<n>$
-    128 ^@spis<n>$
     128 ^@kompensasjon<n>$
+    128 ^@kår<n>$
     128 ^@ensemble<n>$
     128 ^@avdelingsleder<n>$
     128 ^@ande<n>$
     127 ^@san<n>$
     126 ^@sildefiske<n>$
+    126 ^@rom<n>$
     126 ^@harr<n>$
     126 ^@dukker<n>$
     126 ^@artikkelforfatter<n>$
-    125 ^@rom<n>$
     125 ^@pukkverk<n>$
     125 ^@halvår<n>$
     124 ^@viking<n><sp>$
@@ -403,20 +374,20 @@
     121 ^@oljeselskap<n>$
     121 ^@bistand<n>$
     121 ^@17-åring<n>$
+    120 ^@vende<n>$
     120 ^@notat<n>$
     120 ^@jaktstart<n>$
     120 ^@arkivfoto<n>$
     120 ^@18-åring<n>$
-    119 ^@live<n><sp>$
     119 ^@gule<n>$
     119 ^@fiskefartøy<n>$
     118 ^@ungdomsklubb<n>$
     118 ^@midel<n>$
+    118 ^@live<n><sp>$
     118 ^@kunstmuseum<n>$
     118 ^@halvtime<n>$
     117 ^@saksbehandling<n>$
     117 ^@repertoar<n>$
-    116 ^@vende<n>$
     116 ^@nominasjonsmøte<n>$
     116 ^@kontingent<n>$
     116 ^@kommunaldepartement<n>$
@@ -424,18 +395,20 @@
     115 ^@dansk<n><sp>$
     113 ^@utforming<n>$
     113 ^@oppvekst<n>$
+    113 ^@jens<n>$
     113 ^@blande<n>$
     112 ^@nærmiljø<n>$
     112 ^@minimum<n>$
     112 ^@arbeidsmiljølov<n>$
     112 ^@20-åring<n>$
     111 ^@nabokommune<n>$
-    111 ^@jens<n>$
     111 ^@arbeidstilsyn<n>$
     110 ^@trøbbel<n>$
+    110 ^@stenge<n>$
     110 ^@slett<n>$
     110 ^@opprettelse<n>$
     110 ^@fn-konferanse<n>$
+    109 ^@lett<n>$
     109 ^@kulturdepartement<n>$
     109 ^@hundrevis<n><sp>$
     109 ^@arbeidsoppgave<n>$
@@ -445,10 +418,10 @@
     108 ^@bondelag<n>$
     107 ^@verdensmester<n>$
     107 ^@tan<n>$
-    107 ^@stenge<n>$
     107 ^@ol-landslag<n>$
     107 ^@aldersgruppe<n>$
     106 ^@tilslutning<n>$
+    106 ^@positiv<n>$
     106 ^@beslag<n>$
     106 ^@arbeidskontor<n>$
     105 ^@strake<n>$
@@ -456,14 +429,13 @@
     105 ^@it<n><sp>$
     105 ^@hamn<n>$
     104 ^@skytefelt<n>$
-    104 ^@positiv<n>$
+    104 ^@koll<n>$
+    104 ^@kall<n>$
     104 ^@bygdefolk<n>$
     104 ^@27-åring<n>$
     103 ^@tet<n>$
     103 ^@restriksjon<n>$
     103 ^@programleder<n>$
-    103 ^@koll<n>$
-    103 ^@kall<n>$
     103 ^@bebyggelse<n>$
     103 ^@arbeiderblad<n>$
     103 ^@a-lag<n>$
@@ -471,11 +443,10 @@
     102 ^@landbruksdepartement<n>$
     102 ^@fjøs<n>$
     101 ^@skepsis<n>$
+    101 ^@avgjør<n>$
     100 ^@skarv<n>$
     100 ^@mannfolk<n>$
-    100 ^@lett<n>$
     100 ^@ideal<n>$
-    100 ^@avgjør<n>$
      99 ^@utbygd<n>$
      99 ^@skoleår<n>$
      99 ^@politiinspektør<n>$
@@ -486,6 +457,7 @@
      98 ^@pust<n>$
      98 ^@menighet<n>$
      98 ^@klarsignal<n>$
+     98 ^@flytter<n>$
      97 ^@trøkk<n>$
      97 ^@tilbakegang<n>$
      97 ^@lass<n>$
@@ -493,16 +465,16 @@
      96 ^@nordvest<n><sp>$
      96 ^@lagkamerat<n>$
      96 ^@konsept<n>$
+     96 ^@kjeft<n>$
+     96 ^@kar<n>$
      96 ^@import<n>$
      96 ^@fylkeslege<n>$
+     95 ^@krangel<n>$
      95 ^@kompis<n>$
-     95 ^@kar<n>$
-     95 ^@flytter<n>$
      95 ^@enkeltperson<n>$
      94 ^@seriestart<n>$
+     94 ^@odd<n>$
      94 ^@leie<n>$
-     94 ^@krangel<n>$
-     94 ^@kjeft<n>$
      94 ^@forhørsrett<n>$
      94 ^@byggherre<n>$
      93 ^@vegdirektorat<n>$
@@ -511,16 +483,15 @@
      93 ^@oppsikt<n>$
      93 ^@mette<n>$
      93 ^@kvantum<n>$
-     93 ^@geir<n>$
      93 ^@blodprøve<n>$
      93 ^@25-åring<n>$
      92 ^@ving<n>$
      92 ^@studie<n>$
      92 ^@kommunepolitikk<n>$
+     92 ^@geir<n>$
      92 ^@framstilling<n>$
      91 ^@privatperson<n>$
      91 ^@opinion<n>$
-     91 ^@odd<n>$
      91 ^@fredsavtale<n>$
      90 ^@ve<n>$
      90 ^@vegne<n><sp>$
@@ -543,20 +514,22 @@
      87 ^@læreplan<n>$
      87 ^@kvartfinale<n>$
      87 ^@fylkeslag<n>$
+     86 ^@tull<n>$
      86 ^@stå<n><sp>$
      86 ^@spesialist<n>$
      86 ^@skolesjef<n>$
      86 ^@pott<n>$
      86 ^@overkant<n>$
+     86 ^@melde<n>$
      86 ^@kris<n>$
      86 ^@årrekke<n>$
      85 ^@styrt<n>$
-     85 ^@lede<n>$
      85 ^@dugnad<n>$
      85 ^@bygningsråd<n>$
      85 ^@blaff<n>$
-     84 ^@tull<n>$
+     84 ^@vest<n><sp>$
      84 ^@trønder<n>$
+     84 ^@treff<n>$
      84 ^@skoleplass<n>$
      84 ^@sida<n>$
      84 ^@sekretariat<n>$
@@ -566,9 +539,9 @@
      84 ^@handelsstand<n>$
      84 ^@formannskapsmøte<n>$
      84 ^@faksimile<n>$
+     84 ^@bor<n>$
      84 ^@banksjef<n>$
      84 ^@alkoholpolitikk<n>$
-     83 ^@vest<n><sp>$
      83 ^@tippekamp<n>$
      83 ^@sokkel<n>$
      83 ^@sjark<n>$
@@ -584,12 +557,11 @@
      82 ^@not<n>$
      82 ^@karakteristikk<n>$
      82 ^@dødsulykke<n>$
-     81 ^@treff<n>$
+     81 ^@verst<n>$
      81 ^@rovfiske<n>$
      81 ^@ra<n>$
      81 ^@partifelle<n>$
      81 ^@forfatterskap<n>$
-     81 ^@bor<n>$
      81 ^@bærer<n>$
      81 ^@anslag<n>$
      81 ^@anløp<n>$
@@ -597,9 +569,9 @@
      80 ^@kg<n>$
      80 ^@16-åring<n>$
      79 ^@storebror<n>$
+     79 ^@rot<n>$
      79 ^@planlegger<n>$
      79 ^@menneskerettighet<n>$
-     79 ^@melde<n>$
      79 ^@kollektiv<n>$
      79 ^@hopprenn<n>$
      79 ^@helsesenter<n>$
@@ -607,9 +579,7 @@
      79 ^@damelag<n>$
      79 ^@arbeidsutvalg<n>$
      79 ^@33-åring<n>$
-     78 ^@verst<n>$
      78 ^@tøff<n>$
-     78 ^@rot<n>$
      78 ^@pressetalsmann<n>$
      78 ^@nr<n>$
      78 ^@ikon<n>$
@@ -632,12 +602,11 @@
      75 ^@23-åring<n>$
      74 ^@hjemby<n>$
      74 ^@helsevern<n>$
+     74 ^@fans<n>$
      74 ^@don<n>$
      73 ^@pall<n>$
      73 ^@kilo<n>$
-     73 ^@frisk<n>$
      73 ^@format<n>$
-     73 ^@fans<n>$
      72 ^@trafikksikkerhet<n>$
      72 ^@tankekors<n>$
      72 ^@samferdselsdepartement<n>$
@@ -645,13 +614,14 @@
      72 ^@my<n>$
      72 ^@mellomparti<n>$
      72 ^@medmenneske<n>$
+     72 ^@konkret<n>$
      72 ^@fru<n><sp>$
+     72 ^@frisk<n>$
      72 ^@favør<n>$
      72 ^@6-åring<n>$
-     71 ^@stikker<n>$
+     71 ^@tvang<n>$
      71 ^@sleng<n>$
      71 ^@lyngshest<n>$
-     71 ^@konkret<n>$
      71 ^@kommunestyrerepresentant<n>$
      71 ^@jubilant<n>$
      71 ^@gal<n>$
@@ -659,12 +629,13 @@
      71 ^@folkemøte<n>$
      71 ^@ekspedisjonssjef<n>$
      71 ^@bildetekst<n>$
+     70 ^@stikker<n>$
      70 ^@samvær<n>$
      70 ^@råderett<n>$
      70 ^@lo-leder<n>$
+     70 ^@lest<n>$
      70 ^@fotballkamp<n>$
      70 ^@aksjonsgruppe<n>$
-     69 ^@tvang<n>$
      69 ^@naboland<n>$
      69 ^@fas<n>$
      69 ^@befal<n>$
@@ -686,27 +657,28 @@
      67 ^@grav<n>$
      67 ^@enkeltmenneske<n>$
      67 ^@eldresenter<n>$
-     67 ^@avviser<n>$
      66 ^@tredel<n>$
+     66 ^@svein<n>$
      66 ^@pensjonsalder<n>$
+     66 ^@pakt<n>$
      66 ^@oppland<n>$
      66 ^@myke<n>$
-     66 ^@mobbing<n>$
-     66 ^@lest<n>$
      66 ^@hovedkontor<n>$
      66 ^@flyt<n>$
      66 ^@byrd<n>$
+     66 ^@avviser<n>$
      66 ^@a-stall<n>$
      65 ^@vignett<n>$
      65 ^@terror<n>$
      65 ^@skeid<n>$
      65 ^@samorganisasjon<n>$
-     65 ^@pakt<n>$
+     65 ^@mobbing<n>$
      65 ^@juniorlag<n>$
      65 ^@færing<n>$
      65 ^@aspekt<n>$
      64 ^@turnering<n>$
      64 ^@tromsø-mann<n>$
+     64 ^@sel<n>$
      64 ^@råd<n>$
      64 ^@prosessfullmektig<n>$
      64 ^@lokalmiljø<n>$
@@ -727,7 +699,6 @@
      63 ^@gifte<n>$
      63 ^@fredspris<n>$
      62 ^@vinterstid<n>$
-     62 ^@sel<n>$
      62 ^@rensing<n>$
      62 ^@reinflokk<n>$
      62 ^@lyspunkt<n>$
@@ -737,7 +708,6 @@
      61 ^@vm-gull<n>$
      61 ^@tilbygg<n>$
      61 ^@sv-leder<n>$
-     61 ^@svein<n>$
      61 ^@smell<n>$
      61 ^@røykerom<n>$
      61 ^@nærradio<n>$
@@ -770,16 +740,17 @@
      58 ^@sprit<n>$
      58 ^@sentralstyre<n>$
      58 ^@kystvaktfartøy<n>$
-     58 ^@husk<n>$
      58 ^@høyde<n><sp>$
      58 ^@holt<n>$
      58 ^@avisinnlegg<n>$
      58 ^@a-landslag<n>$
      57 ^@uføre<n>$
+     57 ^@snu<n>$
+     57 ^@samler<n>$
      57 ^@reindriftssame<n>$
+     57 ^@husk<n>$
      57 ^@eid<n>$
      56 ^@sykkelsti<n>$
-     56 ^@samler<n>$
      56 ^@pågang<n>$
      56 ^@lyskryss<n>$
      56 ^@erstatningskrav<n>$
@@ -805,10 +776,10 @@
      54 ^@treningsleir<n>$
      54 ^@spekter<n>$
      54 ^@soul<n>$
-     54 ^@snu<n>$
      54 ^@skolebygg<n>$
      54 ^@saltfisk<n>$
      54 ^@prisnivå<n>$
+     54 ^@negativ<n>$
      54 ^@motpart<n>$
      54 ^@markedspris<n>$
      54 ^@klartekst<n>$
@@ -831,6 +802,7 @@
      53 ^@grunnfag<n>$
      53 ^@førsteamanuensis<n>$
      53 ^@forprosjekt<n>$
+     53 ^@felt<n>$
      53 ^@fangstfolk<n>$
      53 ^@fabrikkskip<n>$
      53 ^@ekspertise<n>$
@@ -849,7 +821,6 @@
      52 ^@importør<n>$
      52 ^@hestehandel<n>$
      52 ^@heim<n>$
-     52 ^@felt<n>$
      52 ^@dragkamp<n>$
      52 ^@direktiv<n>$
      52 ^@brakk<n>$
@@ -857,13 +828,14 @@
      52 ^@barnefamilie<n>$
      52 ^@aldershjem<n>$
      51 ^@varetektsfengsel<n>$
+     51 ^@vær<n>$
      51 ^@tv-aksjon<n>$
      51 ^@styrer<n>$
      51 ^@salmebok<n>$
      51 ^@politibetjent<n>$
-     51 ^@negativ<n>$
      51 ^@lønnsøkning<n>$
      51 ^@lette<n>$
+     51 ^@lav<n>$
      51 ^@juniorklasse<n>$
      51 ^@indikasjon<n>$
      51 ^@guide<n>$
@@ -879,12 +851,14 @@
      50 ^@dekar<n>$
      50 ^@biltyveri<n>$
      49 ^@uefa-cup<n>$
+     49 ^@snitt<n>$
      49 ^@småfisk<n>$
      49 ^@prisfall<n>$
      49 ^@postfunksjonær<n>$
      49 ^@kunstmuse<n>$
      49 ^@grendehus<n>$
      49 ^@fjellheim<n>$
+     49 ^@felles<n><sp>$
      49 ^@behandler<n>$
      48 ^@venstreparti<n>$
      48 ^@tillitsverv<n>$
@@ -893,22 +867,20 @@
      48 ^@østen<n><sp>$
      48 ^@omkamp<n>$
      48 ^@målforskjell<n>$
-     48 ^@lav<n>$
      48 ^@korps<n>$
      48 ^@kollisjonskurs<n>$
      48 ^@inntak<n>$
      48 ^@gigant<n>$
-     48 ^@gas<n>$
      48 ^@26-åring<n>$
      47 ^@tv-skjerm<n>$
      47 ^@tilskott<n>$
      47 ^@stå<n>$
-     47 ^@snitt<n>$
      47 ^@sesongstart<n>$
      47 ^@personskade<n>$
      47 ^@overkommando<n>$
      47 ^@nu<n>$
      47 ^@id<n>$
+     47 ^@gas<n>$
      47 ^@fortgang<n>$
      47 ^@fiskerinasjon<n>$
      47 ^@festsal<n>$
@@ -917,7 +889,6 @@
      47 ^@avdelingssjef<n>$
      47 ^@arbeidsfolk<n>$
      46 ^@vipp<n>$
-     46 ^@vær<n>$
      46 ^@rydning<n>$
      46 ^@retter<n>$
      46 ^@pedagog<n>$
@@ -952,26 +923,27 @@
      45 ^@giv<n>$
      45 ^@framgangsmåte<n>$
      45 ^@balansegang<n>$
+     44 ^@vri<n>$
      44 ^@veit<n>$
      44 ^@teaterstykke<n>$
      44 ^@skjerp<n>$
      44 ^@selvstendighet<n>$
      44 ^@pol<n>$
+     44 ^@pakk<n>$
      44 ^@overtak<n>$
      44 ^@maktbruk<n>$
      44 ^@kroat<n>$
-     44 ^@felles<n><sp>$
+     44 ^@heller<n>$
      44 ^@byfolk<n>$
      44 ^@borg<n>$
      44 ^@bolle<n>$
-     43 ^@vri<n>$
+     44 ^@blei<n>$
      43 ^@utspring<n>$
      43 ^@toppidrett<n>$
      43 ^@straks<n>$
      43 ^@skriv<n>$
      43 ^@sjøsame<n>$
      43 ^@renovasjon<n>$
-     43 ^@pakk<n>$
      43 ^@overkapasitet<n>$
      43 ^@motbakke<n>$
      43 ^@kvinnfolk<n>$
@@ -980,7 +952,6 @@
      43 ^@frysedisk<n>$
      43 ^@fotefar<n>$
      43 ^@bunnlag<n>$
-     43 ^@blei<n>$
      43 ^@administrasjonsutvalg<n>$
      42 ^@verneområde<n>$
      42 ^@vårpart<n>$
@@ -1006,6 +977,7 @@
      41 ^@namsrett<n>$
      41 ^@legesekretær<n>$
      41 ^@kontrollør<n>$
+     41 ^@kim<n>$
      41 ^@irsk<n><sp>$
      41 ^@idrettsanlegg<n>$
      41 ^@hotellrom<n>$
@@ -1024,7 +996,6 @@
      40 ^@støttekontakt<n>$
      40 ^@skattelette<n>$
      40 ^@samråd<n>$
-     40 ^@særpreg<n>$
      40 ^@renommé<n>$
      40 ^@regjeringsparti<n>$
      40 ^@redningshelikopter<n>$
@@ -1034,10 +1005,9 @@
      40 ^@overproduksjon<n>$
      40 ^@oppmøte<n>$
      40 ^@næringspolitikk<n>$
-     40 ^@kim<n>$
+     40 ^@junker<n>$
      40 ^@jf.<n>$
      40 ^@helsestasjon<n>$
-     40 ^@heller<n>$
      40 ^@forsørger<n>$
      40 ^@folkepark<n>$
      40 ^@drei<n>$
@@ -1049,6 +1019,7 @@
      39 ^@tant<n>$
      39 ^@sjikane<n>$
      39 ^@seniorklasse<n>$
+     39 ^@særpreg<n>$
      39 ^@rolling<n>$
      39 ^@pga.<n>$
      39 ^@pågangsmot<n>$
@@ -1066,6 +1037,7 @@
      39 ^@alderdom<n>$
      39 ^@abortlov<n>$
      38 ^@vertskap<n>$
+     38 ^@tynne<n>$
      38 ^@trase<n>$
      38 ^@tilnærming<n>$
      38 ^@sykkelvei<n>$
@@ -1079,7 +1051,6 @@
      38 ^@oversykepleier<n>$
      38 ^@klassekamerat<n>$
      38 ^@klarhet<n>$
-     38 ^@junker<n>$
      38 ^@handlemåte<n>$
      38 ^@grobunn<n>$
      38 ^@flytrafikk<n>$
@@ -1090,7 +1061,6 @@
      38 ^@32-åring<n>$
      37 ^@utkantkommune<n>$
      37 ^@utbyggingsplan<n>$
-     37 ^@tynne<n>$
      37 ^@trasé<n>$
      37 ^@storsamfunn<n>$
      37 ^@spildre<n>$
@@ -1105,7 +1075,6 @@
      37 ^@friområde<n>$
      37 ^@fakkeltog<n>$
      37 ^@ener<n>$
-     37 ^@egg<n>$
      37 ^@desk<n>$
      37 ^@blås<n>$
      37 ^@atomavfall<n>$
@@ -1116,16 +1085,19 @@
      36 ^@trygdeetat<n>$
      36 ^@tilvekst<n>$
      36 ^@takling<n>$
+     36 ^@sykepleie<n>$
      36 ^@skrift<n>$
      36 ^@skolebuss<n>$
      36 ^@skolebenk<n>$
      36 ^@seriøsitet<n>$
      36 ^@møterom<n>$
      36 ^@kostnadsoverslag<n>$
+     36 ^@klausul<n>$
      36 ^@gratulasjon<n>$
      36 ^@godord<n>$
      36 ^@gjøremål<n>$
      36 ^@eliteklasse<n>$
+     36 ^@egg<n>$
      36 ^@driftsresultat<n>$
      36 ^@byggetrinn<n>$
      36 ^@bybilde<n>$
@@ -1136,7 +1108,7 @@
      35 ^@ventilasjonsanlegg<n>$
      35 ^@tyr<n>$
      35 ^@turoperatør<n>$
-     35 ^@sykepleie<n>$
+     35 ^@total<n>$
      35 ^@smakebit<n>$
      35 ^@skøyteklubb<n>$
      35 ^@seksualitet<n>$
@@ -1144,7 +1116,6 @@
      35 ^@livsgrunnlag<n>$
      35 ^@konsekvensanalyse<n>$
      35 ^@kommunebudsjett<n>$
-     35 ^@klausul<n>$
      35 ^@guttunge<n>$
      35 ^@gren<n>$
      35 ^@fjes<n>$
@@ -1153,6 +1124,7 @@
      35 ^@arbeidsformidling<n>$
      34 ^@universitetsdirektør<n>$
      34 ^@uer<n>$
+     34 ^@stell<n>$
      34 ^@star<n>$
      34 ^@spalteplass<n>$
      34 ^@sølvmedalje<n>$
@@ -1174,17 +1146,15 @@
      34 ^@hakapik<n>$
      34 ^@fjærestein<n>$
      34 ^@ekstranummer<n>$
+     34 ^@driv<n>$
      34 ^@direkten<n>$
      34 ^@brannskade<n>$
      34 ^@baklengsmål<n>$
      34 ^@amatørteater<n>$
      33 ^@villa<n>$
-     33 ^@treffer<n>$
-     33 ^@total<n>$
+     33 ^@tette<n>$
      33 ^@temperament<n>$
      33 ^@tel<n>$
-     33 ^@stell<n>$
-     33 ^@sik<n>$
      33 ^@selen<n>$
      33 ^@redningsaksjon<n>$
      33 ^@rabalder<n>$
@@ -1196,6 +1166,7 @@
      33 ^@narko<n>$
      33 ^@mtb<n>$
      33 ^@lott<n>$
+     33 ^@lokk<n>$
      33 ^@krigsår<n>$
      33 ^@høve<n>$
      33 ^@hotelldirektør<n>$
@@ -1215,13 +1186,14 @@
      32 ^@vikariat<n>$
      32 ^@underskriftskampanje<n>$
      32 ^@tv-kanal<n>$
+     32 ^@treffer<n>$
      32 ^@trailersjåfør<n>$
-     32 ^@tette<n>$
      32 ^@synsvinkel<n>$
      32 ^@steinblokk<n>$
      32 ^@stasjonssjef<n>$
      32 ^@søknadsfrist<n>$
      32 ^@småbåt<n>$
+     32 ^@sik<n>$
      32 ^@samfunnsproblem<n>$
      32 ^@saksgang<n>$
      32 ^@østside<n>$
@@ -1229,11 +1201,11 @@
      32 ^@naturvern<n>$
      32 ^@ministerråd<n>$
      32 ^@lom<n>$
-     32 ^@lokk<n>$
      32 ^@lodde<n>$
      32 ^@kultursenter<n>$
      32 ^@krane<n>$
      32 ^@kjøkkensjef<n>$
+     32 ^@kjennskap<n>$
      32 ^@interiør<n>$
      32 ^@hjerteinfarkt<n>$
      32 ^@havrett<n>$
@@ -1242,10 +1214,9 @@
      32 ^@flatland<n>$
      32 ^@fjellområde<n>$
      32 ^@e-cup<n>$
-     32 ^@dump<n>$
-     32 ^@driv<n>$
      32 ^@dagsenter<n>$
      32 ^@avvisning<n>$
+     32 ^@ans<n>$
      32 ^@a-landskamp<n>$
      32 ^@50-åring<n>$
      32 ^@45-åring<n>$
@@ -1272,8 +1243,6 @@
      31 ^@moe<n>$
      31 ^@mix<n>$
      31 ^@kloss<n>$
-     31 ^@kjennskap<n>$
-     31 ^@glød<n>$
      31 ^@gamme<n>$
      31 ^@formålsparagraf<n>$
      31 ^@flyttelass<n>$
@@ -1281,16 +1250,17 @@
      31 ^@fiskekasse<n>$
      31 ^@ep<n>$
      31 ^@dyreliv<n>$
+     31 ^@dump<n>$
      31 ^@driftsmiddel<n>$
      31 ^@budsjettdebatt<n>$
+     31 ^@bo<n><sp>$
      31 ^@blåst<n>$
      31 ^@avisartikkel<n>$
      31 ^@avbrekk<n>$
-     31 ^@ans<n>$
      31 ^@aksjekjøp<n>$
      30 ^@utgiftspost<n>$
      30 ^@utfor<n>$
-     30 ^@tørk<n>$
+     30 ^@spise<n>$
      30 ^@spenst<n>$
      30 ^@seter<n>$
      30 ^@sengeplass<n>$
@@ -1301,11 +1271,11 @@
      30 ^@klaver<n>$
      30 ^@julebord<n>$
      30 ^@hjertesukk<n>$
+     30 ^@glød<n>$
      30 ^@gatelys<n>$
      30 ^@fredsstyrke<n>$
      30 ^@framskritt<n>$
      30 ^@folketone<n>$
-     30 ^@bo<n><sp>$
      30 ^@bø<n>$
      30 ^@bakrom<n>$
      30 ^@avisoppslag<n>$
@@ -1318,6 +1288,7 @@
      29 ^@universitetsrektor<n>$
      29 ^@ukultur<n>$
      29 ^@ubalanse<n>$
+     29 ^@tørk<n>$
      29 ^@storkommune<n>$
      29 ^@skut<n>$
      29 ^@skolevei<n>$
@@ -1353,7 +1324,6 @@
      28 ^@ungdomshus<n>$
      28 ^@undertone<n>$
      28 ^@trekkplaster<n>$
-     28 ^@tramp<n>$
      28 ^@tollsats<n>$
      28 ^@tenkepause<n>$
      28 ^@tankegods<n>$
@@ -1390,6 +1360,7 @@
      28 ^@diktat<n>$
      28 ^@brannmannskap<n>$
      28 ^@bilpark<n>$
+     28 ^@belegg<n>$
      28 ^@befatning<n>$
      28 ^@bauta<n>$
      28 ^@barneavdeling<n>$
@@ -1402,12 +1373,11 @@
      27 ^@visitt<n>$
      27 ^@verv<n>$
      27 ^@tv-bilde<n>$
+     27 ^@tramp<n>$
      27 ^@tamil<n><sp>$
-     27 ^@tall<n>$
      27 ^@sykebil<n>$
      27 ^@svineri<n>$
      27 ^@stridsspørsmål<n>$
-     27 ^@spise<n>$
      27 ^@sørvest<n>$
      27 ^@sortering<n>$
      27 ^@profesjonalitet<n>$
@@ -1420,7 +1390,9 @@
      27 ^@klepp<n>$
      27 ^@innerste<n><sp>$
      27 ^@hundrelapp<n>$
+     27 ^@henry<n>$
      27 ^@hallo<n>$
+     27 ^@glatte<n>$
      27 ^@fritidsaktivitet<n>$
      27 ^@friareal<n>$
      27 ^@førstebetjent<n>$
@@ -1430,15 +1402,16 @@
      27 ^@byråsjef<n>$
      27 ^@bukk<n>$
      27 ^@bryn<n>$
-     27 ^@belegg<n>$
      27 ^@avspark<n>$
      27 ^@arbeidsmarkedstiltak<n>$
+     27 ^@apropos<n>$
      26 ^@yrkessjåfør<n>$
      26 ^@yrkesliv<n>$
      26 ^@vinterhalvår<n>$
      26 ^@turistkontor<n>$
      26 ^@triks<n>$
      26 ^@trafikkontroll<n>$
+     26 ^@tall<n>$
      26 ^@stas<n>$
      26 ^@sommerhalvår<n>$
      26 ^@sappe<n>$
@@ -1451,10 +1424,8 @@
      26 ^@management<n>$
      26 ^@lofotfiske<n>$
      26 ^@koloritt<n>$
-     26 ^@kaliber<n>$
      26 ^@introduksjon<n>$
      26 ^@hardhaus<n>$
-     26 ^@glatte<n>$
      26 ^@frammøte<n>$
      26 ^@fotballklubb<n>$
      26 ^@familieliv<n>$
@@ -1463,7 +1434,6 @@
      26 ^@demonstrant<n>$
      26 ^@bras<n>$
      26 ^@argentin<n>$
-     26 ^@apropos<n>$
      26 ^@ansvarsfraskrivelse<n>$
      25 ^@varebil<n>$
      25 ^@unote<n>$
@@ -1477,6 +1447,7 @@
      25 ^@slager<n>$
      25 ^@skjellsord<n>$
      25 ^@rikt<n>$
+     25 ^@refs<n>$
      25 ^@platebar<n>$
      25 ^@oppsving<n>$
      25 ^@opposisjonsparti<n>$
@@ -1486,12 +1457,14 @@
      25 ^@maksimum<n>$
      25 ^@lp<n>$
      25 ^@kongepokal<n>$
+     25 ^@klister<n>$
+     25 ^@kaliber<n>$
      25 ^@julemat<n>$
+     25 ^@innpass<n>$
      25 ^@image<n>$
      25 ^@høysesong<n>$
      25 ^@hjertebarn<n>$
      25 ^@hets<n>$
-     25 ^@henry<n>$
      25 ^@hark<n>$
      25 ^@gløtt<n>$
      25 ^@glis<n>$
@@ -1510,7 +1483,6 @@
      25 ^@avlastning<n>$
      25 ^@avduking<n>$
      25 ^@arbeidsvilkår<n>$
-     25 ^@ane<n>$
      25 ^@13-åring<n>$
      25 ^@11-åring<n>$
      24 ^@utpost<n>$
@@ -1524,7 +1496,6 @@
      24 ^@slankekur<n>$
      24 ^@sambygding<n>$
      24 ^@ringrev<n>$
-     24 ^@refs<n>$
      24 ^@rammel<n>$
      24 ^@rakk<n>$
      24 ^@psyke<n>$
@@ -1535,18 +1506,17 @@
      24 ^@næringsgrunnlag<n>$
      24 ^@møteplass<n>$
      24 ^@lønnstillegg<n>$
-     24 ^@klister<n>$
      24 ^@kinesisk<n><sp>$
      24 ^@juleferie<n>$
      24 ^@jam<n>$
      24 ^@interimsstyre<n>$
-     24 ^@innpass<n>$
      24 ^@industriområde<n>$
      24 ^@ilo-konvensjon<n>$
      24 ^@hvil<n>$
      24 ^@gravplass<n>$
      24 ^@franc<n>$
      24 ^@dugnadsinnsats<n>$
+     24 ^@dropp<n>$
      24 ^@drep<n>$
      24 ^@desperasjon<n>$
      24 ^@design<n>$
@@ -1559,6 +1529,7 @@
      24 ^@arealplan<n>$
      24 ^@arbeiderpartiregjering<n>$
      24 ^@ankepunkt<n>$
+     24 ^@ane<n>$
      24 ^@ambulansefly<n>$
      24 ^@alenemor<n>$
      24 ^@aksjemajoritet<n>$
@@ -1589,12 +1560,12 @@
      23 ^@kjerneområde<n>$
      23 ^@karde<n>$
      23 ^@jordskifterett<n>$
+     23 ^@ir<n>$
      23 ^@informasjonskonsulent<n>$
      23 ^@høyremann<n>$
      23 ^@grums<n>$
      23 ^@forsikringspremie<n>$
      23 ^@faks<n>$
-     23 ^@dropp<n>$
      23 ^@disfavør<n>$
      23 ^@bildekk<n>$
      23 ^@basketak<n>$
@@ -1606,6 +1577,7 @@
      23 ^@alpinist<n>$
      22 ^@verbal<n>$
      22 ^@vegnett<n>$
+     22 ^@varsku<n>$
      22 ^@varamann<n>$
      22 ^@utviklingsarbeid<n>$
      22 ^@utkikk<n>$
@@ -1632,7 +1604,6 @@
      22 ^@kontur<n>$
      22 ^@kneskade<n>$
      22 ^@jentelag<n>$
-     22 ^@ir<n>$
      22 ^@idrettshøyskole<n>$
      22 ^@husbanklån<n>$
      22 ^@havgap<n>$
@@ -1647,9 +1618,9 @@
      22 ^@fellestrekk<n>$
      22 ^@fasit<n>$
      22 ^@bussterminal<n>$
-     22 ^@besøker<n>$
      22 ^@barneforestilling<n>$
      22 ^@bakspiller<n>$
+     22 ^@avslører<n>$
      22 ^@avlingsskade<n>$
      22 ^@avdelingsoverlege<n>$
      22 ^@asylsøknad<n>$
@@ -1660,7 +1631,6 @@
      22 ^@aksjonsleder<n>$
      22 ^@aggressivitet<n>$
      21 ^@vippeposisjon<n>$
-     21 ^@varsku<n>$
      21 ^@urpremiere<n>$
      21 ^@universitetsstudium<n>$
      21 ^@ungarer<n>$
@@ -1710,9 +1680,9 @@
      21 ^@brannsjef<n>$
      21 ^@boliglån<n>$
      21 ^@bilbrukstyveri<n>$
+     21 ^@besøker<n>$
      21 ^@barnepass<n>$
      21 ^@avvei<n>$
-     21 ^@avslører<n>$
      21 ^@atombombe<n>$
      21 ^@atkomst<n>$
      21 ^@arbeidsform<n>$
@@ -1732,6 +1702,7 @@
      20 ^@toppår<n>$
      20 ^@tilsvar<n>$
      20 ^@talefot<n>$
+     20 ^@sus<n>$
      20 ^@straffekast<n>$
      20 ^@stoffmisbruk<n>$
      20 ^@stengsel<n>$
@@ -1808,7 +1779,6 @@
      19 ^@temakveld<n>$
      19 ^@telenett<n>$
      19 ^@tankbil<n>$
-     19 ^@sus<n>$
      19 ^@stoppested<n>$
      19 ^@steinbit<n>$
      19 ^@sound<n>$
@@ -1820,8 +1790,8 @@
      19 ^@særtrekk<n>$
      19 ^@rov<n>$
      19 ^@revansj<n>$
+     19 ^@redskap<n>$
      19 ^@proposisjon<n>$
-     19 ^@plaster<n>$
      19 ^@paneldebatt<n>$
      19 ^@omstillingsprosess<n>$
      19 ^@ol-lag<n>$
@@ -1897,10 +1867,10 @@
      18 ^@skoleveg<n>$
      18 ^@rekruttskole<n>$
      18 ^@refusjon<n>$
-     18 ^@redskap<n>$
      18 ^@pusterom<n>$
      18 ^@promillekontroll<n>$
      18 ^@postsjef<n>$
+     18 ^@plaster<n>$
      18 ^@påtrykk<n>$
      18 ^@partipolitikk<n>$
      18 ^@outsider<n>$
@@ -1927,7 +1897,6 @@
      18 ^@hvpu-reform<n>$
      18 ^@høyrefolk<n>$
      18 ^@høyfjell<n>$
-     18 ^@hole<n>$
      18 ^@helsestell<n>$
      18 ^@havresekk<n>$
      18 ^@happening<n>$
@@ -2015,6 +1984,7 @@
      17 ^@kinobillett<n>$
      17 ^@kg.<n>$
      17 ^@isfiske<n>$
+     17 ^@hole<n>$
      17 ^@has<n><sp>$
      17 ^@halvveg<n>$
      17 ^@grunnpilar<n>$
@@ -2080,6 +2050,7 @@
      16 ^@polsk<n><sp>$
      16 ^@plank<n>$
      16 ^@pisk<n>$
+     16 ^@pip<n>$
      16 ^@overnattingsplass<n>$
      16 ^@områdesjef<n>$
      16 ^@nysgjerrighet<n>$
@@ -2098,6 +2069,7 @@
      16 ^@kristenfolk<n>$
      16 ^@kongefamilie<n>$
      16 ^@kjøkkenbenk<n>$
+     16 ^@kart<n>$
      16 ^@kalkyle<n>$
      16 ^@kagge<n>$
      16 ^@jazzband<n>$
@@ -2171,6 +2143,7 @@
      15 ^@reindriftsagronom<n>$
      15 ^@redaksjonskomité<n>$
      15 ^@realist<n>$
+     15 ^@raus<n>$
      15 ^@råskap<n>$
      15 ^@rasfare<n>$
      15 ^@rak<n>$
@@ -2182,7 +2155,6 @@
      15 ^@politistat<n>$
      15 ^@plateartist<n>$
      15 ^@plastikk<n>$
-     15 ^@pip<n>$
      15 ^@pinn<n>$
      15 ^@parkett<n>$
      15 ^@pang<n>$
@@ -2205,7 +2177,6 @@
      15 ^@kontaktperson<n>$
      15 ^@kongstanke<n>$
      15 ^@kl<n>$
-     15 ^@kart<n>$
      15 ^@kabin<n>$
      15 ^@journal<n>$
      15 ^@japp<n>$
@@ -2261,6 +2232,7 @@
      14 ^@totalvrak<n>$
      14 ^@torp<n>$
      14 ^@tilsig<n>$
+     14 ^@teig<n>$
      14 ^@syketransport<n>$
      14 ^@sveip<n>$
      14 ^@svarteper<n>$
@@ -2283,8 +2255,6 @@
      14 ^@sentralledelse<n>$
      14 ^@rovfugl<n>$
      14 ^@realfag<n>$
-     14 ^@raus<n>$
-     14 ^@råke<n>$
      14 ^@raft<n>$
      14 ^@pulk<n>$
      14 ^@pre<n>$
@@ -2390,7 +2360,6 @@
      13 ^@torv<n>$
      13 ^@tilsynsmann<n>$
      13 ^@telefonterror<n>$
-     13 ^@teig<n>$
      13 ^@svømming<n>$
      13 ^@sverdslag<n>$
      13 ^@svarta<n>$
@@ -2414,6 +2383,7 @@
      13 ^@særklasse<n>$
      13 ^@rogalending<n>$
      13 ^@rammeplan<n>$
+     13 ^@råke<n>$
      13 ^@produktivitet<n>$
      13 ^@preventiv<n>$
      13 ^@preparat<n>$
@@ -2457,6 +2427,7 @@
      13 ^@hylekor<n>$
      13 ^@halvt<n>$
      13 ^@gut<n>$
+     13 ^@gry<n>$
      13 ^@gruvearbeid<n>$
      13 ^@grunnlagsmateriale<n>$
      13 ^@grann<n>$
@@ -2539,6 +2510,7 @@
      12 ^@sportsrevy<n>$
      12 ^@spontanitet<n>$
      12 ^@sørlending<n>$
+     12 ^@sokn<n>$
      12 ^@snøhaug<n>$
      12 ^@snar<n>$
      12 ^@smurning<n>$
@@ -2559,7 +2531,6 @@
      12 ^@nova<n>$
      12 ^@none<n>$
      12 ^@nittenåring<n>$
-     12 ^@nest<n>$
      12 ^@must<n>$
      12 ^@mønsterplan<n>$
      12 ^@minoritetsspråk<n>$
@@ -2576,7 +2547,6 @@
      12 ^@kreasjon<n>$
      12 ^@konjunktur<n>$
      12 ^@knyttneveslag<n>$
-     12 ^@kling<n>$
      12 ^@intervjuobjekt<n>$
      12 ^@intervjuer<n>$
      12 ^@interessekonflikt<n>$
@@ -2585,15 +2555,14 @@
      12 ^@innenrikspolitikk<n>$
      12 ^@individualist<n>$
      12 ^@husvert<n>$
+     12 ^@hovde<n>$
      12 ^@horst<n>$
      12 ^@hoppsport<n>$
      12 ^@holdningskampanje<n>$
      12 ^@hjelpemannskap<n>$
      12 ^@hjelpearbeid<n>$
      12 ^@havnebasseng<n>$
-     12 ^@hang<n>$
      12 ^@håndslag<n>$
-     12 ^@gry<n>$
      12 ^@grusvei<n>$
      12 ^@grunnverdi<n>$
      12 ^@gammelkommunist<n>$
@@ -2680,12 +2649,12 @@
      11 ^@storpolitikk<n>$
      11 ^@spesifikasjon<n>$
      11 ^@solarium<n>$
-     11 ^@sokn<n>$
      11 ^@småfugl<n>$
      11 ^@sluttsum<n>$
      11 ^@sløseri<n>$
      11 ^@sletting<n>$
      11 ^@skrubbsår<n>$
+     11 ^@skit<n>$
      11 ^@skildrer<n>$
      11 ^@sjefsykepleier<n>$
      11 ^@sisteplass<n>$
@@ -2725,13 +2694,14 @@
      11 ^@lensmannsdistrikt<n>$
      11 ^@leirdue<n>$
      11 ^@krøll<n>$
-     11 ^@kras<n>$
      11 ^@kostpris<n>$
      11 ^@korist<n>$
      11 ^@kontrollorgan<n>$
      11 ^@kontorarbeid<n>$
      11 ^@konsertsal<n>$
      11 ^@konebil<n>$
+     11 ^@komp<n>$
+     11 ^@kling<n>$
      11 ^@klikk<n>$
      11 ^@kalott<n>$
      11 ^@investeringsselskap<n>$
@@ -2740,8 +2710,9 @@
      11 ^@informant<n>$
      11 ^@hybelbygg<n>$
      11 ^@hustak<n>$
-     11 ^@hovde<n>$
      11 ^@horde<n>$
+     11 ^@hev<n>$
+     11 ^@halvvei<n>$
      11 ^@halvmeter<n>$
      11 ^@haleheng<n>$
      11 ^@gufs<n>$
@@ -2847,7 +2818,6 @@
      10 ^@strykprosent<n>$
      10 ^@streikevarsel<n>$
      10 ^@strange<n>$
-     10 ^@stirr<n>$
      10 ^@stamgjest<n>$
      10 ^@stagnasjon<n>$
      10 ^@søta<n>$
@@ -2857,7 +2827,6 @@
      10 ^@skøy<n>$
      10 ^@skoleeksempel<n>$
      10 ^@skjorteerme<n>$
-     10 ^@skit<n>$
      10 ^@skatterestanse<n>$
      10 ^@sjarmtroll<n>$
      10 ^@sisterunde<n>$
@@ -2904,6 +2873,7 @@
      10 ^@lo-forbund<n>$
      10 ^@loddefiske<n>$
      10 ^@leirbål<n>$
+     10 ^@latin<n>$
      10 ^@lårmuskel<n>$
      10 ^@langtidsvarsel<n>$
      10 ^@lagrett<n>$
@@ -2913,10 +2883,9 @@
      10 ^@krysning<n>$
      10 ^@kronestykke<n>$
      10 ^@krøke<n>$
+     10 ^@kras<n>$
      10 ^@krasj<n>$
-     10 ^@kost<n><sp>$
      10 ^@konsertturné<n>$
-     10 ^@komp<n>$
      10 ^@kobbe<n>$
      10 ^@klubblokale<n>$
      10 ^@klesbutikk<n>$
@@ -2936,13 +2905,12 @@
      10 ^@hotellgjest<n>$
      10 ^@hitlåt<n>$
      10 ^@hilsning<n>$
-     10 ^@hev<n>$
      10 ^@herremann<n>$
      10 ^@heng<n>$
      10 ^@havørn<n>$
      10 ^@hasteparagraf<n>$
      10 ^@hansa<n>$
-     10 ^@halvvei<n>$
+     10 ^@hang<n>$
      10 ^@haglgevær<n>$
      10 ^@gummihanske<n>$
      10 ^@gruveby<n>$
@@ -2983,6 +2951,7 @@
      10 ^@byliv<n>$
      10 ^@buss-sjåfør<n>$
      10 ^@bruksområde<n>$
+     10 ^@brett<n>$
      10 ^@bondeorganisasjon<n>$
      10 ^@bokverk<n>$
      10 ^@body<n>$
@@ -3032,7 +3001,6 @@
       9 ^@von<n>$
       9 ^@vertsland<n>$
       9 ^@vås<n>$
-      9 ^@val<n>$
       9 ^@vad<n>$
       9 ^@utgiftsøkning<n>$
       9 ^@utedo<n>$
@@ -3059,6 +3027,7 @@
       9 ^@stortingskomité<n>$
       9 ^@storindustri<n>$
       9 ^@storfamilie<n>$
+      9 ^@stirr<n>$
       9 ^@ste<n>$
       9 ^@stemmekveg<n>$
       9 ^@standardverk<n>$
@@ -3134,10 +3103,8 @@
       9 ^@lønn<n><sp>$
       9 ^@lo-ledelse<n>$
       9 ^@legesenter<n>$
-      9 ^@latin<n>$
       9 ^@laserstråle<n>$
       9 ^@kystby<n>$
-      9 ^@kyss<n>$
       9 ^@kynisme<n>$
       9 ^@kvalitetskrav<n>$
       9 ^@kristendomskunnskap<n>$
@@ -3214,7 +3181,6 @@
       9 ^@bygningssjef<n>$
       9 ^@bygdemuseum<n>$
       9 ^@bussholdeplass<n>$
-      9 ^@brett<n>$
       9 ^@botsgang<n>$
       9 ^@blindspor<n>$
       9 ^@bilmerke<n>$
@@ -3244,6 +3210,7 @@
       9 ^@alderssammensetning<n>$
       9 ^@akkompagnatør<n>$
       9 ^@åker<n>$
+      9 ^@age<n>$
       9 ^@af-leder<n>$
       9 ^@adresseavis<n>$
       9 ^@administrasjonskostnad<n>$
@@ -3268,6 +3235,7 @@
       8 ^@venstrearm<n>$
       8 ^@veiplan<n>$
       8 ^@varelager<n>$
+      8 ^@val<n>$
       8 ^@vald<n>$
       8 ^@vaktstyrke<n>$
       8 ^@værobservasjon<n>$
@@ -3282,6 +3250,7 @@
       8 ^@tvangsmiddel<n>$
       8 ^@triangel<n>$
       8 ^@transportkostnad<n>$
+      8 ^@transporter<n>$
       8 ^@trafikkaos<n>$
       8 ^@tørn<n>$
       8 ^@tomteareal<n>$
@@ -3308,6 +3277,7 @@
       8 ^@sosialistparti<n>$
       8 ^@sørvest<n><sp>$
       8 ^@sørsamisk<n><sp>$
+      8 ^@sørpol<n>$
       8 ^@solfaktor<n>$
       8 ^@smittefare<n>$
       8 ^@smeltedigel<n>$
@@ -3325,6 +3295,7 @@
       8 ^@skipsregister<n>$
       8 ^@skei<n>$
       8 ^@skatteklasse<n>$
+      8 ^@skåle<n>$
       8 ^@sildolje<n>$
       8 ^@sideblikk<n>$
       8 ^@samfunnslag<n>$
@@ -3376,11 +3347,13 @@
       8 ^@landingsplass<n>$
       8 ^@landbruksvare<n>$
       8 ^@lagidrett<n>$
+      8 ^@kyss<n>$
       8 ^@kvinnekrav<n>$
       8 ^@kursfall<n>$
       8 ^@kundeservice<n>$
       8 ^@kulturnasjon<n>$
       8 ^@krumtapp<n>$
+      8 ^@kost<n><sp>$
       8 ^@kostnadsøkning<n>$
       8 ^@korsveg<n>$
       8 ^@kontrollkomité<n>$
@@ -3537,7 +3510,6 @@
       8 ^@aksjeoppkjøp<n>$
       8 ^@a-klasse<n>$
       8 ^@agitasjon<n>$
-      8 ^@age<n>$
       8 ^@administrasjonsutgift<n>$
       8 ^@66-åring<n>$
       8 ^@46-åring<n>$
@@ -3567,7 +3539,6 @@
       7 ^@trettiår<n>$
       7 ^@tredjeklasse<n>$
       7 ^@trebygning<n>$
-      7 ^@transporter<n>$
       7 ^@trålpose<n>$
       7 ^@traktatland<n>$
       7 ^@trafikkgrunnlag<n>$
@@ -3604,7 +3575,6 @@
       7 ^@spesialfelt<n>$
       7 ^@sovemedisin<n>$
       7 ^@sortiment<n>$
-      7 ^@sørpol<n>$
       7 ^@søndagskveld<n>$
       7 ^@snillisme<n>$
       7 ^@snadder<n>$
@@ -3616,9 +3586,9 @@
       7 ^@skraphaug<n>$
       7 ^@skoleunge<n>$
       7 ^@skoleinspektør<n>$
+      7 ^@skifter<n>$
       7 ^@skamplett<n>$
       7 ^@skalkeskjul<n>$
-      7 ^@skåle<n>$
       7 ^@sjøvei<n>$
       7 ^@sjarmoffensiv<n>$
       7 ^@sivilagronom<n>$
@@ -3672,6 +3642,7 @@
       7 ^@omsyn<n>$
       7 ^@ol-sesong<n>$
       7 ^@nikkelverk<n>$
+      7 ^@nest<n>$
       7 ^@naturfolk<n>$
       7 ^@nærdemokrati<n>$
       7 ^@mottaksanlegg<n>$
@@ -3872,7 +3843,6 @@
       7 ^@bakgrunnsmaterial<n>$
       7 ^@bakbein<n>$
       7 ^@bading<n>$
-      7 ^@avviker<n>$
       7 ^@avvenningskur<n>$
       7 ^@avtrekk<n>$
       7 ^@avmaktsfølelse<n>$
@@ -3996,7 +3966,6 @@
       6 ^@skogsvei<n>$
       6 ^@skjå<n>$
       6 ^@skikonge<n>$
-      6 ^@skifter<n>$
       6 ^@skidag<n>$
       6 ^@skak<n>$
       6 ^@sjøkabel<n>$
@@ -4024,6 +3993,7 @@
       6 ^@regularitet<n>$
       6 ^@redningsplanke<n>$
       6 ^@redaksjonssekretær<n>$
+      6 ^@purr<n>$
       6 ^@pugg<n>$
       6 ^@publikumsfrieri<n>$
       6 ^@prix-finale<n>$
@@ -4080,7 +4050,6 @@
       6 ^@livsvilje<n>$
       6 ^@litterat<n>$
       6 ^@lengt<n>$
-      6 ^@leite<n>$
       6 ^@legestand<n>$
       6 ^@legat<n>$
       6 ^@layout<n>$
@@ -4274,6 +4243,7 @@
       6 ^@ballettskole<n>$
       6 ^@baklekse<n>$
       6 ^@bakkestasjon<n>$
+      6 ^@avviker<n>$
       6 ^@avslutningsnummer<n>$
       6 ^@avrusing<n>$
       6 ^@avlsarbeid<n>$
@@ -4379,7 +4349,6 @@
       5 ^@trafikk-kontroll<n>$
       5 ^@trade<n>$
       5 ^@tøying<n>$
-      5 ^@tora<n>$
       5 ^@toppfart<n>$
       5 ^@tolvåring<n>$
       5 ^@tobakksskade<n>$
@@ -4499,7 +4468,6 @@
       5 ^@rassia<n>$
       5 ^@rasmus<n>$
       5 ^@råne<n>$
-      5 ^@purr<n>$
       5 ^@prydbusk<n>$
       5 ^@prov<n>$
       5 ^@prøvestans<n>$
@@ -4574,6 +4542,8 @@
       5 ^@lofotværing<n>$
       5 ^@linebåt<n>$
       5 ^@limpinne<n>$
+      5 ^@lende<n>$
+      5 ^@leite<n>$
       5 ^@latterkrampe<n>$
       5 ^@langdrag<n>$
       5 ^@landskapsvern<n>$
@@ -4733,6 +4703,7 @@
       5 ^@etterord<n>$
       5 ^@etterdønning<n>$
       5 ^@ester<n>$
+      5 ^@ess<n>$
       5 ^@erobring<n>$
       5 ^@ergoterapi<n>$
       5 ^@eøs-domstol<n>$
@@ -5225,7 +5196,6 @@
       4 ^@leselampe<n>$
       4 ^@lesehest<n>$
       4 ^@leninisme<n>$
-      4 ^@lende<n>$
       4 ^@lemen<n>$
       4 ^@lekfolk<n>$
       4 ^@leirras<n>$
@@ -5311,6 +5281,7 @@
       4 ^@kinakål<n>$
       4 ^@keratin<n>$
       4 ^@keltisk<n><sp>$
+      4 ^@kav<n>$
       4 ^@kasus<n>$
       4 ^@kaskjett<n>$
       4 ^@karensdag<n>$
@@ -5493,7 +5464,6 @@
       4 ^@evenement<n>$
       4 ^@etterkrigsår<n>$
       4 ^@esso-stasjon<n>$
-      4 ^@ess<n>$
       4 ^@eskortefartøy<n>$
       4 ^@eskefabrikk<n>$
       4 ^@ensilasje<n>$
@@ -5848,7 +5818,6 @@
       3 ^@stormangrep<n>$
       3 ^@stolbein<n>$
       3 ^@stoffskifte<n>$
-      3 ^@stiller<n>$
       3 ^@stilleben<n>$
       3 ^@steward<n>$
       3 ^@stereo<n>$
@@ -6163,6 +6132,7 @@
       3 ^@make-up<n>$
       3 ^@magnolia<n>$
       3 ^@magnetfelt<n>$
+      3 ^@mæle<n>$
       3 ^@lysglimt<n>$
       3 ^@lynkurs<n>$
       3 ^@lykkerus<n>$
@@ -6254,6 +6224,7 @@
       3 ^@kommandant<n>$
       3 ^@komag<n>$
       3 ^@koksverk<n>$
+      3 ^@kny<n>$
       3 ^@knøtt<n>$
       3 ^@knot<n>$
       3 ^@knirk<n>$
@@ -6281,7 +6252,6 @@
       3 ^@kilevink<n>$
       3 ^@kik<n>$
       3 ^@kennelklubb<n>$
-      3 ^@kav<n>$
       3 ^@kaviar<n>$
       3 ^@kattemat<n>$
       3 ^@kattedyr<n>$
@@ -6946,6 +6916,7 @@
       2 ^@tufte<n>$
       2 ^@tub<n>$
       2 ^@trykkabin<n>$
+      2 ^@trygel<n>$
       2 ^@trygdekasse<n>$
       2 ^@trupp<n>$
       2 ^@trudelutt<n>$
@@ -6978,6 +6949,7 @@
       2 ^@torpedobåt<n>$
       2 ^@tornerosesøvn<n>$
       2 ^@toreador<n>$
+      2 ^@tora<n>$
       2 ^@toppunkt<n>$
       2 ^@tomsing<n>$
       2 ^@tommeskrue<n>$
@@ -7522,7 +7494,6 @@
       2 ^@malle<n>$
       2 ^@magedans<n>$
       2 ^@mæling<n>$
-      2 ^@mæle<n>$
       2 ^@madras<n>$
       2 ^@lyte<n>$
       2 ^@lurveleven<n>$
@@ -7659,7 +7630,6 @@
       2 ^@kollektivisme<n>$
       2 ^@kodeord<n>$
       2 ^@knyst<n>$
-      2 ^@kny<n>$
       2 ^@knuseverk<n>$
       2 ^@knurr<n>$
       2 ^@knull<n>$
@@ -8774,6 +8744,7 @@
       1 ^@tv-drama<n>$
       1 ^@tv-ansikt<n>$
       1 ^@tuttifrutti<n>$
+      1 ^@tut<n>$
       1 ^@tuskhandel<n>$
       1 ^@tusenkrone<n>$
       1 ^@tusendel<n>$
@@ -8788,7 +8759,6 @@
       1 ^@trysling<n>$
       1 ^@trylleord<n>$
       1 ^@trykkvannsreaktor<n>$
-      1 ^@trygel<n>$
       1 ^@trut<n>$
       1 ^@trutmunn<n>$
       1 ^@trugsmål<n>$
