@@ -15014,6 +15014,54 @@
     <e slr="4"><p><l>sånn<s n="adv"/></l><r>like<b/>this<s n="adv"/></r></p></e>
     <e slr="5"><p><l>sånn<s n="adv"/></l><r>such<s n="adv"/></r></p></e>
 
+    <e c="  0"><p><l>antageligvis<s n="adv"/></l><r>probably<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>attåt<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>attåt<s n="adv"/></l><r>in<b/>addition<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>attpåtil<s n="adv"/></l><r>additionally<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>au<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>au<s n="adv"/></l><r>too<s n="adv"/></r></p></e><!--(used mostly in dialects)-->
+    <e c="  0"><p><l>dengang<s n="adv"/></l><r>back<b/>then<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>dengang<s n="adv"/></l><r>at<b/>that<b/>time<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>forhåpentlig<s n="adv"/></l><r>hopefully<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>forhåpentligvis<s n="adv"/></l><r>hopefully<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>forresten<s n="adv"/></l><r>by<b/>the<b/>way<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>forresten<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>forresten<s n="adv"/></l><r>moreover<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>forresten<s n="adv"/></l><r>besides<s n="adv"/></r></p></e>
+    <e slr="4"><p><l>forresten<s n="adv"/></l><r>as<b/>a<b/>matter<b/>of<b/>fact<s n="adv"/></r></p></e>
+    <e slr="5"><p><l>forresten<s n="adv"/></l><r>otherwise<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>hjemme<s n="adv"/></l><r>at<b/>home<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>idag<s n="adv"/></l><r>today<s n="adv"/></r></p></e><!--(on the current day)-->
+    <e c="  0"><p><l>ingenting<s n="adv"/></l><r>nothing<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>jommen<s n="adv"/></l><r>indeed<s n="adv"/></r></p></e><!--(intensive)-->
+    <e slr="1"><p><l>jommen<s n="adv"/></l><r>really<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>naturligvis<s n="adv"/></l><r>naturally<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>naturligvis<s n="adv"/></l><r>obviously<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>nu<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>oftest<s n="adv"/></l><r>generally<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>oftest<s n="adv"/></l><r>as<b/>a<b/>rule<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>oftest<s n="adv"/></l><r>usually<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>oftest<s n="adv"/></l><r>more<b/>often<b/>than<b/>not<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>prompte<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>prompte<s n="adv"/></l><r>promptly<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>prompte<s n="adv"/></l><r>punctually<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>respektive<s n="adv"/></l><r>respectively<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>sådan<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>sådan<s n="adv"/></l><r>like<b/>that<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>sådan<s n="adv"/></l><r>like<b/>this<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>sådan<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>samt<s n="adv"/></l><r>and<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>samt<s n="adv"/></l><r>and<b/>also<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>samt<s n="adv"/></l><r>plus<s n="adv"/></r></p></e>
+    <e slr="3"><p><l>samt<s n="adv"/></l><r>together with<s n="adv"/></r></p></e><!--(dated) med samt – together with-->
+    <e c="  0"><p><l>sannsynligvis<s n="adv"/></l><r>probably<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>temmelig<s n="adv"/></l><r>rather<s n="adv"/></r></p></e><!--(quite)-->
+    <e c="  0"><p><l>til<b/>dømes<s n="adv"/></l><r>for<b/>example<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>undertiden<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>undertiden<s n="adv"/></l><r>now<b/>and<b/>then<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>undertiden<s n="adv"/></l><r>from<b/>time<b/>to<b/>time<s n="adv"/></r></p></e>
+    
+
     <e c="  0"><p><l>akkurat<s n="adv"/></l><r>right<s n="adv"/></r></p></e> 
     <e slr="1"><p><l>akkurat<s n="adv"/></l><r>exactly<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>aldri<s n="adv"/></l><r>never<s n="adv"/></r></p></e> <!--(at no time)-->
