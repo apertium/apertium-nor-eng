@@ -77,7 +77,7 @@ $(PREFIX1).autopgen.bin: $(MK_EN)/apertium-mk-en.post-en.dix
 EXTRA_DIST=$(BASENAME).$(LANG1b).dix \
            $(BASENAME).$(PREFIX1b).rlx \
            $(BASENAME).$(PREFIX1b).rlx \
-           $(PREFIX1).prob
+           $(PREFIX1).prob \
 	   $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(PREFIX1).t1x \
 	   $(BASENAME).$(PREFIX1).t2x \
@@ -98,6 +98,7 @@ apertium_no_en_DATA=$(PREFIX1b).automorf.bin \
                     $(PREFIX1).prob               \
                     $(PREFIX1).autobil.bin        \
                     $(PREFIX1).autogen.bin  \
+                    $(PREFIX1).autopgen.bin  \
 		    $(PREFIX1).t1x.bin            \
 		    $(PREFIX1).t2x.bin            \
 		    $(PREFIX1).t3x.bin            \
