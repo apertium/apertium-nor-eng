@@ -334,6 +334,48 @@
 
     <e c="  0"><p><l>blant<s n="pr"/></l><r>among<s n="pr"/></r></p></e>
     <e c="  0"><p><l>via<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>inn<b/>i<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>imot<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ut<b/>i<s n="pr"/></l><r>out<b/>in<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>inne<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>borte<s n="pr"/></l><r>away<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>hjem<s n="pr"/></l><r>home<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>i<b/>ferd<b/>med<s n="pr"/></l><r>about<b/>to<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>opp<b/>på<s n="pr"/></l><r>up<b/>on<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>framover<s n="pr"/></l><r>forward<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ned<b/>i<s n="pr"/></l><r>down<b/>in<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>inn<b/>til<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>nede<s n="pr"/></l><r>down<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>opp<b/>mot<s n="pr"/></l><r>up<b/>against<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>på<b/>vegne<b/>av<s n="pr"/></l><r>on<b/>behalf<b/>of<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>hjemme<s n="pr"/></l><r>home<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>hittil<s n="pr"/></l><r>so<b/>far<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>etterpå<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>foruten<s n="pr"/></l><r>outside<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>fremover<s n="pr"/></l><r>henceforth<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>sammenlignet<b/>med<s n="pr"/></l><r>compared<b/>with<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>opptil<s n="pr"/></l><r>up<b/>to<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>derfra<s n="pr"/></l><r>from<b/>there<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ifra<s n="pr"/></l><r>in<b/>from<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>angående<s n="pr"/></l><r>ongoing<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>unntatt<s n="pr"/></l><r>except<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>utpå<s n="pr"/></l><r>out<b/>on<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>bortimot<s n="pr"/></l><r>almost<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>istedenfor<s n="pr"/></l><r>instead<b/>of<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>nordover<s n="pr"/></l><r>northwards<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>utfor<s n="pr"/></l><r>off<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>innendørs<s n="pr"/></l><r>indoors<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>vedrørende<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>hen<s n="pr"/></l><r>where<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>framme<s n="pr"/></l><r>forward<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>utendørs<s n="pr"/></l><r>outdoors<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>borti<s n="pr"/></l><r>almost<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>midtveis<s n="pr"/></l><r>halfway<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>innimellom<s n="pr"/></l><r>in<b/>between<s n="pr"/></r></p></e>
+
+
     
     
 
@@ -13298,6 +13340,45 @@
     <e><p><l>Anette<s n="np"/></l><r>Anette<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Agathe<s n="np"/></l><r>Agathe<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Agatha<s n="np"/></l><r>Agatha<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+
+    <e><p><l>Bjørn<s n="np"/></l><r>Bjørn<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Kjell<s n="np"/></l><r>Kjell<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Tor<s n="np"/></l><r>Tor<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Morten<s n="np"/></l><r>Morten<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Arne<s n="np"/></l><r>Arne<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Harald<s n="np"/></l><r>Harald<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Egil<s n="np"/></l><r>Egil<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Svein<s n="np"/></l><r>Svein<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Trond<s n="np"/></l><r>Trond<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Sigurd<s n="np"/></l><r>Sigurd<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Øystein<s n="np"/></l><r>Øystein<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Børre<s n="np"/></l><r>Børre<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Ivar<s n="np"/></l><r>Ivar<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Olav<s n="np"/></l><r>Olav<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jens<s n="np"/></l><r>Jens<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Anders<s n="np"/></l><r>Anders<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Rolf<s n="np"/></l><r>Rolf<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Henrik<s n="np"/></l><r>Henrik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Eirik<s n="np"/></l><r>Eirik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Ulf<s n="np"/></l><r>Ulf<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Håkon<s n="np"/></l><r>Håkon<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Torgeir<s n="np"/></l><r>Torgeir<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Sverre<s n="np"/></l><r>Sverre<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Gudmund<s n="np"/></l><r>Gudmund<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Roald<s n="np"/></l><r>Roald<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Torbjørn<s n="np"/></l><r>Torbjørn<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Asbjørn<s n="np"/></l><r>Asbjørn<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Torstein<s n="np"/></l><r>Torstein<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jørgen<s n="np"/></l><r>Jørgen<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Viggo<s n="np"/></l><r>Viggo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Bjarne<s n="np"/></l><r>Bjarne<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Ronny<s n="np"/></l><r>Ronny<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jonny<s n="np"/></l><r>Jonny<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Sigbjørn<s n="np"/></l><r>Sigbjørn<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Fredrik<s n="np"/></l><r>Fredrik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Peder<s n="np"/></l><r>Peder<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Magnus<s n="np"/></l><r>Magnus<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+
     
 
     <e><p><l>Cross<s n="np"/></l><r>Cross<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
