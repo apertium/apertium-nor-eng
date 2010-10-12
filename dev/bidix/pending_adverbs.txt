@@ -1,10 +1,10 @@
-   7849 ^@for<adv>$
+   7844 ^@for<adv>$
    4139 ^@ei<adv>$
    2944 ^@imidlertid<adv>$
    2855 ^@fortsatt<adv>$
    2839 ^@meget<adv>$
    2820 ^@videre<adv>$
-   2591 ^@lite<adv>$
+   2590 ^@lite<adv>$
    2589 ^@stort<adv>$
    2161 ^@spesielt<adv>$
    1772 ^@særlig<adv>$
@@ -36,7 +36,7 @@
     383 ^@midt<adv>$
     377 ^@halvt<adv>$
     367 ^@muligens<adv>$
-    358 ^@stein<adv>$
+    357 ^@stein<adv>$
     303 ^@noen gang<adv>$
     295 ^@høyst<adv>$
     282 ^@henholdsvis<adv>$
@@ -86,8 +86,8 @@
      70 ^@omsider<adv>$
      70 ^@i mellomtida<adv>$
      70 ^@aldeles<adv>$
-     69 ^@foruten<adv>$
      69 ^@dernest<adv>$
+     68 ^@foruten<adv>$
      67 ^@hengende<adv>$
      65 ^@mange steder<adv>$
      63 ^@pluss<adv>$
@@ -303,7 +303,6 @@
       4 ^@da capo<adv>$
       4 ^@bøttevis<adv>$
       4 ^@blikk<adv>$
-      4 ^@anno<adv>$
       3 ^@visselig<adv>$
       3 ^@vibrato<adv>$
       3 ^@stikk<adv>$
@@ -333,6 +332,7 @@
       3 ^@bunkevis<adv>$
       3 ^@bitvis<adv>$
       3 ^@bakvendt<adv>$
+      3 ^@anno<adv>$
       3 ^@ad notam<adv>$
       2 ^@vinterstid<adv>$
       2 ^@vice versa<adv>$

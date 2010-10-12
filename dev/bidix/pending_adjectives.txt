@@ -32,6 +32,7 @@
     197 ^@sistnevnt<adj>$
     188 ^@snar<adj><sup>$
     184 ^@tilsynelatende<adj>$
+    184 ^@spansk<adj>$
     184 ^@in<adj>$
     177 ^@prinsipiell<adj>$
     173 ^@langsiktig<adj>$
@@ -66,6 +67,7 @@
      82 ^@tollfri<adj>$
      82 ^@ofte<adj>$
      81 ^@ytre<adj><sup>$
+     81 ^@tett<adj>$
      80 ^@heftig<adj>$
      76 ^@ettertraktet<adj>$
      75 ^@samfunnsmessig<adj>$
@@ -86,7 +88,6 @@
      55 ^@sjanseløs<adj>$
      55 ^@lovpålagt<adj>$
      54 ^@feig<adj>$
-     53 ^@sjarmere<adj>$
      53 ^@materiell<adj>$
      52 ^@eksakt<adj>$
      50 ^@skadefri<adj>$
@@ -119,6 +120,7 @@
      25 ^@underliggende<adj>$
      25 ^@nøye<adj>$
      25 ^@hårreisende<adj>$
+     24 ^@tett<adj><sup>$
      24 ^@rasfarlig<adj>$
      24 ^@østre<adj>$
      24 ^@gullkantet<adj>$
@@ -131,12 +133,10 @@
      22 ^@arkeologisk<adj>$
      21 ^@uttrykkelig<adj>$
      21 ^@timelang<adj>$
-     21 ^@omgå<adj>$
      21 ^@hyppig<adj><sup>$
      21 ^@hjemmebasert<adj>$
      21 ^@halvfull<adj>$
      20 ^@vettig<adj>$
-     20 ^@klinge<adj>$
      19 ^@verdensberømt<adj>$
      19 ^@skråsikker<adj>$
      19 ^@skattefri<adj>$
@@ -152,7 +152,6 @@
      17 ^@landslagsaktuell<adj>$
      17 ^@forskriftsmessig<adj>$
      16 ^@velspilt<adj>$
-     16 ^@oppsøke<adj>$
      16 ^@gjev<adj>$
      16 ^@frynse<adj>$
      16 ^@forsettlig<adj>$
@@ -193,7 +192,6 @@
      10 ^@forkomme<adj>$
       9 ^@velberget<adj>$
       9 ^@trøndersk<adj>$
-      9 ^@støye<adj>$
       9 ^@regjeringsoppnevnt<adj>$
       9 ^@nedleggingstruet<adj>$
       9 ^@mestselgende<adj>$
@@ -212,7 +210,6 @@
       8 ^@livsbejaende<adj>$
       8 ^@funksjonsfrisk<adj>$
       8 ^@danseglad<adj>$
-      8 ^@begeistre<adj>$
       7 ^@vidtrekkende<adj>$
       7 ^@tusenårig<adj>$
       7 ^@spillefri<adj>$
@@ -265,7 +262,6 @@
       4 ^@snøvle<adj>$
       4 ^@sleive<adj>$
       4 ^@sladde<adj>$
-      4 ^@rute<adj>$
       4 ^@risikovillig<adj>$
       4 ^@milelang<adj>$
       4 ^@midtnorsk<adj>$
@@ -284,18 +280,15 @@
       4 ^@blåhvit<adj>$
       4 ^@blafre<adj>$
       4 ^@bilfri<adj>$
-      4 ^@bifalle<adj>$
       4 ^@avskjerme<adj>$
       4 ^@avreise<adj>$
       4 ^@avdragsfri<adj>$
       4 ^@ansvarshavende<adj>$
-      3 ^@summe<adj>$
       3 ^@snarrådig<adj>$
       3 ^@småmorsom<adj>$
       3 ^@skrangle<adj>$
       3 ^@severdig<adj>$
       3 ^@selvbærende<adj>$
-      3 ^@seede<adj>$
       3 ^@rustfri<adj>$
       3 ^@rentefri<adj>$
       3 ^@råkald<adj>$
@@ -306,13 +299,11 @@
       3 ^@lafte<adj>$
       3 ^@lærevillig<adj>$
       3 ^@kvalitetsbevisst<adj>$
-      3 ^@kroke<adj>$
       3 ^@konsertere<adj>$
       3 ^@kjempemorsom<adj>$
       3 ^@kilometerlang<adj>$
       3 ^@jazze<adj>$
       3 ^@islegge<adj>$
-      3 ^@hulle<adj>$
       3 ^@historisk-filosofisk<adj>$
       3 ^@halvtørr<adj>$
       3 ^@halvgammal<adj>$
@@ -323,14 +314,12 @@
       3 ^@buske<adj>$
       3 ^@brumme<adj>$
       3 ^@blaut<adj>$
-      3 ^@bemanne<adj>$
       3 ^@bein<adj>$
       3 ^@barke<adj>$
       3 ^@atomvåpenfri<adj>$
       3 ^@all right<adj>$
       2 ^@vidsynt<adj>$
       2 ^@var<adj><sup>$
-      2 ^@underbygge<adj>$
       2 ^@tjenestevillig<adj>$
       2 ^@steintøff<adj>$
       2 ^@sondere<adj>$
@@ -344,11 +333,9 @@
       2 ^@rødkledd<adj>$
       2 ^@rein<adj><sup>$
       2 ^@purre<adj>$
-      2 ^@pendle<adj>$
       2 ^@overlegge<adj>$
       2 ^@nygift<adj>$
       2 ^@norskeid<adj>$
-      2 ^@nære<adj>$
       2 ^@meterlang<adj>$
       2 ^@maskinskrive<adj>$
       2 ^@krisepsykiatrisk<adj>$
@@ -360,7 +347,6 @@
       2 ^@godlynt<adj>$
       2 ^@gjøgle<adj>$
       2 ^@genremessig<adj>$
-      2 ^@fosse<adj>$
       2 ^@fergefri<adj>$
       2 ^@femårig<adj>$
       2 ^@feig<adj><sup>$
@@ -382,37 +368,25 @@
       1 ^@trulig<adj>$
       1 ^@trøtte<adj>$
       1 ^@trålfri<adj>$
-      1 ^@trå<adj>$
-      1 ^@tørre<adj>$
       1 ^@toppkvalifisert<adj>$
       1 ^@tofarget<adj>$
       1 ^@tjenestefri<adj>$
-      1 ^@tiltre<adj>$
       1 ^@terminfeste<adj>$
       1 ^@teknisk-naturvitenskapelig<adj>$
-      1 ^@tallfeste<adj>$
-      1 ^@tære<adj>$
-      1 ^@syte<adj>$
       1 ^@sukkerfri<adj>$
       1 ^@strigråte<adj>$
       1 ^@strene<adj>$
       1 ^@startklar<adj>$
-      1 ^@spile<adj>$
       1 ^@spane<adj>$
       1 ^@snirkle<adj>$
       1 ^@smertelig<adj><sup>$
       1 ^@slime<adj>$
-      1 ^@skikke<adj>$
       1 ^@skarpskodd<adj>$
       1 ^@selvfølgelig<adj><sup>$
-      1 ^@sammenlikne<adj>$
       1 ^@rifle<adj>$
-      1 ^@reke<adj>$
-      1 ^@raske<adj>$
       1 ^@rappe<adj>$
       1 ^@råflire<adj>$
       1 ^@programfeste<adj>$
-      1 ^@poengtere<adj>$
       1 ^@pludre<adj>$
       1 ^@overvintre<adj>$
       1 ^@offervillig<adj>$
@@ -423,20 +397,15 @@
       1 ^@mangefarget<adj>$
       1 ^@lørdagsfri<adj>$
       1 ^@langfri<adj>$
-      1 ^@kristne<adj>$
       1 ^@kriminalpolitisk<adj>$
       1 ^@krenge<adj>$
       1 ^@krabbe<adj>$
       1 ^@kontringsvillig<adj>$
       1 ^@konsesjonsfri<adj>$
       1 ^@knapp<adj>$
-      1 ^@kløfte<adj>$
-      1 ^@kime<adj>$
-      1 ^@jubilere<adj>$
       1 ^@jernbeslått<adj>$
       1 ^@jamme<adj>$
       1 ^@jåle<adj>$
-      1 ^@innskrenke<adj>$
       1 ^@inderlig<adj><sup>$
       1 ^@idyllisere<adj>$
       1 ^@høytidelig<adj><sup>$
@@ -461,13 +430,7 @@
       1 ^@eneansvarlig<adj>$
       1 ^@dyrekjær<adj>$
       1 ^@duve<adj>$
-      1 ^@drite<adj>$
       1 ^@chartre<adj>$
-      1 ^@brøyte<adj>$
-      1 ^@bøtelegge<adj>$
-      1 ^@bortforklare<adj>$
-      1 ^@bokse<adj>$
-      1 ^@belegge<adj>$
       1 ^@avføre<adj>$
       1 ^@århundrelang<adj>$
       1 ^@akte<adj>$

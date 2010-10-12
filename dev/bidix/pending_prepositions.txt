@@ -1,5 +1,5 @@
-   5582 ^@der<pr>$
-   4318 ^@her<pr>$
+   5581 ^@der<pr>$
+   4319 ^@her<pr>$
    2349 ^@foran<pr>$
    1841 ^@ute<pr>$
    1541 ^@innen<pr>$
@@ -37,7 +37,7 @@
      45 ^@nordfra<pr>$
      45 ^@inklusiv<pr>$
      43 ^@vesta<pr>$
-     41 ^@anno<pr>$
+     42 ^@anno<pr>$
      40 ^@eksklusiv<pr>$
      39 ^@utenlands<pr>$
      39 ^@hit til<pr>$

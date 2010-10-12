@@ -19,7 +19,6 @@
     740 ^@RV<np>$
     728 ^@Rian<np>$
     702 ^@Petter<np>$
-    689 ^@Telenor<np>$
     656 ^@Mogård<np>$
     649 ^@Ola<np>$
     624 ^@Bjarte<np>$
@@ -53,6 +52,7 @@
     397 ^@Dreyer<np>$
     396 ^@Gerd<np>$
     386 ^@Winge<np>$
+    380 ^@Truls<np>$
     380 ^@Torsken<np>$
     380 ^@Bråthen<np><top>$
     378 ^@Bakken<np>$
@@ -78,7 +78,6 @@
     291 ^@Jørn<np>$
     289 ^@Lasse<np>$
     286 ^@Thorbjørn<np>$
-    281 ^@II<np>$
     273 ^@Torkil<np>$
     272 ^@Elin<np>$
     270 ^@Steinholt<np>$
@@ -325,7 +324,6 @@
      77 ^@Gunvor<np>$
      76 ^@Torill<np>$
      76 ^@KFUM<np>$
-     76 ^@III<np>$
      76 ^@Idar<np>$
      76 ^@Gardermoen<np><top>$
      76 ^@Eskeland<np>$
@@ -1032,7 +1030,6 @@
      18 ^@IKEA<np>$
      18 ^@Hildegunn<np>$
      18 ^@Grytting<np>$
-     18 ^@Grande<np><top>$
      18 ^@Gjertrud<np>$
      18 ^@Frid<np>$
      18 ^@Frantzen<np><top>$
@@ -1070,6 +1067,7 @@
      17 ^@Hovland<np><top>$
      17 ^@Hirsti<np>$
      17 ^@Gun<np>$
+     17 ^@Grande<np><top>$
      17 ^@Gard<np>$
      17 ^@Gardell<np>$
      17 ^@Frydenlund<np><top>$
@@ -1620,7 +1618,6 @@
       8 ^@Tor-Erling<np>$
       8 ^@Tor-Arne<np>$
       8 ^@Tikkanen<np>$
-      8 ^@TELENOR<np>$
       8 ^@Sundstrøm<np>$
       8 ^@Stig<np>$
       8 ^@Stein-Erik<np>$
@@ -2264,6 +2261,7 @@
       4 ^@Værnes<np>$
       4 ^@Tveiten<np><top>$
       4 ^@TV4<np>$
+      4 ^@TRULS<np>$
       4 ^@Trønnes<np>$
       4 ^@Torsvik<np><top>$
       4 ^@Torkel<np>$
@@ -2276,7 +2274,6 @@
       4 ^@THORSTVEDT<np>$
       4 ^@The Who<np>$
       4 ^@Theatre<np>$
-      4 ^@TBK<np>$
       4 ^@Tapani<np>$
       4 ^@Taarnesvik<np>$
       4 ^@Syver<np>$
@@ -2880,6 +2877,7 @@
       2 ^@Thorkild<np>$
       2 ^@Thor-Inge<np>$
       2 ^@Thora<np>$
+      2 ^@Tell<np>$
       2 ^@Tarja<np>$
       2 ^@Tapio<np>$
       2 ^@Svenning<np>$
