@@ -192,6 +192,8 @@
 
     <e c="  0"><p><l>tilbake<s n="pr"/></l><r>back<s n="pr"/></r></p></e>
 
+    <e c="  0"><p><l>til<b/>å<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+
     <e c="  0"><p><l>til<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e slr="1"><p><l>til<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
 
@@ -15869,10 +15871,11 @@
 <e c="  0"><p><l>aspirere</l><r>*aspire<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>anslå</l><r>estimate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>akselerere</l><r>accelerate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>vurdere</l><r>assess<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>verve</l><r>*enlist<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>vurdere</l><r>consider<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e slr="1"><p><l>vurdere</l><r>assess<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>verve</l><r>enlist<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>vege</l><r>weigh<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>vansmekte</l><r>*languish<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>vansmekte</l><r>languish<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>vansmekte</l><r>suffer<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="2"><p><l>vansmekte</l><r>long<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>vannkjemme</l><r>comb<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -19550,6 +19553,9 @@
     <e c="  0"><p><l>knope</l><r>knot<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>imøtese</l><r>announce<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>høytide</l><r>feast<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
+    <e c="  0"><p><l>kvoteregulere</l><r>regulate<g><b/>the<b/>quota<b/>of</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
 
 
  
