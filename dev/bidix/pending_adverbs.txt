@@ -71,7 +71,6 @@
     115 ^@eksempelvis<adv>$
     113 ^@noenlunde<adv>$
     112 ^@for så vidt<adv>$
-    108 ^@senest<adv>$
     107 ^@følgelig<adv>$
     104 ^@gradvis<adv>$
      98 ^@dog<adv>$

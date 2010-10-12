@@ -152,7 +152,6 @@
      17 ^@forskriftsmessig<adj>$
      16 ^@velspilt<adj>$
      16 ^@gjev<adj>$
-     16 ^@frynse<adj>$
      16 ^@forsettlig<adj>$
      15 ^@uvedkommende<adj>$
      15 ^@slak<adj>$
@@ -254,7 +253,6 @@
       4 ^@tingliggjøre<adj>$
       4 ^@svartkledd<adj>$
       4 ^@snøvle<adj>$
-      4 ^@sleive<adj>$
       4 ^@risikovillig<adj>$
       4 ^@milelang<adj>$
       4 ^@midtnorsk<adj>$
@@ -273,12 +271,10 @@
       4 ^@blafre<adj>$
       4 ^@bilfri<adj>$
       4 ^@avskjerme<adj>$
-      4 ^@avreise<adj>$
       4 ^@avdragsfri<adj>$
       4 ^@ansvarshavende<adj>$
       3 ^@snarrådig<adj>$
       3 ^@småmorsom<adj>$
-      3 ^@skrangle<adj>$
       3 ^@severdig<adj>$
       3 ^@selvbærende<adj>$
       3 ^@rustfri<adj>$
@@ -288,7 +284,6 @@
       3 ^@nyanlagt<adj>$
       3 ^@max<adj>$
       3 ^@lysegrønn<adj>$
-      3 ^@lafte<adj>$
       3 ^@lærevillig<adj>$
       3 ^@kvalitetsbevisst<adj>$
       3 ^@konsertere<adj>$
@@ -304,7 +299,6 @@
       3 ^@fly forbannet<adj>$
       3 ^@fleipe<adj>$
       3 ^@buske<adj>$
-      3 ^@brumme<adj>$
       3 ^@blaut<adj>$
       3 ^@bein<adj>$
       3 ^@barke<adj>$
@@ -320,11 +314,9 @@
       2 ^@skadelidt<adj>$
       2 ^@sid<adj>$
       2 ^@sår<adj><sup>$
-      2 ^@sample<adj>$
       2 ^@rødkledd<adj>$
       2 ^@rein<adj><sup>$
       2 ^@purre<adj>$
-      2 ^@overlegge<adj>$
       2 ^@nygift<adj>$
       2 ^@norskeid<adj>$
       2 ^@meterlang<adj>$
@@ -384,7 +376,6 @@
       1 ^@lørdagsfri<adj>$
       1 ^@langfri<adj>$
       1 ^@kriminalpolitisk<adj>$
-      1 ^@krenge<adj>$
       1 ^@kontringsvillig<adj>$
       1 ^@konsesjonsfri<adj>$
       1 ^@knapp<adj>$
@@ -400,11 +391,9 @@
       1 ^@halvtimelang<adj>$
       1 ^@halvmeterhøy<adj>$
       1 ^@gjennomorganisert<adj>$
-      1 ^@gjendikte<adj>$
       1 ^@giftfri<adj>$
       1 ^@gebyrfri<adj>$
       1 ^@fosforisere<adj>$
-      1 ^@forgå<adj>$
       1 ^@flø<adj>$
       1 ^@fettfri<adj>$
       1 ^@fete<adj>$
@@ -413,7 +402,5 @@
       1 ^@fabrikkny<adj>$
       1 ^@eneansvarlig<adj>$
       1 ^@dyrekjær<adj>$
-      1 ^@duve<adj>$
-      1 ^@chartre<adj>$
       1 ^@avføre<adj>$
       1 ^@århundrelang<adj>$
