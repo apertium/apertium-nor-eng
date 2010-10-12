@@ -271,6 +271,7 @@
     <e c="  0"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
     <e slr="1"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>next<b/>to<s n="pr"/></r></p></e>
     <e slr="2"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
+    <e slr="3"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
     <e c="  0"><p><l>midt<b/>i<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
     <e c="  0"><p><l>igjennom<s n="pr"/></l><r>through<s n="pr"/></r></p></e>
     <e c="  0"><p><l>inntil<s n="pr"/></l><r>next<b/>to<s n="pr"/></r></p></e>
@@ -4723,8 +4724,8 @@
 <e>        <p><l>parole<s n="n"/><s n="m"/></l><r>slogan<s n="n"/></r></p></e>
 <e slr="1"><p><l>parole<s n="n"/><s n="m"/></l><r>parole<s n="n"/></r></p></e>
 <e>        <p><l>part<s n="n"/><s n="m"/></l><r>share<s n="n"/></r></p></e>
-<e>        <p><l>parti<s n="n"/><s n="nt"/></l><r>shipment<s n="n"/></r></p></e>
-<e slr="1"><p><l>parti<s n="n"/><s n="nt"/></l><r>part<s n="n"/></r></p></e>
+<e>        <p><l>parti<s n="n"/><s n="nt"/></l><r>part<s n="n"/></r></p></e>
+<e slr="1"><p><l>parti<s n="n"/><s n="nt"/></l><r>shipment<s n="n"/></r></p></e>
 <e slr="2"><p><l>parti<s n="n"/><s n="nt"/></l><r>side<s n="n"/></r></p></e>
 <e slr="3"><p><l>parti<s n="n"/><s n="nt"/></l><r>party<s n="n"/></r></p></e>
 <e>        <p><l>partisan<s n="n"/><s n="m"/></l><r>partisan<s n="n"/></r></p></e>
@@ -7571,6 +7572,10 @@
 <e c="  0"><p><l>data<s n="n"/><s n="m"/></l><r>data<s n="n"/></r></p></e>
 <e c="  0"><p><l>talent<s n="n"/><s n="m"/></l><r>talent<s n="n"/></r></p></e>
 <e c="  0"><p><l>råstoff<s n="n"/><s n="nt"/></l><r>raw<b/>material<s n="n"/></r></p></e>
+<e c="  0"><p><l>fartøy<s n="n"/><s n="nt"/></l><r>ship<s n="n"/></r></p></e>
+<e slr="1"><p><l>fartøy<s n="n"/><s n="nt"/></l><r>craft<s n="n"/></r></p></e>
+<e slr="2"><p><l>fartøy<s n="n"/><s n="nt"/></l><r>vessel<s n="n"/></r></p></e>
+<e slr="3"><p><l>fartøy<s n="n"/><s n="nt"/></l><r>boat<s n="n"/></r></p></e>
 <e c="  0"><p><l>bibel<s n="n"/><s n="m"/></l><r>bible<s n="n"/></r></p></e>
 <e c="  0"><p><l>verdenskrig<s n="n"/><s n="m"/></l><r>world<b/>war<s n="n"/></r></p></e>
 <e c="  0"><p><l>ektepar<s n="n"/><s n="nt"/></l><r>marriage<s n="n"/></r></p></e>
@@ -11576,7 +11581,7 @@
     <e><p><l>Adriahavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Adriatic<b/>Sea<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Adriaterhavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Adriatic<b/>Sea<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Asovhavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Sea<b/>of<b/>Azov<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>Atlanterhavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Atlantic<b/>Ocean<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>Atlanterhavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Atlantic<b/>Ocean<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Østlandet<s n="np"/><s n="top"/><s n="nt"/></l><r>Eastern<b/>Norway<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Barentshavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Barents<b/>Sea<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Beringhavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Bering<b/>Sea<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
@@ -11586,7 +11591,7 @@
     <e><p><l>Dødehavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Dead<b/>Sea<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Egeerhavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Aegean<b/>Sea<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Eiffeltårnet<s n="np"/><s n="top"/><s n="nt"/></l><r>Eiffel<b/>Tower<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>Gardariket<s n="np"/><s n="top"/><s n="nt"/></l><r>GarðAríki<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>Gardariket<s n="np"/><s n="top"/><s n="nt"/></l><r>Garðaríki<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Gibraltarstredet<s n="np"/><s n="top"/><s n="nt"/></l><r>Strait<b/>of<b/>Gibraltar<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Grønlandshavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Greenland<b/>Sea<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Gulehavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Yellow<b/>Sea<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
@@ -11605,7 +11610,7 @@
     <e><p><l>Skedsmokorset<s n="np"/><s n="top"/><s n="nt"/></l><r>Skedsmokorset<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Sørlandet<s n="np"/><s n="top"/><s n="nt"/></l><r>Southern<b/>Norway<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Stadlandet<s n="np"/><s n="top"/><s n="nt"/></l><r>Stad<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>Stillehavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Pacific<b/>Ocean<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>Stillehavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Pacific<b/>Ocean<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Svartehavet<s n="np"/><s n="top"/><s n="nt"/></l><r>Black<b/>Sea<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Tyinkrysset<s n="np"/><s n="top"/><s n="nt"/></l><r>Tyinkrysset<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>Ustaoset<s n="np"/><s n="top"/><s n="nt"/></l><r>Ustaoset<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
