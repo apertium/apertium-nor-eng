@@ -15167,6 +15167,7 @@
     <e slr="1"><p><l>iallfall<s n="adv"/></l><r>at<b/>any<b/>rate<s n="adv"/></r></p></e> 
     <e slr="2"><p><l>iallfall<s n="adv"/></l><r>anyhow<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>i<b/>dag<s n="adv"/></l><r>today<s n="adv"/></r></p></e> 
+    <e slr="1"><p><l>i<b/>dag<s n="adv"/></l><r>currently<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>i<b/>fjor<s n="adv"/></l><r>last<b/>year<s n="adv"/></r></p></e> 
     <e c="  0"><p><l>i<b/>går<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e> <!--(the day before today)-->
     <e c="  0"><p><l>i<b/>stedet<s n="adv"/></l><r>instead<s n="adv"/></r></p></e> <!--(in the place of)-->
