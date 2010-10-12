@@ -73,7 +73,6 @@
     303 ^@Vår<np>$
     302 ^@Åsgård<np>$
     301 ^@Gustad<np>$
-    299 ^@Merete<np>$
     295 ^@Statoil<np>$
     291 ^@Jørn<np>$
     289 ^@Lasse<np>$
@@ -266,7 +265,6 @@
      95 ^@Kongen<np>$
      94 ^@Wiik<np><top>$
      94 ^@Ingvild<np>$
-     94 ^@Camilla<np>$
      93 ^@Bengt<np>$
      92 ^@May<np>$
      92 ^@Hill<np><top>$

@@ -270,7 +270,6 @@
       4 ^@blåhvit<adj>$
       4 ^@blafre<adj>$
       4 ^@bilfri<adj>$
-      4 ^@avskjerme<adj>$
       4 ^@avdragsfri<adj>$
       4 ^@ansvarshavende<adj>$
       3 ^@snarrådig<adj>$
@@ -320,7 +319,6 @@
       2 ^@nygift<adj>$
       2 ^@norskeid<adj>$
       2 ^@meterlang<adj>$
-      2 ^@maskinskrive<adj>$
       2 ^@krisepsykiatrisk<adj>$
       2 ^@knapp<adj><sup>$
       2 ^@hemmeligstemple<adj>$
@@ -340,7 +338,6 @@
       2 ^@blankslite<adj>$
       2 ^@bevisstgjøre<adj>$
       2 ^@beredvillig<adj>$
-      2 ^@avstresse<adj>$
       1 ^@vestnorsk<adj>$
       1 ^@ven<adj>$
       1 ^@velpreparert<adj>$
@@ -358,7 +355,6 @@
       1 ^@strigråte<adj>$
       1 ^@strene<adj>$
       1 ^@startklar<adj>$
-      1 ^@snirkle<adj>$
       1 ^@smertelig<adj><sup>$
       1 ^@slime<adj>$
       1 ^@skarpskodd<adj>$

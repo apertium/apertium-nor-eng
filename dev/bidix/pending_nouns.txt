@@ -3189,7 +3189,6 @@
       9 ^@årsfest<n>$
       9 ^@armod<n>$
       9 ^@armbrudd<n>$
-      9 ^@arbeidssøker<n>$
       9 ^@arbeidserfaring<n>$
       9 ^@arbeidsdirektorat<n>$
       9 ^@arbeidsbyrde<n>$
@@ -3481,6 +3480,7 @@
       8 ^@arvtager<n>$
       8 ^@årsoppgjør<n>$
       8 ^@arealplanlegging<n>$
+      8 ^@arbeidssøker<n>$
       8 ^@arbeidsro<n>$
       8 ^@arbeidsprogram<n>$
       8 ^@arbeidsløshet<n>$
@@ -9576,6 +9576,7 @@
       1 ^@notabene<n>$
       1 ^@nors<n>$
       1 ^@norsk-svensk<n>$
+      1 ^@norsk<n>$
       1 ^@norsk-dansk<n>$
       1 ^@normalitet<n>$
       1 ^@norgesglas<n>$
