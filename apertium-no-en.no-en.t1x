@@ -197,6 +197,12 @@
             <lit v=""/>
           </let>
         </when>
+        <otherwise>
+          <let> <!-- 'mer' → 'more' -->
+            <clip pos="1" side="tl" part="grau"/>
+            <lit v=""/>
+          </let>
+        </otherwise>
       </choose>
       <let>
         <var n="a_h"/>

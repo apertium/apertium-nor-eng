@@ -447,6 +447,7 @@
     <e><p><l>mange<s n="adj"/><s n="comp"/></l><r>more<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>mange<s n="adj"/><s n="sup"/></l><r>most<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>mye<s n="adj"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>mye<s n="adj"/><s n="comp"/></l><r>more<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>mye<s n="adj"/><s n="sup"/></l><r>most<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     <e><p><l>mange<s n="det"/><s n="qnt"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>samtlige<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
