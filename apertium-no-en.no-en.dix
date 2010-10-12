@@ -74,6 +74,7 @@
     <sdef n="sent"       c="Sentence boundary"/>
     <sdef n="clb"        c="Clause boundary"/>
     <sdef n="cm"         c="Comma"/>
+    <sdef n="apos"       c="Apostrophe"/>
   </sdefs>
 
   <pardefs>
@@ -183,6 +184,8 @@
     <e c="  0"><p><l>fra<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>som<s n="pr"/></l><r>as<s n="pr"/></r></p></e>
+
+    <e c="  0"><p><l>i<b/>underkant<s n="pr"/></l><r>just<b/>under<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>i<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e slr="1"><p><l>i<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
@@ -7569,7 +7572,13 @@
 <e c="  0"><p><l>nei<s n="n"/><s n="nt"/></l><r>no<s n="n"/></r></p></e>
 
 <!-- SECTION Nouns, unchecked: -->
+<e>        <p><l>variant<s n="n"/><s n="m"/></l><r>variety<s n="n"/></r></p></e>
+<e slr="1"><p><l>variant<s n="n"/><s n="m"/></l><r>variant<s n="n"/></r></p></e>
+<e>        <p><l>hundre<s n="n"/><s n="nt"/></l><r>hundred<s n="n"/></r></p></e>
+<e>        <p><l>språkområde<s n="n"/><s n="nt"/></l><r>language<b/>area<s n="n"/></r></p></e>
+<e>        <p><l>morfologi<s n="n"/><s n="m"/></l><r>morphology<s n="n"/></r></p></e>
 <e c="  0"><p><l>katedralskole<s n="n"/><s n="m"/></l><r>cathedral<b/>school<s n="n"/></r></p></e>
+<e c="  0"><p><l>spansk<s n="n"/><s n="nt"/></l><r>Spanish<s n="n"/></r></p><par n="sp_sg"/></e>
 <e c="  0"><p><l>data<s n="n"/><s n="m"/></l><r>data<s n="n"/></r></p></e>
 <e c="  0"><p><l>talent<s n="n"/><s n="m"/></l><r>talent<s n="n"/></r></p></e>
 <e c="  0"><p><l>råstoff<s n="n"/><s n="nt"/></l><r>raw<b/>material<s n="n"/></r></p></e>
@@ -9359,6 +9368,7 @@
 
     <e><p><l>St<s n="np"/></l><r>St<s n="abbr"/></r></p></e>
     <e><p><l>NRK<s n="np"/></l><r>NRK<s n="abbr"/></r></p></e>
+    <e><p><l>IPA<s n="n"/><s n="m"/></l><r>IPA<s n="abbr"/></r></p></e>
     <e><p><l>TBK<s n="np"/></l><r>TBK<s n="abbr"/></r></p></e>
     <e><p><l>NTB<s n="np"/></l><r>NTB<s n="abbr"/></r></p></e>
     <e><p><l>IBM<s n="np"/></l><r>IBM<s n="abbr"/></r></p></e>
@@ -17902,7 +17912,8 @@
     <e slr="1"><p><l>velge</l><r>elect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>verdsette</l><r>evaluate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>verdsette</l><r>appreciate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e c="  0"><p><l>verke</l><r>ache<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>verke</l><r>work<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>verke</l><r>ache<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>vigsle</l><r>consecrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>visle</l><r>hiss<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>vitne</l><r>depose<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -19877,6 +19888,8 @@
     <e c="  0"><p><l>korke</l><r>cork<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>kjæle</l><r>caress<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
+    <e c="  0"><p><l>agglutinere</l><r>agglutinate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
 
  
     <!-- SECTION: Interjections -->
@@ -19887,6 +19900,7 @@
     <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="det"/><s n="qnt"/></l><r><s n="num"/></r></p><par n="qnt_num"/></e>
     <e><re>[0-9]+</re><p><l>.<s n="adj"/><s n="ord"/></l><r><s n="num"/><s n="ord"/></r></p></e>
     <e><re>[0-9]+</re><p><l>-tall<s n="n"/><s n="nt"/><s n="sg"/></l><r>s<s n="n"/><s n="pl"/></r></p></e>
+    <e><re>[0-9]+</re><p><l>-tall<g><b/>e.Kr</g><s n="n"/><s n="nt"/><s n="sg"/></l><r><b/>CE<s n="num"/><s n="sg"/></r></p></e>
 
     <e><re>[.\?;:!·]+</re><p><l><s n="sent"/><s n="clb"/></l><r><s n="sent"/></r></p></e>
     <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
@@ -19894,6 +19908,7 @@
     <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
     <e><p><l>]<s n="rpar"/></l><r>]<s n="rpar"/></r></p></e>
     <e><p><l>[<s n="lpar"/></l><r>[<s n="lpar"/></r></p></e>
+    <e><p><l>'<s n="apos"/></l><r>'<s n="apos"/></r></p></e>
 
   </section>
 </dictionary>
