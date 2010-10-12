@@ -109,6 +109,10 @@
       <e r="LR"> <p><l><s n="pl"/></l>	<r><s n="sg"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/></l>	<r><s n="sg"/></r></p></e>
     </pardef>
+    <pardef n="m_LR_f_sgpl_pl">
+      <e> <p><l><s n="m"/></l>	<r></r></p><par n="sgpl_pl"/></e>
+      <e r="LR"><p><l><s n="f"/></l>	<r></r></p><par n="sgpl_pl"/></e>
+    </pardef>
 
 
     <pardef n="sp_sg">
@@ -7593,6 +7597,7 @@
 <e c="  0"><p><l>nei<s n="n"/><s n="nt"/></l><r>no<s n="n"/></r></p></e>
 
 <!-- SECTION Nouns, unchecked: -->
+<e>        <p><l>FN-organisasjon<s n="n"/><s n="m"/></l><r>UN<b/>organisation<s n="n"/></r></p></e>
 <e>        <p><l>variant<s n="n"/><s n="m"/></l><r>variety<s n="n"/></r></p></e>
 <e slr="1"><p><l>variant<s n="n"/><s n="m"/></l><r>variant<s n="n"/></r></p></e>
 <e>        <p><l>hundre<s n="n"/><s n="nt"/></l><r>hundred<s n="n"/></r></p></e>
@@ -7688,7 +7693,7 @@
 <e c="  0"><p><l>lagmannsrett<s n="n"/><s n="m"/></l><r>court<g><b/>of<b/>appeal</g><s n="n"/></r></p></e>
 <e c="  0"><p><l>finnmarking<s n="n"/><s n="m"/></l><r>Finnmarker<s n="n"/></r></p></e>
 <e c="  0"><p><l>justisminister<s n="n"/><s n="m"/></l><r>justice<b/>ministry<s n="n"/></r></p></e>
-<e c="  0"><p><l>menneskerettighet<s n="n"/><s n="m"/></l><r>human<b/>rights<s n="n"/></r></p></e>
+<e c="  0"><p><l>menneskerettighet<s n="n"/></l><r>human<b/>right<s n="n"/></r></p><par n="m_LR_f_sgpl_pl"/></e>
 <e c="  0"><p><l>volleyball<s n="n"/><s n="m"/></l><r>volleyball<s n="n"/></r></p></e>
 <e c="  0"><p><l>argumentasjon<s n="n"/><s n="m"/></l><r>argument<s n="n"/></r></p></e>
 <e slr="1"><p><l>argumentasjon<s n="n"/><s n="m"/></l><r>argumentation<s n="n"/></r></p></e>
@@ -8116,7 +8121,7 @@
 <e c="  0"><p><l>sentralsykehus<s n="n"/><s n="nt"/></l><r>central<b/>hospital<s n="n"/></r></p></e>
 <e c="  0"><p><l>palett<s n="n"/><s n="m"/></l><r>palette<s n="n"/></r></p></e>
 <e c="  0"><p><l>millionær<s n="n"/><s n="m"/></l><r>millionaire<s n="n"/></r></p></e>
-<e c="  0"><p><l>menneskerett<s n="n"/><s n="m"/></l><r>human<b/>rights<s n="n"/></r></p></e>
+<e c="  0"><p><l>menneskerett<s n="n"/><s n="m"/></l><r>human<b/>right<s n="n"/></r></p></e>
 <e c="  0"><p><l>klan<s n="n"/><s n="m"/></l><r>clan<s n="n"/></r></p></e>
 <e c="  0"><p><l>heile<s n="n"/><s n="m"/></l><r>brain<s n="n"/></r></p></e>
 <e c="  0"><p><l>diktatur<s n="n"/><s n="nt"/></l><r>dictator<s n="n"/></r></p></e>
@@ -9401,12 +9406,143 @@
     <e><p><l>DDR<s n="np"/></l><r>DDR<s n="abbr"/></r></p></e>
     <e><p><l>IRA<s n="np"/></l><r>IRA<s n="abbr"/></r></p></e>
 
+    <e><p><l>AKP<s n="np"/></l><r>AKP<s n="abbr"/></r></p></e>
+    <e><p><l>AOF<s n="np"/></l><r>AOF<s n="abbr"/></r></p></e>
+    <e><p><l>DnB<s n="np"/></l><r>DnB<s n="abbr"/></r></p></e>
+    <e><p><l>Dr<s n="np"/></l><r>Dr<s n="abbr"/></r></p></e>
+    <e><p><l>EFTA<s n="np"/></l><r>EFTA<s n="abbr"/></r></p></e>
+    <e><p><l>EMI<s n="np"/></l><r>EMI<s n="abbr"/></r></p></e>
+    <e><p><l>ESA<s n="np"/></l><r>ESA<s n="abbr"/></r></p></e>
+    <e><p><l>ESA<s n="np"/></l><r>ESA<s n="abbr"/></r></p></e>
+    <e><p><l>FIFA<s n="np"/></l><r>FIFA<s n="abbr"/></r></p></e>
+    <e><p><l>FN<s n="np"/></l><r>FN<s n="abbr"/></r></p></e>
+    <e><p><l>FRP<s n="np"/></l><r>FRP<s n="abbr"/></r></p></e>
+    <e><p><l>HVPU<s n="np"/></l><r>HVPU<s n="abbr"/></r></p></e>
+    <e><p><l>IOC<s n="np"/></l><r>IOC<s n="abbr"/></r></p></e>
+    <e><p><l>IOGT<s n="np"/></l><r>IOGT<s n="abbr"/></r></p></e>
+    <e><p><l>KFUM<s n="np"/></l><r>KFUM<s n="abbr"/></r></p></e>
+    <e><p><l>LSK<s n="np"/></l><r>LSK<s n="abbr"/></r></p></e>
+    <e><p><l>Ltd<s n="np"/></l><r>Ltd<s n="abbr"/></r></p></e>
+    <e><p><l>Mr<s n="np"/></l><r>Mr<s n="abbr"/></r></p></e>
+    <e><p><l>NAF<s n="np"/></l><r>NAF<s n="abbr"/></r></p></e>
+    <e><p><l>NIF<s n="np"/></l><r>NIF<s n="abbr"/></r></p></e>
+    <e><p><l>NKL<s n="np"/></l><r>NKL<s n="abbr"/></r></p></e>
+    <e><p><l>NKP<s n="np"/></l><r>NKP<s n="abbr"/></r></p></e>
+    <e><p><l>NSB<s n="np"/></l><r>NSB<s n="abbr"/></r></p></e>
+    <e><p><l>NTH<s n="np"/></l><r>NTH<s n="abbr"/></r></p></e>
+    <e><p><l>NVE<s n="np"/></l><r>NVE<s n="abbr"/></r></p></e>
+    <e><p><l>OECD<s n="np"/></l><r>OECD<s n="abbr"/></r></p></e>
+    <e><p><l>OPEC<s n="np"/></l><r>OPEC<s n="abbr"/></r></p></e>
+    <e><p><l>RBK<s n="np"/></l><r>RBK<s n="abbr"/></r></p></e>
+    <e><p><l>SFO<s n="np"/></l><r>SFO<s n="abbr"/></r></p></e>
+    <e><p><l>SFT<s n="np"/></l><r>SFT<s n="abbr"/></r></p></e>
+    <e><p><l>SINTEF<s n="np"/></l><r>SINTEF<s n="abbr"/></r></p></e>
+    <e><p><l>SS<s n="np"/></l><r>SS<s n="abbr"/></r></p></e>
+    <e><p><l>TV1<s n="np"/></l><r>TV1<s n="abbr"/></r></p></e>
+    <e><p><l>TV2<s n="np"/></l><r>TV2<s n="abbr"/></r></p></e>
+    <e><p><l>TV3<s n="np"/></l><r>TV3<s n="abbr"/></r></p></e>
+    <e><p><l>UEFA<s n="np"/></l><r>UEFA<s n="abbr"/></r></p></e>
+    <e><p><l>UNESCO<s n="np"/></l><r>UNESCO<s n="abbr"/></r></p></e>
+    <e><p><l>VHS<s n="np"/></l><r>VHS<s n="abbr"/></r></p></e>
+
+
     <e><p><l>Gud<s n="np"/></l><r>God<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Wikipedia<s n="np"/></l><r>Wikipedia<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Telenor<s n="np"/></l><r>Telenor<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Televerket<s n="np"/></l><r>Televerket<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Televerk<s n="np"/></l><r>Televerk<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>TVNorge<s n="np"/></l><r>TVNorge<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Barne-TV<s n="np"/></l><r>Barne-TV<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Stortinget<s n="np"/><s n="nt"/></l><r>Parliament<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+
+    <e><p><l>Stanford-universitetet<s n="np"/></l><r>Stanford<b/>University<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Statoil<s n="np"/></l><r>Statoil<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Aftenposten<s n="np"/></l><r>Aftenposten<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>A-ha<s n="np"/></l><r>A-ha<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Alcatel<s n="np"/><s n="top"/></l><r>Alcatel<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Beatles<s n="np"/></l><r>Beatles<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Busch<s n="np"/></l><r>Busch<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Esso<s n="np"/></l><r>Esso<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Europakommisjonen<s n="np"/></l><r>European<b/>Commission<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Europaparlamentet<s n="np"/></l><r>European<b/>Parliament<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Eurovisjonen<s n="np"/></l><r>Eurovision<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Fiat<s n="np"/></l><r>Fiat<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Gestapo<s n="np"/></l><r>Gestapo<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Golf-krigen<s n="np"/></l><r>Gulf<b/>War<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Ikea<s n="np"/></l><r>Ikea<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Interrail<s n="np"/></l><r>Interrail<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Jaguar<s n="np"/></l><r>Jaguar<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Jehova<s n="np"/></l><r>Jehova<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Justisdepartmentet<s n="np"/></l><r>Justice<b/>Department<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Juventus<s n="np"/></l><r>Juventus<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Kreditkassen<s n="np"/></l><r>Kreditkassen<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Kunstindustrimuseet<s n="np"/></l><r>Kunstindustrimuseet<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Kvinnefronten<s n="np"/></l><r>Kvinnefronten<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Lucifer<s n="np"/></l><r>Lucifer<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Nationaltheatret<s n="np"/></l><r>Nationaltheatret<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Nestlé<s n="np"/></l><r>Nestlé<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Opel<s n="np"/></l><r>Opel<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Porsche<s n="np"/></l><r>Porsche<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Pravda<s n="np"/></l><r>Pravda<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Rolex<s n="np"/></l><r>Rolex<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Saab<s n="np"/></l><r>Saab<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Seat<s n="np"/></l><r>Seat<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Securitas<s n="np"/></l><r>Securitas<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Senterpartiet<s n="np"/></l><r>Senterpartiet<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Shell<s n="np"/></l><r>Shell<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Siemens<s n="np"/></l><r>Siemens<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Skattedirektoratet<s n="np"/></l><r>Skattedirektoratet<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Skoda<s n="np"/></l><r>Skoda<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>The<b/>Who<s n="np"/></l><r>The<b/>Who<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Tokyo-børsen<s n="np"/></l><r>Tokyo<b/>Stock<b/>Exchange<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Veritas<s n="np"/></l><r>Veritas<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Vietnamkrigen<s n="np"/></l><r>Vietnam<b/>War<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+    <e><p><l>Windows<s n="np"/></l><r>Windows<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+
+
+
+    <e><p><l>Ajax<s n="np"/></l><r>Ajax<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Åsgård<s n="np"/></l><r>Åsgård<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Breivik<s n="np"/><s n="top"/></l><r>Breivik<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Bromwich<s n="np"/></l><r>Bromwich<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Buenos<b/>Aires<s n="np"/><s n="top"/></l><r>Buenos<b/>Aires<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Crewe<s n="np"/></l><r>Crewe<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Gardermoen<s n="np"/><s n="top"/></l><r>Gardermoen<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Harlem<s n="np"/></l><r>Harlem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Krakow<s n="np"/></l><r>Krakow<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Kuala<b/>Lumpur<s n="np"/><s n="top"/></l><r>Kuala<b/>Lumpur<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Lausanne<s n="np"/></l><r>Lausanne<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Los<b/>Angeles<s n="np"/><s n="top"/></l><r>Los<b/>Angeles<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Mansfield<s n="np"/></l><r>Mansfield<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Middlesborough<s n="np"/><s n="top"/></l><r>Middlesborough<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Midt-England<s n="np"/><s n="top"/></l><r>Mid<b/>England<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Midt-Sverige<s n="np"/><s n="top"/></l><r>Mid<b/>Sweden<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Nordfjord<s n="np"/><s n="top"/></l><r>Nordfjord<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Nord-Hålogaland<s n="np"/><s n="top"/></l><r>Nord-Hålogaland<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Nord-Lenangen<s n="np"/></l><r>Nord-Lenangen<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Øst-Finnmark<s n="np"/><s n="top"/></l><r>East<b/>Finnmark<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Poole<s n="np"/></l><r>Poole<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Richmond<s n="np"/></l><r>Richmond<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sandvik<s n="np"/></l><r>Sandvik<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>San<b/>Fransisco<s n="np"/><s n="top"/></l><r>San<b/>Fransisco<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Scania<s n="np"/></l><r>Scania<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Senja<s n="np"/></l><r>Senja<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sheffield<s n="np"/></l><r>Sheffield<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Skandia<s n="np"/></l><r>Skandia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sør-England<s n="np"/><s n="top"/></l><r>South<b/>England<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sør-Finland<s n="np"/><s n="top"/></l><r>South<b/>Finland<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sør-Frankrike<s n="np"/><s n="top"/></l><r>South<b/>France<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sør-Norge<s n="np"/><s n="top"/></l><r>South<b/>Norway<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sørøst-Norge<s n="np"/><s n="top"/></l><r>Southeast<b/>Norway<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sør-Sverige<s n="np"/><s n="top"/></l><r>South<b/>Sweden<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sør-Troms<s n="np"/><s n="top"/></l><r>South<b/>Troms<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sør-Tyskland<s n="np"/><s n="top"/></l><r>South<b/>Germany<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sørvest-Afrika<s n="np"/><s n="top"/></l><r>Southwest<b/>Africa<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Vest-Beirut<s n="np"/><s n="top"/></l><r>West<b/>Beirut<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Vest-Finnmark<s n="np"/><s n="top"/></l><r>West<b/>Finnmark<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Vestfjorden<s n="np"/><s n="top"/></l><r>Vestfjorden<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Vest-Norge<s n="np"/><s n="top"/></l><r>West<b/>Norway<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Watford<s n="np"/></l><r>Watford<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
     <e><p><l>Aarstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Alstad<s n="np"/><s n="top"/></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -9514,6 +9650,295 @@
     <e><p><l>Satan<s n="np"/></l><r>Satan<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Sem<s n="np"/></l><r>Sem<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Væren<s n="np"/></l><r>Aries<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+
+    <e><p><l>Lundberg<s n="np"/><s n="top"/></l><r>Lundberg<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Lindstrøm<s n="np"/></l><r>Lindstrøm<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Jeltsin<s n="np"/></l><r>Jeltsin<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Dahl<s n="np"/><s n="top"/></l><r>Dahl<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Schrøder<s n="np"/><s n="top"/></l><r>Schrøder<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Sundquist<s n="np"/></l><r>Sundquist<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Somby<s n="np"/></l><r>Somby<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Lindberg<s n="np"/><s n="top"/></l><r>Lindberg<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Nyquist<s n="np"/></l><r>Nyquist<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Schmidt<s n="np"/><s n="top"/></l><r>Schmidt<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>McCartney<s n="np"/></l><r>McCartney<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Little<s n="np"/></l><r>Little<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Crosby<s n="np"/></l><r>Crosby<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Kohl<s n="np"/></l><r>Kohl<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Darling<s n="np"/></l><r>Darling<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Quisling<s n="np"/></l><r>Quisling<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Lundgren<s n="np"/></l><r>Lundgren<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Ceausescu<s n="np"/><s n="top"/></l><r>Ceausescu<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>McDonald<s n="np"/></l><r>McDonald<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Spielberg<s n="np"/></l><r>Spielberg<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Newman<s n="np"/></l><r>Newman<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Law<s n="np"/></l><r>Law<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Willis<s n="np"/></l><r>Willis<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Wilkens<s n="np"/></l><r>Wilkens<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Vasiljev<s n="np"/></l><r>Vasiljev<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Becker<s n="np"/></l><r>Becker<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Nixon<s n="np"/></l><r>Nixon<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Martens<s n="np"/></l><r>Martens<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Mandela<s n="np"/></l><r>Mandela<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Gaup<s n="np"/></l><r>Gaup<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Frost<s n="np"/></l><r>Frost<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Crawford<s n="np"/></l><r>Crawford<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Neumann<s n="np"/></l><r>Neumann<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Lehmann<s n="np"/></l><r>Lehmann<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Kotilainen<s n="np"/></l><r>Kotilainen<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Horowitz<s n="np"/></l><r>Horowitz<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Hoffman<s n="np"/></l><r>Hoffman<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Hoffmann<s n="np"/></l><r>Hoffmann<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Joplin<s n="np"/></l><r>Joplin<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Hatfield<s n="np"/></l><r>Hatfield<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Hammond<s n="np"/></l><r>Hammond<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Gonzales<s n="np"/></l><r>Gonzales<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Galloway<s n="np"/></l><r>Galloway<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Bernstein<s n="np"/></l><r>Bernstein<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Twain<s n="np"/></l><r>Twain<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Smirnov<s n="np"/></l><r>Smirnov<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Singh<s n="np"/></l><r>Singh<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Shields<s n="np"/></l><r>Shields<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Nietzsche<s n="np"/></l><r>Nietzsche<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Newman<s n="np"/></l><r>Newman<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Lundquist<s n="np"/></l><r>Lundquist<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Livingstone<s n="np"/></l><r>Livingstone<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Jekyll<s n="np"/></l><r>Jekyll<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Ivanovitsj<s n="np"/></l><r>Ivanovitsj<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Hyde<s n="np"/></l><r>Hyde<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Hitchcock<s n="np"/></l><r>Hitchcock<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Heinrich<s n="np"/></l><r>Heinrich<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Chopin<s n="np"/></l><r>Chopin<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Wittenberg<s n="np"/></l><r>Wittenberg<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Saint-Exupéry<s n="np"/></l><r>Saint-Exupéry<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Krustsjov<s n="np"/></l><r>Krustsjov<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Hopkins<s n="np"/></l><r>Hopkins<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Hausmann<s n="np"/></l><r>Hausmann<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Harris<s n="np"/></l><r>Harris<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Diaz<s n="np"/></l><r>Diaz<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Beesley<s n="np"/></l><r>Beesley<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Zimmermann<s n="np"/></l><r>Zimmermann<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Worth<s n="np"/><s n="top"/></l><r>Worth<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Wollmann<s n="np"/></l><r>Wollmann<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Walberg<s n="np"/></l><r>Walberg<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Teilmann<s n="np"/></l><r>Teilmann<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Skanderbeg<s n="np"/></l><r>Skanderbeg<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Sjølander<s n="np"/></l><r>Sjølander<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Schwartz<s n="np"/></l><r>Schwartz<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Rosenberg<s n="np"/></l><r>Rosenberg<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Romanov<s n="np"/></l><r>Romanov<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Morales<s n="np"/></l><r>Morales<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Maksimova<s n="np"/></l><r>Maksimova<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Lysgaard<s n="np"/></l><r>Lysgaard<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Locke<s n="np"/></l><r>Locke<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Keynes<s n="np"/></l><r>Keynes<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Freud<s n="np"/></l><r>Freud<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Ellsworth<s n="np"/></l><r>Ellsworth<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Dickens<s n="np"/><s n="top"/></l><r>Dickens<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Coward<s n="np"/></l><r>Coward<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Chesterfield<s n="np"/></l><r>Chesterfield<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Chambers<s n="np"/></l><r>Chambers<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Brubeck<s n="np"/></l><r>Brubeck<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Andropov<s n="np"/></l><r>Andropov<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+
+    <e><p><l>Marit<s n="np"/></l><r>Marit<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Bente<s n="np"/></l><r>Bente<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ingeborg<s n="np"/></l><r>Ingeborg<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Inger-Lise<s n="np"/></l><r>Inger-Lise<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Else<s n="np"/></l><r>Else<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Karoline<s n="np"/></l><r>Karoline<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Kristine<s n="np"/></l><r>Kristine<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ingerid<s n="np"/></l><r>Ingerid<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ann-Kristin<s n="np"/></l><r>Ann-Kristin<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Sonja<s n="np"/></l><r>Sonja<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Svetlana<s n="np"/></l><r>Svetlana<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Katrine<s n="np"/></l><r>Katrine<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Kathrine<s n="np"/></l><r>Kathrine<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Maj<s n="np"/></l><r>Maj<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Pippi<s n="np"/></l><r>Pippi<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Merethe<s n="np"/></l><r>Merethe<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Maja<s n="np"/></l><r>Maja<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Iren<s n="np"/></l><r>Iren<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ulrikke<s n="np"/></l><r>Ulrikke<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Cathrine<s n="np"/></l><r>Cathrine<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ingebjørg<s n="np"/></l><r>Ingebjørg<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Karine<s n="np"/></l><r>Karine<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Therese<s n="np"/></l><r>Therese<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Gudrun<s n="np"/></l><r>Gudrun<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Anne-Lise<s n="np"/></l><r>Anne-Lise<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Anja<s n="np"/></l><r>Anja<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Monika<s n="np"/></l><r>Monika<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Katja<s n="np"/></l><r>Katja<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Susann<s n="np"/></l><r>Susann<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Jelena<s n="np"/></l><r>Jelena<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Mariann<s n="np"/></l><r>Mariann<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>June<s n="np"/></l><r>June<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Mari-Ann<s n="np"/></l><r>Mari-Ann<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Margareta<s n="np"/></l><r>Margareta<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Kirstin<s n="np"/></l><r>Kirstin<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Inger-marie<s n="np"/></l><r>Inger-marie<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Sigrun<s n="np"/></l><r>Sigrun<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Terese<s n="np"/></l><r>Terese<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Tatjana<s n="np"/></l><r>Tatjana<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Peggy<s n="np"/></l><r>Peggy<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Pearl<s n="np"/></l><r>Pearl<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Anne-Karin<s n="np"/></l><r>Anne-Karin<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Judy<s n="np"/></l><r>Judy<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Anne-marie<s n="np"/></l><r>Anne-marie<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Margarethe<s n="np"/></l><r>Margarethe<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Katrin<s n="np"/></l><r>Katrin<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Kari-Ann<s n="np"/></l><r>Kari-Ann<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Anne-Britt<s n="np"/></l><r>Anne-Britt<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Annbjørg<s n="np"/></l><r>Annbjørg<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Margaretha<s n="np"/></l><r>Margaretha<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ann-Karin<s n="np"/></l><r>Ann-Karin<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Alise<s n="np"/></l><r>Alise<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Margrete<s n="np"/></l><r>Margrete<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Lilja<s n="np"/></l><r>Lilja<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Lajla<s n="np"/></l><r>Lajla<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Cherry<s n="np"/></l><r>Cherry<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Bertha<s n="np"/></l><r>Bertha<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ann-Mari<s n="np"/></l><r>Ann-Mari<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Enid<s n="np"/></l><r>Enid<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Viviann<s n="np"/></l><r>Viviann<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Beth<s n="np"/></l><r>Beth<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Anne-Mari<s n="np"/></l><r>Anne-Mari<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Aleksandra<s n="np"/></l><r>Aleksandra<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Magdalene<s n="np"/></l><r>Magdalene<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Lisbet<s n="np"/></l><r>Lisbet<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Linn-Mari<s n="np"/></l><r>Linn-Mari<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Kathrin<s n="np"/></l><r>Kathrin<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Elinor<s n="np"/></l><r>Elinor<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Doris<s n="np"/></l><r>Doris<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Catharina<s n="np"/></l><r>Catharina<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Biret<s n="np"/></l><r>Biret<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Anne-Grethe<s n="np"/></l><r>Anne-Grethe<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Vicky<s n="np"/></l><r>Vicky<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Thora<s n="np"/></l><r>Thora<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Margret<s n="np"/></l><r>Margret<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Margreta<s n="np"/></l><r>Margreta<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Lynn<s n="np"/></l><r>Lynn<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Klara<s n="np"/></l><r>Klara<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Gertrud<s n="np"/></l><r>Gertrud<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Elina<s n="np"/></l><r>Elina<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Eleonore<s n="np"/></l><r>Eleonore<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Cher<s n="np"/></l><r>Cher<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Anni<s n="np"/></l><r>Anni<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Valeri<s n="np"/></l><r>Valeri<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Tracey<s n="np"/></l><r>Tracey<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Mary-Ann<s n="np"/></l><r>Mary-Ann<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Kristianne<s n="np"/></l><r>Kristianne<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Konstanse<s n="np"/></l><r>Konstanse<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Katharina<s n="np"/></l><r>Katharina<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Hilma<s n="np"/></l><r>Hilma<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Gretha<s n="np"/></l><r>Gretha<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Elsie<s n="np"/></l><r>Elsie<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Catarina<s n="np"/></l><r>Catarina<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Augusta<s n="np"/></l><r>Augusta<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ann-Helen<s n="np"/></l><r>Ann-Helen<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Anne-Margrethe<s n="np"/></l><r>Anne-Margrethe<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+
+    <e><p><l>Nils<s n="np"/></l><r>Nils<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Thorbjørn<s n="np"/></l><r>Thorbjørn<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Stian<s n="np"/></l><r>Stian<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Thor<s n="np"/></l><r>Thor<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Thorvald<s n="np"/></l><r>Thorvald<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Halldor<s n="np"/></l><r>Halldor<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Aslak<s n="np"/></l><r>Aslak<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Snorre<s n="np"/></l><r>Snorre<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Edvard<s n="np"/></l><r>Edvard<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Ludvig<s n="np"/></l><r>Ludvig<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Andrej<s n="np"/></l><r>Andrej<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Wilhelm<s n="np"/></l><r>Wilhelm<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Matti<s n="np"/></l><r>Matti<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Hilmar<s n="np"/></l><r>Hilmar<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Rasmus<s n="np"/></l><r>Rasmus<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Hjalmar<s n="np"/></l><r>Hjalmar<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Harri<s n="np"/></l><r>Harri<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Dave<s n="np"/></l><r>Dave<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Kristoffer<s n="np"/></l><r>Kristoffer<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Francois<s n="np"/></l><r>Francois<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Nikolai<s n="np"/></l><r>Nikolai<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Oleg<s n="np"/></l><r>Oleg<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Kaas<s n="np"/></l><r>Kaas<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jesper<s n="np"/></l><r>Jesper<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Haldor<s n="np"/></l><r>Haldor<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Eystein<s n="np"/></l><r>Eystein<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Asterix<s n="np"/></l><r>Asterix<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Tor-Erik<s n="np"/></l><r>Tor-Erik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Kjell-Ivar<s n="np"/></l><r>Kjell-Ivar<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Fran<s n="np"/></l><r>Fran<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Ringo<s n="np"/></l><r>Ringo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jurij<s n="np"/></l><r>Jurij<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Hans-Petter<s n="np"/></l><r>Hans-Petter<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Cliff<s n="np"/></l><r>Cliff<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Tor-Arne<s n="np"/></l><r>Tor-Arne<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Stein-Erik<s n="np"/></l><r>Stein-Erik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jon-Arne<s n="np"/></l><r>Jon-Arne<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jan-Eirik<s n="np"/></l><r>Jan-Eirik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Thorstein<s n="np"/></l><r>Thorstein<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Pete<s n="np"/></l><r>Pete<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Abu<s n="np"/></l><r>Abu<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Thom<s n="np"/></l><r>Thom<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Sergei<s n="np"/></l><r>Sergei<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Ole-Martin<s n="np"/></l><r>Ole-Martin<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Aleksej<s n="np"/></l><r>Aleksej<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Wiktor<s n="np"/></l><r>Wiktor<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Tor-Egil<s n="np"/></l><r>Tor-Egil<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Svein-Erik<s n="np"/></l><r>Svein-Erik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Ole-Johan<s n="np"/></l><r>Ole-Johan<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Nicolai<s n="np"/></l><r>Nicolai<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Kjell-Arne<s n="np"/></l><r>Kjell-Arne<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Tom-Erik<s n="np"/></l><r>Tom-Erik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Rufus<s n="np"/></l><r>Rufus<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Patrik<s n="np"/></l><r>Patrik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Nils<s n="np"/></l><r>Nils<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Christoffer<s n="np"/></l><r>Christoffer<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Tor-Einar<s n="np"/></l><r>Tor-Einar<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Thorsten<s n="np"/></l><r>Thorsten<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Sherlock<s n="np"/></l><r>Sherlock<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Ole-Christian<s n="np"/></l><r>Ole-Christian<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Ødipus<s n="np"/></l><r>Ødipus<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Lars-Erik<s n="np"/></l><r>Lars-Erik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jarmo<s n="np"/></l><r>Jarmo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jan-Erik<s n="np"/></l><r>Jan-Erik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jan-Einar<s n="np"/></l><r>Jan-Einar<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Gudmundur<s n="np"/></l><r>Gudmundur<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Chuck<s n="np"/></l><r>Chuck<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Bertolt<s n="np"/></l><r>Bertolt<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Arni<s n="np"/></l><r>Arni<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Aarne<s n="np"/></l><r>Aarne<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Zhou<s n="np"/></l><r>Zhou<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Yassir<s n="np"/></l><r>Yassir<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Wilfred<s n="np"/></l><r>Wilfred<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Per-Arne<s n="np"/></l><r>Per-Arne<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Jean-marie<s n="np"/></l><r>Jean-marie<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Gustaf<s n="np"/></l><r>Gustaf<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Dieter<s n="np"/></l><r>Dieter<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Clive<s n="np"/></l><r>Clive<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Bjørn-Tore<s n="np"/></l><r>Bjørn-Tore<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Bjørn-Ivar<s n="np"/></l><r>Bjørn-Ivar<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Baldur<s n="np"/></l><r>Baldur<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Wladyslaw<s n="np"/></l><r>Wladyslaw<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Willhelm<s n="np"/></l><r>Willhelm<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Villiam<s n="np"/></l><r>Villiam<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Vasilij<s n="np"/></l><r>Vasilij<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Torsten<s n="np"/></l><r>Torsten<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Thorgeir<s n="np"/></l><r>Thorgeir<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Randolf<s n="np"/></l><r>Randolf<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Odyssevs<s n="np"/></l><r>Odyssevs<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Nicolaus<s n="np"/></l><r>Nicolaus<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Niclas<s n="np"/></l><r>Niclas<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Lazarus<s n="np"/></l><r>Lazarus<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Kaspar<s n="np"/></l><r>Kaspar<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Irvine<s n="np"/></l><r>Irvine<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Gregor<s n="np"/></l><r>Gregor<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Geir-Arne<s n="np"/></l><r>Geir-Arne<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Fredrikke<s n="np"/></l><r>Fredrikke<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Evgenij<s n="np"/></l><r>Evgenij<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Eliot<s n="np"/></l><r>Eliot<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Clyde<s n="np"/></l><r>Clyde<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+
 
     <e><p><l>Camilla<s n="np"/></l><r>Camilla<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Merete<s n="np"/></l><r>Merete<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
@@ -9951,6 +10376,7 @@
     <e><p><l>Caymanøyene<s n="np"/><s n="top"/></l><r>Cayman<b/>Islands<s n="np"/><s n="top"/><s n="pl"/></r></p></e>
     <e><p><l>Celebes<s n="np"/><s n="top"/></l><r>Sulawesi<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Ceylon<s n="np"/><s n="top"/></l><r>Sri<b/>Lanka<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sri<b/>Lanka<s n="np"/><s n="top"/></l><r>Sri<b/>Lanka<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Charleston<s n="np"/><s n="top"/></l><r>Charleston<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Cherbourg<s n="np"/><s n="top"/></l><r>Cherbourg-Octeville<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Chevrolet<s n="np"/><s n="top"/></l><r>Chevrolet<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -15066,6 +15492,58 @@
 
     <e c="  0"><p><l>ut<s n="adv"/></l><r>out<s n="adv"/></r></p></e>
     <e c="  0"><p><l>med<s n="adv"/></l><r>with<s n="adv"/></r></p></e>
+
+    <e slr="0"><p><l>imidlertid<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>imidlertid<s n="adv"/></l><r>nevertheless<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>meget<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>meget<s n="adv"/></l><r>much<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>videre<s n="adv"/></l><r>further<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>lite<s n="adv"/></l><r>little<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>stort<s n="adv"/></l><r>great<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>spesielt<s n="adv"/></l><r>especially<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>særlig<s n="adv"/></l><r>especially<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>full<s n="adv"/></l><r>full<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>senere<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>rett<s n="adv"/></l><r>right<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>selvsagt<s n="adv"/></l><r>of<b/>course<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>faktisk<s n="adv"/></l><r>in<b/>fact<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>ene<s n="adv"/></l><r>solely<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>foreløpig<s n="adv"/></l><r>preliminarily<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>foreløpig<s n="adv"/></l><r>provisionally<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>fullt<s n="adv"/></l><r>fully<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>fullt<s n="adv"/></l><r>wholly<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>fullt<s n="adv"/></l><r>entirely<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>tidlig<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>tidlig<s n="adv"/></l><r>early<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>spennende<s n="adv"/></l><r>exciting<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>dessverre<s n="adv"/></l><r>unfortunately<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>fullstendig<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>fullstendig<s n="adv"/></l><r>entirely<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>annerledes<s n="adv"/></l><r>differently<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>tydelig<s n="adv"/></l><r>clearly<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>rent<s n="adv"/></l><r>purely<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>sent<s n="adv"/></l><r>late<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>heldigvis<s n="adv"/></l><r>luckily<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>heldigvis<s n="adv"/></l><r>fortunately<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>muligens<s n="adv"/></l><r>possibly<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>høyst<s n="adv"/></l><r>extremely<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>henholdsvis<s n="adv"/></l><r>respectively<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>tydeligvis<s n="adv"/></l><r>obviously<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>nødvendigvis<s n="adv"/></l><r>necessarily<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>noensinne<s n="adv"/></l><r>ever<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>forleden<s n="adv"/></l><r>recently<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>særdeles<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>særdeles<s n="adv"/></l><r>extremely<s n="adv"/></r></p></e>
+    <e slr="2"><p><l>særdeles<s n="adv"/></l><r>enormously<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>nokså<s n="adv"/></l><r>quite<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>nokså<s n="adv"/></l><r>rather<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>lovlig<s n="adv"/></l><r>legal<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>jevnt<s n="adv"/></l><r>evenly<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>verst<s n="adv"/></l><r>worst<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>forholdsvis<s n="adv"/></l><r>relatively<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>forholdsvis<s n="adv"/></l><r>proportionally<s n="adv"/></r></p></e>
+    <e slr="0"><p><l>hvorvidt<s n="adv"/></l><r>whether<s n="adv"/></r></p></e>
+    <e slr="1"><p><l>hvorvidt<s n="adv"/></l><r>in<b/>what<b/>way<s n="adv"/></r></p></e>
 
     <e c="  0"><p><l>slik<s n="adv"/></l><r>so<s n="cnjadv"/></r></p></e>
     <e slr="1"><p><l>slik<s n="adv"/></l><r>in<b/>this<b/>way<s n="adv"/></r></p></e>
