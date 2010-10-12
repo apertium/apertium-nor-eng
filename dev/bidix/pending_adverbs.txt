@@ -10,8 +10,8 @@
    1772 ^@særlig<adv>$
    1708 ^@full<adv>$
    1523 ^@sjøl<adv>$
-   1452 ^@rett<adv>$
    1446 ^@senere<adv>$
+   1411 ^@rett<adv>$
    1409 ^@i gang<adv>$
    1358 ^@selvsagt<adv>$
    1342 ^@faktisk<adv>$
@@ -63,7 +63,7 @@
     137 ^@utelukkende<adv>$
     136 ^@sørpå<adv>$
     135 ^@i henhold til<adv>$
-    131 ^@ende<adv>$
+    133 ^@ende<adv>$
     129 ^@så godt som<adv>$
     124 ^@den gangen<adv>$
     121 ^@desto<adv>$
