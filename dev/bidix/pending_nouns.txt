@@ -185,7 +185,6 @@
     251 ^@ungdomsskole<n>$
     250 ^@vilkår<n>$
     246 ^@sysselmann<n>$
-    245 ^@lo<n>$
     243 ^@drev<n>$
     241 ^@opprykk<n>$
     240 ^@kombinasjon<n>$
@@ -217,6 +216,7 @@
     204 ^@glimt<n>$
     203 ^@bosetting<n>$
     202 ^@senior<n>$
+    202 ^@lo<n>$
     201 ^@mestepart<n>$
     199 ^@arbeidsgruppe<n>$
     198 ^@manager<n>$
@@ -274,6 +274,7 @@
     162 ^@landskamp<n>$
     161 ^@styremøte<n>$
     161 ^@kriterium<n>$
+    160 ^@san<n>$
     160 ^@personell<n>$
     160 ^@overlege<n>$
     159 ^@promille<n>$
@@ -354,7 +355,6 @@
     128 ^@ensemble<n>$
     128 ^@avdelingsleder<n>$
     128 ^@ande<n>$
-    127 ^@san<n>$
     126 ^@sildefiske<n>$
     126 ^@rom<n>$
     126 ^@harr<n>$
@@ -566,7 +566,6 @@
      79 ^@storebror<n>$
      79 ^@rot<n>$
      79 ^@planlegger<n>$
-     79 ^@menneskerettighet<n>$
      79 ^@kollektiv<n>$
      79 ^@hopprenn<n>$
      79 ^@helsesenter<n>$
@@ -5418,7 +5417,6 @@
       4 ^@forbifart<n>$
       4 ^@folklore<n>$
       4 ^@fødeklinikk<n>$
-      4 ^@fn-organisasjon<n>$
       4 ^@fn-dag<n>$
       4 ^@flyhavari<n>$
       4 ^@fløyt<n>$
