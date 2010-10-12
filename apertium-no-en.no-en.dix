@@ -1678,6 +1678,7 @@
 <e>        <p><l>elektrisitet<s n="n"/><s n="m"/></l><r>electricity<s n="n"/></r></p></e>
 <e>        <p><l>elektrode<s n="n"/><s n="m"/></l><r>electrode<s n="n"/></r></p></e>
 <e>        <p><l>element<s n="n"/><s n="nt"/></l><r>element<s n="n"/></r></p></e>
+<e>        <p><l>grunnelement<s n="n"/><s n="nt"/></l><r>base<b/>element<s n="n"/></r></p></e>
 <e>        <p><l>elev<s n="n"/><s n="m"/></l><r>pupil<s n="n"/></r></p></e>
 <e slr="1"><p><l>elev<s n="n"/><s n="m"/></l><r>learner<s n="n"/></r></p></e>
 <e>        <p><l>elg<s n="n"/><s n="m"/></l> <r>moose<s n="n"/></r></p></e>
@@ -4432,6 +4433,7 @@
 <e slr="2"><p><l>null<s n="n"/><s n="nt"/></l><r>null<s n="n"/></r></p></e>
 <e slr="3"><p><l>null<s n="n"/><s n="nt"/></l><r>nil<s n="n"/></r></p></e>
 <e slr="4"><p><l>null<s n="n"/><s n="nt"/></l><r>zero<s n="n"/></r></p></e>
+<e>        <p><l>atomnummer<s n="n"/><s n="nt"/></l><r>atomic<b/>number<s n="n"/></r></p></e>
 <e>        <p><l>nummer<s n="n"/><s n="nt"/></l><r>size<s n="n"/></r></p></e>
 <e slr="1"><p><l>nummer<s n="n"/><s n="nt"/></l><r>number<s n="n"/></r></p></e>
 <e>        <p><l>nummerskilt<s n="n"/><s n="nt"/></l><r>numberplate<s n="n"/></r></p></e>
@@ -7163,6 +7165,7 @@
 <e slr="1"><p><l>vekst<s n="n"/><s n="m"/></l><r>rise<s n="n"/></r></p></e>
 <e slr="2"><p><l>vekst<s n="n"/><s n="m"/></l><r>increase<s n="n"/></r></p></e>
 <e>        <p><l>vekstrate<s n="n"/><s n="m"/></l><r>growth<b/>rate<s n="n"/></r></p></e>
+<e>        <p><l>atomvekt<s n="n"/></l>          <r>atomic<b/>weight<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>vekt<s n="n"/></l>          <r>weight<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>vekt<s n="n"/></l>          <r>scale<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>velferd<s n="n"/></l>       <r>welfare<s n="n"/></r></p><par n="m_LR_f"/></e>
@@ -10427,7 +10430,7 @@
     <e><p><l>Kanariøyene<s n="np"/><s n="top"/></l><r>Canary<b/>Islands<s n="np"/><s n="top"/><s n="pl"/></r></p></e>
     <e><p><l>Kansas<s n="np"/><s n="top"/></l><r>Kansas<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Kanton<s n="np"/><s n="top"/></l><r>Kanton<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Kapp<s n="np"/><s n="top"/></l><r>Kapp<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Kapp<s n="np"/><s n="top"/></l><r>Cape<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Karachi<s n="np"/><s n="top"/></l><r>Karachi<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Karasjok<s n="np"/><s n="top"/></l><r>Karasjok<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Karelen<s n="np"/><s n="top"/></l><r>Karelia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
