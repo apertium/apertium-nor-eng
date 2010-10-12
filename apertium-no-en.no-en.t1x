@@ -439,7 +439,7 @@
         </call-macro>
               
         <out>
-          <chunk name="det_nom" case="caseFirstWord">
+          <chunk name="mod_nom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="2" side="tl" part="nbr"/></tag>
