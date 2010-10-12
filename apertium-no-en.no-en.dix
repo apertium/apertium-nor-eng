@@ -19118,7 +19118,8 @@
     <e c="  0"><p><l>orke</l><r>bear<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>turne</l><r>tour<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>sekundere</l><r>second<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e c="  0"><p><l>omvende</l><r>repent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>omvende</l><r>return<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>omvende</l><r>repent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>motarbeide</l><r>oppose<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>tørre</l><r>dry<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>rakke</l><r>disparage<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
