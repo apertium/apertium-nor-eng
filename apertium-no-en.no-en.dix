@@ -99,6 +99,18 @@
       <e> <p><l><s n="m"/></l>	<r></r></p></e>
       <e r="LR"><p><l><s n="f"/></l>	<r></r></p></e>
     </pardef>
+    <pardef n="sgpl_pl">
+      <e r="LR"> <p><l><s n="sg"/></l>	<r><s n="pl"/></r></p></e>
+      <e r="LR"> <p><l><s n="pl"/></l>	<r><s n="pl"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/></l>	<r><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="sgpl_sg">
+      <e r="LR"> <p><l><s n="sg"/></l>	<r><s n="sg"/></r></p></e>
+      <e r="LR"> <p><l><s n="pl"/></l>	<r><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/></l>	<r><s n="sg"/></r></p></e>
+    </pardef>
+
+
     <pardef n="sp_sg">
       <e r="LR"> <p><l><s n="sp"/></l>	<r><s n="sg"/></r></p></e>
       <e r="LR"> <p><l><s n="sg"/></l>	<r><s n="sg"/></r></p></e>
@@ -154,6 +166,8 @@
     <e><p><l>der<s n="cnjsub"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>hvor<s n="cnjsub"/></l><r>where<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>dersom<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e c="  0"><p><l>siden<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
+    <e slr="1"><p><l>siden<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
     <e><p><l>selv<b/>om<s n="cnjsub"/></l><r>even<b/>though<s n="cnjadv"/></r></p></e>
     <e><p><l>for<b/>at<s n="cnjsub"/></l><r>so<b/>that<s n="cnjsub"/></r></p></e>
     <e><p><l>for<b/>å<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
@@ -214,6 +228,7 @@
     <e c="  0"><p><l>etter<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>innad<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>innen<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>om<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
 
@@ -257,6 +272,7 @@
     <e c="  0"><p><l>overfor<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
     <e c="  0"><p><l>uten<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
     <e c="  0"><p><l>ut<s n="pr"/></l><r>out<s n="pr"/></r></p></e><!-- (direction)-->
+    <e c="  0"><p><l>ute<s n="pr"/></l><r>out<s n="pr"/></r></p></e><!-- (direction)-->
 
     <e c="  0"><p><l>ved<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
     <e slr="1"><p><l>ved<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
@@ -2929,6 +2945,7 @@
 <e slr="1"><p><l>idiot<s n="n"/><s n="m"/></l><r>moron<s n="n"/></r></p></e>
 <e>        <p><l>idrett<s n="n"/><s n="m"/></l><r>sport<s n="n"/></r></p></e>
 <e>        <p><l>idrettsplass<s n="n"/><s n="m"/></l><r>sportsground<s n="n"/></r></p></e>
+<e>        <p><l>idrettsbygning<s n="n"/><s n="m"/></l><r>sports<b/>centre<s n="n"/></r></p></e>
 <e>        <p><l>idyll<s n="n"/><s n="m"/></l><r>idyll<s n="n"/></r></p></e>
 <e>        <p><l>idé<s n="n"/><s n="m"/></l> <r>idea<s n="n"/></r></p></e>
 <e slr="1"><p><l>idé<s n="n"/><s n="m"/></l> <r>notion<s n="n"/></r></p></e>
@@ -3271,8 +3288,8 @@
 <e>        <p><l>kinn<s n="n"/><s n="nt"/></l><r>cheek<s n="n"/></r></p></e>
 <e>        <p><l>kinnskjegg<s n="n"/><s n="nt"/></l><r>whiskers<s n="n"/></r></p></e>
 <e slr="1"><p><l>kinnskjegg<s n="n"/><s n="nt"/></l><r>sideburns<s n="n"/></r></p></e>
-<e>        <p><l>kino<s n="n"/><s n="m"/></l><r>movie<b/>theatre<s n="n"/></r></p></e>
-<e slr="1"><p><l>kino<s n="n"/><s n="m"/></l><r>cinema<s n="n"/></r></p></e>
+<e>        <p><l>kino<s n="n"/><s n="m"/></l><r>cinema<s n="n"/></r></p></e>
+<e slr="1"><p><l>kino<s n="n"/><s n="m"/></l><r>movie<b/>theatre<s n="n"/></r></p></e>
 <e>        <p><l>kiosklitteratur<s n="n"/><s n="m"/></l><r>pulp<b/>fiction<s n="n"/></r></p></e>
 <e>        <p><l>kirke<s n="n"/></l>         <r>church<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>kirkegård<s n="n"/><s n="m"/></l><r>graveyard<s n="n"/></r></p></e>
@@ -4777,7 +4794,7 @@
 <e>        <p><l>pelsverk<s n="n"/><s n="nt"/></l><r>furs<s n="n"/></r></p></e>
 <e>        <p><l>pendel<s n="n"/><s n="m"/></l><r>pendulum<s n="n"/></r></p></e>
 <e>        <p><l>pendeltrafikk<s n="n"/><s n="m"/></l><r>shuttle<b/>service<s n="n"/></r></p></e>
-<e>        <p><l>penge<s n="n"/><s n="m"/></l><r>money<s n="n"/></r></p></e>
+<e>        <p><l>penge<s n="n"/><s n="m"/></l><r>money<s n="n"/></r></p><par n="sgpl_sg"/></e>
 <e>        <p><l>pengepung<s n="n"/><s n="m"/></l><r>wallet<s n="n"/></r></p></e>
 <e slr="1"><p><l>pengepung<s n="n"/><s n="m"/></l><r>purse<s n="n"/></r></p></e>
 <e>        <p><l>pengeskap<s n="n"/><s n="nt"/></l><r>safe<s n="n"/></r></p></e>
@@ -4889,7 +4906,8 @@
 <e>        <p><l>poliklinikk<s n="n"/><s n="m"/></l><r>out-patient<b/>clinic<s n="n"/></r></p></e>
 <e>        <p><l>poliomyelitt<s n="n"/><s n="m"/></l><r>poliomyelitis<s n="n"/></r></p></e>
 <e>        <p><l>polise<s n="n"/><s n="m"/></l><r>policy<s n="n"/></r></p></e>
-<e>        <p><l>politi<s n="n"/><s n="nt"/></l><r>police<s n="n"/></r></p></e>
+<e>        <p><l>politi<s n="n"/><s n="nt"/></l><r>police<s n="n"/></r></p><par n="sgpl_pl"/></e>
+<e c="  0"><p><l>politi<s n="n"/><s n="m"/></l><r>police<s n="n"/></r></p><par n="sgpl_pl"/></e>
 <e>        <p><l>politiker<s n="n"/><s n="m"/></l><r>politician<s n="n"/></r></p></e>
 <e>        <p><l>politikk<s n="n"/><s n="m"/></l><r>politics<s n="n"/></r></p></e>
 <e slr="1"><p><l>politikk<s n="n"/><s n="m"/></l><r>policy<s n="n"/></r></p></e>
@@ -5204,6 +5222,8 @@
 <e>        <p><l>rein<s n="n"/></l>          <r>reindeer<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>reinsdyr<s n="n"/><s n="nt"/></l><r>reindeer<s n="n"/></r></p></e>
 <e>        <p><l>reir<s n="n"/><s n="nt"/></l><r>nest<s n="n"/></r></p></e>
+<e>        <p><l>innreise<s n="n"/></l>         <r>entry<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>innreise<s n="n"/></l>         <r>arrival<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>reise<s n="n"/></l>         <r>trip<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>reise<s n="n"/></l>         <r>tour<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>reise<s n="n"/></l>         <r>journey<s n="n"/></r></p><par n="m_LR_f"/></e>
@@ -7459,7 +7479,7 @@
 <e c="  0"><p><l>kommunestyre<s n="n"/><s n="nt"/></l><r>city<b/>council<s n="n"/></r></p></e>
 <e c="  0"><p><l>arbeiderparti<s n="n"/><s n="nt"/></l><r>labour<b/>party<s n="n"/></r></p></e>
 <e c="  0"><p><l>klubb<s n="n"/><s n="m"/></l><r>club<s n="n"/></r></p></e>
-<e c="  0"><p><l>norsk<s n="n"/><s n="m"/></l><r>Norwegian<s n="n"/></r></p></e>
+<e c="  0"><p><l>norsk<s n="n"/><s n="m"/></l><r>Norwegian<s n="n"/></r></p><par n="sp_sg"/></e>
 <e c="  0"><p><l>vedtak<s n="n"/><s n="nt"/></l><r>resolution<s n="n"/></r></p></e>
 <e c="  0"><p><l>fylkeskommune<s n="n"/><s n="m"/></l><r>county<s n="n"/></r></p></e>
 <e c="  0"><p><l>framtid<s n="n"/><s n="m"/></l><r>future<s n="n"/></r></p></e>
@@ -7509,7 +7529,7 @@
 <e c="  0"><p><l>band<s n="n"/><s n="nt"/></l><r>band<s n="n"/></r></p></e>
 <e c="  0"><p><l>kostnad<s n="n"/><s n="m"/></l><r>cost<s n="n"/></r></p></e>
 <e c="  0"><p><l>same<s n="n"/><s n="m"/></l><r>Sami<s n="n"/></r></p></e>
-<e c="  0"><p><l>tv<s n="n"/><s n="m"/></l><r>television<s n="n"/></r></p></e>
+<e c="  0"><p><l>tv<s n="n"/><s n="m"/></l><r>TV<s n="n"/></r></p></e>
 <e c="  0"><p><l>sekund<s n="n"/><s n="m"/></l><r>second<s n="n"/></r></p></e>
 <e c="  0"><p><l>rune<s n="n"/><s n="m"/></l><r>rune<s n="n"/></r></p></e>
 <e c="  0"><p><l>vant<s n="n"/><s n="nt"/></l><r>shroud<s n="n"/></r></p></e>
@@ -7569,7 +7589,7 @@
 <e c="  0"><p><l>barnevern<s n="n"/><s n="nt"/></l><r>child<b/>protection<s n="n"/></r></p></e>
 <e c="  0"><p><l>faksimile<s n="n"/><s n="m"/></l><r>facsimile<s n="n"/></r></p></e>
 <e c="  0"><p><l>styreleder<s n="n"/><s n="m"/></l><r>chairman<s n="n"/></r></p></e>
-<e c="  0"><p><l>norsk<s n="n"/><s n="nt"/></l><r>Norwegian<s n="n"/></r></p></e>
+<e c="  0"><p><l>norsk<s n="n"/><s n="nt"/></l><r>Norwegian<s n="n"/></r></p><par n="sp_sg"/></e>
 <e c="  0"><p><l>nei<s n="n"/><s n="nt"/></l><r>no<s n="n"/></r></p></e>
 
 <!-- SECTION Nouns, unchecked: -->
@@ -7848,7 +7868,6 @@
 <e c="  0"><p><l>atomprøvesprengning<s n="n"/><s n="m"/></l><r>nuclear<b/>weapons<b/>testing<s n="n"/></r></p></e>
 <e c="  0"><p><l>mafia<s n="n"/><s n="m"/></l><r>mafia<s n="n"/></r></p></e>
 <e c="  0"><p><l>konstant<s n="n"/><s n="m"/></l><r>constant<s n="n"/></r></p></e>
-<e c="  0"><p><l>politi<s n="n"/><s n="m"/></l><r>police<s n="n"/></r></p></e>
 <e c="  0"><p><l>politibil<s n="n"/><s n="m"/></l><r>police<b/>car<s n="n"/></r></p></e>
 <e c="  0"><p><l>suveren<s n="n"/><s n="m"/></l><r>sovereign<s n="n"/></r></p></e>
 <e c="  0"><p><l>epoke<s n="n"/><s n="m"/></l><r>epoch<s n="n"/></r></p></e>
@@ -9496,6 +9515,8 @@
     <e><p><l>Sem<s n="np"/></l><r>Sem<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Væren<s n="np"/></l><r>Aries<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
 
+    <e><p><l>Camilla<s n="np"/></l><r>Camilla<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Merete<s n="np"/></l><r>Merete<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Ada<s n="np"/></l><r>Ada<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Andrea<s n="np"/></l><r>Andrea<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Julia<s n="np"/></l><r>Yulia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
@@ -15027,6 +15048,7 @@
     <e c="  0"><p><l>ad<b/>hoc<s n="adv"/></l><r>ad<b/>hoc<s n="adv"/></r></p></e>
     <e c="  0"><p><l>non<b/>stop<s n="adv"/></l><r>non<b/>stop<s n="adv"/></r></p></e>
     <e c="  0"><p><l>nonstop<s n="adv"/></l><r>non<b/>stop<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>senest<s n="adv"/></l><r>at<b/>the<b/>latest<s n="adv"/></r></p></e>
 
     <e c="  0"><p><l>ikke<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
     <e c="  0"><p><l>bra<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
@@ -15179,6 +15201,7 @@
     <e c="  0"><p><l>likevel<s n="adv"/></l><r>nevertheless<s n="adv"/></r></p></e> <!--(in spite of what preceded)-->
     <e c="  0"><p><l>live<s n="adv"/></l><r>live<s n="adv"/></r></p></e> <!--(as it happens)-->
     <e c="  0"><p><l>nå<s n="adv"/></l><r>now<s n="adv"/></r></p></e> <!--(this very moment)-->
+    <e slr="1"><p><l>nå<s n="adv"/></l><r>at<b/>the<b/>moment<s n="adv"/></r></p></e> <!--(this very moment)-->
     <e c="  0"><p><l>når<s n="adv"/></l><r>when<s n="adv"/></r></p></e> <!--(at what time)-->
     <e c="  0"><p><l>nemlig<s n="adv"/></l><r>that<b/>is<s n="adv"/></r></p></e> 
     <e slr="1"><p><l>nemlig<s n="adv"/></l><r>that<b/>is<b/>to<b/>say<s n="adv"/></r></p></e> 
@@ -16386,6 +16409,7 @@
 <e c="  0"><p><l>gråte</l><r>cry<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>gråte</l><r>weep<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>gå</l><r>go<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>gå<g><b/>på<b/>ski</g></l><r>go<g><b/>skiing</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>gå<g><b/>over</g></l><r>go<g><b/>over</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>gå<g><b/>over</g></l><r>switch<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>halte</l><r>limp<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (to walk lamely)-->
@@ -16526,8 +16550,9 @@
 <e c="  0"><p><l>myldre</l><r>*swarm<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>myldre</l><r>teem<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
-<e c="  0"><p><l>måtte</l><r>have<g><b/>to</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e slr="1"><p><l>måtte</l><r>must<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- (must)-->
+<e c="  0"><p><l>måtte</l><r>have<g><b/>to</g><s n="vbmod"/></r></p><par n="vblex_vblex"/></e>
+<e slr="1"><p><l>måtte</l><r>must<s n="vbmod"/></r></p><par n="vblex_vblex"/></e> <!-- (must)-->
+<e slr="2"><p><l>måtte</l><r>need<g><b/>to</g><s n="vbmod"/></r></p><par n="vblex_vblex"/></e> <!-- (must)-->
 
 <e c="  0"><p><l>nage</l><r>*rankle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>nage</l><r>gnaw<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -17170,8 +17195,8 @@
     <e slr="2"><p><l>dåre</l><r>enchant<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="3"><p><l>dåre</l><r>fascinate<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>gale</l><r>crow<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e c="  0"><p><l>spille</l><r>waste<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
-    <e slr="1"><p><l>spille</l><r>play<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e c="  0"><p><l>spille</l><r>play<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
+    <e slr="1"><p><l>spille</l><r>waste<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e c="  0"><p><l>mønstre</l><r>examine<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>mønstre</l><r>inspect<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="2"><p><l>mønstre</l><r>review<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
@@ -17725,10 +17750,9 @@
     <e c="  0"><p><l>knytte</l><r>attach<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>kvele</l><r>choke<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>laste</l><r>load<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e c="  0"><p><l>leie</l><r>rent<g><b/>money</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e slr="1"><p><l>leie</l><r>rent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e slr="2"><p><l>leie</l><r>hire<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e slr="3"><p><l>leie</l><r>lease<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>leie</l><r>rent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>leie</l><r>hire<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="2"><p><l>leie</l><r>lease<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>leire</l><r>clay<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>lenge</l><r>long<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>lenke</l><r>link<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -19996,6 +20020,209 @@
     <e c="  0"><p><l>dagdrømme</l><r>daydream<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>brumme</l><r>rumble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
+    <e c="  0"><p><l>blidgjøre</l><r>sweeten<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>befare</l><r>walk<g><b/>across</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avpolitisere</l><r>depoliticise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avlese</l><r>read<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>utmanøvrere</l><r>outmanoeuvre<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>utkrystallisere</l><r>crystallise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>uskadeliggjøre</l><r>disarm<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>uroppføre</l><r>stage<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>urfremføre</l><r>premiere<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tyvstarte</l><r>jumpstart<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>trakte</l><r>brew<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>totalrenovere</l><r>refurbish<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tendere</l><r>He must tend<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>style</l><r>style<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>stavre</l><r>totter<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>stabbe</l><r>stump<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>snylte</l><r>freeload<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>snurpe</l><r>pucker<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>slukne</l><r>go<g><b/>out</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skusle</l><r>skusle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>rengjøre</l><r>clean<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>purke</l><r>sow<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>påminne</l><r>remind<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>overopphete</l><r>overheat<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>mykne</l><r>soften<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>medikamentere</l><r>medicate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lydisolere</l><r>soundproof<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lulle</l><r>lull<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lugge</l><r>pile<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>leite</l><r>explore<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kvitre</l><r>chirp<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kveile</l><r>coil<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>komprimere</l><r>compress<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>klusse</l><r>tamper<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>klatte</l><r>daub<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>klakke</l><r>rattle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>klakke</l><r>clack<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>jafse</l><r>gulp<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>innrullere</l><r>enrol<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>innlate</l><r>embark<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>initiere</l><r>initiate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>infiltrere</l><r>infiltrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>hundse</l><r>bully<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>horse</l><r>horse<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>hjernevaske</l><r>brainwash<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>grafse</l><r>grab<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>gjenbruke</l><r>reuse<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fukte</l><r>moisturise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>frynse</l><r>fringe<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forvisse</l><r>satisfy<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forgude</l><r>idolise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forgå</l><r>pass<g><b/>away</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>feilvurdere</l><r>miscalculate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>etterprøve</l><r>try<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>chartre</l><r>charter<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>brodde</l><r>sting<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>beve</l><r>tremble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avsende</l><r>dispatch<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>avsende</l><r>send<g><b/>off</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>agere</l><r>act<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>vanstelle</l><r>abuse<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>utmåle</l><r>claim<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>underkue</l><r>subdue<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tonesette</l><r>set<g><b/>the<b/>tone</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tilvise</l><r>refer<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tilbe</l><r>worship<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>stroppe</l><r>strap<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skrubbe</l><r>scrub<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skjenne</l><r>scold<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>shake</l><r>shake<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sandstrø</l><r>sprinkle<g><b/>sand</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sample</l><r>sample<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>saldere</l><r>consolidate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sakne</l><r>miss<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>raste</l><r>rest<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>punche</l><r>punch<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>poststemple</l><r>postmark<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>porsjonere</l><r>apportion<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>pense</l><r>switch<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>påmontere</l><r>assemble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>overstyre</l><r>reign<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>overmale</l><r>paint<g><b/>over</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>overlesse</l><r>overload<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ørske</l><r>daze<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>orme</l><r>worm<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>omstøte</l><r>vacate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>nedjustere</l><r>downscale<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>nedjustere</l><r>scale<g><b/>down</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>misoppfatte</l><r>misunderstand<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>løyse</l><r>solve<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lirke</l><r>pry<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>linke</l><r>link<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kvekke</l><r>croak<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>krenge</l><r>slip<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>knerte</l><r>whack<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>knabbe</l><r>steal<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>knabbe</l><r>nab<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>klimpre</l><r>strum<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>klase</l><r>cluster<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kjøpslå</l><r>bargain<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>geipe</l><r>pout<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>framvise</l><r>exhibit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>framelske</l><r>cultivate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forvanske</l><r>distort<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>førtidspensjonere</l><r>retire<g><b/>early</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forminske</l><r>shrink<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fordra</l><r>stand<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>desinfisere</l><r>disinfect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>bjeffe</l><r>bark<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>bese</l><r>defeat<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>behefte</l><r>encumber<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avstemme</l><r>reconcile<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avsperre</l><r>cordon<g><b/>off</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avpasse</l><r>adapt<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avkorte</l><r>truncate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avfotografere</l><r>photograph<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>vedstå</l><r>admit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>vanstyre</l><r>misrule<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>urinere</l><r>urinate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tollklarere</l><r>clear<g><b/>customs</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tirre</l><r>tease<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tilsøle</l><r>soil<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tampe</l><r>end<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>taktere</l><r>stroke<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>taksere</l><r>appraise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sukre</l><r>sweeten<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>støyte</l><r>offend<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>stanke</l><r>stink<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sparre</l><r>spar<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>slingre</l><r>wobble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skafte</l><r>shaft<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>samrå</l><r>consult<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>relansere</l><r>relaunch<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>profetere</l><r>prophesise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>prente</l><r>print<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>prakke</l><r>impose<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ploge</l><r>plough<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>plaffe</l><r>blaze<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>piple</l><r>trickle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>pepre</l><r>pepper<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>patte</l><r>suck<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>oppdele</l><r>divide<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ommøblere</l><r>reshuffle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>omlegge</l><r>overlap<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>negere</l><r>negate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>målbinde</l><r>silence<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>likvidere</l><r>liquidate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>levre</l><r>clot<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>lakkere</l><r>paint<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>lakkere</l><r>laquer<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kube</l><r>cube<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>kryssforhøre</l><r>crossexamine<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>knuffe</l><r>nudge<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>knote</l><r>fiddle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>knegge</l><r>neigh<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>klive</l><r>climb<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>klipe</l><r>clip<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>innkjøre</l><r>drive<g><b/>in</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>herme</l><r>imitate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>hamstre</l><r>stock<g><b/>up</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>halshugge</l><r>behead<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>grunngi</l><r>explain<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>gjeninnsette</l><r>restore<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>gjendikte</l><r>reinvent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fortynne</l><r>dilute<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fortolle</l><r>declare<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forsove</l><r>oversleep<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>forevise</l><r>exhibit<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fordampe</l><r>evaporate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>fakturere</l><r>charge<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dynke</l><r>soak<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>dissentere</l><r>dissent<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>desimere</l><r>decimate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>brolegge</l><r>cobble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>bakse</l><r>flounder<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avspore</l><r>derail<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avregne</l><r>settle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>avmystifisere</l><r>demystify<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>anrope</l><r>call<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>akkordere</l><r>agree<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>zoome</l><r>zoom<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>ynge</l><r>praise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>vakuumpakke</l><r>vacuum<b/>pack<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>vakne</l><r>wake<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>uttømme</l><r>exhaust<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>trace</l><r>trace<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tjore</l><r>tether<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>tilse</l><r>ensure<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sveive</l><r>crank<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>susse</l><r>suss<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>spraymale</l><r>spray<b/>paint<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>spikke</l><r>whittle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>snufse</l><r>sniff<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>snerre</l><r>snarl<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>slute</l><r>end<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>slurke</l><r>gulp<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sløkke</l><r>extinguish<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sleive</l><r>ladle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>sleike</l><r>lick<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skyfle</l><r>scoop<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>skutte</l><r>shoot<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
+    <e c="  0"><p><l>arbeidssøke</l><r>seek<g><b/>work</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 
  
     <!-- SECTION: Interjections -->
