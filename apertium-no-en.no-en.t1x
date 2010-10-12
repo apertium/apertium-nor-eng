@@ -484,14 +484,14 @@
         <choose>
           <when>
             <test>
-              <equal>
+              <equal caseless="yes">
                 <clip pos="1" side="tl" part="lemh"/>
                 <lit v="that"/>
               </equal>
             </test>
             <let>
               <clip pos="1" side="tl" part="lemh"/>
-              <lit v="the"/>
+              <get-case-from pos="1"><lit v="the"/></get-case-from>
             </let>
             <let>
               <clip pos="1" side="tl" part="a_det"/>
