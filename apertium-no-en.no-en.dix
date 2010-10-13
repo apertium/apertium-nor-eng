@@ -9945,6 +9945,59 @@
     <e c="  0"><p><l>affinitet<s n="n"/><s n="m"/></l><r>affinity<s n="n"/></r></p></e>
     <e c="  0"><p><l>admiralitet<s n="n"/><s n="nt"/></l><r>admiralty<s n="n"/></r></p></e>
 
+    <e c="  0"><p><l>nordnorsk<s n="n"/><s n="m"/></l><r>north<b/>Norwegian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>samisk<s n="n"/><s n="m"/></l><r>Sámi<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>russisk<s n="n"/><s n="m"/></l><r>Russian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>svensk<s n="n"/><s n="m"/></l><r>Swedish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>finsk<s n="n"/><s n="m"/></l><r>Finnish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>amerikansk<s n="n"/><s n="m"/></l><r>American<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>fransk<s n="n"/><s n="m"/></l><r>French<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>tysk<s n="n"/><s n="m"/></l><r>German<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>dansk<s n="n"/><s n="m"/></l><r>Danish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>islandsk<s n="n"/><s n="m"/></l><r>Icelandic<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>disk<s n="n"/><s n="m"/></l><r>disc<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>japansk<s n="n"/><s n="m"/></l><r>Japanese<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>småfisk<s n="n"/><s n="m"/></l><r>small<b/>fish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>irsk<s n="n"/><s n="m"/></l><r>Irish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>nynorsk<s n="n"/><s n="m"/></l><r>Nynorsk<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>italiensk<s n="n"/><s n="m"/></l><r>Italian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>gresk<s n="n"/><s n="m"/></l><r>Greek<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>kinesisk<s n="n"/><s n="m"/></l><r>Chinese<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>færøysk<s n="n"/><s n="m"/></l><r>Faroese<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>nederlandsk<s n="n"/><s n="m"/></l><r>Dutch<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>polsk<s n="n"/><s n="m"/></l><r>Polish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>kvensk<s n="n"/><s n="m"/></l><r>Kven<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>indisk<s n="n"/><s n="m"/></l><r>Indian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>bosnisk<s n="n"/><s n="m"/></l><r>Bosnian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>ungarsk<s n="n"/><s n="m"/></l><r>Hungarian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>tyrkisk<s n="n"/><s n="m"/></l><r>Turkish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>arabisk<s n="n"/><s n="m"/></l><r>Arabic<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>sørsamisk<s n="n"/><s n="m"/></l><r>South<b/>Sámi<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>grønlandsk<s n="n"/><s n="m"/></l><r>Greenlandic<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>østnorsk<s n="n"/><s n="m"/></l><r>east<b/>Norwegian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>hebraisk<s n="n"/><s n="m"/></l><r>Hebrew<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>skotsk<s n="n"/><s n="m"/></l><r>Scottish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>gotisk<s n="n"/><s n="m"/></l><r>Gothic<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>tsjekkisk<s n="n"/><s n="m"/></l><r>Czech<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>tibetansk<s n="n"/><s n="m"/></l><r>Tibetan<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>norsk-svensk<s n="n"/><s n="m"/></l><r>Norwegian<b/>Swedish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>keltisk<s n="n"/><s n="m"/></l><r>Celtic<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>bulgarsk<s n="n"/><s n="m"/></l><r>Bulgarian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>nordsamisk<s n="n"/><s n="m"/></l><r>North<b/>Sámi<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>slovakisk<s n="n"/><s n="m"/></l><r>Slovak<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>germansk<s n="n"/><s n="m"/></l><r>German<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>gammeldansk<s n="n"/><s n="m"/></l><r>Old<b/>Danish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>albansk<s n="n"/><s n="m"/></l><r>Albanian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>vietnamesisk<s n="n"/><s n="m"/></l><r>Vietnamese<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>semittisk<s n="n"/><s n="m"/></l><r>Semitic<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>russenorsk<s n="n"/><s n="m"/></l><r>Russenorsk<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>persisk<s n="n"/><s n="m"/></l><r>Persian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>norsk<s n="n"/><s n="m"/></l><r>Norwegian<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>norsk-dansk<s n="n"/><s n="m"/></l><r>Norwegian<b/>Danish<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>gammelnorsk<s n="n"/><s n="m"/></l><r>Old<b/>Norse<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>gælisk<s n="n"/><s n="m"/></l><r>Gaelic<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>finlandssvensk<s n="n"/><s n="m"/></l><r>Finlandsvensk<s n="n"/></r></p><par n="sp_sg"/></e>
+
 
 
     <!-- SECTION Proper nouns, unchecked -->
