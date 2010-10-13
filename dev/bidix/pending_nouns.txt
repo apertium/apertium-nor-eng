@@ -1,4 +1,3 @@
-   2975 ^@verd<n>$
    2509 ^@ved<n>$
    2149 ^@høyre<n><sp>$
    2111 ^@ting<n>$
@@ -62,7 +61,6 @@
     621 ^@gode<n>$
     607 ^@keeper<n>$
     606 ^@lov<n><sp>$
-    601 ^@reis<n>$
     594 ^@arild<n><sp>$
     586 ^@holdt<n><sp>$
     585 ^@ordførerkandidat<n>$
@@ -1568,6 +1566,7 @@
      23 ^@auto<n><sp>$
      23 ^@anskaffelse<n>$
      23 ^@alpinist<n>$
+     22 ^@verd<n>$
      22 ^@verbal<n>$
      22 ^@vegnett<n>$
      22 ^@varsku<n>$
@@ -9471,7 +9470,6 @@
       1 ^@parallellslalåm<n>$
       1 ^@parafrase<n>$
       1 ^@panservern<n>$
-      1 ^@panama<n>$
       1 ^@palladium<n>$
       1 ^@palassrevolusjon<n>$
       1 ^@påfugl<n>$

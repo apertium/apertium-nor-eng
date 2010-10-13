@@ -3,2860 +3,616 @@
    1066 ^@KrF<np>$
     923 ^@Frp<np>$
     740 ^@RV<np>$
-    728 ^@Rian<np>$
-    702 ^@Petter<np>$
-    586 ^@Solheim<np>$
     586 ^@NHO<np>$
     511 ^@TV<np>$
-    508 ^@Fjørtoft<np><top>$
     486 ^@AUF<np>$
-    458 ^@Myhre<np><top>$
-    452 ^@Schulstad<np>$
     442 ^@SAS<np>$
-    409 ^@Fyhn<np>$
-    397 ^@Dreyer<np>$
-    386 ^@Winge<np>$
     380 ^@Torsken<np>$
-    380 ^@Bråthen<np><top>$
     378 ^@Bakken<np>$
-    360 ^@Aune<np><top>$
-    342 ^@Engen<np>$
     337 ^@Morken<np><top>$
-    317 ^@Mack<np>$
-    303 ^@Vår<np>$
-    301 ^@Gustad<np>$
-    270 ^@Steinholt<np>$
     267 ^@United<np>$
     263 ^@BUL<np>$
-    261 ^@Arntzen<np><top>$
-    257 ^@Solberg<np>$
-    245 ^@Skog<np>$
-    245 ^@Brundtland<np><top>$
-    237 ^@Haugli<np>$
-    235 ^@Rindestu<np>$
     228 ^@AF<np>$
     225 ^@Hammer<np>$
-    216 ^@Stoltenberg<np>$
-    213 ^@Fossli<np>$
-    211 ^@Langnes<np>$
-    209 ^@Nordlund<np>$
-    208 ^@Holand<np>$
-    207 ^@Sverdrup<np>$
-    207 ^@Hernes<np><top>$
-    204 ^@Smistad<np>$
-    204 ^@Mjøs<np>$
-    200 ^@Rønbeck<np>$
     196 ^@New York<np><top>$
     195 ^@Music<np>$
     192 ^@Hødd<np>$
-    191 ^@Opseth<np>$
-    190 ^@Stenvold<np>$
-    184 ^@Pollestad<np>$
     184 ^@Internet<np>$
-    183 ^@Skinstad<np>$
-    181 ^@Myrvang<np>$
     179 ^@Stabæk<np>$
     178 ^@Braathen<np><top>$
     176 ^@Tidende<np>$
-    175 ^@Kosmo<np>$
-    171 ^@Eggen<np>$
-    168 ^@Gamst<np>$
-    168 ^@Bye<np><top>$
-    167 ^@Solvang<np>$
     166 ^@VIF<np>$
-    165 ^@Ulvang<np>$
     163 ^@Frionor<np>$
     151 ^@VG<np>$
-    151 ^@Junkeren<np>$
     150 ^@Prix<np>$
-    148 ^@Kaldhol<np>$
     148 ^@Bay<np><top>$
-    147 ^@Ruud<np><top>$
-    147 ^@Eggum<np>$
     145 ^@Hotel<np>$
-    141 ^@Kanstad<np>$
-    140 ^@Stangnes<np>$
-    139 ^@Dalheim<np>$
     138 ^@Hay<np>$
-    137 ^@Røkke<np>$
     137 ^@Bremnes<np><top>$
-    136 ^@Magga<np>$
-    134 ^@Haugland<np><top>$
-    129 ^@Nylund<np>$
-    127 ^@Boine<np>$
-    127 ^@Bergli<np>$
     126 ^@Samorg<np><top>$
     126 ^@Bull<np><top>$
-    125 ^@Skoglund<np>$
-    123 ^@Wold<np><top>$
-    123 ^@Hedstrøm<np>$
     122 ^@Rv<np>$
     120 ^@Thunder<np>$
-    119 ^@Semb<np>$
-    119 ^@Myrseth<np><top>$
     119 ^@Bond<np>$
-    118 ^@Brox<np>$
-    116 ^@Enger<np>$
-    115 ^@Barlindhaug<np>$
-    114 ^@Rød<np>$
-    112 ^@Lien<np>$
-    111 ^@Valgerd<np>$
-    109 ^@Giæver<np>$
-    106 ^@Lorentzen<np><top>$
     105 ^@Nergård<np><top>$
-    105 ^@Engstad<np>$
-    105 ^@Berglund<np>$
-    104 ^@Bockelie<np>$
     103 ^@UD<np>$
-    103 ^@Hansnes<np>$
-    102 ^@Waage<np><top>$
-    102 ^@Eng<np>$
      99 ^@Wood<np>$
-     98 ^@Walle<np><top>$
-     97 ^@Kiil<np>$
-     97 ^@Haugen<np>$
      95 ^@Star<np><top>$
-     95 ^@Skancke<np>$
-     94 ^@Wiik<np><top>$
      92 ^@Hill<np><top>$
      91 ^@Club<np>$
-     90 ^@Heide<np>$
-     90 ^@Blix<np>$
      89 ^@UNI<np>$
-     89 ^@Kvaal<np>$
-     89 ^@Flagstad<np>$
-     88 ^@Skard<np>$
      88 ^@League<np><top>$
-     87 ^@Schei<np><top>$
-     85 ^@Rognli<np>$
-     84 ^@Teigen<np>$
-     84 ^@Elden<np>$
      83 ^@Frelsesarmeen<np>$
      82 ^@International<np>$
-     82 ^@Holtsmark<np>$
      82 ^@Bjørnøya<np>$
-     81 ^@Kielland<np>$
-     81 ^@Dahle<np><top>$
      80 ^@BAY<np><top>$
      79 ^@Solbakken<np><top>$
-     79 ^@Rieber<np>$
-     79 ^@Holmgren<np>$
-     79 ^@Figenschau<np>$
      79 ^@Best<np>$
      77 ^@THUNDER<np>$
      77 ^@Holmenkollen<np>$
-     77 ^@Holmboe<np>$
-     77 ^@Hille<np>$
-     76 ^@Eskeland<np>$
      76 ^@Big<np>$
      75 ^@Helland<np><top>$
-     74 ^@Rinnan<np>$
-     74 ^@Bruun<np><top>$
-     73 ^@Rundberg<np>$
-     73 ^@Paus<np>$
-     73 ^@Øvre<np>$
-     73 ^@Langt<np>$
-     72 ^@Hætta<np>$
-     72 ^@Bomann<np>$
      71 ^@World<np>$
-     71 ^@Utsi<np>$
-     70 ^@Tangen<np>$
      70 ^@Holmen<np>$
-     70 ^@Harbitz<np>$
-     69 ^@Møller<np>$
-     69 ^@Hjort<np>$
-     68 ^@Valstad<np>$
-     68 ^@Solskjær<np>$
      68 ^@Mayen<np><top>$
      67 ^@With<np>$
-     67 ^@Vorren<np>$
      67 ^@Rica<np><top>$
-     67 ^@Movinkel<np>$
-     67 ^@Kvalheim<np>$
-     66 ^@Østberg<np>$
-     66 ^@Oskal<np>$
-     66 ^@Fjeld<np><top>$
-     66 ^@Bøe<np><top>$
-     65 ^@Sæther<np><top>$
-     65 ^@Hauan<np>$
-     64 ^@Sandberg<np><top>$
-     64 ^@Aspelund<np>$
      63 ^@Records<np>$
-     63 ^@Lakselvbukt<np>$
-     62 ^@Skistad<np>$
-     62 ^@Sjølie<np>$
-     62 ^@Egeberg<np>$
-     62 ^@Brahms<np>$
-     61 ^@Stabell<np>$
-     61 ^@Køhn<np>$
-     61 ^@Holst<np><top>$
-     61 ^@Engeset<np>$
-     61 ^@Bratteli<np>$
-     61 ^@Bjørkli<np>$
      60 ^@YS<np>$
-     60 ^@Soleng<np>$
-     60 ^@Hausberg<np>$
-     60 ^@Fjukstad<np>$
      59 ^@Tour<np>$
-     59 ^@Thorstvedt<np>$
      58 ^@Lee<np>$
-     58 ^@Grøndahl<np><top>$
-     57 ^@Stenberg<np><top>$
-     57 ^@Aamodt<np><top>$
-     56 ^@Solli<np>$
-     56 ^@Nordheim<np>$
-     56 ^@Heimly<np>$
-     56 ^@Heggen<np>$
-     56 ^@Forberg<np>$
      55 ^@Sea<np><top>$
-     55 ^@Bjerke<np><top>$
-     54 ^@Rasch<np>$
-     54 ^@Ranvik<np>$
-     54 ^@Øien<np><top>$
-     54 ^@Graff<np>$
      54 ^@Foreningen<np>$
-     54 ^@Folkvord<np>$
-     53 ^@Riise<np><top>$
      53 ^@Rekdal<np><top>$
-     53 ^@Lægreid<np>$
-     52 ^@Vestly<np>$
-     52 ^@Sletten<np>$
-     52 ^@Hovig<np>$
-     52 ^@Bjørklund<np>$
      52 ^@Åsegarden<np>$
-     52 ^@Aaserud<np><top>$
-     51 ^@Vangberg<np>$
-     50 ^@Vorland<np>$
-     50 ^@Tunheim<np>$
-     50 ^@Seppola<np>$
-     49 ^@Skogvang<np>$
-     49 ^@Ilios<np>$
-     49 ^@Fenton<np>$
-     49 ^@Aakre<np><top>$
-     48 ^@Wilsgård<np>$
-     48 ^@Sørgård<np>$
      48 ^@Song<np>$
-     48 ^@Sollie<np><top>$
-     48 ^@Ryeng<np>$
-     48 ^@Kollstrøm<np>$
-     48 ^@Gibostad<np>$
-     48 ^@Figenschou<np>$
      48 ^@Boys<np>$
      48 ^@Bergen<np>$
-     47 ^@Ytreberg<np>$
-     47 ^@Solvik<np>$
-     47 ^@Smuk<np>$
-     47 ^@Kaasa<np><top>$
-     46 ^@Torheim<np>$
-     46 ^@Stødle<np>$
-     46 ^@Alsgaard<np>$
-     45 ^@Wilsgaard<np>$
-     45 ^@Samuelsberg<np>$
-     45 ^@Overvaag<np>$
-     45 ^@Lipponen<np>$
-     45 ^@Åsheim<np>$
      44 ^@Walesa<np><top>$
      44 ^@Vårherre<np>$
-     44 ^@Simen<np>$
-     44 ^@Schjetne<np>$
-     44 ^@Munch<np>$
      44 ^@Fredheim<np><top>$
-     44 ^@Falck<np>$
      43 ^@Riksrevisjonen<np>$
-     43 ^@Nyberg<np>$
-     43 ^@Langseth<np><top>$
-     43 ^@Formann<np>$
-     43 ^@Elvevold<np>$
-     43 ^@Benoni<np>$
-     43 ^@Ammerud<np>$
      42 ^@Winter<np>$
-     42 ^@Tande<np>$
      42 ^@Sun<np>$
-     42 ^@Kvello<np>$
      41 ^@SP<np>$
-     41 ^@Selnes<np><top>$
-     41 ^@Reuter<np>$
-     41 ^@Øvergård<np><top>$
-     41 ^@Myklebust<np><top>$
-     41 ^@Koss<np>$
-     41 ^@Kahn<np>$
      41 ^@Grunnloven<np>$
-     41 ^@Fløtten<np>$
      41 ^@Cappelen<np>$
-     41 ^@Bjerkli<np>$
      40 ^@Riksteatret<np>$
-     40 ^@Nordahl<np><top>$
-     40 ^@Holten<np><top>$
-     40 ^@Ballo<np>$
-     39 ^@Vangsvik<np>$
      39 ^@Totland<np><top>$
-     39 ^@Singsaas<np>$
-     39 ^@Rugtvedt<np>$
-     39 ^@Krog<np>$
-     39 ^@Kofoed<np>$
      39 ^@Heggelund<np><top>$
-     38 ^@Wist<np>$
      38 ^@Tipping<np>$
-     38 ^@Skogli<np><top>$
      38 ^@Real<np>$
-     38 ^@Opgård<np>$
      38 ^@Novaja<np><top>$
      38 ^@Moan<np>$
-     38 ^@Lilleng<np>$
-     38 ^@Krogh<np><top>$
-     38 ^@Jentoft<np>$
-     38 ^@Jåks<np>$
      38 ^@Hopen<np>$
-     38 ^@Dahlberg<np>$
      38 ^@Brothers<np>$
      38 ^@Birkelund<np><top>$
      38 ^@BEST<np>$
-     37 ^@Westrum<np>$
-     37 ^@Stokkan<np>$
-     37 ^@Selle<np>$
-     37 ^@Nordli<np>$
-     37 ^@Hartvig<np>$
-     37 ^@Hamnvik<np>$
-     37 ^@Elvestad<np>$
      37 ^@Day<np>$
-     37 ^@Barman<np>$
-     36 ^@Vannvåg<np>$
      36 ^@Street<np><top>$
      36 ^@Royal<np>$
      36 ^@Norwegian<np>$
-     36 ^@Mælen<np>$
-     36 ^@Hatteng<np>$
-     36 ^@Bugge<np><top>$
-     36 ^@Bonde<np>$
-     36 ^@Blindheim<np><top>$
-     35 ^@Sommerseth<np>$
-     35 ^@Skogheim<np><top>$
-     35 ^@Schanche<np>$
-     35 ^@Prytz<np>$
-     35 ^@Nybråten<np>$
-     35 ^@Lauritzen<np><top>$
-     35 ^@Hovde<np>$
-     35 ^@Hjetland<np>$
-     35 ^@Borgen<np>$
-     34 ^@Steensnæs<np>$
-     34 ^@Simma<np>$
-     34 ^@Sagstuen<np>$
-     34 ^@Norbye<np>$
      34 ^@National<np>$
-     34 ^@Mæland<np><top>$
-     34 ^@Kaptein<np>$
-     34 ^@Husby<np>$
-     34 ^@Falk<np>$
      34 ^@Erdal<np><top>$
-     34 ^@Erdahl<np>$
-     34 ^@Cantona<np>$
-     33 ^@Vestli<np>$
-     33 ^@Stene<np><top>$
      33 ^@Semlja<np><top>$
      33 ^@Road<np><top>$
-     33 ^@Myhrvold<np><top>$
      33 ^@Hood<np>$
      33 ^@Haukeland<np><top>$
-     33 ^@Fornes<np>$
-     33 ^@Andenæs<np>$
-     32 ^@Westad<np>$
-     32 ^@Wangberg<np>$
      32 ^@UP<np>$
-     32 ^@Stark<np>$
      32 ^@Rodal<np><top>$
-     32 ^@Midttun<np>$
-     32 ^@Krane<np>$
-     32 ^@Koch<np>$
      32 ^@Innset<np><top>$
-     32 ^@Heimstad<np>$
      32 ^@EF<np>$
-     32 ^@Asbjørg<np>$
-     31 ^@Winther<np><top>$
-     31 ^@Weber<np>$
-     31 ^@Tyldum<np>$
      31 ^@Top<np>$
      31 ^@Palace<np>$
-     31 ^@Opstad<np>$
-     31 ^@Ødegård<np><top>$
-     31 ^@Oddekalv<np>$
-     31 ^@Nordby<np><top>$
-     31 ^@Løvland<np>$
-     31 ^@Korsberg<np>$
-     31 ^@ILIOS<np>$
-     31 ^@Heer<np>$
-     31 ^@Harila<np>$
      31 ^@Company<np>$
-     31 ^@Bentzen<np><top>$
-     31 ^@Bartnes<np>$
-     31 ^@Aasland<np><top>$
-     30 ^@Svingen<np>$
-     30 ^@Sørli<np>$
-     30 ^@Solsvik<np>$
-     30 ^@Muri<np>$
-     30 ^@Løken<np>$
-     30 ^@Galtung<np>$
-     29 ^@Thoen<np>$
-     29 ^@Sundgot<np>$
-     29 ^@Søreng<np>$
      29 ^@Koranen<np>$
-     29 ^@Hestad<np>$
      29 ^@Five<np>$
-     29 ^@Dørum<np>$
-     29 ^@Bråten<np><top>$
-     29 ^@Belsvik<np>$
      29 ^@Aid<np>$
-     28 ^@Ytterstad<np>$
-     28 ^@Heiberg<np><top>$
-     28 ^@Fjelldahl<np>$
      28 ^@Celtic<np>$
-     28 ^@Brantzeg<np>$
-     28 ^@Angell<np>$
-     28 ^@Aho<np>$
-     28 ^@Aardal<np>$
-     27 ^@Vesaas<np>$
-     27 ^@Valen<np><top>$
-     27 ^@Selmer<np>$
      27 ^@On<np>$
-     27 ^@Lindgren<np><top>$
-     27 ^@Høegh<np><top>$
      27 ^@Haltenbanken<np><top>$
-     27 ^@Fjose<np>$
-     27 ^@Charlottenlund<np>$
-     27 ^@Alvheim<np>$
-     26 ^@Seim<np><top>$
-     26 ^@Ringnes<np><top>$
-     26 ^@Reutz<np>$
-     26 ^@Øverli<np><top>$
-     26 ^@Moum<np>$
-     26 ^@Maråk<np>$
-     26 ^@Friis<np>$
-     26 ^@Egeland<np><top>$
-     25 ^@Willoch<np><top>$
-     25 ^@Ulfstein<np>$
-     25 ^@Suhr<np>$
      25 ^@Stensland<np><top>$
-     25 ^@Rørvik<np><top>$
-     25 ^@Opsahl<np><top>$
-     25 ^@Moberg<np><top>$
-     25 ^@Linaker<np>$
-     25 ^@Lilletun<np>$
-     25 ^@Landås<np><top>$
-     25 ^@Jøvik<np>$
-     25 ^@Hong<np>$
      25 ^@Holmenkollstafetten<np>$
-     25 ^@Grønvold<np><top>$
-     25 ^@Falch<np><top>$
-     25 ^@Fabricius<np>$
-     25 ^@Ekman<np>$
-     25 ^@Berntzen<np><top>$
-     25 ^@Bekkstrand<np>$
      24 ^@Vollan<np><top>$
-     24 ^@Viken<np>$
-     24 ^@Sveen<np><top>$
-     24 ^@Ødegaard<np><top>$
-     24 ^@Nyrup<np>$
-     24 ^@Myhr<np><top>$
      24 ^@Moon<np>$
      24 ^@Løkken<np>$
-     24 ^@Haugan<np><top>$
-     24 ^@Hammari<np>$
-     24 ^@Bergum<np><top>$
      24 ^@Beitostølen<np><top>$
-     23 ^@Unger<np>$
-     23 ^@Soltvedt<np>$
-     23 ^@Sokki<np>$
-     23 ^@Reppen<np>$
-     23 ^@Østgaard<np>$
-     23 ^@Melkild<np>$
      23 ^@Major<np>$
-     23 ^@Hersoug<np>$
-     23 ^@Bratsberg<np>$
-     23 ^@Bergseng<np>$
-     22 ^@Wedel<np>$
-     22 ^@Waaler<np>$
-     22 ^@Stigen<np>$
-     22 ^@Stavem<np>$
      22 ^@Stangeland<np><top>$
      22 ^@Staff<np>$
-     22 ^@Sjøthun<np>$
      22 ^@Silda<np>$
-     22 ^@Seljestad<np>$
-     22 ^@Schanke<np>$
      22 ^@San Francisco<np><top>$
      22 ^@Sandviken<np><top>$
-     22 ^@Østrem<np>$
-     22 ^@Oddbjørg<np>$
-     22 ^@Meløe<np>$
-     22 ^@Jæger<np>$
-     22 ^@Hoen<np>$
-     22 ^@Grimsrud<np><top>$
      22 ^@Forest<np><top>$
-     22 ^@Flåten<np>$
-     22 ^@Fause<np>$
-     22 ^@Evjen<np>$
-     22 ^@Bjørseth<np>$
-     22 ^@Aikio<np>$
      21 ^@War<np>$
-     21 ^@Tveter<np><top>$
-     21 ^@Tvedt<np><top>$
-     21 ^@Tandberg<np><top>$
-     21 ^@Steiro<np>$
      21 ^@Søndre<np><top>$
-     21 ^@Saltnes<np>$
-     21 ^@Rundhaug<np>$
-     21 ^@Røe<np><top>$
      21 ^@Riksdagen<np>$
-     21 ^@Nygren<np>$
      21 ^@North<np><top>$
      21 ^@Nordstrand<np><top>$
-     21 ^@Nordkild<np>$
-     21 ^@Nobile<np>$
-     21 ^@Levang<np>$
-     21 ^@Kroer<np>$
-     21 ^@Klemet<np>$
-     21 ^@Kjelsberg<np>$
-     21 ^@Hagerup<np>$
-     21 ^@Evenstad<np>$
-     21 ^@Borch<np>$
-     21 ^@Bergan<np><top>$
-     21 ^@Afzelius<np>$
-     20 ^@Woll<np>$
-     20 ^@Skram<np>$
-     20 ^@Skaug<np><top>$
-     20 ^@Selstad<np>$
      20 ^@Liland<np><top>$
      20 ^@Life<np>$
-     20 ^@Laukvik<np>$
-     20 ^@Kolltveit<np>$
-     20 ^@Klæboe<np>$
-     20 ^@Kjeldsberg<np>$
-     20 ^@Høye<np>$
      20 ^@Høiland<np><top>$
-     20 ^@Hellebust<np>$
-     20 ^@Hammervold<np>$
-     20 ^@Fischer<np>$
      20 ^@Evy-Ann<np>$
      20 ^@European<np>$
-     20 ^@Buvik<np>$
-     20 ^@Befring<np>$
      20 ^@AMO<np>$
      19 ^@Wagner<np>$
-     19 ^@Veum<np>$
      19 ^@Ullevål<np><top>$
-     19 ^@Sejersted<np>$
-     19 ^@Sandtorg<np>$
-     19 ^@Osberg<np>$
-     19 ^@Nyseth<np>$
-     19 ^@Mørck<np>$
-     19 ^@Møllebakken<np>$
-     19 ^@Lindvall<np>$
      19 ^@Lillehammer-OL<np>$
-     19 ^@Kvarme<np>$
      19 ^@Institute<np>$
-     19 ^@Holtan<np><top>$
-     19 ^@Hetta<np>$
      19 ^@From<np>$
-     19 ^@Elbjørg<np>$
-     19 ^@Egede<np>$
-     19 ^@Damm<np>$
-     19 ^@Bruken<np>$
-     19 ^@Benkow<np>$
-     19 ^@Balsvik<np>$
      19 ^@Anti<np>$
-     19 ^@Aarskog<np>$
-     18 ^@Zahl<np>$
-     18 ^@Trudvang<np>$
-     18 ^@Tønder<np>$
-     18 ^@Sunnaas<np>$
-     18 ^@Sommer<np>$
      18 ^@School<np>$
      18 ^@Odd-Arne<np>$
-     18 ^@Nordang<np>$
-     18 ^@Nervei<np>$
-     18 ^@Molander<np>$
      18 ^@Midtbø<np><top>$
-     18 ^@Løvold<np>$
-     18 ^@Kongsvik<np>$
-     18 ^@Jarlsberg<np>$
-     18 ^@Grytting<np>$
-     18 ^@Frantzen<np><top>$
-     18 ^@Foshaug<np>$
-     18 ^@Drecker<np>$
      18 ^@Dampskibsselskab<np><top>$
      18 ^@Booth<np>$
-     18 ^@Årnes<np>$
      17 ^@University<np>$
-     17 ^@Torvik<np><top>$
-     17 ^@Sponheim<np>$
-     17 ^@Scheie<np>$
-     17 ^@Røvik<np>$
      17 ^@Radiumhospitalet<np>$
      17 ^@Orkla<np>$
-     17 ^@Nordstrøm<np>$
-     17 ^@Nordborg<np>$
-     17 ^@Mohn<np>$
-     17 ^@Marjala<np>$
-     17 ^@Litmanen<np>$
-     17 ^@Lindquist<np>$
-     17 ^@Høyer<np>$
-     17 ^@Høydahl<np>$
      17 ^@Hovland<np><top>$
-     17 ^@Hirsti<np>$
-     17 ^@Grande<np><top>$
-     17 ^@Gardell<np>$
-     17 ^@Frydenlund<np><top>$
-     17 ^@Bergh<np><top>$
      17 ^@a-ha<np>$
      16 ^@We<np>$
-     16 ^@Vinter<np>$
      16 ^@Th<np>$
-     16 ^@Sundelin<np>$
-     16 ^@Sørlie<np><top>$
-     16 ^@Skjervold<np>$
      16 ^@Rolland<np><top>$
-     16 ^@Ragde<np>$
-     16 ^@Preus<np>$
-     16 ^@Østerud<np>$
-     16 ^@Nyheim<np>$
-     16 ^@Nordeng<np>$
      16 ^@Nordal<np><top>$
-     16 ^@Niemi<np>$
-     16 ^@Mørkved<np>$
-     16 ^@Mauritz<np>$
-     16 ^@Majala<np>$
-     16 ^@Krystad<np>$
-     16 ^@Klinsmann<np>$
-     16 ^@Hjorth<np>$
-     16 ^@Hildrum<np>$
      16 ^@Gjensidige<np>$
      16 ^@FV<np>$
-     16 ^@Frogner<np><top>$
      16 ^@Freia<np>$
-     16 ^@Embrå<np>$
-     16 ^@Eidsvik<np>$
-     16 ^@Dahlen<np>$
-     16 ^@Brakstad<np>$
-     16 ^@Berner<np>$
-     15 ^@Wibe<np>$
-     15 ^@Wentzel<np>$
-     15 ^@Weidemann<np>$
-     15 ^@Wathne<np><top>$
-     15 ^@Tiri<np>$
      15 ^@Tertnes<np><top>$
-     15 ^@Tai<np>$
-     15 ^@Sydow<np>$
-     15 ^@Stueng<np>$
-     15 ^@Sletvold<np>$
-     15 ^@Skarstein<np>$
-     15 ^@Schnitler<np>$
-     15 ^@Sagelv<np>$
-     15 ^@Risan<np>$
      15 ^@Øen<np><top>$
-     15 ^@Nystuen<np>$
-     15 ^@Numminen<np>$
-     15 ^@Nann<np>$
-     15 ^@Michelet<np>$
-     15 ^@Lium<np>$
-     15 ^@Kjelstrup<np>$
-     15 ^@Imerslund<np>$
-     15 ^@Heitmann<np><top>$
-     15 ^@Hageberg<np>$
-     15 ^@Grønvoll<np>$
      15 ^@Great<np><top>$
-     15 ^@Gleditsch<np>$
-     15 ^@Gjessing<np>$
-     15 ^@Fagerlund<np>$
      15 ^@Deutsche<np>$
-     15 ^@Danbolt<np>$
-     15 ^@Byberg<np><top>$
-     15 ^@Bremseth<np>$
-     15 ^@Bjerregaard<np>$
      15 ^@Billboard<np>$
-     15 ^@Bergmann<np>$
-     15 ^@Ånstad<np>$
-     14 ^@Walstad<np>$
      14 ^@Trengereid<np><top>$
-     14 ^@Stabursvik<np>$
      14 ^@Skaidi<np><top>$
-     14 ^@Saarikoski<np>$
-     14 ^@Rokstad<np>$
-     14 ^@Parma<np>$
-     14 ^@Øyen<np><top>$
-     14 ^@Østreng<np>$
-     14 ^@Østby<np>$
      14 ^@Open<np>$
-     14 ^@Myrmel<np>$
-     14 ^@Myklevoll<np>$
      14 ^@Mjelde<np><top>$
-     14 ^@Marstrander<np>$
-     14 ^@Lindkjølen<np>$
-     14 ^@Lervoll<np>$
-     14 ^@Koivulehto<np>$
-     14 ^@Hjelle<np><top>$
-     14 ^@Haslund<np>$
-     14 ^@Hartmann<np>$
-     14 ^@Haider<np>$
      14 ^@Fretheim<np><top>$
-     14 ^@Elgvin<np>$
-     14 ^@Ege<np>$
-     14 ^@Dudajev<np>$
-     14 ^@Brodin<np>$
-     14 ^@Brochmann<np>$
      14 ^@British<np>$
-     14 ^@Bergquist<np>$
-     14 ^@Aarflot<np>$
-     13 ^@Webster<np>$
      13 ^@Watne<np><top>$
-     13 ^@Urheim<np>$
-     13 ^@Tovik<np>$
-     13 ^@Torbjørg<np>$
      13 ^@Solbakk<np><top>$
-     13 ^@Skjerven<np>$
-     13 ^@Skaar<np><top>$
-     13 ^@Råstad<np>$
      13 ^@Queen<np>$
-     13 ^@Ørnhøi<np>$
-     13 ^@Obstfelder<np>$
-     13 ^@Nysæther<np>$
-     13 ^@Myrstad<np>$
-     13 ^@Mydland<np>$
      13 ^@Lundby<np><top>$
      13 ^@Lord<np>$
-     13 ^@Læstadius<np>$
-     13 ^@Krohn<np><top>$
-     13 ^@Koht<np>$
-     13 ^@Huff<np>$
-     13 ^@Holthe<np><top>$
-     13 ^@Hodne<np><top>$
-     13 ^@Helsing<np>$
-     13 ^@Haukaas<np>$
      13 ^@Grammy<np>$
-     13 ^@Gausvik<np>$
-     13 ^@Espeseth<np>$
      13 ^@Datatilsynet<np>$
-     13 ^@Borten<np>$
-     13 ^@Blomli<np>$
      13 ^@Bjørneboe<np><top>$
-     13 ^@Bergmo<np>$
-     13 ^@Berggrav<np>$
      13 ^@barne-TV<np>$
-     13 ^@Arneberg<np>$
-     13 ^@Alnæs<np>$
-     12 ^@Wulff<np>$
-     12 ^@Wolden<np>$
-     12 ^@Wisløff<np>$
-     12 ^@Winger<np>$
-     12 ^@Val<np>$
      12 ^@Town<np><top>$
-     12 ^@Tessem<np>$
-     12 ^@Syrstad<np>$
-     12 ^@Sundnes<np>$
-     12 ^@Sørbye<np>$
-     12 ^@Solvi<np>$
-     12 ^@Smeland<np>$
-     12 ^@Skagestad<np>$
-     12 ^@Sirius<np>$
      12 ^@Shepherd<np>$
      12 ^@Saint<np><top>$
-     12 ^@Rygh<np><top>$
-     12 ^@Rønningen<np><top>$
-     12 ^@Reinhardt<np>$
-     12 ^@Pavall<np>$
-     12 ^@Oseberg<np><top>$
      12 ^@NORTRA<np>$
      12 ^@Northern<np><top>$
-     12 ^@Nordhus<np>$
-     12 ^@Niva<np>$
-     12 ^@Movik<np>$
-     12 ^@Maurstad<np>$
-     12 ^@Markhus<np>$
-     12 ^@Leithe<np>$
-     12 ^@Leiknes<np>$
-     12 ^@Laberg<np>$
-     12 ^@Kolsrud<np>$
-     12 ^@Kjus<np>$
      12 ^@Just<np>$
-     12 ^@Hunstad<np>$
-     12 ^@Helberg<np>$
-     12 ^@Hanisch<np>$
      12 ^@HAMMER<np>$
-     12 ^@Halonen<np>$
      12 ^@Foundation<np>$
      12 ^@Findus<np>$
-     12 ^@Ekeli<np>$
-     12 ^@Dokken<np>$
      12 ^@Cave<np>$
-     12 ^@Brandt<np><top>$
      12 ^@Box<np>$
-     12 ^@Berggren<np>$
      12 ^@Barrabas<np>$
-     12 ^@Balder<np>$
      12 ^@Aston<np><top>$
      12 ^@Association<np>$
      12 ^@Ask<np>$
      12 ^@Amdal<np><top>$
-     12 ^@Aasheim<np><top>$
-     12 ^@Aarseth<np><top>$
-     12 ^@Aakvik<np>$
-     11 ^@Westby<np><top>$
-     11 ^@Toivonen<np>$
-     11 ^@Thorne<np>$
-     11 ^@Stranden<np>$
-     11 ^@Storstein<np>$
-     11 ^@Storevik<np>$
-     11 ^@Sollien<np>$
-     11 ^@Solhaug<np>$
      11 ^@Skjæveland<np><top>$
-     11 ^@Skau<np>$
-     11 ^@Schjølberg<np><top>$
-     11 ^@Schelderup<np>$
-     11 ^@Salo<np>$
-     11 ^@Rystad<np>$
-     11 ^@Rueslåtten<np>$
      11 ^@Police<np>$
-     11 ^@Pleym<np>$
-     11 ^@Øvernes<np>$
-     11 ^@Osland<np>$
-     11 ^@Onstad<np>$
-     11 ^@Nystø<np>$
-     11 ^@Nordhagen<np>$
      11 ^@Nationale<np>$
-     11 ^@Mamen<np>$
      11 ^@Magerøy<np><top>$
      11 ^@LEE<np>$
-     11 ^@Kyrkjebø<np>$
-     11 ^@Khan<np>$
-     11 ^@JUNKEREN<np>$
-     11 ^@Joks<np>$
-     11 ^@Høgås<np>$
      11 ^@HØDD<np>$
      11 ^@High<np>$
-     11 ^@Hage<np>$
-     11 ^@Haarstad<np>$
-     11 ^@Grønn<np>$
      11 ^@Grape<np>$
      11 ^@Gjelsvik<np><top>$
-     11 ^@Furuseth<np><top>$
-     11 ^@Funderud<np>$
      11 ^@Dash<np><top>$
-     11 ^@Bohus<np>$
      11 ^@Bjørgvin<np><top>$
-     11 ^@Berstad<np>$
-     11 ^@Barnes<np>$
-     11 ^@Baal<np>$
-     11 ^@Anfield<np>$
-     10 ^@Wiener<np>$
      10 ^@Walk<np>$
      10 ^@Vigleik<np>$
-     10 ^@Ulseth<np>$
-     10 ^@Sundt<np><top>$
-     10 ^@Støre<np>$
-     10 ^@SOLHEIM<np>$
-     10 ^@Solås<np>$
      10 ^@Silver<np><top>$
-     10 ^@Sild<np>$
-     10 ^@Schjelderup<np>$
-     10 ^@Risberg<np>$
-     10 ^@Ringen<np>$
-     10 ^@Refsnes<np><top>$
-     10 ^@Rahkonen<np>$
-     10 ^@Østbye<np>$
-     10 ^@Øgrim<np>$
-     10 ^@Nesje<np>$
      10 ^@Metropolitan<np>$
-     10 ^@Melby<np><top>$
-     10 ^@Libak<np>$
-     10 ^@Kotte<np>$
-     10 ^@Kleive<np>$
-     10 ^@Kjørstad<np>$
-     10 ^@Kåven<np>$
-     10 ^@Karolius<np>$
-     10 ^@Kalvik<np>$
-     10 ^@Jernsletten<np>$
-     10 ^@Ingard<np>$
-     10 ^@Høybråten<np>$
-     10 ^@Horntvedt<np>$
      10 ^@History<np>$
-     10 ^@Hegge<np><top>$
-     10 ^@Harsvik<np>$
-     10 ^@Hårstad<np>$
-     10 ^@Gjønnes<np>$
-     10 ^@Furuly<np>$
-     10 ^@Fors<np>$
-     10 ^@Fjellvang<np>$
-     10 ^@Engan<np><top>$
-     10 ^@Demas<np>$
-     10 ^@Caprino<np>$
      10 ^@Cape<np><top>$
-     10 ^@Austvik<np>$
      10 ^@Aust-Agder<np>$
-     10 ^@Akse<np>$
-      9 ^@Widding<np>$
-      9 ^@Wam<np>$
-      9 ^@Vonheim<np>$
       9 ^@VHF<np>$
       9 ^@Vestertana<np><top>$
-      9 ^@Vangen<np>$
-      9 ^@Trosten<np>$
-      9 ^@Torsvåg<np>$
-      9 ^@Sundberg<np>$
-      9 ^@Storbakk<np>$
-      9 ^@Stenstad<np>$
-      9 ^@Sørvik<np>$
-      9 ^@Solem<np><top>$
-      9 ^@SILD<np>$
-      9 ^@Schønning<np>$
-      9 ^@Sæverud<np>$
-      9 ^@Rousu<np>$
-      9 ^@Rosenlund<np>$
-      9 ^@Risten<np>$
       9 ^@RIMI<np>$
-      9 ^@PETTER<np>$
       9 ^@Per-Erik<np>$
-      9 ^@Øines<np>$
-      9 ^@Nøkleby<np>$
-      9 ^@Nergaard<np>$
-      9 ^@Melgaard<np>$
-      9 ^@Lunder<np>$
-      9 ^@Lukkari<np>$
       9 ^@Løvebakken<np><top>$
-      9 ^@Kramvig<np>$
-      9 ^@Kongsnes<np>$
-      9 ^@Kalvemo<np>$
-      9 ^@Kaald<np>$
       9 ^@Isle<np><top>$
-      9 ^@Ianke<np>$
       9 ^@Hovden<np>$
-      9 ^@Hovdenak<np>$
       9 ^@Hovda<np><top>$
-      9 ^@Homb<np>$
-      9 ^@Hoem<np><top>$
-      9 ^@Hjulstad<np>$
-      9 ^@Hildonen<np>$
-      9 ^@Heyerdahl<np>$
-      9 ^@HANSNES<np>$
-      9 ^@Grønning<np><top>$
-      9 ^@Grønli<np><top>$
-      9 ^@Gaski<np>$
       9 ^@Flood<np>$
-      9 ^@Flem<np>$
       9 ^@Ervik<np><top>$
       9 ^@East<np><top>$
-      9 ^@Dahlstrøm<np>$
-      9 ^@Dahlseng<np>$
-      9 ^@Daae<np>$
-      9 ^@Brøgger<np>$
-      9 ^@Brimi<np>$
-      9 ^@Bratrein<np>$
       9 ^@Bratland<np><top>$
-      9 ^@Brando<np>$
-      9 ^@Bragstad<np>$
-      9 ^@Bleken<np>$
-      9 ^@Bjørnestad<np>$
-      9 ^@Baalsrud<np>$
       9 ^@Askeladden<np>$
-      9 ^@Alnes<np>$
       9 ^@Act<np>$
-      8 ^@Wiklund<np>$
-      8 ^@Wicklund<np>$
-      8 ^@Westrheim<np>$
-      8 ^@Volden<np>$
-      8 ^@Vig<np>$
-      8 ^@Ven<np>$
-      8 ^@Vedal<np>$
-      8 ^@ULVANG<np>$
       8 ^@Tor-Erling<np>$
-      8 ^@Tikkanen<np>$
-      8 ^@Sundstrøm<np>$
       8 ^@Sollid<np><top>$
-      8 ^@Schubert<np>$
-      8 ^@Saue<np>$
-      8 ^@Roth<np>$
-      8 ^@Rørholt<np>$
-      8 ^@Restad<np>$
-      8 ^@Rainer<np>$
-      8 ^@Posti<np>$
-      8 ^@Phil<np>$
       8 ^@Per-Inge<np>$
-      8 ^@Påve<np>$
-      8 ^@Ottem<np>$
-      8 ^@Østvik<np>$
-      8 ^@Ørebech<np>$
       8 ^@Orchestra<np>$
-      8 ^@Opheim<np>$
       8 ^@Omdal<np><top>$
       8 ^@OBOS<np>$
-      8 ^@Munkvold<np>$
-      8 ^@Mørch<np>$
       8 ^@Monroe<np>$
-      8 ^@Menchu<np>$
-      8 ^@Mantila<np>$
-      8 ^@Løkås<np>$
-      8 ^@Løberg<np><top>$
-      8 ^@Lippe<np>$
-      8 ^@Lindmann<np>$
-      8 ^@Lindkvist<np>$
-      8 ^@Lindback<np>$
-      8 ^@Leidulv<np>$
-      8 ^@Langli<np>$
-      8 ^@Langås<np>$
       8 ^@KRF<np>$
-      8 ^@Kolnes<np>$
-      8 ^@Knoph<np>$
-      8 ^@Kjønnøy<np>$
-      8 ^@Kjellberg<np>$
-      8 ^@Kilpi<np>$
-      8 ^@Kihle<np>$
-      8 ^@Kalstad<np>$
-      8 ^@Kallestad<np>$
-      8 ^@Juuso<np>$
       8 ^@Ing-Lill<np>$
-      8 ^@Horne<np>$
-      8 ^@Holmstrøm<np>$
-      8 ^@Holme<np>$
       8 ^@Golden<np>$
       8 ^@Gleb<np><top>$
-      8 ^@FOSSLI<np>$
-      8 ^@Flod<np>$
-      8 ^@Flemming<np>$
-      8 ^@Fleischer<np>$
-      8 ^@FJØRTOFT<np><top>$
-      8 ^@Fiva<np>$
-      8 ^@Fenes<np>$
       8 ^@Fame<np>$
-      8 ^@Fagereng<np>$
       8 ^@FAFO<np>$
-      8 ^@Fader<np>$
-      8 ^@Eine<np>$
-      8 ^@Dyping<np>$
-      8 ^@Dåvøy<np>$
-      8 ^@Dagsvik<np>$
       8 ^@Council<np>$
-      8 ^@Coucheron<np>$
-      8 ^@Burton<np>$
-      8 ^@Brantenberg<np>$
-      8 ^@Brande<np>$
       8 ^@Better<np>$
-      8 ^@Bergstrøm<np>$
-      8 ^@Bergset<np>$
-      8 ^@Baumann<np>$
-      8 ^@Balstad<np>$
       8 ^@Award<np>$
-      7 ^@Zapffe<np>$
-      7 ^@Wirkola<np>$
-      7 ^@Wiesener<np>$
-      7 ^@Wessel<np>$
-      7 ^@Wennberg<np>$
-      7 ^@Vatnelid<np>$
-      7 ^@Vassvik<np>$
-      7 ^@Varsi<np>$
-      7 ^@Var<np>$
       7 ^@UNICEF<np>$
-      7 ^@Thrane<np>$
-      7 ^@Thon<np>$
       7 ^@Theater<np>$
-      7 ^@Syslak<np>$
-      7 ^@Sverdlovsk<np>$
-      7 ^@Svalastog<np>$
-      7 ^@Størmer<np>$
-      7 ^@Stoltz<np>$
       7 ^@Stølen<np>$
-      7 ^@Steinlien<np>$
-      7 ^@Stabel<np>$
       7 ^@Space<np>$
       7 ^@South<np><top>$
-      7 ^@Soltun<np>$
-      7 ^@Skre<np>$
-      7 ^@Skogen<np>$
-      7 ^@Skjønberg<np>$
-      7 ^@Sjøveian<np>$
-      7 ^@SEMB<np>$
-      7 ^@Sarre<np>$
-      7 ^@Samfund<np>$
-      7 ^@Sæbønes<np>$
-      7 ^@Rakfjord<np>$
-      7 ^@Rajala<np>$
-      7 ^@Queseth<np>$
       7 ^@Puerto<np><top>$
-      7 ^@Pessi<np>$
-      7 ^@Øydvin<np>$
-      7 ^@Østenstad<np>$
-      7 ^@Ono<np>$
       7 ^@Odland<np><top>$
-      7 ^@Norum<np><top>$
       7 ^@NORAD<np>$
-      7 ^@Nitter<np>$
-      7 ^@Nistad<np>$
       7 ^@NASA<np>$
-      7 ^@Nakken<np>$
-      7 ^@Myrvold<np>$
-      7 ^@Marvik<np>$
-      7 ^@Lødemel<np>$
       7 ^@Kvalsundet<np><top>$
-      7 ^@Kvale<np><top>$
       7 ^@KSSE<np>$
-      7 ^@Kittang<np>$
-      7 ^@Keskitalo<np>$
-      7 ^@Juell<np>$
-      7 ^@Jokinen<np>$
-      7 ^@Indahl<np>$
-      7 ^@Hval<np>$
-      7 ^@Huitfeldt<np>$
-      7 ^@Holen<np>$
-      7 ^@Høeg<np>$
       7 ^@Helgelandskysten<np><top>$
-      7 ^@Hedlund<np>$
-      7 ^@Haavik<np>$
       7 ^@Gravdal<np><top>$
-      7 ^@Granum<np><top>$
-      7 ^@Glørstad<np>$
       7 ^@Gimse<np><top>$
       7 ^@Fox<np>$
-      7 ^@Fougner<np>$
-      7 ^@Forsdahl<np>$
-      7 ^@Fagerli<np>$
-      7 ^@Evjenth<np>$
-      7 ^@Enden<np>$
-      7 ^@Eidem<np><top>$
-      7 ^@Ebeltoft<np>$
-      7 ^@Dyrstad<np>$
-      7 ^@Devold<np>$
-      7 ^@Daniloff<np>$
-      7 ^@Dalseth<np>$
-      7 ^@Dalhaug<np>$
-      7 ^@Daleng<np>$
-      7 ^@Dalan<np>$
       7 ^@Cook<np>$
-      7 ^@Cæsar<np>$
-      7 ^@Bryhn<np>$
-      7 ^@Bongo<np>$
       7 ^@Bolton<np>$
-      7 ^@Bjørke<np><top>$
       7 ^@Bidjovagge<np><top>$
-      7 ^@Bayer<np>$
-      7 ^@Bauer<np>$
-      7 ^@Arvola<np>$
-      7 ^@Aagaard<np>$
-      6 ^@Winsnes<np>$
-      6 ^@Wik<np><top>$
-      6 ^@Weydahl<np>$
       6 ^@Wall<np>$
-      6 ^@Wallin<np>$
-      6 ^@Vogt<np>$
       6 ^@UNITED<np>$
       6 ^@Ullersmo<np><top>$
       6 ^@Ueland<np><top>$
       6 ^@Tronn<np>$
       6 ^@TH<np>$
-      6 ^@Talvik<np>$
-      6 ^@Tallberg<np>$
-      6 ^@Stubberud<np><top>$
-      6 ^@Stormark<np>$
-      6 ^@Storli<np><top>$
-      6 ^@Stokken<np>$
-      6 ^@Stenerud<np>$
       6 ^@State<np><top>$
-      6 ^@Sørrollnes<np>$
-      6 ^@Sommerfeldt<np>$
-      6 ^@Skrede<np>$
-      6 ^@Sjøvold<np>$
       6 ^@Short<np>$
-      6 ^@Schive<np>$
-      6 ^@Sanden<np>$
-      6 ^@Sakshaug<np>$
-      6 ^@Sæle<np><top>$
-      6 ^@Rørtveit<np>$
-      6 ^@Rønneberg<np><top>$
-      6 ^@Risnes<np>$
-      6 ^@Ringvold<np>$
       6 ^@Rikstoto<np>$
-      6 ^@REUTER<np>$
-      6 ^@Renmælmo<np>$
-      6 ^@Ranheim<np>$
-      6 ^@Ramsvik<np>$
-      6 ^@Pskov<np>$
       6 ^@Pike<np>$
-      6 ^@Peltonen<np>$
-      6 ^@Pax<np>$
-      6 ^@Øvergaard<np>$
-      6 ^@Onarheim<np><top>$
-      6 ^@Olsrud<np>$
       6 ^@Oil<np>$
-      6 ^@Nysted<np>$
-      6 ^@Noreng<np>$
-      6 ^@Nordvik<np>$
       6 ^@Nidarosdomen<np>$
       6 ^@NEW YORK<np><top>$
-      6 ^@Nesheim<np><top>$
       6 ^@Myran<np><top>$
-      6 ^@Muladal<np>$
-      6 ^@Mjøen<np>$
-      6 ^@Mestad<np>$
-      6 ^@Melheim<np>$
       6 ^@Malo<np><top>$
       6 ^@Lothe<np><top>$
-      6 ^@Lilli<np>$
-      6 ^@Larseng<np>$
       6 ^@KUD<np>$
-      6 ^@Kronstad<np>$
-      6 ^@Kokko<np>$
       6 ^@Kassettavgiftsfondet<np>$
-      6 ^@Kårvik<np>$
-      6 ^@Karlstrøm<np>$
-      6 ^@Kapstad<np>$
-      6 ^@Kansa<np>$
-      6 ^@Jordnes<np>$
-      6 ^@Johnsrud<np><top>$
       6 ^@Janteloven<np>$
-      6 ^@Hundvin<np>$
-      6 ^@Hunder<np>$
-      6 ^@Hotvedt<np>$
-      6 ^@Holth<np><top>$
-      6 ^@Høg<np>$
-      6 ^@Høgberg<np>$
-      6 ^@Hoftun<np>$
-      6 ^@Hest<np>$
-      6 ^@Helskog<np>$
-      6 ^@Hårfagre<np>$
-      6 ^@Gutt<np>$
-      6 ^@Gulsrud<np>$
-      6 ^@Grønnvoll<np>$
-      6 ^@Grønlie<np>$
-      6 ^@Greve<np>$
-      6 ^@Granberg<np><top>$
       6 ^@Globe<np>$
-      6 ^@Geelmuyden<np>$
       6 ^@Gartnerhallen<np><top>$
-      6 ^@Fuhr<np>$
-      6 ^@Frostad<np>$
       6 ^@Football<np><top>$
-      6 ^@Fiskum<np>$
-      6 ^@Fisher<np>$
-      6 ^@Faye<np>$
-      6 ^@Elven<np>$
-      6 ^@Ekdahl<np>$
-      6 ^@Eeg<np>$
       6 ^@Court<np><top>$
-      6 ^@Colban<np>$
       6 ^@Cock<np>$
-      6 ^@Bruland<np>$
-      6 ^@BRANDE<np>$
-      6 ^@Braaten<np><top>$
-      6 ^@Borchgrevink<np>$
       6 ^@Bolla<np>$
-      6 ^@Bjørgan<np>$
       6 ^@Bjerknes<np><top>$
-      6 ^@Bekkelund<np><top>$
       6 ^@Beer<np>$
       6 ^@Beach<np><top>$
-      6 ^@Backer<np>$
-      6 ^@Aspaas<np>$
-      6 ^@AMMERUD<np>$
       6 ^@Academy<np>$
-      6 ^@Aasbø<np>$
-      5 ^@Westberg<np>$
-      5 ^@Wegner<np>$
       5 ^@Vågen<np>$
-      5 ^@Tuoremaa<np>$
-      5 ^@Trumpy<np>$
       5 ^@Trandum<np><top>$
       5 ^@TORSKEN<np>$
-      5 ^@Tolonen<np>$
-      5 ^@Thuen<np>$
-      5 ^@Tetlie<np>$
-      5 ^@Tekrø<np>$
-      5 ^@Sundfær<np>$
       5 ^@Strong<np>$
-      5 ^@Støstad<np>$
-      5 ^@Stølan<np>$
-      5 ^@Stensrud<np><top>$
-      5 ^@Stenseth<np><top>$
-      5 ^@Stener<np>$
-      5 ^@Spellemann<np>$
-      5 ^@Sørnes<np>$
       5 ^@Sør-Hålogaland<np><top>$
-      5 ^@Snarby<np>$
       5 ^@Sloth<np>$
-      5 ^@Skaare<np>$
-      5 ^@Sjøtun<np>$
-      5 ^@Sirma<np>$
-      5 ^@Sekken<np>$
-      5 ^@Schreuder<np>$
-      5 ^@Schreiner<np>$
-      5 ^@Schjøtt<np>$
       5 ^@Sand<np>$
-      5 ^@Sandness<np>$
-      5 ^@Salberg<np>$
-      5 ^@Sæthre<np><top>$
-      5 ^@RUNDHAUG<np>$
-      5 ^@Rollstad<np>$
-      5 ^@Røed<np><top>$
       5 ^@Research<np>$
       5 ^@Per-Einar<np>$
-      5 ^@Osvold<np>$
       5 ^@Osmund<np>$
-      5 ^@Opsal<np>$
-      5 ^@Olden<np>$
       5 ^@OIL<np>$
-      5 ^@Øberg<np>$
       5 ^@Mountains<np><top>$
-      5 ^@MØLLER<np>$
-      5 ^@Moldestad<np>$
       5 ^@Mill<np>$
-      5 ^@Midtun<np><top>$
-      5 ^@Melvold<np>$
-      5 ^@Mehl<np>$
-      5 ^@Medbye<np>$
-      5 ^@Manninen<np>$
-      5 ^@Manglerud<np>$
-      5 ^@Løvberg<np>$
       5 ^@LOOC<np>$
-      5 ^@Lofthus<np><top>$
-      5 ^@Løding<np>$
-      5 ^@Lindfors<np>$
-      5 ^@Lapin<np>$
-      5 ^@Lankinen<np>$
-      5 ^@Langfeldt<np>$
-      5 ^@Laiti<np>$
-      5 ^@Kvande<np>$
-      5 ^@Kleven<np><top>$
-      5 ^@Kjølaas<np>$
-      5 ^@Kitti<np>$
       5 ^@KFUK<np>$
-      5 ^@Kendzior<np>$
       5 ^@Juss-Buss<np>$
-      5 ^@Junker<np>$
-      5 ^@Jorsett<np>$
-      5 ^@Jørg<np>$
-      5 ^@Irgens<np>$
-      5 ^@Hygen<np>$
-      5 ^@Hoxmark<np>$
-      5 ^@Holmberg<np>$
-      5 ^@Hognestad<np>$
-      5 ^@Hervik<np>$
-      5 ^@Hertzberg<np>$
-      5 ^@Heggdal<np>$
-      5 ^@Hatlen<np>$
-      5 ^@Hasund<np>$
       5 ^@Haltvik<np><top>$
-      5 ^@Hæstad<np>$
-      5 ^@Gynt<np>$
-      5 ^@GUTT<np>$
-      5 ^@GIBOSTAD<np>$
-      5 ^@Getz<np>$
-      5 ^@Garantikassen<np>$
-      5 ^@Furre<np>$
-      5 ^@Frisch<np>$
-      5 ^@Frich<np>$
-      5 ^@Fosshaug<np>$
-      5 ^@Fasting<np>$
-      5 ^@Engh<np><top>$
-      5 ^@EGE<np>$
-      5 ^@Digre<np>$
       5 ^@Death<np>$
-      5 ^@Dalseng<np>$
-      5 ^@Dalbakk<np>$
-      5 ^@Carling<np>$
-      5 ^@Butenschøn<np>$
       5 ^@Business<np><top>$
       5 ^@Bureau<np><top>$
-      5 ^@Buljo<np>$
-      5 ^@Brunborg<np>$
-      5 ^@Brørs<np>$
-      5 ^@Broch<np>$
-      5 ^@Borud<np>$
-      5 ^@Boberg<np>$
-      5 ^@Blunck<np>$
-      5 ^@Bjerk<np>$
       5 ^@Benz<np>$
-      5 ^@Bendixen<np>$
-      5 ^@Balto<np>$
-      5 ^@Auken<np>$
-      5 ^@Årstein<np>$
       5 ^@Adresseavisen<np>$
-      5 ^@Aasnes<np>$
-      4 ^@Zwilgmeyer<np>$
-      4 ^@WIENER<np>$
-      4 ^@Wickstrøm<np>$
-      4 ^@Waterford<np>$
-      4 ^@Wahlstrøm<np>$
-      4 ^@Vold<np>$
-      4 ^@Vistnes<np>$
-      4 ^@Vesala<np>$
-      4 ^@Vedeler<np>$
-      4 ^@VALGERD<np>$
-      4 ^@Værnes<np>$
-      4 ^@Tveiten<np><top>$
       4 ^@TV4<np>$
-      4 ^@Trønnes<np>$
-      4 ^@Torsvik<np><top>$
-      4 ^@Tkachev<np>$
       4 ^@Tippeligaen<np>$
-      4 ^@THORSTVEDT<np>$
       4 ^@Theatre<np>$
-      4 ^@Taarnesvik<np>$
-      4 ^@Straume<np><top>$
       4 ^@Steinsland<np><top>$
       4 ^@Steel<np>$
       4 ^@Special<np>$
       4 ^@Sølvguttene<np>$
-      4 ^@SOLTVEDT<np>$
       4 ^@SOLBAKKEN<np><top>$
-      4 ^@Søbstad<np>$
-      4 ^@Skullerud<np>$
-      4 ^@Skåden<np>$
-      4 ^@Sjøgren<np>$
       4 ^@Simpsons<np>$
-      4 ^@Sepp<np>$
-      4 ^@Seglvik<np>$
-      4 ^@Schulerud<np>$
-      4 ^@Schilbred<np>$
-      4 ^@Salonen<np>$
-      4 ^@Salmi<np>$
-      4 ^@Sagen<np>$
-      4 ^@Rubach<np>$
-      4 ^@Rosvold<np>$
       4 ^@Røssåga<np><top>$
-      4 ^@Rødberg<np>$
       4 ^@RODAL<np><top>$
-      4 ^@RIAN<np>$
-      4 ^@Rekvik<np>$
-      4 ^@Qvigstad<np>$
       4 ^@Prod<np><top>$
-      4 ^@Poppe<np>$
-      4 ^@Pokka<np>$
-      4 ^@Petterøe<np>$
-      4 ^@Pele<np>$
-      4 ^@Østvold<np>$
       4 ^@Østerås<np><top>$
-      4 ^@Ørsted<np>$
       4 ^@Orange<np>$
       4 ^@ON<np>$
-      4 ^@Oddveig<np>$
-      4 ^@Nystrøm<np>$
-      4 ^@Nykvist<np>$
-      4 ^@Nuotio<np>$
-      4 ^@Norvang<np>$
-      4 ^@Norheim<np><top>$
-      4 ^@Nordsveen<np>$
-      4 ^@Nervik<np><top>$
       4 ^@NAVF<np>$
-      4 ^@Natvig<np>$
-      4 ^@Myking<np>$
       4 ^@Mount<np><top>$
       4 ^@Monte<np><top>$
       4 ^@Milorg<np>$
-      4 ^@Melchior<np>$
-      4 ^@Melbye<np><top>$
-      4 ^@Maylen<np>$
       4 ^@MAYEN<np><top>$
       4 ^@May-Britt<np>$
-      4 ^@Maskhadov<np>$
-      4 ^@Marum<np>$
-      4 ^@Mæhle<np>$
-      4 ^@Lynum<np>$
-      4 ^@Løvli<np>$
-      4 ^@Loeng<np>$
-      4 ^@Lindseth<np><top>$
-      4 ^@Lind<np>$
-      4 ^@Lindahl<np>$
       4 ^@Leigh<np><top>$
-      4 ^@Laudrup<np>$
-      4 ^@LANGNES<np>$
-      4 ^@Langaas<np>$
-      4 ^@LAKSELVBUKT<np>$
-      4 ^@Laban<np>$
-      4 ^@KVELLO<np>$
-      4 ^@Krohg<np>$
-      4 ^@KROG<np>$
-      4 ^@Kramer<np>$
-      4 ^@KOSS<np>$
-      4 ^@Korsvold<np>$
-      4 ^@Konow<np>$
-      4 ^@Kongshaug<np>$
-      4 ^@Kjølstad<np>$
-      4 ^@Kjerstad<np>$
-      4 ^@Kjellevold<np>$
-      4 ^@Kiønig<np>$
-      4 ^@Karkkola<np>$
-      4 ^@Kap<np>$
-      4 ^@Juul<np>$
       4 ^@Jr<np>$
-      4 ^@Jelved<np>$
-      4 ^@Jakov<np>$
-      4 ^@Jakola<np>$
       4 ^@Jakobselv<np><top>$
-      4 ^@Ingilæ<np>$
-      4 ^@Hvistendahl<np>$
-      4 ^@Hveding<np>$
-      4 ^@Hvattum<np>$
-      4 ^@Huseby<np><top>$
-      4 ^@Huddersfield<np>$
-      4 ^@Holmstad<np>$
-      4 ^@Hjelm<np>$
-      4 ^@Hesseng<np>$
-      4 ^@Hesselberg<np>$
-      4 ^@Hedman<np>$
-      4 ^@Haugerudbråten<np>$
-      4 ^@Hammeren<np>$
-      4 ^@Håker<np>$
-      4 ^@Hågen<np>$
-      4 ^@Grundtvig<np>$
-      4 ^@Grøtting<np>$
-      4 ^@Grønnvold<np>$
-      4 ^@Gorter<np>$
-      4 ^@Gjul<np>$
-      4 ^@Gill<np>$
       4 ^@Gamle-Erik<np>$
-      4 ^@Frimann<np>$
-      4 ^@Friberg<np>$
-      4 ^@Fossan<np>$
-      4 ^@Forsell<np>$
       4 ^@Figgjo<np><top>$
       4 ^@Faaberg<np><top>$
-      4 ^@Engeseth<np>$
-      4 ^@Eivik<np>$
-      4 ^@Eiler<np>$
-      4 ^@Eikjok<np>$
       4 ^@Dybvik<np><top>$
       4 ^@Dionysos<np>$
       4 ^@CLUB<np>$
       4 ^@Central<np><top>$
-      4 ^@Bunæs<np>$
       4 ^@Buck<np>$
-      4 ^@Broman<np>$
       4 ^@BREMNES<np><top>$
       4 ^@Brekken<np>$
-      4 ^@Braseth<np>$
-      4 ^@Brænden<np>$
-      4 ^@Børstad<np>$
-      4 ^@Boge<np>$
-      4 ^@Blomberg<np>$
       4 ^@Blåfjellet<np><top>$
-      4 ^@Biong<np>$
-      4 ^@Bilto<np>$
       4 ^@BIG<np>$
-      4 ^@Benn<np>$
-      4 ^@Bekkevold<np><top>$
       4 ^@BEITOSTØLEN<np><top>$
-      4 ^@Båstad<np>$
-      4 ^@AUNE<np><top>$
-      4 ^@Aspengren<np>$
-      4 ^@Årvik<np>$
       4 ^@Army<np>$
-      4 ^@Annikken<np>$
-      4 ^@Alver<np>$
-      4 ^@Afanasjeva<np>$
-      4 ^@Aanesland<np>$
-      4 ^@Aalto<np>$
-      3 ^@Yndestad<np>$
-      3 ^@Wisth<np>$
       3 ^@Wildenvey<np><top>$
-      3 ^@Werring<np>$
-      3 ^@Werder<np>$
       3 ^@WE<np>$
-      3 ^@Waldheim<np>$
-      3 ^@Vinci<np>$
       3 ^@Vestlandskysten<np><top>$
-      3 ^@Valberg<np>$
       3 ^@Us<np>$
-      3 ^@Ursin<np>$
-      3 ^@Tver<np>$
-      3 ^@Tusvik<np>$
-      3 ^@Tum<np>$
       3 ^@Trine-Lise<np>$
-      3 ^@Tonstad<np>$
-      3 ^@Tjelle<np>$
-      3 ^@Tingelstad<np>$
-      3 ^@Teien<np>$
       3 ^@Suzuki<np>$
-      3 ^@Sundby<np>$
-      3 ^@Strømstad<np>$
-      3 ^@Storsveen<np><top>$
-      3 ^@Stensaas<np>$
       3 ^@STAR<np><top>$
       3 ^@STABÆK<np>$
-      3 ^@Spaun<np>$
       3 ^@Sør-Kina<np><top>$
-      3 ^@Sørheim<np>$
-      3 ^@SOMMER<np>$
-      3 ^@SOLLI<np>$
-      3 ^@Sohlberg<np>$
       3 ^@Society<np>$
       3 ^@Sleipner<np>$
-      3 ^@Sjøberg<np>$
       3 ^@Sjoa<np><top>$
-      3 ^@Sigersvold<np>$
-      3 ^@Schulz<np>$
-      3 ^@Schau<np><top>$
-      3 ^@Saur<np>$
-      3 ^@Sakko<np>$
       3 ^@Sakharov<np><top>$
-      3 ^@Sætran<np>$
-      3 ^@Rud<np>$
-      3 ^@Røyset<np>$
-      3 ^@Roscher<np>$
-      3 ^@Rørstad<np>$
-      3 ^@ROGNLI<np>$
-      3 ^@Roen<np>$
       3 ^@Rio de Janeiro<np><top>$
       3 ^@Ringdal<np><top>$
-      3 ^@Rimestad<np>$
-      3 ^@Riis<np><top>$
-      3 ^@Riefling<np>$
-      3 ^@Renberg<np>$
-      3 ^@Remmen<np>$
-      3 ^@Reksten<np>$
-      3 ^@Reinskar<np>$
-      3 ^@Ramos<np>$
-      3 ^@Ragazzi<np>$
       3 ^@PRIX<np>$
       3 ^@Porsangmoen<np><top>$
-      3 ^@Penge<np>$
-      3 ^@PAUS<np>$
-      3 ^@Paulsrud<np>$
-      3 ^@Paasche<np>$
-      3 ^@Øvereng<np>$
       3 ^@Østlands-området<np><top>$
-      3 ^@Østhus<np>$
-      3 ^@Orlov<np>$
       3 ^@Oppheim<np><top>$
-      3 ^@Omholt<np>$
-      3 ^@Nyvold<np>$
-      3 ^@Nesvold<np>$
-      3 ^@Moldjord<np>$
-      3 ^@Moksnes<np>$
-      3 ^@Mohr<np>$
       3 ^@MMI<np>$
       3 ^@MJELDE<np><top>$
       3 ^@MILL<np>$
-      3 ^@Mietinen<np>$
-      3 ^@Melum<np>$
-      3 ^@Meinich<np>$
-      3 ^@Meidell<np>$
-      3 ^@Mehus<np>$
       3 ^@Matre<np><top>$
       3 ^@Mac<np>$
-      3 ^@Lystrup<np>$
-      3 ^@Losoa<np>$
       3 ^@Løland<np><top>$
-      3 ^@Løkke<np>$
-      3 ^@Lohne<np><top>$
-      3 ^@Lilleeng<np>$
-      3 ^@Laugen<np>$
-      3 ^@Larsdatter<np>$
-      3 ^@LANGT<np>$
-      3 ^@LANDÅS<np><top>$
-      3 ^@Lagabøter<np>$
       3 ^@Kvitekrist<np><top>$
-      3 ^@Kvåle<np><top>$
-      3 ^@Kringen<np>$
-      3 ^@Korsvik<np>$
-      3 ^@Kolås<np>$
       3 ^@Knut-Erik<np>$
-      3 ^@Kleist<np>$
-      3 ^@Klakegg<np>$
-      3 ^@Kiær<np>$
-      3 ^@Kem<np>$
-      3 ^@Karslen<np>$
-      3 ^@Kallevig<np>$
-      3 ^@Jin<np>$
       3 ^@Jan-Ove<np>$
-      3 ^@Jannok<np>$
-      3 ^@Istad<np>$
-      3 ^@Ingemann<np>$
-      3 ^@Hylland<np>$
-      3 ^@Hovi<np>$
-      3 ^@Høsøien<np>$
       3 ^@Hopland<np><top>$
       3 ^@Hooker<np>$
-      3 ^@Høilund<np>$
-      3 ^@Høie<np><top>$
-      3 ^@Hofseth<np>$
-      3 ^@HJORT<np>$
       3 ^@HILL<np><top>$
-      3 ^@Herstad<np>$
-      3 ^@HERNES<np><top>$
-      3 ^@Helveg<np>$
-      3 ^@Heinz<np>$
-      3 ^@Hegg<np>$
-      3 ^@Heggem<np>$
-      3 ^@Haugsnes<np>$
-      3 ^@Haugseth<np>$
-      3 ^@HARTMANN<np>$
-      3 ^@Harjo<np>$
       3 ^@Harder<np>$
-      3 ^@Harborg<np>$
-      3 ^@Hannestad<np>$
       3 ^@Hampton<np><top>$
-      3 ^@HAMMARI<np>$
-      3 ^@Haglund<np>$
-      3 ^@Hagelin<np>$
-      3 ^@Haavisto<np>$
       3 ^@Gullfaks<np><top>$
-      3 ^@Grøterud<np>$
-      3 ^@Gotaas<np>$
-      3 ^@Gahr<np>$
-      3 ^@Fuglestad<np>$
       3 ^@Fransisco<np><top>$
       3 ^@FOU<np>$
       3 ^@FOREST<np><top>$
-      3 ^@Forbord<np>$
-      3 ^@Fløystad<np>$
-      3 ^@Finseth<np>$
       3 ^@Fædrelandsvennen<np>$
       3 ^@ENØK<np>$
-      3 ^@ENGEN<np>$
-      3 ^@EIVIK<np>$
-      3 ^@Eikelmann<np>$
-      3 ^@Duun<np>$
-      3 ^@Danilova<np>$
-      3 ^@Buvarp<np>$
-      3 ^@Bruch<np>$
-      3 ^@Brovold<np>$
-      3 ^@Broen<np>$
-      3 ^@Broderstad<np>$
       3 ^@BRATLAND<np><top>$
-      3 ^@Bråstad<np>$
-      3 ^@Brandtzæg<np>$
-      3 ^@Brænne<np>$
-      3 ^@Braastad<np>$
-      3 ^@Bøthun<np>$
       3 ^@Børselv<np><top>$
-      3 ^@Blakstad<np>$
       3 ^@Bjordal<np><top>$
-      3 ^@Bjerkan<np><top>$
       3 ^@Bjartmar<np>$
-      3 ^@Biti<np>$
-      3 ^@BELSVIK<np>$
       3 ^@BEACH<np><top>$
-      3 ^@Bauck<np>$
-      3 ^@Barth<np>$
-      3 ^@Bangstad<np>$
-      3 ^@Bamrud<np>$
-      3 ^@Ballstad<np>$
-      3 ^@Bakkeli<np>$
-      3 ^@Bæhr<np>$
       3 ^@AUL<np>$
-      3 ^@ASPELUND<np>$
       3 ^@Askepott<np>$
-      3 ^@ÅSHEIM<np>$
-      3 ^@Arup<np>$
-      3 ^@Arctander<np>$
       3 ^@Ann-Sissel<np>$
       3 ^@Ann-Jorid<np>$
-      3 ^@Alzheimer<np>$
       3 ^@Albertville-OL<np>$
       3 ^@Aksnes<np><top>$
-      3 ^@Aarbakke<np>$
-      3 ^@Aanes<np>$
-      3 ^@Aalberg<np>$
-      2 ^@Zimmer<np>$
-      2 ^@Zell<np>$
-      2 ^@Zappa<np>$
       2 ^@Works<np>$
-      2 ^@Wille<np>$
-      2 ^@Wikstrøm<np>$
-      2 ^@Wiggen<np>$
-      2 ^@Wiebke<np>$
-      2 ^@WIBERG<np>$
-      2 ^@Wiberg<np>$
       2 ^@Wibecke<np>$
       2 ^@Wheel<np>$
-      2 ^@Westgaard<np>$
-      2 ^@Westerberg<np>$
-      2 ^@WENTZEL<np>$
-      2 ^@Wensel<np>$
-      2 ^@Wemberg<np>$
-      2 ^@Wells<np>$
-      2 ^@Vorterøyskagen<np>$
-      2 ^@Vikan<np><top>$
-      2 ^@VESTLI<np>$
       2 ^@VESTERTANA<np><top>$
-      2 ^@VESALA<np>$
       2 ^@Verde<np><top>$
-      2 ^@Varberg<np>$
-      2 ^@VANNVÅG<np>$
-      2 ^@VANGSVIK<np>$
       2 ^@Valldal<np><top>$
-      2 ^@Utstein<np><top>$
-      2 ^@Ustvedt<np>$
-      2 ^@Ustad<np>$
-      2 ^@Ulvin<np>$
-      2 ^@Ulleberg<np>$
       2 ^@UB<np>$
       2 ^@Tveita<np>$
-      2 ^@Tulleng<np>$
-      2 ^@Tordenskjold<np>$
-      2 ^@Tjæder<np>$
       2 ^@Thor-Inge<np>$
       2 ^@Tell<np>$
-      2 ^@Svendsrud<np>$
       2 ^@Svanen<np>$
-      2 ^@Sundvall<np>$
-      2 ^@Sumstad<np>$
-      2 ^@Suikkari<np>$
-      2 ^@Sudmann<np>$
       2 ^@STREET<np><top>$
       2 ^@Stray<np>$
       2 ^@Stones<np><top>$
-      2 ^@STENVOLD<np>$
-      2 ^@Stensvold<np>$
-      2 ^@Stai<np><top>$
-      2 ^@Stafsnes<np>$
-      2 ^@Stærk<np>$
       2 ^@Sri<np><top>$
-      2 ^@SPELLEMANN<np>$
-      2 ^@Sparby<np>$
       2 ^@Søyland<np><top>$
-      2 ^@SØRNES<np>$
-      2 ^@SØRGÅRD<np>$
-      2 ^@Sønsteby<np>$
-      2 ^@Sommervold<np>$
-      2 ^@Sommerstad<np>$
-      2 ^@Sølvberg<np>$
-      2 ^@SOLVANG<np>$
-      2 ^@Solti<np>$
-      2 ^@SOLSKJÆR<np>$
-      2 ^@SOLENG<np>$
-      2 ^@Søberg<np><top>$
-      2 ^@Slettli<np>$
-      2 ^@SKOG<np>$
-      2 ^@Skårvik<np>$
-      2 ^@Skarvik<np>$
-      2 ^@Skanche<np>$
-      2 ^@Sjøli<np>$
-      2 ^@Sim<np>$
       2 ^@Shift<np>$
-      2 ^@Shan<np>$
-      2 ^@Sellevold<np>$
-      2 ^@Seljeseth<np>$
-      2 ^@Seierstad<np>$
-      2 ^@SCHULSTAD<np>$
-      2 ^@Schmeichel<np>$
-      2 ^@Scheel<np>$
-      2 ^@SCHANCHE<np>$
-      2 ^@Sauvignon<np><top>$
-      2 ^@Sandvold<np><top>$
       2 ^@SANDVIKEN<np><top>$
-      2 ^@Sandstø<np>$
-      2 ^@Sandstad<np>$
-      2 ^@Sandemose<np>$
-      2 ^@Sandbæk<np>$
       2 ^@SAMORG<np><top>$
-      2 ^@Sagelvmo<np>$
-      2 ^@Saari<np>$
       2 ^@RVO<np>$
-      2 ^@RUUD<np><top>$
       2 ^@Røstbanken<np><top>$
       2 ^@Romatraktaten<np>$
-      2 ^@Rohde<np>$
-      2 ^@Rog<np>$
-      2 ^@RØD<np>$
-      2 ^@Røberg<np>$
-      2 ^@Ringheim<np>$
-      2 ^@RINGEN<np>$
-      2 ^@Rekstad<np>$
       2 ^@REKDAL<np><top>$
-      2 ^@Reiten<np>$
-      2 ^@Reinholdt<np>$
       2 ^@REAL<np>$
-      2 ^@RAGAZZI<np>$
-      2 ^@Quist<np>$
       2 ^@Quest<np>$
-      2 ^@Puska<np>$
       2 ^@Public<np>$
       2 ^@Post<np>$
-      2 ^@Pollan<np>$
       2 ^@Planteforsk<np>$
       2 ^@PERNILLA<np>$
-      2 ^@Pederen<np>$
-      2 ^@PAX<np>$
       2 ^@Part<np>$
-      2 ^@Paramount<np>$
       2 ^@Øvrevoll<np><top>$
-      2 ^@ØVRE<np>$
-      2 ^@Overvåg<np>$
       2 ^@Oppedal<np><top>$
       2 ^@Opdal<np><top>$
-      2 ^@Opdahl<np>$
-      2 ^@Ollila<np>$
-      2 ^@Ollestad<np>$
-      2 ^@Øie<np><top>$
-      2 ^@Nysveen<np>$
-      2 ^@Nyrud<np>$
-      2 ^@NYBRÅTEN<np>$
-      2 ^@Nossum<np>$
       2 ^@Norskekysten<np><top>$
-      2 ^@Nornes<np>$
-      2 ^@Norli<np>$
-      2 ^@Nordsletta<np>$
       2 ^@Nordnorge<np><top>$
-      2 ^@Nordkil<np>$
-      2 ^@Nordhaug<np>$
-      2 ^@Nordbye<np>$
-      2 ^@Nordås<np>$
-      2 ^@Norberg<np>$
-      2 ^@NIVA<np>$
-      2 ^@Nikku<np>$
-      2 ^@Nikkola<np>$
-      2 ^@Nesvik<np>$
-      2 ^@Nesse<np><top>$
-      2 ^@Nerheim<np>$
-      2 ^@Neill<np>$
-      2 ^@Myren<np>$
-      2 ^@MYKLEBUST<np><top>$
-      2 ^@Myhren<np>$
       2 ^@MUSIC<np>$
-      2 ^@Mont<np><top>$
-      2 ^@Mogstad<np>$
-      2 ^@Mjaavatn<np>$
-      2 ^@Minh<np><top>$
       2 ^@milorg<np>$
       2 ^@MIK<np>$
-      2 ^@Mikkelsdatter<np>$
-      2 ^@Meldgaard<np>$
-      2 ^@Melberg<np>$
-      2 ^@Melander<np>$
-      2 ^@Mauseth<np>$
-      2 ^@Marvold<np>$
-      2 ^@Marche<np>$
-      2 ^@Mangen<np>$
       2 ^@Magazine<np>$
-      2 ^@Lutnes<np>$
-      2 ^@Løvseth<np>$
-      2 ^@Løvås<np>$
-      2 ^@Løvaas<np><top>$
-      2 ^@Lough<np>$
-      2 ^@Losvik<np>$
-      2 ^@Lorang<np>$
-      2 ^@Loose<np>$
-      2 ^@LØKEN<np>$
-      2 ^@Lode<np>$
-      2 ^@LØDEMEL<np>$
-      2 ^@Liseth<np>$
-      2 ^@Linge<np>$
-      2 ^@Lindholt<np>$
       2 ^@Lindesnes<np><top>$
       2 ^@Lill-Hege<np>$
-      2 ^@Lilleby<np>$
-      2 ^@Lillebo<np>$
       2 ^@Lied<np>$
       2 ^@Levajok<np><top>$
-      2 ^@Leirvåg<np>$
-      2 ^@Leino<np>$
-      2 ^@Lehne<np>$
       2 ^@LEAGUE<np><top>$
-      2 ^@Lauvstad<np>$
-      2 ^@Laupstad<np>$
-      2 ^@LARSENG<np>$
-      2 ^@Lappen<np>$
-      2 ^@Lango<np>$
-      2 ^@Langen<np>$
-      2 ^@Landsem<np>$
-      2 ^@Laasonen<np>$
-      2 ^@KYRKJEBØ<np>$
-      2 ^@KVALHEIM<np>$
-      2 ^@Kumar<np>$
-      2 ^@Krokvann<np>$
       2 ^@KRIPOS<np>$
       2 ^@Korinterbrevet<np>$
-      2 ^@Kongshus<np>$
-      2 ^@Kohler<np>$
-      2 ^@Kock<np>$
-      2 ^@Klingan<np>$
-      2 ^@Kleiven<np>$
-      2 ^@Klaveness<np><top>$
-      2 ^@Kjos<np><top>$
-      2 ^@Kjerschow<np>$
-      2 ^@Kjellmann<np>$
-      2 ^@Kjæs<np>$
-      2 ^@Kiviniemi<np>$
-      2 ^@Kisten<np>$
-      2 ^@Kirvesniemi<np>$
-      2 ^@Kirkesæther<np>$
-      2 ^@Kindem<np>$
-      2 ^@Killi<np>$
-      2 ^@Killingland<np>$
-      2 ^@Kierkegaard<np>$
-      2 ^@Katekeetta<np>$
-      2 ^@Karlsrud<np>$
       2 ^@Karius<np>$
-      2 ^@Kapstø<np>$
       2 ^@Kalvøya<np><top>$
-      2 ^@KALVIK<np>$
-      2 ^@KAASA<np><top>$
       2 ^@JR<np>$
-      2 ^@Jette<np>$
-      2 ^@Jektvik<np>$
       2 ^@Jan-Tore<np>$
-      2 ^@Jahren<np><top>$
       2 ^@INTERNET<np>$
       2 ^@INNSET<np><top>$
-      2 ^@Ingstad<np>$
-      2 ^@Indseth<np>$
       2 ^@Inc<np>$
-      2 ^@Hvoslef<np>$
       2 ^@Hvitekrist<np>$
-      2 ^@Hvalen<np>$
-      2 ^@Hussain<np>$
-      2 ^@Hultgreen<np>$
-      2 ^@HØYBRÅTEN<np>$
-      2 ^@Hov<np>$
-      2 ^@Hove<np><top>$
       2 ^@HOPEN<np>$
-      2 ^@Høn<np><top>$
-      2 ^@Holvik<np>$
-      2 ^@Holte<np><top>$
-      2 ^@HOLAND<np>$
-      2 ^@Høgetveit<np>$
-      2 ^@Høgden<np>$
-      2 ^@Hjelde<np>$
-      2 ^@Hildegard<np>$
-      2 ^@Hernæs<np>$
-      2 ^@Henie<np>$
-      2 ^@Helweg<np>$
-      2 ^@Hellerud<np><top>$
-      2 ^@Heimlund<np>$
-      2 ^@HEIDE<np>$
-      2 ^@Heftye<np>$
-      2 ^@HEDSTRØM<np>$
       2 ^@Head<np>$
-      2 ^@Håvik<np><top>$
-      2 ^@Hatle<np>$
-      2 ^@Hatlem<np>$
-      2 ^@Hasselberg<np>$
-      2 ^@Haso<np>$
-      2 ^@Haltbrekken<np>$
-      2 ^@Halling<np>$
-      2 ^@HAGE<np>$
-      2 ^@Habbestad<np>$
-      2 ^@Gunnerød<np>$
-      2 ^@Groth<np>$
-      2 ^@Grongstad<np>$
-      2 ^@Granly<np>$
-      2 ^@Gjelsten<np>$
-      2 ^@Gimnes<np>$
-      2 ^@Gilje<np><top>$
-      2 ^@Gilboe<np>$
-      2 ^@Geving<np>$
-      2 ^@Gaut<np>$
-      2 ^@Garbo<np>$
       2 ^@Gang<np>$
-      2 ^@FURULY<np>$
-      2 ^@Furseth<np>$
-      2 ^@Fritzner<np>$
-      2 ^@Frisell<np>$
       2 ^@FRIONOR<np>$
       2 ^@FRELSESARMEEN<np>$
-      2 ^@Freihow<np>$
-      2 ^@Fredvang<np>$
-      2 ^@Franzen<np>$
-      2 ^@Førre<np>$
-      2 ^@Formo<np>$
-      2 ^@Forbes<np>$
       2 ^@Foods<np>$
-      2 ^@Flugsrud<np>$
       2 ^@Fjellhammer<np><top>$
       2 ^@First<np>$
-      2 ^@Ferner<np>$
-      2 ^@Ferman<np>$
-      2 ^@Faxe<np>$
       2 ^@Fantasy<np>$
-      2 ^@EVJEN<np>$
-      2 ^@Erikstad<np>$
-      2 ^@Enge<np><top>$
-      2 ^@Elvegard<np>$
-      2 ^@Ekroll<np>$
-      2 ^@Eiken<np>$
-      2 ^@EGGEN<np>$
       2 ^@EEC<np>$
-      2 ^@Eckhoff<np>$
-      2 ^@Dyblie<np>$
-      2 ^@DREYER<np>$
-      2 ^@Dolven<np>$
-      2 ^@Dolmen<np>$
-      2 ^@Dobloug<np>$
       2 ^@DNL<np>$
-      2 ^@Devik<np>$
       2 ^@DAY<np>$
-      2 ^@DALSETH<np>$
-      2 ^@Corbett<np>$
-      2 ^@Clemens<np>$
       2 ^@Church<np>$
-      2 ^@CHARLOTTENLUND<np>$
-      2 ^@Castello<np>$
-      2 ^@Castberg<np>$
-      2 ^@Bygden<np>$
-      2 ^@BYE<np><top>$
-      2 ^@Bulken<np>$
-      2 ^@Bredahl<np>$
-      2 ^@Brattli<np>$
-      2 ^@Bratberg<np>$
-      2 ^@Brataas<np>$
-      2 ^@Branner<np>$
       2 ^@BRAATHEN<np><top>$
-      2 ^@Bostad<np>$
-      2 ^@Børve<np>$
-      2 ^@BØE<np><top>$
-      2 ^@BOCKELIE<np>$
-      2 ^@BLINDHEIM<np><top>$
-      2 ^@Bjørkum<np>$
-      2 ^@Bjørgum<np>$
-      2 ^@Bjerkeli<np>$
-      2 ^@Bisk<np>$
-      2 ^@Bingen<np>$
       2 ^@Bertheus<np>$
-      2 ^@Bernhoft<np>$
-      2 ^@BERGMANN<np>$
-      2 ^@Bergheim<np>$
-      2 ^@Benneche<np>$
-      2 ^@Beldo<np>$
       2 ^@Bear<np>$
-      2 ^@BAUMANN<np>$
-      2 ^@Batta<np>$
-      2 ^@BARNES<np>$
-      2 ^@Ballari<np>$
       2 ^@Baktus<np>$
       2 ^@BAKKEN<np>$
-      2 ^@Bæivi<np>$
-      2 ^@Aufles<np>$
       2 ^@Ata<np><top>$
-      2 ^@Åsvang<np>$
-      2 ^@Arstad<np>$
-      2 ^@Årøybukt<np>$
-      2 ^@Arnestad<np>$
-      2 ^@Arent<np>$
       2 ^@Ann-Iren<np>$
       2 ^@ANDEN<np>$
-      2 ^@Anbjørg<np>$
-      2 ^@Albright<np>$
       2 ^@AKP-ml<np>$
-      2 ^@Ain<np>$
-      2 ^@Ahonen<np>$
-      2 ^@Aaser<np>$
-      2 ^@Aasebø<np>$
-      1 ^@Woxholt<np>$
-      1 ^@Wolter<np>$
-      1 ^@Witt<np>$
       1 ^@WITH<np>$
-      1 ^@Winje<np>$
-      1 ^@WINGE<np>$
-      1 ^@Wilskow<np>$
       1 ^@Wilh<np>$
-      1 ^@Wilberg<np>$
-      1 ^@WIIK<np><top>$
-      1 ^@Wight<np>$
-      1 ^@Wigan<np>$
-      1 ^@Wiers<np>$
-      1 ^@Whist<np>$
       1 ^@WHEEL<np>$
-      1 ^@Westbye<np>$
-      1 ^@Weser<np>$
-      1 ^@WERDER<np>$
-      1 ^@Welle<np>$
-      1 ^@Wedervang<np>$
-      1 ^@Weberg<np>$
       1 ^@Wear<np>$
       1 ^@WALESA<np><top>$
-      1 ^@Wahl<np>$
       1 ^@Vivi-Ann<np>$
       1 ^@VIGLEIK<np>$
-      1 ^@Viberg<np>$
-      1 ^@Vevang<np>$
-      1 ^@Vestvik<np>$
       1 ^@Vestpollen<np>$
-      1 ^@Vesterheim<np>$
       1 ^@Veli-Pekka<np>$
       1 ^@Veivesenet<np>$
-      1 ^@Veidnes<np>$
-      1 ^@Veggen<np>$
-      1 ^@Vars<np>$
-      1 ^@VÅR<np>$
-      1 ^@VALSTAD<np>$
-      1 ^@Valseth<np>$
-      1 ^@Valli<np>$
       1 ^@Valley<np><top>$
-      1 ^@VALEN<np><top>$
-      1 ^@Valand<np>$
-      1 ^@Vaage<np>$
       1 ^@Unifil<np>$
-      1 ^@Ulsberg<np>$
       1 ^@ULLERSMO<np><top>$
-      1 ^@Uchermann<np>$
-      1 ^@Tveten<np>$
-      1 ^@Tvenge<np>$
-      1 ^@Tusberg<np>$
-      1 ^@Tuomivaara<np>$
-      1 ^@Tuomaala<np>$
-      1 ^@Tunstad<np>$
-      1 ^@Tronvoll<np>$
-      1 ^@Tronrud<np>$
-      1 ^@Trøen<np>$
-      1 ^@Triumf<np>$
-      1 ^@Trier<np>$
       1 ^@Trek<np>$
-      1 ^@Treholt<np>$
       1 ^@Tower<np>$
       1 ^@TOUR<np>$
       1 ^@TOTLAND<np><top>$
-      1 ^@Toska<np>$
       1 ^@Torolv<np>$
       1 ^@Tor-Inge<np>$
-      1 ^@Torborg<np>$
       1 ^@TOP<np>$
-      1 ^@Tonheim<np>$
-      1 ^@Tøndel<np>$
-      1 ^@Tokle<np>$
       1 ^@Tjelta<np><top>$
       1 ^@Tidend<np>$
-      1 ^@Thunestvedt<np>$
-      1 ^@Thue<np><top>$
       1 ^@Tharald<np>$
       1 ^@TERTNES<np><top>$
-      1 ^@Tebe<np>$
-      1 ^@Tangnes<np>$
-      1 ^@Tangerud<np>$
-      1 ^@Systad<np>$
-      1 ^@Syrrist<np>$
-      1 ^@SYDOW<np>$
-      1 ^@Sveum<np><top>$
-      1 ^@Svestad<np>$
-      1 ^@Svenkerud<np>$
-      1 ^@Suzdal<np>$
-      1 ^@Surin<np>$
       1 ^@Superior<np>$
-      1 ^@Suomenrinne<np>$
       1 ^@SUN<np>$
-      1 ^@Sundset<np>$
-      1 ^@SUNDGOT<np>$
-      1 ^@Stryken<np>$
       1 ^@Strange<np>$
-      1 ^@Størseth<np>$
-      1 ^@STOREVIK<np>$
-      1 ^@STØRE<np>$
-      1 ^@Storbukt<np>$
       1 ^@Stora<np><top>$
-      1 ^@Stensby<np><top>$
-      1 ^@STEINHOLT<np>$
-      1 ^@Steinholdt<np>$
       1 ^@STEEL<np>$
       1 ^@Statkraft<np>$
       1 ^@STATE<np><top>$
-      1 ^@STANGNES<np>$
       1 ^@Standal<np><top>$
-      1 ^@STABELL<np>$
       1 ^@Spilling<np>$
       1 ^@SPECIAL<np>$
-      1 ^@Sparrow<np>$
       1 ^@SOUTH<np><top>$
-      1 ^@Sorvanova<np>$
-      1 ^@Sørby<np>$
-      1 ^@Sønderland<np>$
-      1 ^@Søgård<np>$
-      1 ^@Søgaard<np>$
-      1 ^@Sofiemyr<np><top>$
-      1 ^@Soelberg<np>$
       1 ^@Smuts<np>$
-      1 ^@SMISTAD<np>$
-      1 ^@Smedsrud<np><top>$
-      1 ^@Smeby<np>$
-      1 ^@Sletbak<np>$
-      1 ^@Slåen<np>$
-      1 ^@Slaatto<np>$
-      1 ^@Skovly<np>$
-      1 ^@Skorstad<np>$
-      1 ^@SKOGVANG<np>$
-      1 ^@SKOGHEIM<np><top>$
-      1 ^@Skjerve<np><top>$
       1 ^@SKJELSTAD<np>$
-      1 ^@Skjelbred<np><top>$
-      1 ^@Skjærstad<np>$
-      1 ^@Skarpe<np>$
-      1 ^@SKARD<np>$
-      1 ^@SJØVOLD<np>$
-      1 ^@Sinding<np>$
-      1 ^@Silvo<np>$
-      1 ^@Silvanus<np>$
-      1 ^@Silseth<np>$
-      1 ^@Sikku<np>$
-      1 ^@Sellæg<np>$
-      1 ^@Selås<np>$
-      1 ^@SEJERSTED<np>$
-      1 ^@Seeberg<np>$
-      1 ^@Schøtt<np>$
-      1 ^@Schjetlein<np>$
-      1 ^@SCHEIE<np>$
-      1 ^@Scheen<np>$
-      1 ^@Scharffenberg<np>$
-      1 ^@Scavenius<np>$
-      1 ^@Saxi<np>$
-      1 ^@Sark<np>$
       1 ^@SAN FRANCISCO<np><top>$
-      1 ^@Sandved<np>$
-      1 ^@Sandseter<np>$
-      1 ^@Sander<np>$
-      1 ^@SAMUELSBERG<np>$
-      1 ^@SAGSTUEN<np>$
-      1 ^@Sælen<np>$
-      1 ^@Sægrov<np>$
       1 ^@Sad<np><top>$
-      1 ^@RYSTAD<np>$
-      1 ^@Rygg<np>$
-      1 ^@Rydland<np>$
-      1 ^@Rusten<np>$
       1 ^@ROYAL<np>$
-      1 ^@Rovik<np>$
-      1 ^@Røsvik<np>$
-      1 ^@Rossi<np>$
       1 ^@Rosseland<np><top>$
-      1 ^@Rosnes<np>$
-      1 ^@Rosengren<np>$
-      1 ^@Ropeid<np>$
-      1 ^@RØNBECK<np>$
-      1 ^@Rommetveit<np><top>$
       1 ^@Roll<np>$
-      1 ^@Røen<np>$
-      1 ^@Roede<np>$
-      1 ^@Rodin<np>$
       1 ^@Rock<np>$
-      1 ^@RINNAN<np>$
       1 ^@RIKSTEATRET<np>$
-      1 ^@Riiser<np>$
-      1 ^@RIISE<np><top>$
-      1 ^@Riina<np>$
-      1 ^@Repvåg<np>$
-      1 ^@Relling<np>$
-      1 ^@Reinstad<np>$
       1 ^@Reindriftsnytt<np>$
-      1 ^@Reims<np>$
-      1 ^@Reigstad<np>$
-      1 ^@Ree<np><top>$
-      1 ^@Rebbestad<np>$
-      1 ^@Ravnestad<np>$
-      1 ^@Rautio<np>$
-      1 ^@Rautavaara<np>$
-      1 ^@Ratama<np>$
-      1 ^@Ranum<np>$
-      1 ^@Rantala<np>$
-      1 ^@Rakvåg<np>$
-      1 ^@Rafto<np>$
-      1 ^@Rådahl<np>$
-      1 ^@Raaum<np>$
-      1 ^@Raastad<np>$
-      1 ^@Qazvin<np>$
-      1 ^@Preuss<np>$
-      1 ^@PREUS<np>$
       1 ^@Poughkeepsie<np><top>$
       1 ^@Pope<np>$
-      1 ^@Pontoppidan<np>$
-      1 ^@Pollachius<np>$
       1 ^@POLICE<np>$
       1 ^@Plum<np>$
-      1 ^@Piri<np>$
-      1 ^@PHIL<np>$
-      1 ^@PENGE<np>$
-      1 ^@Peltola<np>$
       1 ^@PAVAROTTI<np>$
       1 ^@Papua Ny-Guinea<np><top>$
-      1 ^@Paltto<np>$
       1 ^@PALACE<np>$
-      1 ^@Paasikivi<np>$
       1 ^@Øystre<np><top>$
-      1 ^@Øynes<np>$
-      1 ^@Øvretveit<np>$
-      1 ^@ØVERLI<np><top>$
-      1 ^@ØVERGÅRD<np><top>$
-      1 ^@Ovedie<np>$
-      1 ^@Østli<np>$
-      1 ^@Østereng<np>$
-      1 ^@ØSTBY<np>$
-      1 ^@Osnes<np>$
-      1 ^@ØRNHØI<np>$
-      1 ^@Ørnbakk<np>$
       1 ^@ORCHESTRA<np>$
-      1 ^@Oppegaard<np>$
-      1 ^@OPHEIM<np>$
-      1 ^@ONO<np>$
-      1 ^@Ølnes<np>$
-      1 ^@Ollanketo<np>$
       1 ^@Oak<np>$
-      1 ^@Nuvsvåg<np>$
-      1 ^@Nutti<np>$
-      1 ^@Nurmi<np>$
-      1 ^@Nummedal<np>$
-      1 ^@NORUM<np><top>$
-      1 ^@Norlund<np>$
       1 ^@Nordvisjonen<np>$
       1 ^@Nord-Vestlandet<np><top>$
       1 ^@NORDSTRAND<np><top>$
-      1 ^@Nordseth<np><top>$
-      1 ^@Nordrum<np>$
       1 ^@Nordenfjeldske<np><top>$
-      1 ^@Nordberg<np><top>$
       1 ^@Norcem<np>$
-      1 ^@Nøklebye<np>$
-      1 ^@Nokka<np>$
-      1 ^@Njåstad<np>$
-      1 ^@NITTER<np>$
-      1 ^@Nieminen<np>$
       1 ^@Nickel<np>$
-      1 ^@Nerli<np>$
       1 ^@Nerland<np><top>$
-      1 ^@Nerås<np>$
-      1 ^@Neergaard<np>$
       1 ^@Navy<np>$
-      1 ^@Nauen<np>$
-      1 ^@Natås<np>$
-      1 ^@Nan<np>$
-      1 ^@NAKKEN<np>$
-      1 ^@MYRVANG<np>$
-      1 ^@MYRSETH<np><top>$
-      1 ^@Myrheim<np>$
-      1 ^@Myrberg<np>$
-      1 ^@Myklebostad<np>$
-      1 ^@MYHRVOLD<np><top>$
-      1 ^@MYHRE<np><top>$
-      1 ^@Myhre<np><top>$ 
-      1 ^@MURI<np>$
-      1 ^@Munkejord<np>$
-      1 ^@Moxnes<np>$
-      1 ^@MOVINKEL<np>$
       1 ^@MORKEN<np><top>$
       1 ^@Mørekysten<np><top>$
-      1 ^@Molvik<np>$
-      1 ^@Moltzau<np>$
-      1 ^@Molteberg<np>$
-      1 ^@Mølmann<np>$
-      1 ^@Mogen<np>$
-      1 ^@MOBERG<np><top>$
-      1 ^@MINH<np><top>$
-      1 ^@MIDTTUN<np>$
-      1 ^@Middagsbukt<np>$
       1 ^@METROPOLITAN<np>$
-      1 ^@MESTAD<np>$
-      1 ^@Meri<np>$
-      1 ^@Mellum<np>$
-      1 ^@Meek<np>$
-      1 ^@Medhus<np>$
       1 ^@May-Tove<np>$
       1 ^@May-Liss<np>$
       1 ^@Master<np>$
-      1 ^@Masternes<np>$
-      1 ^@Marvel<np>$
-      1 ^@Marelius<np>$
-      1 ^@Marakatt<np>$
-      1 ^@Manum<np>$
-      1 ^@MACK<np>$
       1 ^@Lyngby<np><top>$
-      1 ^@Lykketoft<np>$
-      1 ^@Lyder<np>$
-      1 ^@Lunden<np>$
       1 ^@Luck<np>$
-      1 ^@Løvlie<np>$
-      1 ^@LØVLAND<np>$
-      1 ^@Løveid<np>$
-      1 ^@Lotvonen<np>$
-      1 ^@Lossius<np>$
-      1 ^@LORENTZEN<np><top>$
-      1 ^@Løkkeberg<np>$
-      1 ^@Løge<np>$
-      1 ^@Ljung<np>$
-      1 ^@Ljungberg<np>$
       1 ^@LIU<np>$
-      1 ^@Linnerud<np><top>$
-      1 ^@Lingen<np>$
-      1 ^@Lindvik<np>$
-      1 ^@LINDVALL<np>$
-      1 ^@Lindtner<np>$
-      1 ^@Lindh<np>$
-      1 ^@LINDFORS<np>$
       1 ^@Limousine<np>$
-      1 ^@Liltved<np>$
-      1 ^@Lilletvedt<np>$
-      1 ^@Leistad<np>$
-      1 ^@Leirbakken<np>$
-      1 ^@Lehtola<np>$
-      1 ^@Lehn<np>$
-      1 ^@Leer<np>$
-      1 ^@Lautala<np>$
-      1 ^@LAURITZEN<np><top>$
-      1 ^@Larsnes<np>$
-      1 ^@LAPPEN<np>$
-      1 ^@Lanka<np><top>$
-      1 ^@Langvassbukt<np>$
-      1 ^@Langhaug<np>$
-      1 ^@Langgård<np>$
-      1 ^@Lamer<np>$
       1 ^@Laksefjorden<np><top>$
-      1 ^@Laitanen<np>$
       1 ^@Lahaugmoen<np><top>$
-      1 ^@KVARME<np>$
-      1 ^@Kvamme<np><top>$
-      1 ^@Kvæn<np>$
-      1 ^@Kunnas<np>$
-      1 ^@Kunes<np>$
-      1 ^@Kumpuniemi<np>$
-      1 ^@Krokmo<np>$
-      1 ^@KROGH<np><top>$
-      1 ^@Kringstad<np>$
-      1 ^@Krekling<np>$
-      1 ^@Krauss<np>$
-      1 ^@KOSMO<np>$
       1 ^@Korsfjorden<np><top>$
-      1 ^@Kørner<np>$
-      1 ^@KOLNES<np>$
-      1 ^@KOLLSTRØM<np>$
-      1 ^@Kolgujev<np>$
-      1 ^@Koivisto<np>$
-      1 ^@KOHT<np>$
-      1 ^@KOHLER<np>$
-      1 ^@Knag<np>$
       1 ^@KLIM<np>$
-      1 ^@Kleppstad<np>$
-      1 ^@Klemetti<np>$
-      1 ^@Klemetsrud<np>$
-      1 ^@KJØRSTAD<np>$
-      1 ^@Kjølås<np>$
-      1 ^@Kjersem<np>$
-      1 ^@KJERSCHOW<np>$
-      1 ^@Kjelsrud<np>$
-      1 ^@Kjelling<np>$
-      1 ^@Kirkevann<np>$
-      1 ^@Kirkerud<np>$
       1 ^@King's<np><top>$
-      1 ^@Kingo<np>$
-      1 ^@Kilen<np>$
-      1 ^@Kildahl<np>$
       1 ^@Kikut<np><top>$
-      1 ^@Kiiskinen<np>$
-      1 ^@Kierschow<np>$
-      1 ^@Keyser<np>$
       1 ^@Key<np><top>$
-      1 ^@Keller<np>$
-      1 ^@Kavli<np>$
       1 ^@Kastrup<np><top>$
       1 ^@Kåsa<np><top>$
-      1 ^@Karppinen<np>$
-      1 ^@Karhu<np>$
-      1 ^@Kanerva<np>$
-      1 ^@Kallio<np>$
-      1 ^@Kalleberg<np>$
-      1 ^@KAHN<np>$
-      1 ^@Juvonen<np>$
       1 ^@JUST<np>$
       1 ^@Julekveldsvisa<np>$
-      1 ^@Jukkola<np>$
-      1 ^@Juhl<np>$
-      1 ^@Joppe<np>$
-      1 ^@Joki<np>$
-      1 ^@Johnstad<np>$
-      1 ^@Johnsdatter<np>$
       1 ^@Jesaia<np>$
-      1 ^@Jervell<np>$
       1 ^@Jernia<np>$
       1 ^@Jan-Inge<np>$
-      1 ^@Jakhelln<np>$
-      1 ^@Jahre<np><top>$
-      1 ^@Isoviita<np>$
       1 ^@Irish<np>$
       1 ^@Ingvil<np>$
-      1 ^@Ingier<np>$
-      1 ^@Ingeberg<np>$
-      1 ^@Ihlen<np>$
       1 ^@Igeldas<np><top>$
-      1 ^@Idsøe<np>$
-      1 ^@Hyggen<np>$
-      1 ^@Hvar<np>$
-      1 ^@HVAL<np>$
       1 ^@HUY<np>$
       1 ^@Husebø<np><top>$
-      1 ^@HUNDER<np>$
-      1 ^@HUITFELDT<np>$
-      1 ^@Høyem<np>$
-      1 ^@HØYDAHL<np>$
-      1 ^@HOVE<np><top>$
       1 ^@HOTEL<np>$
-      1 ^@Hoseth<np>$
-      1 ^@Horstad<np>$
-      1 ^@Hornemann<np>$
-      1 ^@Hopstock<np>$
-      1 ^@HOLST<np><top>$
-      1 ^@Holøyen<np>$
-      1 ^@Holli<np>$
-      1 ^@Høivik<np>$
-      1 ^@Høiseth<np>$
-      1 ^@Høines<np>$
-      1 ^@Høiby<np><top>$
-      1 ^@Høgset<np>$
-      1 ^@Høgseth<np>$
-      1 ^@Høgli<np>$
-      1 ^@Hofgaard<np>$
-      1 ^@Hodt<np>$
-      1 ^@HJORTH<np>$
-      1 ^@Hjørring<np>$
-      1 ^@HIRSTI<np>$
-      1 ^@Hiort<np>$
-      1 ^@HILDRUM<np>$
-      1 ^@Hietanen<np>$
-      1 ^@Hietalahti<np>$
-      1 ^@HEYERDAHL<np>$
-      1 ^@Hestvik<np>$
-      1 ^@Hestnes<np><top>$
-      1 ^@Hennig<np>$
-      1 ^@Hemming<np>$
-      1 ^@HELSING<np>$
-      1 ^@Helseth<np>$
-      1 ^@Helo<np>$
-      1 ^@Hellstrøm<np>$
-      1 ^@Hellnes<np>$
-      1 ^@Hellem<np>$
-      1 ^@Helier<np>$
-      1 ^@Helgerød<np>$
-      1 ^@Heilmann<np>$
-      1 ^@Heggstad<np>$
-      1 ^@Heggheim<np>$
       1 ^@HEGGELUND<np><top>$
       1 ^@Hegel<np>$
-      1 ^@Heen<np>$
-      1 ^@Heatta<np>$
-      1 ^@Havik<np>$
-      1 ^@Havel<np>$
-      1 ^@Hausken<np>$
-      1 ^@Haug<np>$
-      1 ^@Haugnes<np>$
-      1 ^@HAUGLAND<np><top>$
-      1 ^@HATTENG<np>$
-      1 ^@Hart<np>$
-      1 ^@Harnes<np>$
-      1 ^@HARBITZ<np>$
-      1 ^@Haraldstad<np>$
-      1 ^@Håpnes<np>$
-      1 ^@Hamvik<np>$
-      1 ^@Hamnvåg<np>$
-      1 ^@Hamnes<np>$
       1 ^@HALTVIK<np><top>$
-      1 ^@Hals<np>$
-      1 ^@Hallgren<np>$
-      1 ^@Hallan<np>$
       1 ^@Hakadal<np><top>$
-      1 ^@HÆTTA<np>$
-      1 ^@Hackman<np>$
-      1 ^@Håbjørg<np>$
-      1 ^@Haarfagre<np>$
-      1 ^@Haapasaari<np>$
-      1 ^@Haapalahti<np>$
-      1 ^@GYNT<np>$
       1 ^@GWH<np>$
       1 ^@GWh<np>$
-      1 ^@Gutenberg<np>$
-      1 ^@Gunneng<np>$
-      1 ^@Guldahl<np>$
-      1 ^@Guddal<np>$
-      1 ^@Grytten<np>$
-      1 ^@Grøtta<np>$
       1 ^@Grotli<np><top>$
-      1 ^@Grønseth<np>$
-      1 ^@Grønnli<np>$
-      1 ^@Grøneng<np>$
-      1 ^@Grønbech<np>$
-      1 ^@Grøgaard<np>$
-      1 ^@Grip<np>$
-      1 ^@Grimsmo<np>$
-      1 ^@Greco<np>$
-      1 ^@Graven<np>$
       1 ^@GRAVDAL<np><top>$
       1 ^@GRAPE<np>$
-      1 ^@Grannes<np>$
-      1 ^@Goldmann<np>$
-      1 ^@Glamorgan<np>$
-      1 ^@Gjølme<np>$
-      1 ^@Gjerløw<np>$
-      1 ^@Gjendem<np>$
-      1 ^@Gjærevoll<np>$
-      1 ^@Giscard<np>$
-      1 ^@Gellein<np>$
-      1 ^@Garnes<np>$
-      1 ^@Gallio<np>$
-      1 ^@Galleberg<np>$
-      1 ^@FYHN<np>$
       1 ^@Fv<np>$
-      1 ^@Furuset<np>$
-      1 ^@FURUSETH<np><top>$
-      1 ^@Fuglum<np>$
-      1 ^@Frøseth<np>$
-      1 ^@FRISELL<np>$
-      1 ^@Fossem<np>$
-      1 ^@Forsgren<np>$
-      1 ^@Forseth<np>$
-      1 ^@FORMANN<np>$
-      1 ^@Folven<np>$
-      1 ^@Følstad<np>$
-      1 ^@Fokker<np>$
       1 ^@Flow<np>$
       1 ^@Floor<np>$
       1 ^@FLN<np>$
       1 ^@Flint<np>$
-      1 ^@Fletcher<np>$
-      1 ^@FLAGSTAD<np>$
-      1 ^@Fjørstad<np>$
-      1 ^@FJELD<np><top>$
-      1 ^@Fjelde<np>$
       1 ^@FIVE<np>$
-      1 ^@Fiskvik<np>$
-      1 ^@Finjord<np>$
-      1 ^@FIGENSCHOU<np>$
-      1 ^@Fellini<np>$
       1 ^@Fedje<np><top>$
-      1 ^@Fasmer<np>$
-      1 ^@Farrow<np>$
-      1 ^@FALK<np>$
-      1 ^@Falkenberg<np>$
-      1 ^@Færder<np><top>$
-      1 ^@Faber<np>$
-      1 ^@Evenrud<np>$
       1 ^@Europadomstolen<np>$
-      1 ^@ESPO<np>$
-      1 ^@Espo<np>$
-      1 ^@ESPESETH<np>$
-      1 ^@Espe<np>$
       1 ^@Engvik<np><top>$
-      1 ^@ENGSTAD<np>$
-      1 ^@Engebu<np>$
-      1 ^@ELVEVOLD<np>$
-      1 ^@ELDEN<np>$
-      1 ^@Ekne<np>$
-      1 ^@Eitrheim<np>$
-      1 ^@Einejord<np>$
-      1 ^@Eike<np>$
-      1 ^@Eicher<np>$
-      1 ^@EGGUM<np>$
-      1 ^@EGEBERG<np>$
-      1 ^@Eek<np>$
-      1 ^@EEG<np>$
-      1 ^@Edlund<np>$
-      1 ^@Dyrseth<np>$
       1 ^@Dyno<np>$
-      1 ^@Duken<np>$
-      1 ^@Dronninglund<np>$
-      1 ^@Drønen<np>$
-      1 ^@Drange<np><top>$
-      1 ^@Drabløs<np>$
-      1 ^@Dong<np>$
       1 ^@DNC<np>$
       1 ^@DnC<np>$
-      1 ^@Dannevig<np>$
-      1 ^@DANILOFF<np>$
-      1 ^@Dammen<np>$
-      1 ^@Dahm<np>$
-      1 ^@Dae<np>$
       1 ^@DÆHLI<np>$
-      1 ^@CREEK<np>$
-      1 ^@Creek<np>$
-      1 ^@Cortes<np>$
       1 ^@Corporation<np>$
-      1 ^@Corell<np>$
       1 ^@COOK<np>$
-      1 ^@Collett<np>$
       1 ^@Cold<np>$
-      1 ^@Celle<np>$
-      1 ^@Celius<np>$
       1 ^@CAVE<np>$
-      1 ^@Carlzon<np>$
-      1 ^@Capone<np>$
       1 ^@CAPE<np><top>$
-      1 ^@CANTONA<np>$
-      1 ^@Callas<np>$
       1 ^@Cabernet<np>$
       1 ^@BUSINESS<np><top>$
       1 ^@BULL<np><top>$
       1 ^@Bug<np>$
       1 ^@Buenos<np><top>$
       1 ^@BUCK<np>$
-      1 ^@Brynilen<np>$
-      1 ^@Brubak<np>$
-      1 ^@Bronx<np>$
-      1 ^@Brodtkorb<np>$
-      1 ^@Brevig<np>$
-      1 ^@Brende<np>$
-      1 ^@Brecker<np>$
-      1 ^@Bratvold<np>$
-      1 ^@Brække<np>$
-      1 ^@Brack<np>$
       1 ^@BOYS<np>$
-      1 ^@Bøstad<np>$
-      1 ^@Børsheim<np>$
-      1 ^@BORGEN<np>$
-      1 ^@Borchsenius<np>$
       1 ^@BOND<np>$
-      1 ^@Bøhren<np>$
-      1 ^@Bøhn<np><top>$
-      1 ^@Boel<np>$
-      1 ^@Bluth<np>$
-      1 ^@Bloksberg<np>$
-      1 ^@Blokken<np>$
-      1 ^@Bloch<np>$
-      1 ^@Blixen<np>$
-      1 ^@Blehr<np>$
-      1 ^@Bjørnvig<np>$
-      1 ^@Bjørnslett<np>$
-      1 ^@Bjørnskinn<np>$
       1 ^@Bjørn-Inge<np>$
       1 ^@Bjørn-Erik<np>$
       1 ^@BJØRNEBOE<np><top>$
-      1 ^@BJØRKLUND<np>$
-      1 ^@BJØRKLI<np>$
-      1 ^@Bjoner<np>$
-      1 ^@BJERREGAARD<np>$
-      1 ^@BJERKLI<np>$
-      1 ^@Bjerck<np>$
-      1 ^@Bitterstad<np>$
       1 ^@Birkebeinerrennet<np>$
-      1 ^@Billund<np>$
-      1 ^@Benum<np>$
-      1 ^@Bellika<np>$
-      1 ^@Beddari<np>$
-      1 ^@Beatty<np>$
       1 ^@BARNABAS<np>$
       1 ^@Bankakademiet<np>$
-      1 ^@Balsnes<np>$
-      1 ^@Ballestad<np>$
-      1 ^@Ballard<np>$
-      1 ^@Bakkerud<np>$
       1 ^@Bajkal<np><top>$
-      1 ^@Baird<np>$
-      1 ^@Aukrust<np>$
       1 ^@Athletic<np>$
-      1 ^@Asveig<np>$
-      1 ^@Asunmaa<np>$
-      1 ^@ASPENGREN<np>$
-      1 ^@Aspelin<np><top>$
       1 ^@ASK<np>$
-      1 ^@Åserud<np>$
-      1 ^@Arveschoug<np>$
-      1 ^@ARNTZEN<np><top>$
-      1 ^@ÅRNES<np>$
       1 ^@Archer<np>$
-      1 ^@Anttonen<np>$
-      1 ^@Anthi<np>$
-      1 ^@Åmo<np>$
-      1 ^@ALSGAARD<np>$
-      1 ^@Åkerlund<np>$
-      1 ^@Ajman<np>$
-      1 ^@Ahokas<np>$
       1 ^@Agro<np><top>$
-      1 ^@AFZELIUS<np>$
       1 ^@Adriaterhavskysten<np><top>$
-      1 ^@Adler<np>$
       1 ^@Access<np>$
-      1 ^@Aaseth<np>$
-      1 ^@Aaserød<np>$
-      1 ^@Aars<np>$
-      1 ^@Aarset<np>$
-      1 ^@Aarø<np>$
-      1 ^@Aarebrot<np>$
-      1 ^@Aano<np>$
-      1 ^@Aandal<np>$
-      1 ^@Aamot<np>$
-      1 ^@Aalvik<np>$
-      1 ^@AAKRE<np><top>$

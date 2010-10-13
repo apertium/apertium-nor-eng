@@ -26,10 +26,10 @@
     114 tane<vblex><inf>
     113 toge<vblex><inf>
     112 møte<vblex><inf><pass>/møtes<vblex><pstv><inf>
+    108 natte<vblex><inf>
     107 blues<vblex><pstv><inf>
     101 kolle<vblex><inf>
     100 proe<vblex><inf>
-     98 natte<vblex><inf>
      94 mislykkes<vblex><pstv><inf>
      92 billettere<vblex><inf>
      91 spørre<vblex><inf><pass>/spørres<vblex><pstv><inf>
