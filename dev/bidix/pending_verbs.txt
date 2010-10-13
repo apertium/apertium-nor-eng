@@ -8,6 +8,7 @@
     239 kute<vblex><inf>
     234 trenge<vblex><inf><pass>/trenges<vblex><pstv><inf>
     231 køe<vblex><inf>
+    224 ekse<vblex><inf>
     210 pappe<vblex><inf>
     210 gjeste<vblex><inf>
     209 trine<vblex><inf>
@@ -42,7 +43,6 @@
      82 anføre<vblex><inf>
      81 nedstemme<vblex><inf>
      81 eire<vblex><inf>
-     80 ekse<vblex><inf>
      78 sanne<vblex><inf>
      73 kjøtte<vblex><inf>
      73 dimensjonere<vblex><inf>
