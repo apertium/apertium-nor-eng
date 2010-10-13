@@ -17900,9 +17900,10 @@
 <e c="  0"><p><l>høre</l><r>hear<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
 <e c="  0"><p><l>inneholde</l><r>contain<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>inneholde</l><r>hold<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>inngå</l><r>be<g><b/>included</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>inngå</l><r>enter<g><b/>into</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>inngå</l><r>form<g><b/>part<b/>of</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e slr="2"><p><l>inngå</l><r>enter<g><b/>into</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e slr="2"><p><l>inngå</l><r>be<g><b/>included</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e slr="3"><p><l>inngå</l><r>conclude<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>innstille</l><r>nominate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>innstille</l><r>customise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="2"><p><l>innstille</l><r>suggest<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
