@@ -291,8 +291,8 @@
     <e c="  0"><p><l>rundt<s n="pr"/></l><r>round<s n="pr"/></r></p></e>
     <e c="  0"><p><l>utenfor<s n="pr"/></l><r>outside<s n="pr"/></r></p></e>
     <e slr="1"><p><l>utenfor<s n="pr"/></l><r>beyond<s n="pr"/></r></p></e>
-    <e c="  0"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
-    <e slr="1"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>next<b/>to<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>next<b/>to<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
     <e slr="2"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
     <e slr="3"><p><l>ved<b/>siden<b/>av<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
     <e c="  0"><p><l>midt<b/>i<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
