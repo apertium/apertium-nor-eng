@@ -10210,6 +10210,7 @@
     <e><p><l>Sem<s n="np"/></l><r>Sem<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
     <e><p><l>Væren<s n="np"/></l><r>Aries<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
 
+    <e><p><l>Hansteen<s n="np"/></l><r>Hansteen<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Lundberg<s n="np"/><s n="top"/></l><r>Lundberg<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Lindstrøm<s n="np"/></l><r>Lindstrøm<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Jeltsin<s n="np"/></l><r>Jeltsin<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
@@ -11368,6 +11369,7 @@
     <e><p><l>Harri<s n="np"/></l><r>Harri<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Dave<s n="np"/></l><r>Dave<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Kristoffer<s n="np"/></l><r>Kristoffer<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Kristofer<s n="np"/></l><r>Kristofer<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Francois<s n="np"/></l><r>Francois<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Nikolai<s n="np"/></l><r>Nikolai<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Oleg<s n="np"/></l><r>Oleg<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -19951,10 +19953,10 @@
 <e slr="1"><p><l>påby</l><r>order<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>overrumple</l><r>surprise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>overlappe</l><r>overlap<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>oppsummere</l><r>*summarize<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>oppsummere</l><r>summarise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>nynne</l><r>*hum<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>mjaue</l><r>*mew<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>misjonere</l><r>*proselytize<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- slr 1: work as missionary... todo -->
+<e c="  0"><p><l>misjonere</l><r>*proselytise<s n="vblex"/></r></p><par n="vblex_vblex"/></e> <!-- slr 1: work as missionary... todo -->
 <e c="  0"><p><l>messe</l><r>chant<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>logre</l><r>wag<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>krasje</l><r>crash<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -19963,7 +19965,7 @@
 <e c="  0"><p><l>klukke</l><r>*gurgle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>inspisere</l><r>inspect<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>innrette</l><r>*orient<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>hypnotisere</l><r>*hypnotize<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>hypnotisere</l><r>*hypnotise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>hvine</l><r>screech<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>humre</l><r>*chuckle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>hugge</l><r>*chop<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -20154,7 +20156,7 @@
 <e slr="2"><p><l>henlegge</l><r>close<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>hengsle</l><r>*hinge<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>hekle</l><r>*crochet<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>harmonisere</l><r>*harmonize<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>harmonisere</l><r>*harmonise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>gyte</l><r>spawn<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>gurgle</l><r>*gargle<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>guide</l><r>guide<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -20217,7 +20219,7 @@
 <e c="  0"><p><l>bevre</l><r>tremble<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>beskatte</l><r>tax<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>beklage</l><r>apologise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e c="  0"><p><l>befrukte</l><r>*fertilize<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e c="  0"><p><l>befrukte</l><r>*fertilise<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>befale</l><r>command<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>balansere</l><r>balance<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>avkjøle</l><r>cool<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -24502,6 +24504,7 @@
     <e><re>[0-9]+</re><p><l>.<s n="adj"/><s n="ord"/></l><r><s n="num"/><s n="ord"/></r></p></e>
     <e><re>[0-9]+</re><p><l>-tall<s n="n"/><s n="nt"/><s n="sg"/></l><r>s<s n="n"/><s n="pl"/></r></p></e>
     <e><re>[0-9]+</re><p><l>-tall<g><b/>e.Kr</g><s n="n"/><s n="nt"/><s n="sg"/></l><r><b/>CE<s n="num"/><s n="sg"/></r></p></e>
+    <e><re>[0-9]+</re><p><l>-tall<g><b/>f.Kr</g><s n="n"/><s n="nt"/><s n="sg"/></l><r><b/>BCE<s n="num"/><s n="sg"/></r></p></e>
 
     <e><re>[.\?;:!·]+</re><p><l><s n="sent"/><s n="clb"/></l><r><s n="sent"/></r></p></e>
     <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
