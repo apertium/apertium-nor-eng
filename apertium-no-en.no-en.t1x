@@ -178,7 +178,18 @@
 
     <def-macro n="modify_adj" npar="1"
                c="arg.1: adj
-                  Cleans tags, and may prepend 'more' to lemh">
+                  Cleans tags, and may prepend 'more' to lemh
+                  Use 'clip whole' when outputting.">
+      <let>
+        <clip pos="1" side="tl" part="whole"/>
+        <concat>
+          <clip pos="1" side="tl" part="lemh"/>
+          <clip pos="1" side="tl" part="a_adj"/>
+          <clip pos="1" side="tl" part="grau"/>
+          <clip pos="1" side="tl" part="nbr"/>
+          <clip pos="1" side="tl" part="lemq"/>
+        </concat>
+      </let>
       <choose>
         <when>
           <test>
@@ -235,6 +246,39 @@
             <clip pos="1" side="tl" part="lemh"/>
             <concat>
               <lit v="more"/>
+              <lit-tag v="preadv"/>
+              <lit v="$ ^"/>
+              <clip pos="1" side="tl" part="lemh"/>
+            </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <not>
+                <equal>
+                  <clip pos="1" side="tl" part="a_adj"/>
+                  <lit-tag v="adj.sint"/>
+                </equal>
+              </not>
+              <equal>
+                <clip pos="1" side="tl" part="a_adj"/>
+                <lit-tag v="adj"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="grau"/>
+                <lit-tag v="sup"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="grau"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="lemh"/>
+            <concat>
+              <lit v="most"/>
               <lit-tag v="preadv"/>
               <lit v="$ ^"/>
               <clip pos="1" side="tl" part="lemh"/>
@@ -329,11 +373,7 @@
               <tag><lit-tag v="SA"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="grau"/>
-              <clip pos="1" side="tl" part="nbr"/>
-              <clip pos="1" side="tl" part="lemq"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
@@ -390,11 +430,7 @@
               <tag><clip pos="2" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="grau"/>
-              <clip pos="1" side="tl" part="nbr"/>
-              <clip pos="1" side="tl" part="lemq"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -521,11 +557,7 @@
             </lu>
             <b pos="2"/>
             <lu>
-              <clip pos="3" side="tl" part="lemh"/>
-              <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="grau"/>
-              <clip pos="3" side="tl" part="nbr"/>
-              <clip pos="3" side="tl" part="lemq"/>
+              <clip pos="3" side="tl" part="whole"/>
             </lu>
             <b pos="3"/>
             <lu>
@@ -604,11 +636,7 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="lemh"/>
-              <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="grau"/>
-              <clip pos="2" side="tl" part="nbr"/>
-              <clip pos="2" side="tl" part="lemq"/>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
             <b pos="2"/>
             <lu>
@@ -618,11 +646,7 @@
             </lu>
             <b pos="3"/>
             <lu>
-              <clip pos="4" side="tl" part="lemh"/>
-              <clip pos="4" side="tl" part="a_adj"/>
-              <clip pos="4" side="tl" part="grau"/>
-              <clip pos="4" side="tl" part="nbr"/>
-              <clip pos="4" side="tl" part="lemq"/>
+              <clip pos="4" side="tl" part="whole"/>
             </lu>
             <b pos="4"/>
             <lu>
@@ -695,11 +719,7 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="lemh"/>
-              <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="grau"/>
-              <clip pos="2" side="tl" part="nbr"/>
-              <clip pos="2" side="tl" part="lemq"/>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
             <b pos="2"/>
             <lu>
