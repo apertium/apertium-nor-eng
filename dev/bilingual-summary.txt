@@ -1,6 +1,6 @@
- 17018 total
- 11598 /home/fran/source/apertium/incubator/apertium-no-en/dev/bidix//pending_nouns.txt
-  3443 /home/fran/source/apertium/incubator/apertium-no-en/dev/bidix//pending_proper_nouns.txt
+ 16436 total
+ 11597 /home/fran/source/apertium/incubator/apertium-no-en/dev/bidix//pending_nouns.txt
+  2862 /home/fran/source/apertium/incubator/apertium-no-en/dev/bidix//pending_proper_nouns.txt
    995 /home/fran/source/apertium/incubator/apertium-no-en/dev/bidix//pending_verbs.txt
    416 /home/fran/source/apertium/incubator/apertium-no-en/dev/bidix//pending_adverbs.txt
    402 /home/fran/source/apertium/incubator/apertium-no-en/dev/bidix//pending_adjectives.txt

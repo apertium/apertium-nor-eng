@@ -1,5 +1,5 @@
    2975 ^@verd<n>$
-   2510 ^@ved<n>$
+   2509 ^@ved<n>$
    2149 ^@høyre<n><sp>$
    2111 ^@ting<n>$
    2107 ^@lede<n>$
@@ -7343,7 +7343,6 @@
       2 ^@ørnunge<n>$
       2 ^@ornitolog<n>$
       2 ^@ornat<n>$
-      2 ^@orlean<n>$
       2 ^@oregano<n>$
       2 ^@ordrereserve<n>$
       2 ^@oppvisningskamp<n>$
