@@ -596,6 +596,7 @@ Tag mismatch between transfer and generation
     132 #interference\<n\>\<sg\>	^interference<n><sg>$
     132 #happy\<adj\>\<sg\>	^happy<adj><sg>$
     132 #ensign\<vblex\>\<pres\>	^ensign<vblex><pres>$
+    132 #EEA\<abbr\>	^EEA<abbr>$
     132 #diffuse\<vblex\>\<inf\>	^diffuse<vblex><inf>$
     131 #Liverpool\<np\>\<top\>\<sg\>	^Liverpool<np><top><sg>$
     131 #führer\<n\>\<sg\>	^führer<n><sg>$
@@ -642,6 +643,7 @@ Tag mismatch between transfer and generation
     121 #dupe\<vblex\>\<pres\>	^dupe<vblex><pres>$
     121 #Cap of the North\<np\>\<top\>\<sg\>	^Cap of the North<np><top><sg>$
     120 #Strømsgodset\<np\>\<top\>\<sg\>	^Strømsgodset<np><top><sg>$
+    120 #so fast\<adv\>	^so fast<adv>$
     120 #Nourishment\<n\>\<sg\>	^Nourishment<n><sg>$
     120 #hash\<vblex\>\<inf\>	^hash<vblex><inf>$
     120 #From\<adv\>	^From<adv>$
@@ -847,6 +849,7 @@ Tag mismatch between transfer and generation
      87 #mackerel\<n\>\<sg\>	^mackerel<n><sg>$
      87 #International\<n\>\<sg\>	^International<n><sg>$
      87 #Giske\<np\>\<top\>\<sg\>	^Giske<np><top><sg>$
+     87 #for years\<adv\>	^for years<adv>$
      87 #forsake\<vblex\>\<inf\>	^forsake<vblex><inf>$
      87 #drink\<n\>\<sp\>	^drink<n><sp>$
      87 #conservatory\<n\>\<sg\>	^conservatory<n><sg>$
@@ -953,6 +956,7 @@ Tag mismatch between transfer and generation
      76 #Gardermoen\<np\>\<top\>\<sg\>	^Gardermoen<np><top><sg>$
      76 #escalate\<vblex\>\<inf\>	^escalate<vblex><inf>$
      76 #City\<np\>\<top\>\<sg\>	^City<np><top><sg>$
+     76 #but\<adv\>	^but<adv>$
      76 #Brew\<n\>\<pl\>	^Brew<n><pl>$
      75 #rear\<adj\>\<sup\>	^rear<adj><sup>$
      75 #national road\<n\>\<sg\>	^national road<n><sg>$
@@ -960,6 +964,7 @@ Tag mismatch between transfer and generation
      75 #graveyard\<n\>\<sg\>	^graveyard<n><sg>$
      75 #gag\<vblex\>\<inf\>	^gag<vblex><inf>$
      75 #Conservatory\<n\>\<sg\>	^Conservatory<n><sg>$
+     75 #admittedly\<adv\>	^admittedly<adv>$
      74 #sip\<n\>\<pl\>	^sip<n><pl>$
      74 #shipment\<n\>\<pl\>	^shipment<n><pl>$
      74 #House\<vblex\>\<pp\>	^House<vblex><pp>$
@@ -2356,6 +2361,7 @@ Tag mismatch between transfer and generation
      21 #county road\<n\>\<sg\>	^county road<n><sg>$
      21 #coronate\<vblex\>\<pres\>\<p3\>\<sg\>	^coronate<vblex><pres><p3><sg>$
      21 #centre\<n\>\<sg\># of mass	^centre<n><sg># of mass$
+     21 #But\<adv\>	^But<adv>$
      21 #burglar\<n\>\<pl\>	^burglar<n><pl>$
      21 #bureaucrat\<n\>\<sg\>	^bureaucrat<n><sg>$
      21 #Bureaucrat\<n\>\<pl\>	^Bureaucrat<n><pl>$
@@ -2536,6 +2542,7 @@ Tag mismatch between transfer and generation
      18 #stake\<vblex\>\<pp\>	^stake<vblex><pp>$
      18 #spur\<n\>\<sg\>	^spur<n><sg>$
      18 #spruce\<n\>\<pl\>	^spruce<n><pl>$
+     18 #So fast\<adv\>	^So fast<adv>$
      18 #Skagen\<np\>\<top\>\<sg\>	^Skagen<np><top><sg>$
      18 #sidewalk\<n\>\<pl\>	^sidewalk<n><pl>$
      18 #seaman\<n\>\<pl\>	^seaman<n><pl>$
@@ -6357,6 +6364,7 @@ Tag mismatch between transfer and generation
       4 #ail\<vblex\>\<inf\>	^ail<vblex><inf>$
       4 #ail\<vblex\>\<ger\>	^ail<vblex><ger>$
       4 #Advent\<n\>\<sg\>	^Advent<n><sg>$
+      4 #Admittedly\<adv\>	^Admittedly<adv>$
       4 #activate\<vblex\>\<pres\>	^activate<vblex><pres>$
       4 #Action film\<n\>\<sg\>	^Action film<n><sg>$
       4 #acquit\<vblex\>\<inf\>	^acquit<vblex><inf>$
@@ -11350,6 +11358,7 @@ Tag mismatch between transfer and generation
       1 #cafeteria\<n\>\<pl\>	^cafeteria<n><pl>$
       1 #CAB\<n\>\<sg\>	^CAB<n><sg>$
       1 #CAB\<n\>\<pl\>	^CAB<n><pl>$
+      1 #BUT\<adv\>	^BUT<adv>$
       1 #bus\<vblex\>\<pp\>	^bus<vblex><pp>$
       1 #BUSH\<np\>\<top\>\<sg\>	^BUSH<np><top><sg>$
       1 #Busch\<np\>\<al\>\<sg\>	^Busch<np><al><sg>$
@@ -11665,5 +11674,5 @@ Summary
 ===============================================================================
      5 /tmp/no-en.multiform
      5 /tmp/no-en.multibidix
- 11636 /tmp/no-en.tagmismatch
- 11646 total
+ 11645 /tmp/no-en.tagmismatch
+ 11655 total

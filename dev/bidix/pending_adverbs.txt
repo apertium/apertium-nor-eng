@@ -21,37 +21,23 @@
     158 ^@spillende<adv>$
     144 ^@eks<adv>$
     142 ^@hvorav<adv>$
-    138 ^@så snart<adv>$
-    137 ^@utelukkende<adv>$
     136 ^@sørpå<adv>$
     135 ^@i henhold til<adv>$
     133 ^@ende<adv>$
     129 ^@så godt som<adv>$
     124 ^@den gangen<adv>$
     121 ^@desto<adv>$
-    115 ^@eksempelvis<adv>$
-    113 ^@noenlunde<adv>$
     112 ^@for så vidt<adv>$
-    107 ^@følgelig<adv>$
-    104 ^@gradvis<adv>$
-     98 ^@dog<adv>$
      98 ^@brått<adv>$
      97 ^@en masse<adv>$
      91 ^@sted<adv>$
-     87 ^@tidvis<adv>$
-     87 ^@årevis<adv>$
      85 ^@netto<adv>$
-     79 ^@visstnok<adv>$
-     71 ^@jevnlig<adv>$
      70 ^@omsider<adv>$
      70 ^@i mellomtida<adv>$
-     70 ^@aldeles<adv>$
-     69 ^@dernest<adv>$
      68 ^@foruten<adv>$
      67 ^@hengende<adv>$
      65 ^@mange steder<adv>$
      63 ^@pluss<adv>$
-     62 ^@allikevel<adv>$
      59 ^@sørfra<adv>$
      59 ^@periodevis<adv>$
      56 ^@hvem som helst<adv>$

@@ -165,7 +165,6 @@
     137 ^@Bremnes<np><top>$
     136 ^@Magga<np>$
     134 ^@Haugland<np><top>$
-    132 ^@EØS<np>$
     130 ^@Jorunn<np>$
     130 ^@Haakon<np>$
     129 ^@Nylund<np>$
