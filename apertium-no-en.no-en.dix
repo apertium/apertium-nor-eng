@@ -195,7 +195,7 @@
     <e c="wat?"><p><l>at<s n="cnjcoo"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e c="wat?"><p><l>enten<s n="cnjcoo"/></l><r>either<s n="cnjsub"/></r></p></e>
 
-    <!-- SECTION Prepositions, unchecked: -->
+    <!-- SECTION Prepositions, checked: -->
 
     <e c="  0"><p><l>med<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
 
@@ -304,6 +304,7 @@
     <e c="  0"><p><l>utover<s n="pr"/></l><r>in<b/>addition<b/>to<s n="pr"/></r></p></e>
     <e c="  0"><p><l>midt<b/>på<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e slr="1"><p><l>midt<b/>på<s n="pr"/></l><r>during<s n="pr"/></r></p></e>
+    <e slr="2"><p><l>midt<b/>på<s n="pr"/></l><r>in<b/>the<b/>middle<b/>of<s n="pr"/></r></p></e>
     <e c="  0"><p><l>framfor<s n="pr"/></l><r>in<b/>front<b/>of<s n="pr"/></r></p></e>
     <e slr="1"><p><l>framfor<s n="pr"/></l><r>in<b/>front<b/>of<s n="pr"/></r></p></e>
     <e c="  0"><p><l>bak<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
@@ -334,13 +335,14 @@
     <e slr="3"><p><l>ovenfor<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
     <e c="  0"><p><l>nedenfor<s n="pr"/></l><r>below<s n="pr"/></r></p></e>
     <e c="  0"><p><l>utenom<s n="pr"/></l><r>except<s n="pr"/></r></p></e>
-    <e c="  0"><p><l>bortsett<b/>fra<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>bortsett<b/>fra<s n="pr"/></l><r>except<s n="pr"/></r></p></e>
     <e c="  0"><p><l>utenfra<s n="pr"/></l><r>outside<s n="pr"/></r></p></e>
     <e slr="1"><p><l>utenfra<s n="pr"/></l><r>beyond<s n="pr"/></r></p></e>
     <e c="  0"><p><l>inni<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
     <e slr="1"><p><l>inni<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
     <e c="  0"><p><l>trass<s n="pr"/></l><r>despite<s n="pr"/></r></p></e>
     <e c="  0"><p><l>uansett<s n="pr"/></l><r>irrespective<b/>of<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>uansett<s n="pr"/></l><r>regardless<b/>of<s n="pr"/></r></p></e>
     <e c="  0"><p><l>oppetter<s n="pr"/></l><r>up<s n="pr"/></r></p></e>
     <e c="  0"><p><l>innpå<s n="pr"/></l><r>close<b/>to<s n="pr"/></r></p></e>
     <e slr="1"><p><l>innpå<s n="pr"/></l><r>very<b/>close<b/>to<s n="pr"/></r></p></e>
@@ -366,6 +368,7 @@
     <e c="  0"><p><l>via<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>inn<b/>i<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>inn<b/>i<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
     <e c="  0"><p><l>imot<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
     <e c="  0"><p><l>ut<b/>i<s n="pr"/></l><r>out<b/>in<s n="pr"/></r></p></e>
     <e c="  0"><p><l>inne<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -388,8 +391,9 @@
     <e c="  0"><p><l>sammenlignet<b/>med<s n="pr"/></l><r>compared<b/>with<s n="pr"/></r></p></e>
     <e c="  0"><p><l>opptil<s n="pr"/></l><r>up<b/>to<s n="pr"/></r></p></e>
     <e c="  0"><p><l>derfra<s n="pr"/></l><r>from<b/>there<s n="pr"/></r></p></e>
-    <e c="  0"><p><l>ifra<s n="pr"/></l><r>in<b/>from<s n="pr"/></r></p></e>
-    <e c="  0"><p><l>angående<s n="pr"/></l><r>ongoing<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>ifra<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>ifra<s n="pr"/></l><r>in<b/>from<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>angående<s n="pr"/></l><r>regarding<s n="pr"/></r></p></e>
     <e c="  0"><p><l>unntatt<s n="pr"/></l><r>except<s n="pr"/></r></p></e>
     <e c="  0"><p><l>utpå<s n="pr"/></l><r>out<b/>on<s n="pr"/></r></p></e>
     <e c="  0"><p><l>bortimot<s n="pr"/></l><r>almost<s n="pr"/></r></p></e>
@@ -397,16 +401,20 @@
     <e c="  0"><p><l>nordover<s n="pr"/></l><r>northwards<s n="pr"/></r></p></e>
     <e c="  0"><p><l>utfor<s n="pr"/></l><r>off<s n="pr"/></r></p></e>
     <e c="  0"><p><l>innendørs<s n="pr"/></l><r>indoors<s n="pr"/></r></p></e>
-    <e c="  0"><p><l>vedrørende<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
+    <e c="  0"><p><l>vedrørende<s n="pr"/></l><r>regarding<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>vedrørende<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
     <e c="  0"><p><l>hen<s n="pr"/></l><r>where<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>hen<s n="pr"/></l><r>there<s n="pr"/></r></p></e> <!-- or maybe just translate to nil... -->
     <e c="  0"><p><l>framme<s n="pr"/></l><r>forward<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>framme<s n="pr"/></l><r>at<b/>the<b/>front<s n="pr"/></r></p></e>
     <e c="  0"><p><l>utendørs<s n="pr"/></l><r>outdoors<s n="pr"/></r></p></e>
     <e c="  0"><p><l>borti<s n="pr"/></l><r>almost<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>borti<s n="pr"/></l><r>next<b/>to<s n="pr"/></r></p></e>
     <e c="  0"><p><l>midtveis<s n="pr"/></l><r>halfway<s n="pr"/></r></p></e>
     <e c="  0"><p><l>innimellom<s n="pr"/></l><r>in<b/>between<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>attåt<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
-    <e slr="1"><p><l>attåt<s n="pr"/></l><r>next to<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>attåt<s n="pr"/></l><r>next<b/>to<s n="pr"/></r></p></e>
     <e slr="2"><p><l>attåt<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
     <e c="  0"><p><l>efter<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
     <e slr="1"><p><l>efter<s n="pr"/></l><r>subsequent<s n="pr"/></r></p></e>
@@ -417,7 +425,6 @@
     <e c="  0"><p><l>vis-a-vis<s n="pr"/></l><r>vis-à-vis<s n="pr"/></r></p></e>
     <e slr="1"><p><l>vis-a-vis<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
     <e slr="2"><p><l>vis-a-vis<s n="pr"/></l><r>facing<s n="pr"/></r></p></e>
-    
 
     <!-- SECTION Pronouns -->
 
@@ -7227,8 +7234,8 @@
 <e>        <p><l>verb<s n="n"/><s n="nt"/></l><r>verb<s n="n"/></r></p></e>
 <e>        <p><l>verden<s n="n"/><s n="m"/></l><r>world<s n="n"/></r></p></e>
 <e slr="1"><p><l>verden<s n="n"/><s n="m"/></l><r>earth<s n="n"/></r></p></e>
-<e>        <p><l>verd<s n="n"/><s n="f"/></l><r>world<s n="n"/></r></p></e>
-<e slr="1"><p><l>verd<s n="n"/><s n="f"/></l><r>earth<s n="n"/></r></p></e>
+<e>        <p><l>verd<s n="n"/></l><r>world<s n="n"/></r></p><par n="f|m_LR_f"/></e>
+<e slr="1"><p><l>verd<s n="n"/></l><r>earth<s n="n"/></r></p><par n="f|m_LR_f"/></e>
 <e>        <p><l>verdi<s n="n"/><s n="m"/></l><r>worth<s n="n"/></r></p></e>
 <e slr="1"><p><l>verdi<s n="n"/><s n="m"/></l><r>value<s n="n"/></r></p></e>
 <e>        <p><l>verdighet<s n="n"/></l>     <r>dignity<s n="n"/></r></p><par n="m_LR_f"/></e>
@@ -15928,6 +15935,8 @@
 <e c="  0"><p><l>utslått<s n="adj"/></l><r>destroyed<s n="adj"/></r></p></e>
 <e c="  0"><p><l>utsolgt<s n="adj"/></l><r>sold-out<s n="adj"/></r></p></e>
 <e c="  0"><p><l>utstrakt<s n="adj"/></l><r>widespread<s n="adj"/></r></p></e>
+<e c="  0"><p><l>utsatt<s n="adj"/></l><r>vulnerable<s n="adj"/></r></p></e>
+<e slr="1"><p><l>utsatt<s n="adj"/></l><r>risky<s n="adj"/></r></p></e>
 <e c="  0"><p><l>uttrykksfull<s n="adj"/></l><r>expressive<s n="adj"/></r></p></e>
 <e c="  0"><p><l>utvalgt<s n="adj"/></l><r>chosen<s n="adj"/></r></p></e>
 <e c="  0"><p><l>utvendig<s n="adj"/></l><r>outside<s n="adj"/></r></p></e>
