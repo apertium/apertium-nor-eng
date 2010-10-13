@@ -154,7 +154,6 @@
     <def-var n="number"/>
     <def-var n="genere"/>
     <def-var n="np_q"/>
-    <def-var n="a_h"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -179,7 +178,7 @@
 
     <def-macro n="modify_adj" npar="1"
                c="arg.1: adj
-                  Cleans tags, and sets a_h to 'more' or nil">
+                  Cleans tags, and may prepend 'more' to lemh">
       <choose>
         <when>
           <test>
@@ -208,10 +207,6 @@
           </let>
         </otherwise>
       </choose>
-      <let>
-        <var n="a_h"/>
-        <lit v=""/>
-      </let>
       <choose>
         <when>
           <test>
@@ -237,11 +232,12 @@
             <lit v=""/>
           </let>
           <let>
-            <var n="a_h"/>
+            <clip pos="1" side="tl" part="lemh"/>
             <concat>
               <lit v="more"/>
               <lit-tag v="preadv"/>
               <lit v="$ ^"/>
+              <clip pos="1" side="tl" part="lemh"/>
             </concat>
           </let>
         </when>
@@ -333,7 +329,6 @@
               <tag><lit-tag v="SA"/></tag>
             </tags>
             <lu>
-              <var n="a_h"/>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_adj"/>
               <clip pos="1" side="tl" part="grau"/>
@@ -342,10 +337,6 @@
             </lu>
           </chunk>
         </out>
-        <let>
-          <var n="a_h"/>
-          <lit v=""/>
-        </let>
       </action>
     </rule>
 
@@ -399,7 +390,6 @@
               <tag><clip pos="2" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
-              <var n="a_h"/>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_adj"/>
               <clip pos="1" side="tl" part="grau"/>
@@ -417,10 +407,6 @@
             </lu>
           </chunk>
         </out>
-        <let>
-          <var n="a_h"/>
-          <lit v=""/>
-        </let>
         <let>
           <var n="np_q"/>
           <lit v=""/>
@@ -535,7 +521,6 @@
             </lu>
             <b pos="2"/>
             <lu>
-              <var n="a_h"/>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_adj"/>
               <clip pos="3" side="tl" part="grau"/>
@@ -554,9 +539,102 @@
           </chunk>
         </out>
         <let>
-          <var n="a_h"/>
+          <var n="np_q"/>
           <lit v=""/>
         </let>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: det adjec cnjcoo adjec nom
+                   den røde og store bilen => the red and big car
+                   ('that' unlikely)
+                   Slight chance of 'og' as a sentence cc here, but unlikely.">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="adjec"/>
+        <pattern-item n="cnjcoo"/>
+        <pattern-item n="adjec"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="modify_det">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="modify_adj">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="modify_adj">
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="modify_nom">
+          <with-param pos="5"/>
+        </call-macro>
+
+        <choose>
+          <when>
+            <test>
+              <equal caseless="yes">
+                <clip pos="1" side="tl" part="lemh"/>
+                <lit v="that"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="lemh"/>
+              <get-case-from pos="1"><lit v="the"/></get-case-from>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="a_det"/>
+              <lit-tag v="det.def"/>
+            </let>
+          </when>
+        </choose>
+              
+        <out>
+          <chunk name="det_adj_cnjcoo_adj_nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="5" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_det"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <clip pos="2" side="tl" part="grau"/>
+              <clip pos="2" side="tl" part="nbr"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_cnj"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+            <b pos="3"/>
+            <lu>
+              <clip pos="4" side="tl" part="lemh"/>
+              <clip pos="4" side="tl" part="a_adj"/>
+              <clip pos="4" side="tl" part="grau"/>
+              <clip pos="4" side="tl" part="nbr"/>
+              <clip pos="4" side="tl" part="lemq"/>
+            </lu>
+            <b pos="4"/>
+            <lu>
+              <clip pos="5" side="tl" part="lemh"/>
+              <clip pos="5" side="tl" part="a_nom"/>
+              <clip pos="5" side="tl" part="gen"/>
+              <clip pos="5" side="tl" part="nbr" link-to="2"/>
+              <clip pos="5" side="tl" part="lemq"/>
+              <var n="np_q"/>
+            </lu>
+          </chunk>
+        </out>
         <let>
           <var n="np_q"/>
           <lit v=""/>
@@ -617,7 +695,6 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <var n="a_h"/>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_adj"/>
               <clip pos="2" side="tl" part="grau"/>
@@ -635,10 +712,6 @@
             </lu>
           </chunk>
         </out>
-        <let>
-          <var n="a_h"/>
-          <lit v=""/>
-        </let>
         <let>
           <var n="np_q"/>
           <lit v=""/>
