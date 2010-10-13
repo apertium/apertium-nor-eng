@@ -1,4 +1,4 @@
-   7843 ^@for<adv>$
+   7791 ^@for<adv>$
    4139 ^@ei<adv>$
    2855 ^@fortsatt<adv>$
    1523 ^@sjøl<adv>$
@@ -13,6 +13,7 @@
     377 ^@halvt<adv>$
     357 ^@stein<adv>$
     303 ^@noen gang<adv>$
+    291 ^@osv<adv>$
     230 ^@fatt<adv>$
     229 ^@spent<adv>$
     221 ^@sin tid<adv>$

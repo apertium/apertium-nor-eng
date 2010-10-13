@@ -4,10 +4,10 @@
     342 hauge<vblex><inf>
     330 linde<vblex><inf>
     313 gaupe<vblex><inf>
-    312 bande<vblex><inf>
+    308 bande<vblex><inf>
     239 kute<vblex><inf>
     234 trenge<vblex><inf><pass>/trenges<vblex><pstv><inf>
-    231 køe<vblex><inf>
+    230 køe<vblex><inf>
     224 ekse<vblex><inf>
     210 pappe<vblex><inf>
     210 gjeste<vblex><inf>
@@ -84,11 +84,11 @@
      44 snekre<vblex><inf>
      42 tolle<vblex><inf>
      42 punge<vblex><inf>
-     42 kake<vblex><inf>
      42 enes<vblex><pstv><inf>
      41 tiltenke<vblex><inf>
      41 sule<vblex><inf>
      41 kole<vblex><inf>
+     41 kake<vblex><inf>
      40 muntre<vblex><inf>
      40 linne<vblex><inf>
      40 fete<vblex><inf>
@@ -102,17 +102,16 @@
      37 buske<vblex><inf>
      36 trive<vblex><inf><pass>/trives<vblex><pstv><inf>
      36 normere<vblex><inf>
-     36 loe<vblex><inf>
      36 krasse<vblex><inf>
      36 fagorganisere<vblex><inf>
      36 dope<vblex><inf>
-     36 bryste<vblex><inf>
      36 brise<vblex><inf>
      35 vatne<vblex><inf>
      35 ele<vblex><inf>
      34 versere<vblex><inf>
      34 potte<vblex><inf>
      34 mynte<vblex><inf>
+     34 bryste<vblex><inf>
      34 breie<vblex><inf>
      33 ure<vblex><inf>
      33 kvare<vblex><inf>
@@ -127,8 +126,8 @@
      29 stue<vblex><inf>
      29 stie<vblex><inf>
      29 løye<vblex><inf>
-     28 trygde<vblex><inf>
      28 kvikke<vblex><inf>
+     27 trygde<vblex><inf>
      27 styrte<vblex><inf>
      27 dagse<vblex><inf>
      26 rause<vblex><inf>
@@ -249,6 +248,7 @@
      11 smatte<vblex><inf>
      11 purre<vblex><inf>
      11 peise<vblex><inf>
+     11 pante<vblex><inf>
      11 oppjustere<vblex><inf>
      11 nedkjøre<vblex><inf>
      11 mistrives<vblex><pstv><inf>
@@ -268,7 +268,6 @@
      10 slamme<vblex><inf>
      10 range<vblex><inf>
      10 platedebutere<vblex><inf>
-     10 pante<vblex><inf>
      10 lire<vblex><inf>
      10 lesse<vblex><inf>
      10 kvite<vblex><inf>
@@ -446,6 +445,7 @@
       5 paffe<vblex><inf>
       5 pace<vblex><inf>
       5 mellomlande<vblex><inf>
+      5 loe<vblex><inf>
       5 livne<vblex><inf>
       5 lense<vblex><inf>
       5 klå<vblex><inf>

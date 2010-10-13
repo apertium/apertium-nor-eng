@@ -4,6 +4,7 @@
     942 ^@unna<pr>$
     635 ^@av dette<pr>$
     612 ^@i hele<pr>$
+    518 ^@bl<pr>$
     337 ^@dit<pr>$
     237 ^@sørover<pr>$
     160 ^@underveis<pr>$
@@ -55,7 +56,6 @@
      25 ^@sørfra<pr>$
      25 ^@hjemover<pr>$
      24 ^@att<pr>$
-     23 ^@bl<pr>$
      22 ^@dit hen<pr>$
      20 ^@hinsides<pr>$
      20 ^@akterut<pr>$
