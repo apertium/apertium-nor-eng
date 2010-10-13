@@ -12,6 +12,10 @@
     <def-cat n="det_qnt"> <!-- shame we can't just grab 'numbers' -->
       <cat-item tags="det.qnt.*"/>
     </def-cat>
+    <def-cat n="adv">
+      <cat-item tags="adv.*"/>
+      <cat-item tags="adv"/>
+    </def-cat>
     <def-cat n="det">
       <cat-item tags="det.emph.*"/>
       <cat-item tags="det.dem.*"/>
@@ -576,6 +580,93 @@
         </let>
       </action>
     </rule>
+
+    <rule comment="REGLA: det adv adjec adjec nom
+                   det nest mest brukte språket => the next most used language
+                   ('that' unlikely)">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="adv"/>
+        <pattern-item n="adjec"/>
+        <pattern-item n="adjec"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="modify_det">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="modify_adj">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="modify_adj">
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="modify_nom">
+          <with-param pos="5"/>
+        </call-macro>
+
+        <choose>
+          <when>
+            <test>
+              <equal caseless="yes">
+                <clip pos="1" side="tl" part="lemh"/>
+                <lit v="that"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="lemh"/>
+              <get-case-from pos="1"><lit v="the"/></get-case-from>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="a_det"/>
+              <lit-tag v="det.def"/>
+            </let>
+          </when>
+        </choose>
+              
+        <out>
+          <chunk name="det_num_adj_adj_nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="5" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_det"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+            <b pos="3"/>
+            <lu>
+              <clip pos="4" side="tl" part="whole"/>
+            </lu>
+            <b pos="4"/>
+            <lu>
+              <clip pos="5" side="tl" part="lemh"/>
+              <clip pos="5" side="tl" part="a_nom"/>
+              <clip pos="5" side="tl" part="gen"/>
+              <clip pos="5" side="tl" part="nbr" link-to="2"/>
+              <clip pos="5" side="tl" part="lemq"/>
+              <var n="np_q"/>
+            </lu>
+          </chunk>
+        </out>
+        <let>
+          <var n="np_q"/>
+          <lit v=""/>
+        </let>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: det det_qnt adjec adjec nom
                    de fire største norske organisasjonene => the four biggest Norwegian organisations
