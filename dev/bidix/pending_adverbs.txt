@@ -1,61 +1,23 @@
    7843 ^@for<adv>$
    4139 ^@ei<adv>$
-   2944 ^@imidlertid<adv>$
    2855 ^@fortsatt<adv>$
-   2839 ^@meget<adv>$
-   2820 ^@videre<adv>$
-   2590 ^@lite<adv>$
-   2589 ^@stort<adv>$
-   2161 ^@spesielt<adv>$
-   1772 ^@særlig<adv>$
-   1708 ^@full<adv>$
    1523 ^@sjøl<adv>$
-   1446 ^@senere<adv>$
-   1411 ^@rett<adv>$
    1409 ^@i gang<adv>$
-   1358 ^@selvsagt<adv>$
-   1342 ^@faktisk<adv>$
-   1084 ^@ene<adv>$
-   1028 ^@foreløpig<adv>$
-   1026 ^@fullt<adv>$
-    972 ^@tidlig<adv>$
     909 ^@hardt<adv>$
-    858 ^@spennende<adv>$
     766 ^@an<adv>$
-    728 ^@dessverre<adv>$
     530 ^@tusen<adv>$
-    520 ^@fullstendig<adv>$
     517 ^@i stand<adv>$
-    471 ^@annerledes<adv>$
-    462 ^@tydelig<adv>$
     457 ^@sjelden<adv>$
-    445 ^@rent<adv>$
     418 ^@i bruk<adv>$
-    408 ^@sent<adv>$
-    384 ^@heldigvis<adv>$
     383 ^@midt<adv>$
     377 ^@halvt<adv>$
-    367 ^@muligens<adv>$
     357 ^@stein<adv>$
     303 ^@noen gang<adv>$
-    295 ^@høyst<adv>$
-    282 ^@henholdsvis<adv>$
-    255 ^@tydeligvis<adv>$
-    240 ^@nødvendigvis<adv>$
-    237 ^@noensinne<adv>$
-    236 ^@forleden<adv>$
     230 ^@fatt<adv>$
     229 ^@spent<adv>$
     221 ^@sin tid<adv>$
-    220 ^@særdeles<adv>$
-    218 ^@nokså<adv>$
     217 ^@i det<adv>$
     204 ^@likt<adv>$
-    196 ^@lovlig<adv>$
-    194 ^@jevnt<adv>$
-    180 ^@verst<adv>$
-    180 ^@forholdsvis<adv>$
-    177 ^@hvorvidt<adv>$
     158 ^@spillende<adv>$
     144 ^@eks<adv>$
     142 ^@hvorav<adv>$
@@ -67,7 +29,6 @@
     129 ^@så godt som<adv>$
     124 ^@den gangen<adv>$
     121 ^@desto<adv>$
-    120 ^@massevis<adv>$
     115 ^@eksempelvis<adv>$
     113 ^@noenlunde<adv>$
     112 ^@for så vidt<adv>$
