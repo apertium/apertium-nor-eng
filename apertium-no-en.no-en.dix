@@ -60,6 +60,7 @@
     <sdef n="pret"       c="Preterite"/>
     <sdef n="pres"       c="Present"/>
     <sdef n="past"       c="Past"/>
+    <sdef n="pstv"       c="Lexicalised passive"/>
     <sdef n="imp"        c="Imperative"/>
     <sdef n="inf"        c="Infinitive"/>
     <sdef n="pprs"       c="Present participle"/>
@@ -89,6 +90,13 @@
       <e> <p><l><s n="vblex"/></l>	<r></r></p></e>
       <e> <p><l><s n="adj"/><s n="pp"/></l>	<r><s n="pp"/></r></p></e>
       <e> <p><l><s n="adj"/><s n="pprs"/></l>	<r><s n="ger"/></r></p></e>
+    </pardef>
+
+    <pardef n="pstv_vblex" c="specifies pos on nb side">
+      <e> <p><l><s n="vblex"/><s n="pstv"/><s n="pret"/></l>	<r><s n="past"/></r></p></e>
+      <e r="LR"> <p><l><s n="vblex"/><s n="pstv"/><s n="imp"/></l>	<r><s n="inf"/></r></p></e>
+      <e r="LR"> <p><l><s n="vblex"/><s n="pstv"/><s n="inf"/></l>	<r><s n="inf"/></r></p></e>
+      <e> <p><l><s n="vblex"/><s n="pstv"/></l>	<r></r></p></e>
     </pardef>
 
     <pardef n="f|m_LR_f" c="TODO: use for nouns that are m_LR_f in nb, but only f in nn">
@@ -180,6 +188,7 @@
     <e><p><l>ettersom<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>enten<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
     <e><p><l>om<s n="cnjsub"/></l><r>whether<s n="cnjsub"/></r></p></e>
+    <e><p><l>hvordan<s n="cnjsub"/></l><r>how<s n="adv"/></r></p></e>
     <e><p><l>fordi<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>hvis<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>at<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -1374,6 +1383,7 @@
 <e slr="2"><p><l>butikk<s n="n"/><s n="m"/></l><r>boutique<s n="n"/></r></p></e>
 <e>        <p><l>butikktyv<s n="n"/><s n="m"/></l><r>shoplifter<s n="n"/></r></p></e>
 <e>        <p><l>butterdeig<s n="n"/><s n="m"/></l><r>pastry<s n="n"/></r></p></e>
+<e>        <p><l>hjemby<s n="n"/><s n="m"/></l>  <r>home<b/>town<s n="n"/></r></p></e>
 <e>        <p><l>by<s n="n"/><s n="m"/></l>  <r>town<s n="n"/></r></p></e>
 <e slr="1"><p><l>by<s n="n"/><s n="m"/></l>  <r>city<s n="n"/></r></p></e>
 <e>        <p><l>bygd<s n="n"/></l>          <r>village<s n="n"/></r></p><par n="m_LR_f"/></e>
@@ -4006,10 +4016,10 @@
 <e slr="1"><p><l>make<s n="n"/><s n="m"/></l><r>mate<s n="n"/></r></p></e>
 <e>        <p><l>makrell<s n="n"/><s n="m"/></l><r>mackerel<s n="n"/></r></p></e>
 <e>        <p><l>makron<s n="n"/><s n="m"/></l><r>macaroon<s n="n"/></r></p></e>
-<e>        <p><l>makt<s n="n"/></l>          <r>might<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e slr="1"><p><l>makt<s n="n"/></l>          <r>force<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e slr="2"><p><l>makt<s n="n"/></l>          <r>sway<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e slr="3"><p><l>makt<s n="n"/></l>          <r>power<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>makt<s n="n"/></l>          <r>power<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="1"><p><l>makt<s n="n"/></l>          <r>might<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="2"><p><l>makt<s n="n"/></l>          <r>force<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e slr="3"><p><l>makt<s n="n"/></l>          <r>sway<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>maler<s n="n"/><s n="m"/></l><r>painter<s n="n"/></r></p></e>
 <e>        <p><l>maleri<s n="n"/><s n="nt"/></l><r>painting<s n="n"/></r></p></e>
 <e slr="1"><p><l>maleri<s n="n"/><s n="nt"/></l><r>picture<s n="n"/></r></p></e>
@@ -7493,6 +7503,7 @@
 <e slr="1"><p><l>mens<s n="n"/><s n="m"/></l><r>menstruation<s n="n"/></r></p></e>
 <e c="  0"><p><l>kommunestyre<s n="n"/><s n="nt"/></l><r>city<b/>council<s n="n"/></r></p></e>
 <e c="  0"><p><l>arbeiderparti<s n="n"/><s n="nt"/></l><r>labour<b/>party<s n="n"/></r></p></e>
+<e c="  0"><p><l>kommunistparti<s n="n"/><s n="nt"/></l><r>communist<b/>party<s n="n"/></r></p></e>
 <e c="  0"><p><l>klubb<s n="n"/><s n="m"/></l><r>club<s n="n"/></r></p></e>
 <e c="  0"><p><l>norsk<s n="n"/><s n="m"/></l><r>Norwegian<s n="n"/></r></p><par n="sp_sg"/></e>
 <e c="  0"><p><l>vedtak<s n="n"/><s n="nt"/></l><r>resolution<s n="n"/></r></p></e>
@@ -24630,6 +24641,12 @@
     <e c="  0"><p><l>beise</l><r>stain<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>avskjerme</l><r>shield<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>avregulere</l><r>deregulate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+
+    <e c="  0"><p><l>synes</l><r>think<s n="vblex"/></r></p><par n="pstv_vblex"/></e>
+    <e slr="1"><p><l>synes</l><r>seem<s n="vblex"/></r></p><par n="pstv_vblex"/></e>
+    <e c="  0"><p><l>finnes</l><r>be<s n="vbser"/></r></p><par n="pstv_vblex"/></e>
+    <e slr="1"><p><l>finnes</l><r>exist<s n="vblex"/></r></p><par n="pstv_vblex"/></e>
+    <e c="  0"><p><l>trenges</l><r>be<g><b/>needed</g><s n="vblex"/></r></p><par n="pstv_vblex"/></e>
 
  
     <!-- SECTION: Interjections -->
