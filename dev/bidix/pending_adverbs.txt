@@ -39,86 +39,37 @@
      65 ^@mange steder<adv>$
      63 ^@pluss<adv>$
      59 ^@sørfra<adv>$
-     59 ^@periodevis<adv>$
      56 ^@hvem som helst<adv>$
      56 ^@brutto<adv>$
      55 ^@herre<adv>$
-     55 ^@ganske enkelt<adv>$
-     54 ^@sågar<adv>$
-     52 ^@fjernt<adv>$
      50 ^@tids<adv>$
-     50 ^@simpelthen<adv>$
-     50 ^@endog<adv>$
-     50 ^@drivende<adv>$
-     50 ^@anslagsvis<adv>$
-     49 ^@innimellom<adv>$
      48 ^@klinkende<adv>$
-     47 ^@etterhvert<adv>$
-     46 ^@omlag<adv>$
-     46 ^@forøvrig<adv>$
-     45 ^@såvidt<adv>$
-     45 ^@fortrinnsvis<adv>$
-     43 ^@såre<adv>$
-     43 ^@derpå<adv>$
-     43 ^@der nede<adv>$
-     41 ^@tilfeldigvis<adv>$
-     40 ^@splitter<adv>$
-     40 ^@overhodet<adv>$
      40 ^@ender<adv>$
      39 ^@inn igjen<adv>$
-     39 ^@av sted<adv>$
      38 ^@trutt<adv>$
      36 ^@der oppe<adv>$
-     35 ^@sommerstid<adv>$
      35 ^@bi<adv>$
-     34 ^@lys<adv>$
-     34 ^@hvor som helst<adv>$
-     33 ^@øyensynlig<adv>$
-     33 ^@mo<adv>$
      33 ^@igang<adv>$
-     32 ^@visst nok<adv>$
-     32 ^@stokk<adv>$
-     32 ^@milevis<adv>$
-     32 ^@likeledes<adv>$
      32 ^@ditto<adv>$
-     31 ^@spill<adv>$
      31 ^@solo<adv>$
-     31 ^@sia<adv>$
-     31 ^@når som helst<adv>$
      31 ^@fortløpende<adv>$
      30 ^@så visst<adv>$
      29 ^@middels<adv>$
-     29 ^@innledningsvis<adv>$
-     29 ^@hva som helst<adv>$
-     29 ^@bitte<adv>$
-     28 ^@vekselvis<adv>$
      28 ^@såvel<adv>$
-     28 ^@jammen<adv>$
-     28 ^@glødende<adv>$
-     27 ^@enkeltvis<adv>$
      27 ^@der ute<adv>$
      26 ^@vedrørende<adv>$
      26 ^@over lang<adv>$
-     26 ^@nattestid<adv>$
      26 ^@jevnt over<adv>$
-     25 ^@tidsnok<adv>$
-     25 ^@sprøyte<adv>$
      25 ^@så sant<adv>$
      25 ^@rivende<adv>$
      25 ^@riv<adv>$
      25 ^@fremt<adv>$
      24 ^@formelig<adv>$
-     24 ^@før eller siden<adv>$
-     24 ^@alltids<adv>$
-     24 ^@aleine<adv>$
-     23 ^@saktens<adv>$
-     23 ^@månedsvis<adv>$
      23 ^@forlengst<adv>$
      23 ^@ergo<adv>$
      22 ^@flunkende<adv>$
      21 ^@ymse<adv>$
      21 ^@istedet<adv>$
-     21 ^@beklageligvis<adv>$
      20 ^@smekk<adv>$
      20 ^@sjeldnere<adv>$
      20 ^@exit<adv>$

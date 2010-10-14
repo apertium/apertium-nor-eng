@@ -4934,7 +4934,6 @@
       4 ^@kombattant<n>$
       4 ^@koloss<n>$
       4 ^@kolon<n>$
-      4 ^@kolonialisme<n>$
       4 ^@kokain<n>$
       4 ^@koff<n>$
       4 ^@knopp<n>$
@@ -5140,7 +5139,6 @@
       4 ^@driftstilskott<n>$
       4 ^@driftsstans<n>$
       4 ^@domsmann<n>$
-      4 ^@disputt<n>$
       4 ^@disc<n>$
       4 ^@dinosaur<n>$
       4 ^@dilettant<n>$
@@ -10169,6 +10167,7 @@
       1 ^@djupsnø<n>$
       1 ^@distansemerke<n>$
       1 ^@dissident<n>$
+      1 ^@disputt<n>$
       1 ^@disputas<n>$
       1 ^@dispenser<n>$
       1 ^@diskos<n>$
