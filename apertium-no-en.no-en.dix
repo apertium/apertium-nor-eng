@@ -226,6 +226,7 @@
     <e c="  0"><p><l>på<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>av<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
+    <e slr="1"><p><l>av<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>mellom<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
 
@@ -19726,7 +19727,7 @@
     <e c="  0"><p><l>kunne</l><r>can<s n="vaux"/></r></p><par n="vblex_vblex"/></e>
 
     <e c="  0"><p><l>bli</l><r>become<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e slr="1"><p><l>bli</l><r>be<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e slr="1"><p><l>bli</l><r>be<s n="vbser"/></r></p><par n="vblex_vblex"/></e>
 
     <e c="  0"><p><l>si</l><r>say<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 
     <e slr="1"><p><l>si</l><r>tell<s n="vblex"/></r></p><par n="vblex_vblex"/></e> 

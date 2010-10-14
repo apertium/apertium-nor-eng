@@ -13,6 +13,7 @@
 /apertium-no-en.no-en.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/RULES-AND-MULTIWORDS -text
 dev/bidix/pending_adjectives.txt -text
 dev/bidix/pending_adverbs.txt -text
 dev/bidix/pending_conjunctions.txt -text
