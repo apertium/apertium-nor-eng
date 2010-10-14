@@ -409,6 +409,7 @@ Tag mismatch between transfer and generation
     244 #Dyrøy\<np\>\<top\>\<sg\>	^Dyrøy<np><top><sg>$
     242 #stretch\<n\>\<sg\>	^stretch<n><sg>$
     242 #Ove\<np\>\<ant\>\<m\>\<sg\>	^Ove<np><ant><m><sg>$
+    241 #Sámi\<n\>\<sg\>	^Sámi<n><sg>$
     240 #Ståle\<np\>\<ant\>\<m\>\<sg\>	^Ståle<np><ant><m><sg>$
     239 #Lillehammer\<np\>\<top\>\<sg\>	^Lillehammer<np><top><sg>$
     239 #Justice department\<n\>\<sg\>	^Justice department<n><sg>$
@@ -434,6 +435,7 @@ Tag mismatch between transfer and generation
     228 #din\<vblex\>\<inf\>	^din<vblex><inf>$
     227 #Regional hospital\<n\>\<sg\>	^Regional hospital<n><sg>$
     227 #dupe\<vblex\>\<inf\>	^dupe<vblex><inf>$
+    226 #North Norwegian\<n\>\<sg\>	^North Norwegian<n><sg>$
     226 #hillside\<vblex\>\<past\>	^hillside<vblex><past>$
     225 #Vadsø\<np\>\<top\>\<sg\>	^Vadsø<np><top><sg>$
     225 #fame\<vblex\>\<past\>	^fame<vblex><past>$
@@ -625,7 +627,6 @@ Tag mismatch between transfer and generation
     159 #Ingeborg\<np\>\<ant\>\<f\>\<sg\>	^Ingeborg<np><ant><f><sg>$
     159 #blemish\<vblex\>\<past\>	^blemish<vblex><past>$
     158 #Sjøvegan\<np\>\<top\>\<sg\>	^Sjøvegan<np><top><sg>$
-    158 #sámi\<n\>\<sg\>	^sámi<n><sg>$
     157 #transfuse\<vblex\>\<inf\>	^transfuse<vblex><inf>$
     157 #revolve\<vblex\>\<past\>	^revolve<vblex><past>$
     157 #myself\<prn\>\<p1\>\<sg\>	^myself<prn><p1><sg>$
@@ -648,6 +649,7 @@ Tag mismatch between transfer and generation
     152 #health\<vblex\>\<inf\>	^health<vblex><inf>$
     152 #customise\<vblex\>\<pp\>	^customise<vblex><pp>$
     152 #Børge\<np\>\<ant\>\<m\>\<sg\>	^Børge<np><ant><m><sg>$
+    152 #22 year old\<num\>\<sg\>	^22 year old<num><sg>$
     151 #Swedish\<n\>\<sg\>	^Swedish<n><sg>$
     151 #see-saw\<n\>\<pl\>	^see-saw<n><pl>$
     151 #Kristiansand\<np\>\<top\>\<sg\>	^Kristiansand<np><top><sg>$
@@ -700,6 +702,7 @@ Tag mismatch between transfer and generation
     138 #umpire\<n\>\<pl\>	^umpire<n><pl>$
     138 #Last\<adj\>	^Last<adj>$
     138 #breakthrough\<n\>\<sg\>	^breakthrough<n><sg>$
+    138 #19 year old\<num\>\<sg\>	^19 year old<num><sg>$
     137 #smooth\<vblex\>\<inf\>	^smooth<vblex><inf>$
     137 #Røkke\<np\>\<cog\>\<sg\>	^Røkke<np><cog><sg>$
     137 #diffuse\<vblex\>\<pp\>	^diffuse<vblex><pp>$
@@ -868,6 +871,7 @@ Tag mismatch between transfer and generation
     108 #Newcastle\<np\>\<top\>\<sg\>	^Newcastle<np><top><sg>$
     108 #church service\<n\>\<sg\>	^church service<n><sg>$
     108 #Barrister\<n\>\<sg\>	^Barrister<n><sg>$
+    108 #18 year old\<num\>\<sg\>	^18 year old<num><sg>$
     107 #immerse\<vblex\>\<inf\>	^immerse<vblex><inf>$
     107 #Great\<adv\>	^Great<adv>$
     107 #Danish\<n\>\<pl\>	^Danish<n><pl>$
@@ -876,6 +880,7 @@ Tag mismatch between transfer and generation
     106 #Naess\<np\>\<top\>\<sg\>	^Naess<np><top><sg>$
     106 #Lorentzen\<np\>\<cog\>\<sg\>	^Lorentzen<np><cog><sg>$
     106 #lichen\<n\>\<sg\>	^lichen<n><sg>$
+    106 #20 year old\<num\>\<sg\>	^20 year old<num><sg>$
     105 #Sør-Varanger\<np\>\<top\>\<sg\>	^Sør-Varanger<np><top><sg>$
     105 #Peer\<n\>\<sg\>	^Peer<n><sg>$
     105 #Minister \<n\>\<sg\>	^Minister <n><sg>$
@@ -888,8 +893,10 @@ Tag mismatch between transfer and generation
     104 #personnel\<n\>\<sg\>	^personnel<n><sg>$
     104 #close\<vblex\>\<past\># down	^close<vblex><past># down$
     104 #Bockelie\<np\>\<cog\>\<sg\>	^Bockelie<np><cog><sg>$
+    104 #27 year old\<num\>\<sg\>	^27 year old<num><sg>$
     103 #presume\<vblex\>\<inf\>	^presume<vblex><inf>$
     103 #out on\<pr\>	^out on<pr>$
+    103 #north Norwegian\<n\>\<sg\>	^north Norwegian<n><sg>$
     103 #head clerk\<n\>\<sg\>	^head clerk<n><sg>$
     103 #Hansnes\<np\>\<cog\>\<sg\>	^Hansnes<np><cog><sg>$
     103 #Everton\<np\>\<top\>\<sg\>	^Everton<np><top><sg>$
@@ -965,6 +972,7 @@ Tag mismatch between transfer and generation
      95 #Kongen\<np\>\<ant\>\<m\>\<sg\>	^Kongen<np><ant><m><sg>$
      95 #Havøysund\<np\>\<top\>\<sg\>	^Havøysund<np><top><sg>$
      95 #exterior\<n\>\<sg\>	^exterior<n><sg>$
+     95 #21 year old\<num\>\<sg\>	^21 year old<num><sg>$
      94 #Wiik\<np\>\<cog\>\<sg\>	^Wiik<np><cog><sg>$
      94 #weigh\<vblex\>\<past\># on	^weigh<vblex><past># on$
      94 #recruit\<vblex\>\<inf\>	^recruit<vblex><inf>$
@@ -983,6 +991,7 @@ Tag mismatch between transfer and generation
      93 #Bengt\<np\>\<ant\>\<m\>\<sg\>	^Bengt<np><ant><m><sg>$
      93 #Balkans\<np\>\<top\>\<sg\>	^Balkans<np><top><sg>$
      93 #Antler\<n\>\<sg\>	^Antler<n><sg>$
+     93 #17 year old\<num\>\<sg\>	^17 year old<num><sg>$
      92 #reef\<n\>\<sg\>	^reef<n><sg>$
      92 #May\<np\>\<ant\>\<f\>\<sg\>	^May<np><ant><f><sg>$
      92 #Lødingen\<np\>\<top\>\<sg\>	^Lødingen<np><top><sg>$
@@ -994,6 +1003,7 @@ Tag mismatch between transfer and generation
      92 #environment minister\<n\>\<sg\>	^environment minister<n><sg>$
      92 #Eastern Norway\<np\>\<top\>\<sg\>	^Eastern Norway<np><top><sg>$
      92 #Brit\<np\>\<ant\>\<f\>\<sg\>	^Brit<np><ant><f><sg>$
+     92 #25 year old\<num\>\<sg\>	^25 year old<num><sg>$
      91 #Thorvald\<np\>\<ant\>\<m\>\<sg\>	^Thorvald<np><ant><m><sg>$
      91 #indoors\<pr\>	^indoors<pr>$
      91 #incur\<vblex\>\<past\>	^incur<vblex><past>$
@@ -1027,6 +1037,7 @@ Tag mismatch between transfer and generation
      89 #Flagstad\<np\>\<cog\>\<sg\>	^Flagstad<np><cog><sg>$
      89 #Claes\<np\>\<ant\>\<m\>\<sg\>	^Claes<np><ant><m><sg>$
      89 #Be# silent\<vblex\>\<inf\>	^Be# silent<vblex><inf>$
+     89 #24 year old\<num\>\<sg\>	^24 year old<num><sg>$
      88 #tribune\<n\>\<sg\>	^tribune<n><sg>$
      88 #Supreme court\<n\>\<sg\>	^Supreme court<n><sg>$
      88 #Subtitle\<vblex\>\<inf\>	^Subtitle<vblex><inf>$
@@ -1078,7 +1089,6 @@ Tag mismatch between transfer and generation
      84 #Elden\<np\>\<cog\>\<sg\>	^Elden<np><cog><sg>$
      83 #trench\<vblex\>\<pp\>	^trench<vblex><pp>$
      83 #set\<vblex\>\<inf\># out	^set<vblex><inf># out$
-     83 #Sámi\<n\>\<sg\>	^Sámi<n><sg>$
      83 #madness\<n\>\<sg\>	^madness<n><sg>$
      83 #Hallvard\<np\>\<ant\>\<m\>\<sg\>	^Hallvard<np><ant><m><sg>$
      83 #Grethe\<np\>\<ant\>\<f\>\<sg\>	^Grethe<np><ant><f><sg>$
@@ -1133,6 +1143,7 @@ Tag mismatch between transfer and generation
      79 #freestyle\<n\>\<sg\>	^freestyle<n><sg>$
      79 #Figenschau\<np\>\<cog\>\<sg\>	^Figenschau<np><cog><sg>$
      79 #Andøya\<np\>\<top\>\<sg\>	^Andøya<np><top><sg>$
+     79 #33 year old\<num\>\<sg\>	^33 year old<num><sg>$
      78 #West Finnmark\<np\>\<top\>\<sg\>	^West Finnmark<np><top><sg>$
      78 #trawl\<vblex\>\<pres\>	^trawl<vblex><pres>$
      78 #thin\<vblex\>\<inf\>	^thin<vblex><inf>$
@@ -1183,6 +1194,7 @@ Tag mismatch between transfer and generation
      75 #diligent\<adj\>	^diligent<adj>$
      75 #Conservatory\<n\>\<sg\>	^Conservatory<n><sg>$
      75 #admittedly\<adv\>	^admittedly<adv>$
+     75 #23 year old\<num\>\<sg\>	^23 year old<num><sg>$
      74 #Steffen\<np\>\<ant\>\<m\>\<sg\>	^Steffen<np><ant><m><sg>$
      74 #sip\<n\>\<pl\>	^sip<n><pl>$
      74 #shipment\<n\>\<pl\>	^shipment<n><pl>$
@@ -1290,6 +1302,7 @@ Tag mismatch between transfer and generation
      67 #bassist\<n\>\<sg\>	^bassist<n><sg>$
      67 #Arnulf\<np\>\<ant\>\<m\>\<sg\>	^Arnulf<np><ant><m><sg>$
      67 #\<adv\>	^<adv>$
+     67 #15 year old\<num\>\<sg\>	^15 year old<num><sg>$
      66 #yell\<vblex\>\<inf\>	^yell<vblex><inf>$
      66 #Vebjørn\<np\>\<ant\>\<m\>\<sg\>	^Vebjørn<np><ant><m><sg>$
      66 #untidy\<vblex\>\<inf\>	^untidy<vblex><inf>$
@@ -1530,6 +1543,7 @@ Tag mismatch between transfer and generation
      54 #body\<vblex\>\<inf\>	^body<vblex><inf>$
      54 #bare\<vblex\>\<inf\>	^bare<vblex><inf>$
      54 #Andrej\<np\>\<ant\>\<m\>\<sg\>	^Andrej<np><ant><m><sg>$
+     54 #16 year old\<num\>\<sg\>	^16 year old<num><sg>$
      53 #Sveinung\<np\>\<ant\>\<m\>\<sg\>	^Sveinung<np><ant><m><sg>$
      53 #stack\<vblex\>\<pp\>	^stack<vblex><pp>$
      53 #SALANGEN\<np\>\<top\>\<sg\>	^SALANGEN<np><top><sg>$
@@ -1592,6 +1606,7 @@ Tag mismatch between transfer and generation
      51 #Defence minister\<n\>\<sg\>	^Defence minister<n><sg>$
      51 #County\<vblex\>\<inf\>	^County<vblex><inf>$
      51 #Colombo\<np\>\<top\>\<sg\>	^Colombo<np><top><sg>$
+     51 #28 year old\<num\>\<sg\>	^28 year old<num><sg>$
      50 #Vorland\<np\>\<cog\>\<sg\>	^Vorland<np><cog><sg>$
      50 #TV action\<n\>\<sg\>	^TV action<n><sg>$
      50 #Tunheim\<np\>\<cog\>\<sg\>	^Tunheim<np><cog><sg>$
@@ -1624,6 +1639,7 @@ Tag mismatch between transfer and generation
      49 #yoik\<n\>\<sg\>	^yoik<n><sg>$
      49 #travel agency\<n\>\<sg\>	^travel agency<n><sg>$
      49 #snowmobile\<n\>\<pl\>	^snowmobile<n><pl>$
+     49 #small fish\<n\>\<sg\>	^small fish<n><sg>$
      49 #Skogvang\<np\>\<cog\>\<sg\>	^Skogvang<np><cog><sg>$
      49 #shield\<vblex\>\<pp\>	^shield<vblex><pp>$
      49 #Rovaniemi\<np\>\<top\>\<sg\>	^Rovaniemi<np><top><sg>$
@@ -1680,6 +1696,7 @@ Tag mismatch between transfer and generation
      48 #backward\<adv\>	^backward<adv>$
      48 #automoton\<n\>\<pl\>	^automoton<n><pl>$
      48 #As it were\<adv\>	^As it were<adv>$
+     48 #26 year old\<num\>\<sg\>	^26 year old<num><sg>$
      47 #Ytreberg\<np\>\<cog\>\<sg\>	^Ytreberg<np><cog><sg>$
      47 #yourself\<prn\>\<p2\>\<sg\>	^yourself<prn><p2><sg>$
      47 #Wilhelm\<np\>\<ant\>\<m\>\<sg\>	^Wilhelm<np><ant><m><sg>$
@@ -1845,6 +1862,7 @@ Tag mismatch between transfer and generation
      42 #Thore\<np\>\<ant\>\<m\>\<sg\>	^Thore<np><ant><m><sg>$
      42 #Tande\<np\>\<cog\>\<sg\>	^Tande<np><cog><sg>$
      42 #SVALBARD\<np\>\<top\>\<sg\>	^SVALBARD<np><top><sg>$
+     42 #summarise\<vblex\>\<past\>	^summarise<vblex><past>$
      42 #social sciences\<n\>\<sg\>	^social sciences<n><sg>$
      42 #shame\<vblex\>\<inf\>	^shame<vblex><inf>$
      42 #road train\<n\>\<sg\>	^road train<n><sg>$
@@ -1861,6 +1879,7 @@ Tag mismatch between transfer and generation
      42 #Child protection\<n\>\<sg\>	^Child protection<n><sg>$
      42 #be\<vblex\>\<inf\># at home	^be<vblex><inf># at home$
      42 #Be# adept\<vblex\>\<inf\>	^Be# adept<vblex><inf>$
+     42 #31 year old\<num\>\<sg\>	^31 year old<num><sg>$
      41 #watchword\<n\>\<sg\>	^watchword<n><sg>$
      41 #uncover\<vblex\>\<inf\>	^uncover<vblex><inf>$
      41 #treachery\<n\>\<sg\>	^treachery<n><sg>$
@@ -2011,6 +2030,7 @@ Tag mismatch between transfer and generation
      37 #Westrum\<np\>\<cog\>\<sg\>	^Westrum<np><cog><sg>$
      37 #Varanger Peninsula\<np\>\<top\>\<sg\>	^Varanger Peninsula<np><top><sg>$
      37 #Tórshavn\<np\>\<top\>\<sg\>	^Tórshavn<np><top><sg>$
+     37 #summarise\<vblex\>\<inf\>	^summarise<vblex><inf>$
      37 #strife\<n\>\<pl\>	^strife<n><pl>$
      37 #Stokkan\<np\>\<cog\>\<sg\>	^Stokkan<np><cog><sg>$
      37 #Sigvald\<np\>\<ant\>\<m\>\<sg\>	^Sigvald<np><ant><m><sg>$
@@ -2053,10 +2073,13 @@ Tag mismatch between transfer and generation
      37 #Austad\<np\>\<top\>\<sg\>	^Austad<np><top><sg>$
      37 #Aslaug\<np\>\<ant\>\<f\>\<sg\>	^Aslaug<np><ant><f><sg>$
      37 #and\<adv\>	^and<adv>$
+     37 #32 year old\<num\>\<sg\>	^32 year old<num><sg>$
+     37 #30 year old\<num\>\<sg\>	^30 year old<num><sg>$
      36 #wreck\<vblex\>\<past\>	^wreck<vblex><past>$
      36 #West Bank\<np\>\<top\>\<sg\>	^West Bank<np><top><sg>$
      36 #Vannvåg\<np\>\<cog\>\<sg\>	^Vannvåg<np><cog><sg>$
      36 #tend\<vblex\>\<past\># to	^tend<vblex><past># to$
+     36 #summarise\<vblex\>\<pres\>	^summarise<vblex><pres>$
      36 #SUBTITLE\<vblex\>\<inf\>	^SUBTITLE<vblex><inf>$
      36 #sprint\<vblex\>\<inf\>	^sprint<vblex><inf>$
      36 #sparkle\<vblex\>\<pres\>	^sparkle<vblex><pres>$
@@ -2288,6 +2311,8 @@ Tag mismatch between transfer and generation
      32 #Asbjørg\<np\>\<cog\>\<sg\>	^Asbjørg<np><cog><sg>$
      32 #artisanry\<n\>\<pl\>	^artisanry<n><pl>$
      32 #Arna\<np\>\<top\>\<sg\>	^Arna<np><top><sg>$
+     32 #45 year old\<num\>\<sg\>	^45 year old<num><sg>$
+     32 #14 year old\<num\>\<sg\>	^14 year old<num><sg>$
      31 #yearning\<n\>\<sg\>	^yearning<n><sg>$
      31 #Winther\<np\>\<cog\>\<sg\>	^Winther<np><cog><sg>$
      31 #Weber\<np\>\<cog\>\<sg\>	^Weber<np><cog><sg>$
@@ -2768,6 +2793,7 @@ Tag mismatch between transfer and generation
      24 #assent\<n\>\<sg\>	^assent<n><sg>$
      24 #Amund\<np\>\<ant\>\<m\>\<sg\>	^Amund<np><ant><m><sg>$
      24 #A kind of\<det\>\<ind\>\<sg\>	^A kind of<det><ind><sg>$
+     24 #50 year old\<num\>\<sg\>	^50 year old<num><sg>$
      23 #working class\<n\>\<sg\>	^working class<n><sg>$
      23 #war\<vblex\>\<pres\>	^war<vblex><pres>$
      23 #Veritas\<np\>\<al\>\<sg\>	^Veritas<np><al><sg>$
@@ -3059,6 +3085,7 @@ Tag mismatch between transfer and generation
      21 #Anja\<np\>\<ant\>\<f\>\<sg\>	^Anja<np><ant><f><sg>$
      21 #Afzelius\<np\>\<cog\>\<sg\>	^Afzelius<np><cog><sg>$
      21 #abate\<vblex\>\<inf\>	^abate<vblex><inf>$
+     21 #29 year old\<num\>\<sg\>	^29 year old<num><sg>$
      20 #wreath\<n\>\<sg\>	^wreath<n><sg>$
      20 #Woll\<np\>\<cog\>\<sg\>	^Woll<np><cog><sg>$
      20 #whaler\<n\>\<pl\>	^whaler<n><pl>$
@@ -3275,6 +3302,7 @@ Tag mismatch between transfer and generation
      19 #avanse\<vblex\>\<inf\>	^avanse<vblex><inf>$
      19 #aircraft carrier\<n\>\<sg\>	^aircraft carrier<n><sg>$
      19 #Aarskog\<np\>\<cog\>\<sg\>	^Aarskog<np><cog><sg>$
+     19 #35 year old\<num\>\<sg\>	^35 year old<num><sg>$
      18 #Zahl\<np\>\<cog\>\<sg\>	^Zahl<np><cog><sg>$
      18 #whole\<n\>\<sp\>	^whole<n><sp>$
      18 #Vigra\<np\>\<top\>\<sg\>	^Vigra<np><top><sg>$
@@ -3527,6 +3555,8 @@ Tag mismatch between transfer and generation
      17 #angora rabbit\<n\>\<pl\>	^angora rabbit<n><pl>$
      17 #Agder\<np\>\<top\>\<sg\>	^Agder<np><top><sg>$
      17 #administration minister\<n\>\<sg\>	^administration minister<n><sg>$
+     17 #12 year old\<num\>\<sg\>	^12 year old<num><sg>$
+     17 #11 year old\<num\>\<sg\>	^11 year old<num><sg>$
      16 #workplace conflict\<n\>\<sg\>	^workplace conflict<n><sg>$
      16 #Windows\<np\>\<al\>\<sg\>	^Windows<np><al><sg>$
      16 #Widar\<np\>\<ant\>\<m\>\<sg\>	^Widar<np><ant><m><sg>$
@@ -3684,6 +3714,7 @@ Tag mismatch between transfer and generation
      16 #axe\<vblex\>\<inf\>	^axe<vblex><inf>$
      16 #adjust\<vblex\>\<inf\># for inflation	^adjust<vblex><inf># for inflation$
      16 #abomination\<n\>\<pl\>	^abomination<n><pl>$
+     16 #39 year old\<num\>\<sg\>	^39 year old<num><sg>$
      15 #youth culture\<n\>\<sg\>	^youth culture<n><sg>$
      15 #wring\<vblex\>\<pp\>	^wring<vblex><pp>$
      15 #wrapper\<n\>\<sg\>	^wrapper<n><sg>$
@@ -3856,6 +3887,9 @@ Tag mismatch between transfer and generation
      15 #ambulate\<vblex\>\<ger\>	^ambulate<vblex><ger>$
      15 #advent\<n\>\<sg\>	^advent<n><sg>$
      15 #action group\<n\>\<sg\>	^action group<n><sg>$
+     15 #41 year old\<num\>\<sg\>	^41 year old<num><sg>$
+     15 #37 year old\<num\>\<sg\>	^37 year old<num><sg>$
+     15 #13 year old\<num\>\<sg\>	^13 year old<num><sg>$
      14 #wring\<vblex\>\<past\>	^wring<vblex><past>$
      14 #wild\<adj\>	^wild<adj>$
      14 #whistle\<vblex\>\<inf\>	^whistle<vblex><inf>$
@@ -4037,6 +4071,7 @@ Tag mismatch between transfer and generation
      14 #action form\<n\>\<sg\>	^action form<n><sg>$
      14 #Aass\<np\>\<top\>\<sg\>	^Aass<np><top><sg>$
      14 #Aarflot\<np\>\<cog\>\<sg\>	^Aarflot<np><cog><sg>$
+     14 #38 year old\<num\>\<sg\>	^38 year old<num><sg>$
      13 #Youth organisation\<n\>\<sg\>	^Youth organisation<n><sg>$
      13 #YES\<n\>\<sg\>	^YES<n><sg>$
      13 #Webster\<np\>\<cog\>\<sg\>	^Webster<np><cog><sg>$
@@ -4060,6 +4095,7 @@ Tag mismatch between transfer and generation
      13 #tackle\<n\>\<sg\>	^tackle<n><sg>$
      13 #swarm\<vblex\>\<ger\>	^swarm<vblex><ger>$
      13 #surf\<vblex\>\<inf\>	^surf<vblex><inf>$
+     13 #summarise\<vblex\>\<pp\>	^summarise<vblex><pp>$
      13 #stroll\<n\>\<sg\>	^stroll<n><sg>$
      13 #squint\<vblex\>\<pp\>	^squint<vblex><pp>$
      13 #spray\<vblex\>\<inf\>	^spray<vblex><inf>$
@@ -4225,6 +4261,7 @@ Tag mismatch between transfer and generation
      13 #action film\<n\>\<sg\>	^action film<n><sg>$
      13 #action committee\<n\>\<sg\>	^action committee<n><sg>$
      13 #Aarhus\<np\>\<top\>\<sg\>	^Aarhus<np><top><sg>$
+     13 #34 year old\<num\>\<sg\>	^34 year old<num><sg>$
      12 #Yoik\<n\>\<sg\>	^Yoik<n><sg>$
      12 #Wulff\<np\>\<cog\>\<sg\>	^Wulff<np><cog><sg>$
      12 #wreck\<vblex\>\<inf\>	^wreck<vblex><inf>$
@@ -4461,6 +4498,9 @@ Tag mismatch between transfer and generation
      12 #Aasheim\<np\>\<cog\>\<sg\>	^Aasheim<np><cog><sg>$
      12 #Aarseth\<np\>\<cog\>\<sg\>	^Aarseth<np><cog><sg>$
      12 #Aakvik\<np\>\<cog\>\<sg\>	^Aakvik<np><cog><sg>$
+     12 #60 year old\<num\>\<sg\>	^60 year old<num><sg>$
+     12 #44 year old\<num\>\<sg\>	^44 year old<num><sg>$
+     12 #43 year old\<num\>\<sg\>	^43 year old<num><sg>$
      11 #Yorkshire\<np\>\<top\>\<sg\>	^Yorkshire<np><top><sg>$
      11 #yoik\<n\>\<pl\>	^yoik<n><pl>$
      11 #Yngvild\<np\>\<ant\>\<f\>\<sg\>	^Yngvild<np><ant><f><sg>$
@@ -4992,6 +5032,8 @@ Tag mismatch between transfer and generation
      10 #advocacy group\<n\>\<pl\>	^advocacy group<n><pl>$
      10 #acupuncture\<n\>\<sg\>	^acupuncture<n><sg>$
      10 #abridge\<vblex\>\<pp\>	^abridge<vblex><pp>$
+     10 #53 year old\<num\>\<sg\>	^53 year old<num><sg>$
+     10 #36 year old\<num\>\<sg\>	^36 year old<num><sg>$
       9 #workplace conflict\<n\>\<pl\>	^workplace conflict<n><pl>$
       9 #Wolverine\<n\>\<sg\>	^Wolverine<n><sg>$
       9 #Willis\<np\>\<cog\>\<sg\>	^Willis<np><cog><sg>$
@@ -5030,7 +5072,6 @@ Tag mismatch between transfer and generation
       9 #sweets\<n\>\<pl\>	^sweets<n><pl>$
       9 #sunrise\<n\>\<sg\>	^sunrise<n><sg>$
       9 #Sundberg\<np\>\<cog\>\<sg\>	^Sundberg<np><cog><sg>$
-      9 #summarise\<vblex\>\<inf\>	^summarise<vblex><inf>$
       9 #subtlety\<n\>\<pl\>	^subtlety<n><pl>$
       9 #subtitle\<vblex\>\<pres\>\<p3\>\<sg\>	^subtitle<vblex><pres><p3><sg>$
       9 #Straumsnes\<np\>\<top\>\<sg\>	^Straumsnes<np><top><sg>$
@@ -5300,6 +5341,9 @@ Tag mismatch between transfer and generation
       9 #accessories\<n\>\<sg\>	^accessories<n><sg>$
       9 #ABBA\<np\>	^ABBA<np>$
       9 #abate\<vblex\>\<pp\>	^abate<vblex><pp>$
+      9 #47 year old\<num\>\<sg\>	^47 year old<num><sg>$
+      9 #42 year old\<num\>\<sg\>	^42 year old<num><sg>$
+      9 #40 year old\<num\>\<sg\>	^40 year old<num><sg>$
       8 #wring\<vblex\>\<pres\>\<p3\>\<sg\>	^wring<vblex><pres><p3><sg>$
       8 #world championship\<n\>\<sg\>	^world championship<n><sg>$
       8 #Wiklund\<np\>\<cog\>\<sg\>	^Wiklund<np><cog><sg>$
@@ -5348,6 +5392,7 @@ Tag mismatch between transfer and generation
       8 #surveyor\<n\>\<sg\>	^surveyor<n><sg>$
       8 #supersede\<vblex\>\<pres\>	^supersede<vblex><pres>$
       8 #Sundstrøm\<np\>\<cog\>\<sg\>	^Sundstrøm<np><cog><sg>$
+      8 #summarise\<vblex\>\<pres\>\<p3\>\<sg\>	^summarise<vblex><pres><p3><sg>$
       8 #succumb\<vblex\>\<pp\>	^succumb<vblex><pp>$
       8 #stumble\<vblex\>\<inf\>	^stumble<vblex><inf>$
       8 #strive\<vblex\>\<past\>	^strive<vblex><past>$
@@ -5686,6 +5731,9 @@ Tag mismatch between transfer and generation
       8 #action day\<n\>\<sg\>	^action day<n><sg>$
       8 #abstract\<vblex\>\<past\>	^abstract<vblex><past>$
       8 #Abscess\<n\>\<sg\>	^Abscess<n><sg>$
+      8 #8 year old\<num\>\<sg\>	^8 year old<num><sg>$
+      8 #66 year old\<num\>\<sg\>	^66 year old<num><sg>$
+      8 #46 year old\<num\>\<sg\>	^46 year old<num><sg>$
       7 #zest\<n\>\<sg\>	^zest<n><sg>$
       7 #Zapffe\<np\>\<cog\>\<sg\>	^Zapffe<np><cog><sg>$
       7 #youth organisation\<n\>\<sg\>	^youth organisation<n><sg>$
@@ -6150,6 +6198,12 @@ Tag mismatch between transfer and generation
       7 #abstract\<vblex\>\<pp\>	^abstract<vblex><pp>$
       7 #Aberdeen\<np\>\<top\>\<sg\>	^Aberdeen<np><top><sg>$
       7 #Aagaard\<np\>\<cog\>\<sg\>	^Aagaard<np><cog><sg>$
+      7 #82 year old\<num\>\<sg\>	^82 year old<num><sg>$
+      7 #78 year old\<num\>\<sg\>	^78 year old<num><sg>$
+      7 #70 year old\<num\>\<sg\>	^70 year old<num><sg>$
+      7 #56 year old\<num\>\<sg\>	^56 year old<num><sg>$
+      7 #48 year old\<num\>\<sg\>	^48 year old<num><sg>$
+      7 #10 year old\<num\>\<sg\>	^10 year old<num><sg>$
       6 #yell\<vblex\>\<pp\>	^yell<vblex><pp>$
       6 #Yearning\<n\>\<sg\>	^Yearning<n><sg>$
       6 #work permit\<n\>\<sg\>	^work permit<n><sg>$
@@ -6222,7 +6276,6 @@ Tag mismatch between transfer and generation
       6 #swarm\<n\>\<pl\>	^swarm<n><pl>$
       6 #Sveagruva\<np\>\<top\>\<sg\>	^Sveagruva<np><top><sg>$
       6 #surf\<vblex\>\<pres\>	^surf<vblex><pres>$
-      6 #summarise\<vblex\>\<past\>	^summarise<vblex><past>$
       6 #Stubberud\<np\>\<cog\>\<sg\>	^Stubberud<np><cog><sg>$
       6 #stride\<vblex\>\<pres\>	^stride<vblex><pres>$
       6 #strainer\<n\>\<pl\>	^strainer<n><pl>$
@@ -6772,6 +6825,10 @@ Tag mismatch between transfer and generation
       6 #Accra\<np\>\<top\>\<sg\>	^Accra<np><top><sg>$
       6 #abscess\<n\>\<sg\>	^abscess<n><sg>$
       6 #Aasbø\<np\>\<cog\>\<sg\>	^Aasbø<np><cog><sg>$
+      6 #77 year old\<num\>\<sg\>	^77 year old<num><sg>$
+      6 #71 year old\<num\>\<sg\>	^71 year old<num><sg>$
+      6 #6 year old\<num\>\<sg\>	^6 year old<num><sg>$
+      6 #51 year old\<num\>\<sg\>	^51 year old<num><sg>$
       5 #Zotora\<np\>\<ant\>\<m\>\<sg\>	^Zotora<np><ant><m><sg>$
       5 #Yme\<np\>\<ant\>\<m\>\<sg\>	^Yme<np><ant><m><sg>$
       5 #wreck\<n\>\<pl\>	^wreck<n><pl>$
@@ -6861,7 +6918,6 @@ Tag mismatch between transfer and generation
       5 #supper\<n\>\<sg\>	^supper<n><sg>$
       5 #Sunndalsøra\<np\>\<top\>\<sg\>	^Sunndalsøra<np><top><sg>$
       5 #Sundfær\<np\>\<cog\>\<sg\>	^Sundfær<np><cog><sg>$
-      5 #summarise\<vblex\>\<pp\>	^summarise<vblex><pp>$
       5 #Suez\<np\>\<top\>\<sg\>	^Suez<np><top><sg>$
       5 #succumb\<vblex\>\<pres\>	^succumb<vblex><pres>$
       5 #Subscriber\<n\>\<pl\>	^Subscriber<n><pl>$
@@ -6937,7 +6993,6 @@ Tag mismatch between transfer and generation
       5 #Seljord\<np\>\<top\>\<sg\>	^Seljord<np><top><sg>$
       5 #Sekken\<np\>\<cog\>\<sg\>	^Sekken<np><cog><sg>$
       5 #scramble\<vblex\>\<inf\>	^scramble<vblex><inf>$
-      5 #Scots\<n\>\<sg\>	^Scots<n><sg>$
       5 #Schreuder\<np\>\<cog\>\<sg\>	^Schreuder<np><cog><sg>$
       5 #Schreiner\<np\>\<cog\>\<sg\>	^Schreiner<np><cog><sg>$
       5 #School band\<n\>\<sg\>	^School band<n><sg>$
@@ -7477,6 +7532,10 @@ Tag mismatch between transfer and generation
       5 #activity leader\<n\>\<sg\>	^activity leader<n><sg>$
       5 #About to\<pr\>	^About to<pr>$
       5 #Aasnes\<np\>\<cog\>\<sg\>	^Aasnes<np><cog><sg>$
+      5 #76 year old\<num\>\<sg\>	^76 year old<num><sg>$
+      5 #65 year old\<num\>\<sg\>	^65 year old<num><sg>$
+      5 #59 year old\<num\>\<sg\>	^59 year old<num><sg>$
+      5 #58 year old\<num\>\<sg\>	^58 year old<num><sg>$
       4 #Zwilgmeyer\<np\>\<cog\>\<sg\>	^Zwilgmeyer<np><cog><sg>$
       4 #Zinaida\<np\>\<ant\>\<f\>\<sg\>	^Zinaida<np><ant><f><sg>$
       4 #Yukon\<np\>\<top\>\<sg\>	^Yukon<np><top><sg>$
@@ -7642,7 +7701,7 @@ Tag mismatch between transfer and generation
       4 #speak\<vblex\>\<ger\># with guttural R	^speak<vblex><ger># with guttural R$
       4 #spawning ground\<n\>\<pl\>	^spawning ground<n><pl>$
       4 #South Sweden\<np\>\<top\>\<sg\>	^South Sweden<np><top><sg>$
-      4 #South Sami\<n\>\<sg\>	^South Sami<n><sg>$
+      4 #South Sámi\<n\>\<sg\>	^South Sámi<n><sg>$
       4 #Sonata\<n\>\<sg\>	^Sonata<n><sg>$
       4 #sonata\<n\>\<pl\>	^sonata<n><pl>$
       4 #SOLTVEDT\<np\>\<cog\>\<sg\>	^SOLTVEDT<np><cog><sg>$
@@ -8379,6 +8438,14 @@ Tag mismatch between transfer and generation
       4 #abate\<vblex\>\<pres\>\<p3\>\<sg\>	^abate<vblex><pres><p3><sg>$
       4 #Aanesland\<np\>\<cog\>\<sg\>	^Aanesland<np><cog><sg>$
       4 #Aalto\<np\>\<cog\>\<sg\>	^Aalto<np><cog><sg>$
+      4 #90 year old\<num\>\<sg\>	^90 year old<num><sg>$
+      4 #84 year old\<num\>\<sg\>	^84 year old<num><sg>$
+      4 #80 year old\<num\>\<sg\>	^80 year old<num><sg>$
+      4 #74 year old\<num\>\<sg\>	^74 year old<num><sg>$
+      4 #68 year old\<num\>\<sg\>	^68 year old<num><sg>$
+      4 #64 year old\<num\>\<sg\>	^64 year old<num><sg>$
+      4 #49 year old\<num\>\<sg\>	^49 year old<num><sg>$
+      4 #100 year old\<num\>\<sg\>	^100 year old<num><sg>$
       3 #ZIP\<vblex\>\<inf\>	^ZIP<vblex><inf>$
       3 #zinc\<n\>\<pl\>	^zinc<n><pl>$
       3 #yo-yo\<n\>\<sg\>	^yo-yo<n><sg>$
@@ -8533,8 +8600,6 @@ Tag mismatch between transfer and generation
       3 #swamp\<n\>\<pl\>	^swamp<n><pl>$
       3 #surgical nurse\<n\>\<sg\>	^surgical nurse<n><sg>$
       3 #Sundby\<np\>\<cog\>\<sg\>	^Sundby<np><cog><sg>$
-      3 #summarise\<vblex\>\<pres\>\<p3\>\<sg\>	^summarise<vblex><pres><p3><sg>$
-      3 #summarise\<vblex\>\<pres\>	^summarise<vblex><pres>$
       3 #sullen\<n\>\<sg\>	^sullen<n><sg>$
       3 #Suite\<n\>\<sg\>	^Suite<n><sg>$
       3 #suite\<n\>\<pl\>	^suite<n><pl>$
@@ -9620,6 +9685,12 @@ Tag mismatch between transfer and generation
       3 #Aanes\<np\>\<cog\>\<sg\>	^Aanes<np><cog><sg>$
       3 #Aalberg\<np\>\<cog\>\<sg\>	^Aalberg<np><cog><sg>$
       3 #AAGE\<np\>\<ant\>\<m\>\<sg\>	^AAGE<np><ant><m><sg>$
+      3 #88 year old\<num\>\<sg\>	^88 year old<num><sg>$
+      3 #86 year old\<num\>\<sg\>	^86 year old<num><sg>$
+      3 #85 year old\<num\>\<sg\>	^85 year old<num><sg>$
+      3 #67 year old\<num\>\<sg\>	^67 year old<num><sg>$
+      3 #62 year old\<num\>\<sg\>	^62 year old<num><sg>$
+      3 #57 year old\<num\>\<sg\>	^57 year old<num><sg>$
       2 #zoom\<vblex\>\<inf\>	^zoom<vblex><inf>$
       2 #Zinc\<n\>\<pl\>	^Zinc<n><pl>$
       2 #Zimmer\<np\>\<cog\>\<sg\>	^Zimmer<np><cog><sg>$
@@ -9897,6 +9968,7 @@ Tag mismatch between transfer and generation
       2 #Sunndal\<np\>\<top\>\<sg\>	^Sunndal<np><top><sg>$
       2 #Sundvall\<np\>\<cog\>\<sg\>	^Sundvall<np><cog><sg>$
       2 #Sumstad\<np\>\<cog\>\<sg\>	^Sumstad<np><cog><sg>$
+      2 #summarise\<vblex\>\<ger\>	^summarise<vblex><ger>$
       2 #sullen\<n\>\<pl\>	^sullen<n><pl>$
       2 #Suitable\<adj\>	^Suitable<adj>$
       2 #Suikkari\<np\>\<cog\>\<sg\>	^Suikkari<np><cog><sg>$
@@ -11533,6 +11605,14 @@ Tag mismatch between transfer and generation
       2 #Aasebø\<np\>\<cog\>\<sg\>	^Aasebø<np><cog><sg>$
       2 #Aagot\<np\>\<ant\>\<f\>\<sg\>	^Aagot<np><ant><f><sg>$
       2 #Aabel\<np\>\<ant\>\<m\>\<sg\>	^Aabel<np><ant><m><sg>$
+      2 #9 year old\<num\>\<sg\>	^9 year old<num><sg>$
+      2 #83 year old\<num\>\<sg\>	^83 year old<num><sg>$
+      2 #75 year old\<num\>\<sg\>	^75 year old<num><sg>$
+      2 #72 year old\<num\>\<sg\>	^72 year old<num><sg>$
+      2 #69 year old\<num\>\<sg\>	^69 year old<num><sg>$
+      2 #61 year old\<num\>\<sg\>	^61 year old<num><sg>$
+      2 #55 year old\<num\>\<sg\>	^55 year old<num><sg>$
+      2 #4 year old\<num\>\<sg\>	^4 year old<num><sg>$
       1 #Zoologist\<n\>\<sg\>	^Zoologist<n><sg>$
       1 #zoologist\<n\>\<sg\>	^zoologist<n><sg>$
       1 #zoologist\<n\>\<pl\>	^zoologist<n><pl>$
@@ -12453,7 +12533,6 @@ Tag mismatch between transfer and generation
       1 #Scramble\<vblex\>\<pres\>	^Scramble<vblex><pres>$
       1 #Scramble\<vblex\>\<inf\>	^Scramble<vblex><inf>$
       1 #Scout\<vblex\>\<pres\>	^Scout<vblex><pres>$
-      1 #SCOTS\<n\>\<sg\>	^SCOTS<n><sg>$
       1 #scorn\<vblex\>\<pres\>\<p3\>\<sg\>	^scorn<vblex><pres><p3><sg>$
       1 #scorn\<n\>\<pl\>	^scorn<n><pl>$
       1 #scoring position\<n\>\<pl\>	^scoring position<n><pl>$
@@ -13098,6 +13177,7 @@ Tag mismatch between transfer and generation
       1 #Ølnes\<np\>\<cog\>\<sg\>	^Ølnes<np><cog><sg>$
       1 #Ollanketo\<np\>\<cog\>\<sg\>	^Ollanketo<np><cog><sg>$
       1 #Olea\<np\>\<ant\>\<f\>\<sg\>	^Olea<np><ant><f><sg>$
+      1 #Old Norse\<n\>\<sg\>	^Old Norse<n><sg>$
       1 #older institution\<n\>\<sg\>	^older institution<n><sg>$
       1 #old-age pensioner\<n\>\<sg\>	^old-age pensioner<n><sg>$
       1 #ØKSFJORD\<np\>\<top\>\<sg\>	^ØKSFJORD<np><top><sg>$
@@ -13145,8 +13225,12 @@ Tag mismatch between transfer and generation
       1 #NOTODDEN\<np\>\<top\>\<sg\>	^NOTODDEN<np><top><sg>$
       1 #NOTHING\<n\>\<sp\>	^NOTHING<n><sp>$
       1 #NORWICH\<np\>\<top\>\<sg\>	^NORWICH<np><top><sg>$
+      1 #Norwegian Swedish\<n\>\<sg\>	^Norwegian Swedish<n><sg>$
+      1 #Norwegian Danish\<n\>\<sg\>	^Norwegian Danish<n><sg>$
       1 #Norunn\<np\>\<ant\>\<f\>\<sg\>	^Norunn<np><ant><f><sg>$
       1 #NORUM\<np\>\<cog\>\<sg\>	^NORUM<np><cog><sg>$
+      1 #North Sámi\<n\>\<sg\>	^North Sámi<n><sg>$
+      1 #NORTH NORWEGIAN\<n\>\<sg\>	^NORTH NORWEGIAN<n><sg>$
       1 #Norte\<np\>\<top\>\<sg\>	^Norte<np><top><sg>$
       1 #Norn\<n\>\<pl\>	^Norn<n><pl>$
       1 #Norlund\<np\>\<cog\>\<sg\>	^Norlund<np><cog><sg>$
@@ -14572,6 +14656,7 @@ Tag mismatch between transfer and generation
       1 #Edle\<np\>\<ant\>\<f\>\<sg\>	^Edle<np><ant><f><sg>$
       1 #Editorial committee\<n\>\<sg\>	^Editorial committee<n><sg>$
       1 #East\<n\>\<pl\>	^East<n><pl>$
+      1 #east Norwegian\<n\>\<sg\>	^east Norwegian<n><sg>$
       1 #Easter Island\<np\>\<top\>\<sg\>	^Easter Island<np><top><sg>$
       1 #Ear\<vblex\>\<pres\>\<p3\>\<sg\>	^Ear<vblex><pres><p3><sg>$
       1 #earthworm\<n\>\<sg\>	^earthworm<n><sg>$
@@ -15425,11 +15510,20 @@ Tag mismatch between transfer and generation
       1 #Aalvik\<np\>\<cog\>\<sg\>	^Aalvik<np><cog><sg>$
       1 #Aalborg\<np\>\<top\>\<sg\>	^Aalborg<np><top><sg>$
       1 #AAKRE\<np\>\<cog\>\<sg\>	^AAKRE<np><cog><sg>$
+      1 #97 year old\<num\>\<sg\>	^97 year old<num><sg>$
+      1 #92 year old\<num\>\<sg\>	^92 year old<num><sg>$
+      1 #81 year old\<num\>\<sg\>	^81 year old<num><sg>$
+      1 #79 year old\<num\>\<sg\>	^79 year old<num><sg>$
+      1 #73 year old\<num\>\<sg\>	^73 year old<num><sg>$
+      1 #63 year old\<num\>\<sg\>	^63 year old<num><sg>$
+      1 #5 year old\<num\>\<sg\>	^5 year old<num><sg>$
+      1 #3 year old\<num\>\<sg\>	^3 year old<num><sg>$
+      1 #111 year old\<num\>\<sg\>	^111 year old<num><sg>$
 
 ===============================================================================
 Summary
 ===============================================================================
      5 /tmp/no-en.multiform
      6 /tmp/no-en.multibidix
- 15401 /tmp/no-en.tagmismatch
- 15412 total
+ 15495 /tmp/no-en.tagmismatch
+ 15506 total

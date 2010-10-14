@@ -128,7 +128,6 @@
     343 ^@syke<n>$
     339 ^@utøver<n>$
     336 ^@reindrift<n>$
-    330 ^@nordnorsk<n>$
     326 ^@em<n>$
     325 ^@sosial<n>$
     324 ^@gir<n>$
@@ -270,10 +269,8 @@
     155 ^@jan<n>$
     153 ^@solist<n>$
     152 ^@handlingsplan<n>$
-    152 ^@22-åring<n>$
     151 ^@nor<n>$
     151 ^@årsverk<n>$
-    150 ^@19-åring<n>$
     149 ^@mottak<n>$
     149 ^@fiskeflåte<n>$
     149 ^@bru<n>$
@@ -350,11 +347,9 @@
     122 ^@årsklasse<n>$
     121 ^@oljeselskap<n>$
     121 ^@bistand<n>$
-    121 ^@17-åring<n>$
     120 ^@notat<n>$
     120 ^@jaktstart<n>$
     120 ^@arkivfoto<n>$
-    120 ^@18-åring<n>$
     119 ^@gule<n>$
     119 ^@fiskefartøy<n>$
     118 ^@ungdomsklubb<n>$
@@ -375,7 +370,6 @@
     112 ^@nærmiljø<n>$
     112 ^@minimum<n>$
     112 ^@arbeidsmiljølov<n>$
-    112 ^@20-åring<n>$
     111 ^@nabokommune<n>$
     111 ^@arbeidstilsyn<n>$
     110 ^@trøbbel<n>$
@@ -407,7 +401,6 @@
     104 ^@koll<n>$
     104 ^@kall<n>$
     104 ^@bygdefolk<n>$
-    104 ^@27-åring<n>$
     103 ^@tet<n>$
     103 ^@programleder<n>$
     103 ^@bebyggelse<n>$
@@ -436,7 +429,6 @@
      97 ^@tilbakegang<n>$
      97 ^@melde<n>$
      97 ^@lass<n>$
-     97 ^@21-åring<n>$
      96 ^@nordvest<n><sp>$
      96 ^@lagkamerat<n>$
      96 ^@konsept<n>$
@@ -458,7 +450,6 @@
      93 ^@mette<n>$
      93 ^@kvantum<n>$
      93 ^@blodprøve<n>$
-     93 ^@25-åring<n>$
      92 ^@ving<n>$
      92 ^@studie<n>$
      92 ^@kommunepolitikk<n>$
@@ -476,7 +467,6 @@
      89 ^@serierunde<n>$
      89 ^@juledag<n>$
      89 ^@fiskebestand<n>$
-     89 ^@24-åring<n>$
      88 ^@rask<n>$
      88 ^@minneord<n>$
      88 ^@lytter<n>$
@@ -487,7 +477,6 @@
      87 ^@læreplan<n>$
      87 ^@kvartfinale<n>$
      87 ^@fylkeslag<n>$
-     87 ^@15-åring<n>$
      86 ^@tull<n>$
      86 ^@styrt<n>$
      86 ^@stå<n><sp>$
@@ -548,8 +537,6 @@
      79 ^@førsteplass<n>$
      79 ^@damelag<n>$
      79 ^@arbeidsutvalg<n>$
-     79 ^@33-åring<n>$
-     79 ^@16-åring<n>$
      78 ^@tøff<n>$
      78 ^@pressetalsmann<n>$
      78 ^@ikon<n>$
@@ -569,7 +556,6 @@
      75 ^@havfiskeflåte<n>$
      75 ^@gatekjøkken<n>$
      75 ^@dagsrevy<n>$
-     75 ^@23-åring<n>$
      74 ^@hjemby<n>$
      74 ^@helsevern<n>$
      74 ^@fans<n>$
@@ -597,7 +583,6 @@
      71 ^@forlis<n>$
      71 ^@folkemøte<n>$
      71 ^@bildetekst<n>$
-     71 ^@6-åring<n>$
      70 ^@stikker<n>$
      70 ^@samvær<n>$
      70 ^@råderett<n>$
@@ -642,6 +627,7 @@
      65 ^@juniorlag<n>$
      65 ^@færing<n>$
      65 ^@aspekt<n>$
+     65 ^@6-åring<n>$
      64 ^@turnering<n>$
      64 ^@tromsø-mann<n>$
      64 ^@sel<n>$
@@ -732,7 +718,6 @@
      55 ^@divisjonsmusikk<n>$
      55 ^@byggearbeid<n>$
      55 ^@brekke<n>$
-     55 ^@14-åring<n>$
      54 ^@treningsleir<n>$
      54 ^@spekter<n>$
      54 ^@soul<n>$
@@ -767,7 +752,6 @@
      53 ^@fangstfolk<n>$
      53 ^@fabrikkskip<n>$
      53 ^@ekspertise<n>$
-     53 ^@disk<n>$
      53 ^@bunke<n>$
      53 ^@bosettingsmønster<n>$
      53 ^@assistent<n>$
@@ -794,7 +778,6 @@
      51 ^@juniorklasse<n>$
      51 ^@heim<n>$
      51 ^@grenseland<n>$
-     51 ^@28-åring<n>$
      50 ^@stress<n>$
      50 ^@snitt<n>$
      50 ^@landegrense<n>$
@@ -807,7 +790,6 @@
      50 ^@anke<n>$
      50 ^@aksjonsgruppe<n>$
      49 ^@uefa-cup<n>$
-     49 ^@småfisk<n>$
      49 ^@prisfall<n>$
      49 ^@kunstmuse<n>$
      49 ^@grendehus<n>$
@@ -825,7 +807,6 @@
      48 ^@korps<n>$
      48 ^@inntak<n>$
      48 ^@gigant<n>$
-     48 ^@26-åring<n>$
      47 ^@tv-skjerm<n>$
      47 ^@tilskott<n>$
      47 ^@stå<n>$
@@ -911,7 +892,6 @@
      42 ^@aula<n>$
      42 ^@arroganse<n>$
      42 ^@arbeidsgiveravgift<n>$
-     42 ^@31-åring<n>$
      41 ^@uteliv<n>$
      41 ^@skigymnas<n>$
      41 ^@oppvekstvilkår<n>$
@@ -972,7 +952,6 @@
      39 ^@anbudsrunde<n>$
      39 ^@alderdom<n>$
      39 ^@abortlov<n>$
-     39 ^@30-åring<n>$
      38 ^@vertskap<n>$
      38 ^@tynne<n>$
      38 ^@trase<n>$
@@ -995,7 +974,6 @@
      38 ^@bannskap<n>$
      38 ^@arbeiderforening<n>$
      38 ^@angriper<n>$
-     38 ^@32-åring<n>$
      37 ^@utkantkommune<n>$
      37 ^@utbyggingsplan<n>$
      37 ^@trasé<n>$
@@ -1147,8 +1125,6 @@
      32 ^@avvisning<n>$
      32 ^@ans<n>$
      32 ^@a-landskamp<n>$
-     32 ^@50-åring<n>$
-     32 ^@45-åring<n>$
      31 ^@vestlending<n>$
      31 ^@vegkontor<n>$
      31 ^@våpensystem<n>$
@@ -1241,7 +1217,6 @@
      29 ^@arbeidsstokk<n>$
      29 ^@arbeidsgiveransvar<n>$
      29 ^@alkoholforbruk<n>$
-     29 ^@12-åring<n>$
      28 ^@water<n>$
      28 ^@utslått<n>$
      28 ^@ungdomshus<n>$
@@ -1289,6 +1264,7 @@
      28 ^@avkjørsel<n>$
      28 ^@arvtaker<n>$
      28 ^@arbeidspress<n>$
+     28 ^@17-åring<n>$
      27 ^@visitt<n>$
      27 ^@verv<n>$
      27 ^@tv-bilde<n>$
@@ -1395,7 +1371,7 @@
      25 ^@avlastning<n>$
      25 ^@avduking<n>$
      25 ^@arbeidsvilkår<n>$
-     25 ^@11-åring<n>$
+     25 ^@16-åring<n>$
      24 ^@utpost<n>$
      24 ^@ungdomsskoleelev<n>$
      24 ^@undertrykking<n>$
@@ -1440,7 +1416,6 @@
      24 ^@ambulansefly<n>$
      24 ^@alenemor<n>$
      24 ^@aksjemajoritet<n>$
-     24 ^@13-åring<n>$
      23 ^@vestside<n>$
      23 ^@vårsesong<n>$
      23 ^@vaktselskap<n>$
@@ -1480,6 +1455,7 @@
      23 ^@auto<n><sp>$
      23 ^@anskaffelse<n>$
      23 ^@alpinist<n>$
+     23 ^@14-åring<n>$
      22 ^@verbal<n>$
      22 ^@vegnett<n>$
      22 ^@varsku<n>$
@@ -1586,7 +1562,6 @@
      21 ^@anleggsbransje<n>$
      21 ^@allsidighet<n>$
      21 ^@alkohollov<n>$
-     21 ^@29-åring<n>$
      20 ^@vol<n>$
      20 ^@vintersesong<n>$
      20 ^@verdigrunnlag<n>$
@@ -1657,6 +1632,7 @@
      20 ^@aktivist<n>$
      20 ^@aksjepost<n>$
      20 ^@aksjekurs<n>$
+     20 ^@15-åring<n>$
      19 ^@vinterdag<n>$
      19 ^@varmekabel<n>$
      19 ^@tv-reklame<n>$
@@ -1733,8 +1709,6 @@
      19 ^@anleggsarbeider<n>$
      19 ^@aldersgrense<n>$
      19 ^@aan-kontor<n>$
-     19 ^@40-åring<n>$
-     19 ^@35-åring<n>$
      18 ^@world cup<n>$
      18 ^@viseklubb<n>$
      18 ^@venstrefot<n>$
@@ -1808,7 +1782,6 @@
      18 ^@andremann<n>$
      18 ^@alminnelighet<n>$
      18 ^@alkoholproblem<n>$
-     18 ^@60-åring<n>$
      17 ^@vesteråling<n>$
      17 ^@venterom<n>$
      17 ^@vante<n>$
@@ -1986,7 +1959,6 @@
      16 ^@alkoholomsetning<n>$
      16 ^@aksjelov<n>$
      16 ^@abortmotstander<n>$
-     16 ^@39-åring<n>$
      15 ^@western<n>$
      15 ^@waitz-løp<n>$
      15 ^@velvære<n>$
@@ -2088,8 +2060,6 @@
      15 ^@ankerfeste<n>$
      15 ^@andrelag<n>$
      15 ^@aksjeeier<n>$
-     15 ^@41-åring<n>$
-     15 ^@37-åring<n>$
      14 ^@vitneprov<n>$
      14 ^@vitneboks<n>$
      14 ^@veronika<n>$
@@ -2203,7 +2173,6 @@
      14 ^@allmennlærerutdanning<n>$
      14 ^@allmennfag<n>$
      14 ^@ærespris<n>$
-     14 ^@38-åring<n>$
      13 ^@vrakpant<n>$
      13 ^@vm-bakke<n>$
      13 ^@vinterkulde<n>$
@@ -2336,7 +2305,6 @@
      13 ^@a-lagsspiller<n>$
      13 ^@agn<n>$
      13 ^@adventstid<n>$
-     13 ^@34-åring<n>$
      12 ^@yrkeskarriere<n>$
      12 ^@vm-sluttspill<n>$
      12 ^@vm-finale<n>$
@@ -2463,9 +2431,9 @@
      12 ^@advokatfirma<n>$
      12 ^@adjunkt<n>$
      12 ^@abstrakt<n>$
-     12 ^@70-åring<n>$
-     12 ^@44-åring<n>$
-     12 ^@43-åring<n>$
+     12 ^@19-åring<n>$
+     12 ^@18-åring<n>$
+     12 ^@12-åring<n>$
      11 ^@voldtektsoffer<n>$
      11 ^@vm-uttak<n>$
      11 ^@vm-tur<n>$
@@ -2827,8 +2795,7 @@
      10 ^@aha-opplevelse<n>$
      10 ^@æresgjest<n>$
      10 ^@advokatfullmektig<n>$
-     10 ^@53-åring<n>$
-     10 ^@36-åring<n>$
+     10 ^@40-åring<n>$
       9 ^@ytterkant<n>$
       9 ^@yrkesskole<n>$
       9 ^@yrkesbror<n>$
@@ -3041,10 +3008,7 @@
       9 ^@adresseavis<n>$
       9 ^@adam<n>$
       9 ^@aborttall<n>$
-      9 ^@8-åring<n>$
-      9 ^@47-åring<n>$
-      9 ^@42-åring<n>$
-      9 ^@10-åring<n>$
+      9 ^@13-åring<n>$
       8 ^@vm-medalje<n>$
       8 ^@vm-form<n>$
       8 ^@vm-bronse<n>$
@@ -3316,8 +3280,8 @@
       8 ^@aldersdemens<n>$
       8 ^@aksjeoppkjøp<n>$
       8 ^@a-klasse<n>$
-      8 ^@66-åring<n>$
-      8 ^@46-åring<n>$
+      8 ^@50-åring<n>$
+      8 ^@11-åring<n>$
       7 ^@vrimmel<n>$
       7 ^@vrangvilje<n>$
       7 ^@vm-kvalifisering<n>$
@@ -3668,10 +3632,6 @@
       7 ^@allegro<n>$
       7 ^@a-lagstrener<n>$
       7 ^@adressat<n>$
-      7 ^@82-åring<n>$
-      7 ^@78-åring<n>$
-      7 ^@56-åring<n>$
-      7 ^@48-åring<n>$
       6 ^@vrakgods<n>$
       6 ^@visdomsord<n>$
       6 ^@vinprodusent<n>$
@@ -3976,6 +3936,7 @@
       6 ^@don juan<n>$
       6 ^@dødsoffer<n>$
       6 ^@display<n>$
+      6 ^@disk<n>$
       6 ^@databank<n>$
       6 ^@cupfinalist<n>$
       6 ^@c-post<n>$
@@ -4061,10 +4022,8 @@
       6 ^@adgangsbegrensning<n>$
       6 ^@abortsak<n>$
       6 ^@a4-format<n>$
-      6 ^@77-åring<n>$
-      6 ^@71-åring<n>$
-      6 ^@5-åring<n>$
-      6 ^@51-åring<n>$
+      6 ^@60-åring<n>$
+      6 ^@20-åring<n>$
       5 ^@yrkesskade<n>$
       5 ^@vurderingsspørsmål<n>$
       5 ^@vorr<n>$
@@ -4600,12 +4559,8 @@
       5 ^@advokathjelp<n>$
       5 ^@adresseliste<n>$
       5 ^@adferd<n>$
-      5 ^@90-åring<n>$
-      5 ^@80-åring<n>$
-      5 ^@76-åring<n>$
-      5 ^@65-åring<n>$
-      5 ^@59-åring<n>$
-      5 ^@58-åring<n>$
+      5 ^@70-åring<n>$
+      5 ^@5-åring<n>$
       4 ^@yrkesopplæring<n>$
       4 ^@yrkesbefal<n>$
       4 ^@weasel<n>$
@@ -5346,13 +5301,6 @@
       4 ^@af-medlem<n>$
       4 ^@ablegøyer<n>$
       4 ^@aber<n>$
-      4 ^@85-åring<n>$
-      4 ^@84-åring<n>$
-      4 ^@74-åring<n>$
-      4 ^@68-åring<n>$
-      4 ^@64-åring<n>$
-      4 ^@49-åring<n>$
-      4 ^@100-åring<n>$
       3 ^@yrkesetikk<n>$
       3 ^@yrkesaktivitet<n>$
       3 ^@yatzy<n>$
@@ -6202,7 +6150,6 @@
       3 ^@busserull<n>$
       3 ^@bussavgang<n>$
       3 ^@bunnpris<n>$
-      3 ^@bulgarsk<n>$
       3 ^@buhund<n>$
       3 ^@brusfabrikk<n>$
       3 ^@bruksgjenstand<n>$
@@ -6415,14 +6362,6 @@
       3 ^@abortdebatt<n>$
       3 ^@abonnementspris<n>$
       3 ^@a-aksje<n>$
-      3 ^@9-åring<n>$
-      3 ^@88-åring<n>$
-      3 ^@86-åring<n>$
-      3 ^@75-åring<n>$
-      3 ^@67-åring<n>$
-      3 ^@62-åring<n>$
-      3 ^@57-åring<n>$
-      3 ^@4-åring<n>$
       2 ^@yttervegg<n>$
       2 ^@ytrefilet<n>$
       2 ^@ys-leder<n>$
@@ -8076,15 +8015,9 @@
       2 ^@abortinngrep<n>$
       2 ^@aborigin<n>$
       2 ^@abonnementsavgift<n>$
-      2 ^@94-tall<n>$
-      2 ^@93-tall<n>$
-      2 ^@83-åring<n>$
-      2 ^@72-åring<n>$
-      2 ^@69-åring<n>$
-      2 ^@61-åring<n>$
-      2 ^@55-åring<n>$
-      2 ^@3-åring<n>$
-      2 ^@1993-tall<n>$
+      2 ^@30-åring<n>$
+      2 ^@21-åring<n>$
+      2 ^@10-åring<n>$
       1 ^@ytterplagg<n>$
       1 ^@ys-medlem<n>$
       1 ^@yrkessykdom<n>$
@@ -8130,7 +8063,6 @@
       1 ^@viljehands<n>$
       1 ^@vigsel<n>$
       1 ^@vietnamesisk<n><sp>$
-      1 ^@vietnamesisk<n>$
       1 ^@videresending<n>$
       1 ^@videospill<n>$
       1 ^@vibriose<n>$
@@ -8990,7 +8922,6 @@
       1 ^@petimeter<n>$
       1 ^@persontog<n>$
       1 ^@personregister<n>$
-      1 ^@persisk<n>$
       1 ^@perlehumør<n>$
       1 ^@periskop<n>$
       1 ^@periodisitet<n>$
@@ -9027,7 +8958,6 @@
       1 ^@overdekk<n>$
       1 ^@ovarenn<n>$
       1 ^@østrogen<n>$
-      1 ^@østnorsk<n>$
       1 ^@oslo-teater<n>$
       1 ^@oslomann<n>$
       1 ^@oslo-mann<n>$
@@ -9111,11 +9041,8 @@
       1 ^@notestativ<n>$
       1 ^@notabene<n>$
       1 ^@nors<n>$
-      1 ^@norsk-svensk<n>$
       1 ^@norsk<n>$
-      1 ^@norsk-dansk<n>$
       1 ^@norgesglas<n>$
-      1 ^@nordsamisk<n>$
       1 ^@nordisme<n>$
       1 ^@nordhimmel<n>$
       1 ^@nomadefolk<n>$
@@ -9926,7 +9853,6 @@
       1 ^@geværsalve<n>$
       1 ^@geværkompani<n>$
       1 ^@gesims<n>$
-      1 ^@germansk<n>$
       1 ^@geriljakrig<n>$
       1 ^@geokjemi<n>$
       1 ^@geodesi<n>$
@@ -9950,13 +9876,11 @@
       1 ^@garant<n>$
       1 ^@ganger<n>$
       1 ^@gammelnorsk<n><sp>$
-      1 ^@gammelnorsk<n>$
       1 ^@gammaldans<n>$
       1 ^@gamla<n>$
       1 ^@galimatias<n>$
       1 ^@galgenfrist<n>$
       1 ^@gælisk<n><sp>$
-      1 ^@gælisk<n>$
       1 ^@fyrrom<n>$
       1 ^@fyrop<n>$
       1 ^@fyllik<n>$
@@ -11013,17 +10937,17 @@
       1 ^@abonnementsavtale<n>$
       1 ^@a-bombe<n>$
       1 ^@abc-bank<n>$
-      1 ^@97-åring<n>$
-      1 ^@92-åring<n>$
-      1 ^@81-åring<n>$
+      1 ^@9-åring<n>$
+      1 ^@90-åring<n>$
+      1 ^@8-åring<n>$
+      1 ^@85-åring<n>$
+      1 ^@80-åring<n>$
       1 ^@7-åring<n>$
-      1 ^@79-åring<n>$
-      1 ^@73-åring<n>$
-      1 ^@63-åring<n>$
-      1 ^@1995-tall<n>$
-      1 ^@1994-tall<n>$
-      1 ^@1992-tall<n>$
-      1 ^@111-åring<n>$
+      1 ^@75-åring<n>$
+      1 ^@4-åring<n>$
+      1 ^@3-åring<n>$
+      1 ^@32-åring<n>$
+      1 ^@25-åring<n>$
       1 ^@108-åring<n>$
       1 ^@107-åring<n>$
       1 ^@106-åring<n>$
