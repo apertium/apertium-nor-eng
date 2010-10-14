@@ -341,7 +341,7 @@
 
   <section-rules>
 
-    <!-- Sintagmas nominales -->
+    <!-- SECTION: Stranded modifiers -->
 
     <rule comment="REGLA: det">
       <pattern>
@@ -366,6 +366,8 @@
         </out>
       </action>
     </rule>
+
+    <!-- SECTION: Sintagmas nominales -->
 
     <rule comment="REGLA: adjec">
       <pattern>
@@ -951,8 +953,6 @@
       </action>
     </rule>
 
-
-
     <rule comment="REGLA: prnpers">
       <pattern>
         <pattern-item n="prnpers"/>
@@ -1000,6 +1000,8 @@
     </rule>
 
 
+    <!-- SECTION: Verb chunks -->
+
     <rule comment="REGLA: vinf_pass">
       <pattern>
         <pattern-item n="vinf_pass"/>
@@ -1029,8 +1031,6 @@
         </out>
       </action>
     </rule>
-
-
 
     <rule comment="REGLA: vfin_pass">
       <pattern>
@@ -1136,6 +1136,8 @@
         </out>
       </action>
     </rule>
+
+    <!-- SECTION: Sentence bound chunks -->
 
     <rule comment="REGLA: cnjcoo">
       <pattern>

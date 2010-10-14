@@ -1,0 +1,35 @@
+      1 ^t<n>$ í ^my<det><pos>$ ð ^@jar<n>$ ð ^*arhafi$ ð ^and<cnjcoo>$
+      1 ^t<n>$ ȟ ^that<cnjsub>$ ȟ ^@á<pr>$
+      1 ^@tant<n>$ ō ^or<cnjcoo>$
+      1 ^@tane<vblex><pp>$ ã ^and<cnjcoo>$
+      1 ^@suffiks<n>$ -ī ^and<cnjcoo>$
+      1 ^@suffiks<n>$ -ā ^and<cnjcoo>$ -ū^.<sent>$
+      1 ^@skei<n>$ ð ^and<cnjcoo>$
+      1 ^@sav<n>$ şı ^or<cnjcoo>$
+      1 ^@russisk<n><sp>$ витус ионассен беринг ^or<cnjcoo>$ иван иванович беринг = ^ivan<np><ant><m>$
+      1 ^or<cnjcoo>$ ολύμπια ^@ol<n>$ ý ^*mpia$
+      1 ^or<cnjcoo>$ β- ^@prefiks<n>$
+      1 ^or<cnjcoo>$ ā ^c<n>$ ā ^@ra<n>$
+      1 ^@jiddisch<n><sp>$ כּלי־זמיר ^and<cnjcoo>$
+      1 ^@ili<np>$ ć ^that<cnjsub>$
+      1 ^@ili<np>$ ć ^in order to<cnjsub>$
+      1 ^@ili<np>$ ć ^and<cnjcoo>$
+      1 ^@gresk<n><sp>$ ἄττα ^and<cnjcoo>$
+      1 ^@gresk<n><sp>$ ἐκκλησία ^and<cnjcoo>$ -λογια^,<cm>$
+      1 ^@gresk<n><sp>$ «εις την πόλιν» ^or<cnjcoo>$ «στην πόλη» ^[<lpar>$
+      1 ^*funksjonelle$ α ^and<cnjcoo>$ β ^@hemoglobin<n>$
+      1 ^@for<adv>$ 우 ^or<cnjcoo>$ 으^.<sent>$
+      1 ^@for<adv>$ 오 ^or<cnjcoo>$ 어 ^or<cnjcoo>$
+      1 ^@for<adv>$ 어 ^and<cnjcoo>$
+      1 ^@der<pr>$ љ^,<cm>$ њ^,<cm>$ ј ^and<cnjcoo>$ џ ^also<adv>$
+      1 ^b<n>$ ū ^@ting<n>$ ė ^and<cnjcoo>$
+      1 ^@bal<n>$ ş ^and<cnjcoo>$
+      1 ^@bak<n>$ ł ^*ód$ ź ^and<cnjcoo>$
+      1 ^at<pr>$ ğ ^@as<n>$ ı ^or<cnjcoo>$
+      1 ^@armensk<n>$ միքայել ^or<cnjcoo>$
+      1 ^@arabisk<n><sp>$ أبو سنبل ^or<cnjcoo>$ أبو سمبل^)<rpar>$
+      1 ^and<cnjcoo>$ 三里灣 ^@san<n>$
+      1 ^and<cnjcoo>$ π- ^@meson<n>$
+      1 ^and<cnjcoo>$ í ^@log<n>$
+      1 ^@al<n>$ þýð ^*ubandalagi$ ð ^or<cnjcoo>$
+      1 ^@al<n>$ þýð ^*ubandalagi$ ð ^and<cnjcoo>$
