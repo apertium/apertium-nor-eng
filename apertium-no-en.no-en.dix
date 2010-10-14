@@ -188,6 +188,7 @@
     <e><p><l>som<b/>om<s n="cnjsub"/></l><r>as<b/>if<s n="cnjsub"/></r></p></e>
     <e><p><l>når<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>til<s n="cnjsub"/></l><r>to<s n="cnjsub"/></r></p></e>
+    <e><p><l>før<s n="cnjsub"/></l><r>before<s n="cnjsub"/></r></p></e>
 
     <e c="rel"><p><l>som<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
 
@@ -807,8 +808,9 @@
 <e c="  0"><p><l>arrangør<s n="n"/><s n="m"/></l><r>organiser<s n="n"/></r></p></e>
 <e c="  0"><p><l>arrest<s n="n"/><s n="m"/></l><r>detention<s n="n"/></r></p></e>
 <e c="  0"><p><l>art<s n="n"/></l>           <r>species<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="  0"><p><l>artikkel<s n="n"/><s n="m"/></l><r>item<s n="n"/></r></p></e>
-<e slr="1"><p><l>artikkel<s n="n"/><s n="m"/></l><r>paragraph<s n="n"/></r></p></e>
+<e c="  0"><p><l>artikkel<s n="n"/><s n="m"/></l><r>article<s n="n"/></r></p></e>
+<e slr="1"><p><l>artikkel<s n="n"/><s n="m"/></l><r>item<s n="n"/></r></p></e>
+<e slr="2"><p><l>artikkel<s n="n"/><s n="m"/></l><r>paragraph<s n="n"/></r></p></e>
 <e c="  0"><p><l>artilleri<s n="n"/><s n="nt"/></l><r>ordnance<s n="n"/></r></p></e>
 <e c="  0"><p><l>arv<s n="n"/><s n="m"/></l> <r>inheritance<s n="n"/></r></p></e>
 <e slr="1"><p><l>arv<s n="n"/><s n="m"/></l> <r>heritage<s n="n"/></r></p></e>
@@ -9119,6 +9121,7 @@
 <e c="  0"><p><l>d-dag<s n="n"/><s n="m"/></l><r>D-Day<s n="n"/></r></p></e>
 <e c="  0"><p><l>bosnisk<s n="n"/><s n="m"/></l><r>Bosnian<s n="n"/></r></p></e>
 <e c="  0"><p><l>bokmål<s n="n"/><s n="nt"/></l><r>Bokmål<s n="n"/></r></p></e>
+<e c="  0"><p><l>riksmål<s n="n"/><s n="nt"/></l><r>Riksmål<s n="n"/></r></p></e>
 <e c="  0"><p><l>blodtrykk<s n="n"/><s n="nt"/></l><r>blood<b/>pressure<s n="n"/></r></p></e>
 <e c="  0"><p><l>bankkrise<s n="n"/><s n="m"/></l><r>bank<b/>run<s n="n"/></r></p></e>
 <e c="  0"><p><l>automatikk<s n="n"/><s n="m"/></l><r>automation<s n="n"/></r></p></e>
@@ -9998,6 +10001,10 @@
     <e c="  0"><p><l>gammelnorsk<s n="n"/><s n="m"/></l><r>Old<b/>Norse<s n="n"/></r></p><par n="sp_sg"/></e>
     <e c="  0"><p><l>gælisk<s n="n"/><s n="m"/></l><r>Gaelic<s n="n"/></r></p><par n="sp_sg"/></e>
     <e c="  0"><p><l>finlandssvensk<s n="n"/><s n="m"/></l><r>Finlandsvensk<s n="n"/></r></p><par n="sp_sg"/></e>
+
+    <e c="  0"><p><l>disputt<s n="n"/><s n="m"/></l><r>dispute<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>grensedisputt<s n="n"/><s n="m"/></l><r>border<b/>dispute<s n="n"/></r></p><par n="sp_sg"/></e>
+    <e c="  0"><p><l>kolonialisme<s n="n"/><s n="m"/></l><r>colonialism<s n="n"/></r></p></e>
 
 
 
@@ -11210,7 +11217,6 @@
     <e><p><l>Bård<s n="np"/><s n="m"/></l><r>Bård<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Bendik<s n="np"/><s n="m"/></l><r>Bendik<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Bengt<s n="np"/><s n="m"/></l><r>Bengt<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>Bent<s n="adv"/></l><r>Bent<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Bernhard<s n="np"/><s n="m"/></l><r>Bernhard<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Bernt<s n="np"/><s n="m"/></l><r>Bernt<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Birger<s n="np"/><s n="m"/></l><r>Birger<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -19098,6 +19104,8 @@
     <e c="  0"><p><l>hvor<s n="adv"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e> 
     <e c="  0"><p><l>hva<s n="adv"/></l><r>what<s n="det"/><s n="itg"/><s n="sp"/></r></p></e>  <!-- WRONG -->
 
+    <e c="  0"><p><l>hvorav<s n="adv"/></l><r>of<b/>which<s n="adv"/></r></p></e> 
+
     <e c="  0"><p><l>f.<b/>eks.<s n="adv"/></l><r>e.g.<s n="abbr"/></r></p></e>
     <e c="  0"><p><l>f.eks.<s n="adv"/></l><r>e.g.<s n="abbr"/></r></p></e>
     <e c="  0"><p><l>td.<s n="adv"/></l><r>e.g.<s n="abbr"/></r></p></e>
@@ -19126,6 +19134,7 @@
     <e c="  0"><p><l>alene<s n="adv"/></l><r>alone<s n="adv"/></r></p></e>
     <e c="  0"><p><l>delvis<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
     <e c="  0"><p><l>svært<s n="adv"/></l><r>very<s n="preadv"/></r></p></e>
+    <e c="  0"><p><l>fritt<s n="adv"/></l><r>freely<s n="adv"/></r></p></e>
 
     <e c="  0"><p><l>utelukkende<s n="adv"/></l><r>exclusively<s n="adv"/></r></p></e>
     <e c="  0"><p><l>massevis<s n="adv"/></l><r>a<b/>lot<s n="adv"/></r></p></e>
