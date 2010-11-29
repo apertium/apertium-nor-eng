@@ -21,6 +21,7 @@
     <sdef n="vbser"      c="Verb 'to be'"/>
     <sdef n="pp"         c="Participle"/>
     <sdef n="prn"        c="Pronoun"/>
+    <sdef n="ij"         c="Interjection"/>
 
     <sdef n="al"         c="Altres"/>
     <sdef n="top"        c="Toponym"/>
@@ -24651,6 +24652,8 @@
  
     <!-- SECTION: Interjections -->
 
+    <e c="  0"><p><l>nei<s n="ij"/></l><r>no<s n="ij"/></r></p></e>
+    <e c="  0"><p><l>ja<s n="ij"/></l><r>yes<s n="ij"/></r></p></e>
 
     <!-- SECTION: Punctuation -->
 
