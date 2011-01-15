@@ -972,10 +972,22 @@
             </let>
           </when>
           <otherwise>
-            <let>
-              <clip pos="1" side="tl" part="a_prn"/>
-              <lit-tag v="prn.subj"/>
-            </let>
+            <choose>
+              <when>
+                <test>
+                  <not>
+                    <equal>
+                      <clip pos="1" side="tl" part="a_prn"/>
+                      <lit-tag v="prn.ind"/>
+                    </equal>
+                  </not>
+                </test>
+                <let>
+                  <clip pos="1" side="tl" part="a_prn"/>
+                  <lit-tag v="prn.subj"/>
+                </let>
+              </when>
+            </choose>
           </otherwise>
         </choose>
         <out>
@@ -990,8 +1002,8 @@
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="pers" link-to="2"/>
-              <clip pos="1" side="tl" part="gen" link-to="3"/>
-              <clip pos="1" side="tl" part="nbr" link-to="4"/>
+              <clip pos="1" side="tl" part="gen"/>
+              <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>

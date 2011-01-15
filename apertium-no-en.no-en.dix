@@ -385,6 +385,7 @@
     <e c="  0"><p><l>ut<b/>i<s n="pr"/></l><r>out<b/>in<s n="pr"/></r></p></e>
     <e c="  0"><p><l>inne<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e c="  0"><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>pr<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
     <e c="  0"><p><l>borte<s n="pr"/></l><r>away<s n="pr"/></r></p></e>
     <e c="  0"><p><l>hjem<s n="pr"/></l><r>home<s n="pr"/></r></p></e>
     <e c="  0"><p><l>i<b/>ferd<b/>med<s n="pr"/></l><r>about<b/>to<s n="pr"/></r></p></e>
@@ -5507,6 +5508,8 @@
 <e>        <p><l>samfunn<s n="n"/><s n="nt"/></l><r>society<s n="n"/></r></p></e>
 <e>        <p><l>samfunnsfiende<s n="n"/><s n="m"/></l><r>public<b/>enemy<s n="n"/></r></p></e>
 <e>        <p><l>samisk<s n="n"/><s n="m"/></l><r>sámi<s n="n"/></r></p></e>
+<e>        <p><l>samisk<s n="n"/><s n="nt"/></l><r>sámi<s n="n"/></r></p></e>
+<e>        <p><l>nordsamisk<s n="n"/><s n="nt"/></l><r>north<b/>sámi<s n="n"/></r></p></e>
 <e>        <p><l>samkvem<s n="n"/><s n="nt"/></l><r>connection<s n="n"/></r></p></e>
 <e>        <p><l>samleie<s n="n"/><s n="nt"/></l><r>intercourse<s n="n"/></r></p></e>
 <e>        <p><l>samling<s n="n"/></l>       <r>gathering<s n="n"/></r></p><par n="m_LR_f"/></e>
@@ -5911,6 +5914,13 @@
 <e>        <p><l>skytteltrafikk<s n="n"/><s n="m"/></l><r>shuttle<s n="n"/></r></p></e>
 <e>        <p><l>skål<s n="n"/><s n="m"/></l><r>toast<s n="n"/></r></p></e>
 <e>        <p><l>skøyte<s n="n"/></l>        <r>skate<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e c="  0"><p><l>anslag<s n="n"/><s n="nt"/></l><r>plot<s n="n"/></r></p></e>
+<e slr="1"><p><l>anslag<s n="n"/><s n="nt"/></l><r>conspiracy<s n="n"/></r></p></e>
+<e slr="2"><p><l>anslag<s n="n"/><s n="nt"/></l><r>attack<s n="n"/></r></p></e>
+<e slr="3"><p><l>anslag<s n="n"/><s n="nt"/></l><r>poster<s n="n"/></r></p></e>
+<e slr="4"><p><l>anslag<s n="n"/><s n="nt"/></l><r>announcement<s n="n"/></r></p></e>
+<e slr="5"><p><l>anslag<s n="n"/><s n="nt"/></l><r>grant<s n="n"/></r></p></e>
+<e slr="6"><p><l>anslag<s n="n"/><s n="nt"/></l><r>touch<s n="n"/></r></p></e>
 <e c="  0"><p><l>slag<s n="n"/><s n="nt"/></l><r>kind<s n="n"/></r></p></e>
 <e slr="1"><p><l>slag<s n="n"/><s n="nt"/></l><r>hit<s n="n"/></r></p></e>
 <e slr="2"><p><l>slag<s n="n"/><s n="nt"/></l><r>punch<s n="n"/></r></p></e>
