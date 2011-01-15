@@ -24,7 +24,7 @@ if [[ $1 == "-r" ]]; then
 	done
 	echo "done.";
 	echo -n "Translating corpus for generation test (this could take some time)... ";
-	cat /tmp/no-en.corpus.txt | apertium -d ../ no-en-postchunk-nocg | sed 's/\$\W*\^/$\n^/g' > /tmp/no-en.gentest.postchunk
+	cat /tmp/no-en.corpus.txt | apertium -d ../ no-en-postchunk-nocg | sed 's/\$[\W`×=µ_-/‘’"«»}*%ְֲִֵֶַָֹَّ־ׁׂʉἀ़਼aáàăâậǎåäãąāảạæbcćçdďḍðeéèêếềệěėęēẹəfgǵğĝǧġhĥȟħḥḫiíìîǐïĩīỉịıjkķlľŀłḷmnńņñoóòŏôốồổộöõøǫōọờɔºœpqrŕřṛsśšşṣßtţṭuúùûǔůüűũūủȗụứựvwxyýỳÿzźżþʒآأإابپةتثجحخدذرزسشصضطعغفقكگلمنهويىئאבגדהוזחיכלםמןנסעףפצקרשתαάβγδεέζηήθιίκλμνξοόπρσςτυύφχψωώабвгдеєёжзийклмнњопрстуфхцчшщъыьэюяագդեէիլծկհմյնոպջսվտրքआउओकखगजटठडढणतदनपफबमयरलवशषसहािीुूेैोौंँ्ਸਹਕਗਘਜਥਦਬਮਰਲਵਾਿੀੁੂੋੰ੍ംമയലളാ丁三东中久之交京今任伊俊保元光八军凡出刀切北南县发同名向咏喜嘉国國土地圳城堤声夜大如妃姫婚子安宏定宮小尾岡岭島崎川巢平幽廷形悪拜撲操方族日昌曾會朋朝本村束東松歩民水永沙深清漢濱灣獞玄琳电的盟相真短硫礼社神稲空約美联聯腹臉臥荒荷薇薔藏藤虎蛇訓語謝變軍輔輝道部里铁長闪靖静韓風颱香高魔鮮鰲鲜鳥黄龍 ]*\^/$\n^/g' > /tmp/no-en.gentest.postchunk
 	echo "done.";
 fi
 
