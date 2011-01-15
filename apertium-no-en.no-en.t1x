@@ -9,6 +9,9 @@
       <cat-item tags="prn.p2.*"/>
       <cat-item tags="prn.p3.*"/>
     </def-cat>
+    <def-cat n="det_pos"> 
+      <cat-item tags="det.pos.*"/>
+    </def-cat>
     <def-cat n="det_qnt"> <!-- shame we can't just grab 'numbers' -->
       <cat-item tags="det.qnt.*"/>
     </def-cat>
@@ -21,6 +24,10 @@
       <cat-item tags="det.dem.*"/>
       <cat-item tags="det.ind.*"/>
       <cat-item tags="det.qnt.*"/>
+    </def-cat>
+    <def-cat n="nom_def">
+      <cat-item tags="n.*.*.def"/>
+      <cat-item tags="n.*.*.def.*"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
@@ -81,6 +88,7 @@
       <attr-item tags="num.ord"/>
       <attr-item tags="det.qnt"/>
       <attr-item tags="det.itg"/>
+      <attr-item tags="det.pos"/>
       <attr-item tags="det.dem"/>
       <attr-item tags="det.ind"/>
       <attr-item tags="det.def"/>
@@ -503,6 +511,52 @@
         </let>
       </action>
     </rule>
+
+    <rule comment="REGLA: nom_def det_pos
+                   huset mitt => my house">
+      <pattern>
+        <pattern-item n="nom_def"/>
+        <pattern-item n="det_pos"/>
+      </pattern>
+      <action>
+        <call-macro n="modify_nom">
+          <with-param pos="2"/>
+        </call-macro>
+              
+        <out>
+          <chunk name="mod_nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1">
+                <clip pos="2" side="tl" part="lemh"/>
+              </get-case-from>
+              <clip pos="2" side="tl" part="a_det"/>
+              <clip pos="2" side="tl" part="nbr"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <get-case-from pos="2">
+                <clip pos="1" side="tl" part="lemh"/>
+              </get-case-from>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="gen"/>
+              <clip pos="1" side="tl" part="nbr" link-to="2"/>
+              <clip pos="1" side="tl" part="lemq"/>
+              <var n="np_q"/>
+            </lu>
+          </chunk>
+        </out>
+        <let>
+          <var n="np_q"/>
+          <lit v=""/>
+        </let>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: det det adjec nom
                    de fire største organisasjonene => the four biggest organisations

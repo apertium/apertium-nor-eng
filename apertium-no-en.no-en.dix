@@ -19448,7 +19448,6 @@
     <e c="  0"><p><l>live<s n="adv"/></l><r>live<s n="adv"/></r></p></e> <!--(as it happens)-->
     <e c="  0"><p><l>nå<s n="adv"/></l><r>now<s n="adv"/></r></p></e> <!--(this very moment)-->
     <e slr="1"><p><l>nå<s n="adv"/></l><r>at<b/>the<b/>moment<s n="adv"/></r></p></e> <!--(this very moment)-->
-    <e c="  0"><p><l>når<s n="adv"/></l><r>when<s n="adv"/></r></p></e> <!--(at what time)-->
     <e c="  0"><p><l>nemlig<s n="adv"/></l><r>that<b/>is<s n="adv"/></r></p></e> 
     <e slr="1"><p><l>nemlig<s n="adv"/></l><r>that<b/>is<b/>to<b/>say<s n="adv"/></r></p></e> 
     <e slr="2"><p><l>nemlig<s n="adv"/></l><r>namely<s n="adv"/></r></p></e> 
@@ -19511,7 +19510,7 @@
     <e slr="4"><p><l>til<s n="adv"/></l><r>untill<s n="adv"/></r></p></e> 
     <e slr="5"><p><l>til<s n="adv"/></l><r>till<s n="adv"/></r></p></e> 
 
-    <e c="  0"><p><l>når<s n="adv"/></l><r>when<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>når<s n="adv"/></l><r>when<s n="adv"/><s n="itg"/></r></p></e> <!--(at what time)-->
     <e c="  0"><p><l>selv<s n="adv"/></l><r>alternately<s n="adv"/></r></p></e>
     <e c="  0"><p><l>enn<s n="adv"/></l><r>ever<s n="adv"/></r></p></e>
     <e slr="1"><p><l>enn<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
