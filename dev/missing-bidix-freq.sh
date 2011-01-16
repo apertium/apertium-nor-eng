@@ -3,6 +3,7 @@ DEV=/home/fran/source/apertium/incubator/apertium-no-en/dev/bidix/
 
 echo "SECTION
 
+SELECT (vblex);
 SELECT (inf);" > /tmp/temp_cg ;
 
 cg-comp /tmp/temp_cg /tmp/temp_cg.bin ;

@@ -1,25 +1,116 @@
-   6105 ^@²<det><qnt>$
-    286 ^@³<det><qnt>$
-    180 ^@½<det><qnt>$
+   6104 ^@²<det><qnt>$
+    283 ^@³<det><qnt>$
+    177 ^@½<det><qnt>$
      24 ^@²<det><qnt>$ 
-     15 ^@Che<np>$ ł ^my<det><pos>$ ń ^ski<n>$
+     15 ^@¹<det><qnt>$
      15 ^@¾<det><qnt>$
-     14 ^@¹<det><qnt>$
-     11 ^@Mei<n>$ ß ^a<det><ind>$
       8 ^@¼<det><qnt>$
-      6 ^@gro<n>$ ß ^a<det><ind>$
-      3 ^@Gro<n>$ ß ^a<det><ind>$
-      2 ^@au<n>$ ß ^a<det><ind>$
+      2 ^@vestkyst<n>$ – ^a<det><ind>$
+      2 ^that<det><dem>$ ” ^@re<n>$ ” ^psychology<n>$
+      2 ^@Sule<vblex><imp>$ | ^the<det><def>$
+      2 ^@LP<n>$ ´ ^a<det><ind>$
+      2 ^@Bedford<np>$ | ^the<det><def>$
+      2 ^a<det><ind>$ ” ^@…<sent><clb>$
+      2 ^@³<det><qnt>$ | ^E<n>$
       2 ^@¹<det><qnt>$ 
-      1 ^@Wei<np>$ β ^a<det><ind>$
-      1 ^@Wei<np>$ ß ^a<det><ind>$
-      1 ^t<n>$ í ^My<det><pos>$ ð ^@jar<n>$ ð ^*arhafi$ ð ^and<cnjcoo>$
-      1 ^@stie<vblex><inf>$ ß ^a<det><ind>$
-      1 ^@Schie<np>$ ß ^a<det><ind>$
-      1 ^@Pasi<np>$ ć ^a<det><ind>$
-      1 ^[<lpar>$ ˈ ^your<det><pos>$ ː ^*tr$ ɪç ˈ ^@bo<n><sp>$ ː ^*nh$ œ ^f<n>$ ɐ ^]<rpar>$
-      1 ^@hie<vblex><inf>$ ß ^a<det><ind>$
+      1 ^@verken<n>$ ” ^my<det><pos>$
+      1 ^@vårflom<n>$ – ^a<det><ind>$
+      1 ^@utenlands<pr>$ – ^a<det><ind>$
+      1 ^@University<np>$ – ^a<det><ind>$
+      1 ^@Titan<n>$ – ^a<det><ind>$
+      1 ^@tilnavn<n>$ – ^a<det><ind>$
+      1 ^@tilfelle<n>$ – ^that<det><dem>$
+      1 ^their<det><pos>$ ” ^@…<sent><clb>$
+      1 ^the<det><def>$ ” ^@fysisk<adj>$
+      1 ^that<det><dem>$ “ ^@naturlig<adj>$ ” ^@fysisk<adj>$
+      1 ^that<det><dem>$ ” ^@lit<n>$
+      1 ^that<det><dem>$ ” ^*gjenfødte$ ” ^@Buddha<np>$
+      1 ^@telegrafi<n>$ – ^a<det><ind>$
+      1 ^@synsvinkel<n>$ – ^his<det><pos>$
+      1 ^such<det><ind>$ ” ^*usømmelige$ ” ^@skriveri<n>$
+      1 ^@stoffmisbruk<n>$ – ^a<det><ind>$
+      1 ^@stem<n>$ – ^a<det><ind>$
+      1 ^@soppe<vblex><imp>$ – ^more<det><qnt><sp>$
+      1 ^some<det><qnt>$ – ^@sanseinntrykk<n>$
+      1 ^@sleik<n>$ – ^a<det><ind>$
+      1 ^@skytte<n>$ + ^a<det><ind>$
+      1 ^@skilling<n>$ – ^many<det><qnt>$
+      1 ^@sinnstilstand<n>$ — ^that<det><dem>$
+      1 ^@seter<n>$ – ^that<det><dem>$
+      1 ^@sekst<n>$ + ^a<det><ind>$
+      1 ^@scherzo<n>$ – ^a<det><ind>$
+      1 ^@russisk<n><sp>$ – ^a<det><ind>$
+      1 ^@Rochelle<np>$ – ^a<det><ind>$
+      1 ^@rettsmedisin<n>$ – ^a<det><ind>$
+      1 ^@Potte<vblex><pres><p3>$ · ^Theatre<n>$ · ^Literature<n>$ · ^*Kulturvitenskap$ · ^Anthropology<n>$ · ^Religion<n>$ · ^The<det><def>$
+      1 ^@pakt<n>$ | ^a<det><ind>$
+      1 ^Other<det><ind>$ @ ^world<n>$
+      1 ^other<det><ind>$ ” ^@ting<n>$ ” ^or<cnjcoo>$ ” ^organism<n>$ ”^.<sent>$
+      1 ^other<det><ind>$ ” ^@syssel<n>$ ” ^(<lpar>$
+      1 ^other<det><ind>$ – ^@personlig<adj>$
+      1 ^@Nordland<n>$ – ^a<det><ind>$
+      1 ^no<det><ind>$ ” ^@hit<n>$ ” ^before<pr>$
+      1 ^@New York<np><top>$ – ^their<det><pos>$
+      1 ^@Nautilus<n>$ » — ^that<det><dem>$
+      1 ^@narkotikamisbruk<n>$ – ^his<det><pos>$
+      1 ^more<det><qnt><sp>$ ” ^@opprinnelig<adj>$ ” ^popular<adj>$
+      1 ^more<det><qnt><sp>$ ” ^@kraftig<adj>$
+      1 ^*Mickael$ 	 ^@RAB<np>$ 	 ^THAT<det><dem>$ 	 ^02<num>$
+      1 ^@membran<n>$ – ^that<det><dem>$
+      1 ^@Marshallplanen<np>$ – ^the<det><def>$
+      1 ^[<lpar>$ ˈ ^your<det><pos>$ ː ^*tr$ ɪç ˈ ^@bo<n><sp>$ ː ^*nh$
+      1 ^@landskamp<n>$ – ^all<det><qnt>$
+      1 ^@kunstmuseum<n>$ » – ^that<det><dem>$
+      1 ^@kunstart<n>$ — ^more<det><qnt><sp>$
+      1 ^@kolonnade<n>$ – ^The<det><def>$
+      1 ^@Katolisisme<n>$ | ^That<det><dem>$
+      1 ^@juridisk<adj>$ – ^some<det><qnt><sp>$
+      1 ^@Institute<np>$ – ^this<det><dem>$
+      1 ^@indigo<n>$ – ^a<det><ind>$
+      1 ^His<det><pos>$ ’ ” ^@…<sent><clb>$
+      1 ^his<det><pos>$ ” ^brother<n>$ ” ^@Seth<np>$
+      1 ^@Herzog<np>$ & ^that<det><dem>$
+      1 ^@her<pr>$ – ^his<det><pos>$
+      1 ^@gravplass<n>$ – ^more<det><qnt><sp>$
+      1 ^@fredspris<n>$ – ^that<det><dem>$
+      1 ^@framtid<n>$ – ^that<det><dem>$
+      1 ^@forsiktig<adj>$ – ^the<det><def>$
+      1 ^@forretningsliv<n>$ – ^that<det><dem>$
+      1 ^@filolog<n>$ · ^His<det><pos>$
+      1 ^@ener<n>$ – ^a<det><ind>$
+      1 ^@elveleie<n>$ – ^that<det><dem>$
+      1 ^@Eisenach<np>$ | ^Other<det><ind>$
+      1 ^@dyreart<n>$ – ^that<det><dem>$
+      1 ^@døgn<n>$ – ^that<det><dem>$
+      1 ^@Dis<adv>$ – ^a<det><ind>$
+      1 ^@der<pr>$ ” ^that<det><dem>$
+      1 ^@Columbus<np>$ – ^a<det><ind>$
       1 ^,<cm>$ Δ ^@¹<det><qnt>$
-      1 ^@Au<n>$ ß ^a<det><ind>$
-      1 ^a<det><ind>$ α- ^@aminosyre<n>$
-      1 ^@¹<det><qnt>$ í ^*rnách$
+      1 ^@c-moll<n>$ – ^a<det><ind>$
+      1 ^@bøk<n>$ – ^the<det><def>$
+      1 ^@biperson<n>$ – ^both<det><ind>$
+      1 ^@bardun<n>$ – ^no<det><ind>$
+      1 ^@bakben<n>$ – ^all<det><qnt>$
+      1 ^@Award<np>$ — ^the<det><def>$
+      1 ^@amt<n>$ – ^the<det><def>$
+      1 ^all<det><qnt>$ – ^@kvare<vblex><imp>$
+      1 ^all<det><qnt>$ → ^@adle<vblex><imp>$ 
+      1 ^@akselavstand<n>$ — ^both<det><ind>$
+      1 ^a<det><ind>$ ” ^@Villa<n>$
+      1 ^a<det><ind>$ ” ^@ting<n>$ ” ^or<cnjcoo>$
+      1 ^a<det><ind>$ ” ^@Strut<n>$
+      1 ^a<det><ind>$ ” ^@slett<n>$ ” ^be #scarce<vblex><inf>$
+      1 ^a<det><ind>$ “ ^@slå<n>$
+      1 ^a<det><ind>$ ” ^@overbygning<n>$ ” ^over<pr>$
+      1 ^a<det><ind>$ ” ” ^@Open<np>$
+      1 ^a<det><ind>$ “ ^@lov<n><sp>$ ”^.<sent>$
+      1 ^a<det><ind>$ @ ^@import<n>$
+      1 ^a<det><ind>$ ” ^@forsiktig<adj>$
+      1 ^a<det><ind>$ “ ^@folkefront<n>$ ”^,<cm>$
+      1 ^a<det><ind>$ ” ^evidence<n>$ ” ^@utad<pr>$
+      1 ^a<det><ind>$ ” ^common<adj>$ ” ^@bruk<n>$
+      1 ^@³<det><qnt>$ | ^43<num>$
+      1 ^@²<det><qnt>$ | ^16.072<num>$
+      1 ^@½<det><qnt>$ | ^*Ranma$
+      1 ^@½<det><qnt>$ – ^5<num>$
+      1 ^@½<det><qnt>$ – ^1<num>$

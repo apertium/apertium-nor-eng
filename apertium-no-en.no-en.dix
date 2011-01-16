@@ -7483,7 +7483,6 @@
 <e>        <p><l>øreverk<s n="n"/><s n="m"/></l><r>earache<s n="n"/></r></p></e>
 <e>        <p><l>ørken<s n="n"/><s n="m"/></l><r>desert<s n="n"/></r></p></e>
 <e>        <p><l>ørn<s n="n"/></l>           <r>eagle<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e>        <p><l>øst<s n="n"/><s n="m"/></l> <r>east<s n="n"/></r></p></e>
 <e>        <p><l>østers<s n="n"/><s n="m"/></l><r>oyster<s n="n"/></r></p></e>
 <e>        <p><l>øvelse<s n="n"/><s n="m"/></l><r>practice<s n="n"/></r></p></e>
 <e slr="1"><p><l>øvelse<s n="n"/><s n="m"/></l><r>event<s n="n"/></r></p></e>
@@ -8188,6 +8187,7 @@
 <e c="  0"><p><l>gitarist<s n="n"/><s n="m"/></l><r>guitarist<s n="n"/></r></p></e>
 <e c="  0"><p><l>forsvarer<s n="n"/><s n="m"/></l><r>lawyer<s n="n"/></r></p></e>
 <e c="  0"><p><l>øst<s n="n"/><s n="m"/></l><r>east<s n="n"/></r></p></e>
+<e c="  0"><p><l>øst<s n="n"/><s n="nt"/></l><r>east<s n="n"/></r></p></e>
 <e c="  0"><p><l>instans<s n="n"/><s n="m"/></l><r>instance<s n="n"/></r></p></e>
 <e slr="1"><p><l>instans<s n="n"/><s n="m"/></l><r>instantiation<s n="n"/></r></p></e>
 <e c="  0"><p><l>safe<s n="n"/><s n="m"/></l><r>safe<s n="n"/></r></p></e>
@@ -8495,7 +8495,6 @@
 <e c="  0"><p><l>bar<s n="n"/><s n="m"/></l><r>bar<s n="n"/></r></p></e>
 <e c="  0"><p><l>symptom<s n="n"/><s n="nt"/></l><r>symptom<s n="n"/></r></p></e>
 <e c="  0"><p><l>storband<s n="n"/><s n="nt"/></l><r>big<b/>band<s n="n"/></r></p></e>
-<e c="  0"><p><l>øst<s n="n"/><s n="m"/></l><r>east<s n="n"/></r></p></e>
 <e c="  0"><p><l>nasjonaldag<s n="n"/><s n="m"/></l><r>national<b/>day<s n="n"/></r></p></e>
 <e c="  0"><p><l>korp<s n="n"/><s n="m"/></l><r>raven<s n="n"/></r></p></e>
 <e c="  0"><p><l>innbyggertall<s n="n"/><s n="nt"/></l><r>population<b/>biology<s n="n"/></r></p></e>
@@ -24743,7 +24742,7 @@
     <e><re>[0-9]+</re><p><l>-tall<g><b/>e.Kr</g><s n="n"/><s n="nt"/><s n="sg"/></l><r><b/>CE<s n="num"/><s n="sg"/></r></p></e>
     <e><re>[0-9]+</re><p><l>-tall<g><b/>f.Kr</g><s n="n"/><s n="nt"/><s n="sg"/></l><r><b/>BCE<s n="num"/><s n="sg"/></r></p></e>
 
-    <e><re>[.\?;:!·]+</re><p><l><s n="sent"/><s n="clb"/></l><r><s n="sent"/></r></p></e>
+    <e><re>[.\?;:!·…]+</re><p><l><s n="sent"/><s n="clb"/></l><r><s n="sent"/></r></p></e>
     <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
     <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
     <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>

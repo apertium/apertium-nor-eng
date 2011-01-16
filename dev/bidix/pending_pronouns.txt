@@ -1,2 +1,48 @@
-      5 ^@ata<np><top>$ í ^prpers<prn><subj><p3><mf>$
+      4 ^@herzog<np>$ & ^prpers<prn><subj><p3><mf>$
+      3 ^@val<n>$ & ^prpers<prn><subj><p3><mf>$
+      2 ^prpers<prn><subj><p3><m>$ ” ^@…<sent><clb>$
+      1 ^@utland<n>$ – ^this<prn><dem><mf>$
+      1 ^@syndikalisme<n>$ » ─ ^prpers<prn><subj><p3><nt>$
+      1 ^@svarer<n>$ “ ^prpers<prn><subj><p2><mf>$
+      1 ^@stein<adv>$ – ^prpers<prn><subj><p2><mf>$
+      1 ^@sørover<pr>$ – ^prpers<prn><subj><p3><m>$
+      1 ^@slager<n>$ ” ^prpers<prn><subj><p3><nt>$
+      1 ^@…<sent><clb>$ ” ^this<prn><dem>$
+      1 ^@samnorsk<n><sp>$  – ^something<prn><ind><nt>$
+      1 ^@range<vblex><imp>$ – ^prpers<prn><subj><p3><m>$
+      1 ^@ps<n>$ ׃ ^prpers<prn><subj><p1><mf>$
+      1 ^prpers<prn><subj><p3><nt>$ – ^@gotisk<n><sp>$
+      1 ^prpers<prn><subj><p3><nt>$ – ^@foruten<adv>$
+      1 ^prpers<prn><subj><p3><m>$ ” ^@vell<n>$
       1 ^prpers<prn><subj><p3><m>$ û ^@dunse<vblex><imp>$
+      1 ^prpers<prn><subj><p1><mf>$ – ^@nuv<n>$
+      1 ^prpers<prn><subj><p1><mf>$ <@ ^'<apos>$
+      1 ^prpers<prn><obj><p3><m>$ – ^@stabæk<np>$ 	 	 ^1<num>$ – ^2<num>$ 
+      1 ^prpers<prn><obj><p3><m>$ – ^@pors<n>$
+      1 ^prpers<prn><obj><p3><m>$ – ^@hødd<np>$ 	 	 ^0<num>$ – ^2<num>$ 	 
+      1 ^prpers<prn><obj><p3><f>$ ” ^@nigger<n>$
+      1 ^@press<n>$ – ^something<prn><ind>$
+      1 ^@naturlig<adj>$ – ^prpers<prn><subj><p3><m>$
+      1 ^@narkotikapoliti<n>$ – ^something<prn><ind><nt>$
+      1 ^@müller<np><top>$ – ^what<prn><itg><mf><sp>$
+      1 ^@molekyl<n>$ – ^something<prn><ind>$
+      1 ^@melkeprodukt<n>$ – ^prpers<prn><subj><p3><nt>$
+      1 ^@krigsgud<n>$ – ^prpers<prn><subj><p3><m>$
+      1 ^@konsertere<vblex><imp>$ – ^something<prn><ind><nt>$
+      1 ^@kongstanke<n>$ – ^prpers<prn><subj><p3><nt>$
+      1 ^@kolibri<n>$ – ^prpers<prn><subj><p3><m>$
+      1 ^@klaverkonsert<n>$ “ ^prpers<prn><subj><p3><m>$
+      1 ^@kambrium<n><sp>$ – ^what<prn><itg><mf><sp>$
+      1 ^@imperium<n>$ – ^something<prn><ind><nt>$
+      1 ^@ideal<n>$ – ^prpers<prn><subj><p3><nt>$
+      1 ^@homilie<n>$ – ^prpers<prn><subj><p3><nt>$
+      1 ^himself<prn><p3>$ – ^@halvpart<n>$
+      1 ^himself<prn><p3>$ ” ^artificial<adj>$ ” ^@habitat<n>$
+      1 ^@guddom<n>$ – ^prpers<prn><subj><p3><m>$
+      1 ^@gaia<np>$ – ^*kronos$ – ^prpers<prn><obj><p3><mf>$
+      1 ^@farve<n>$ – ^prpers<prn><subj><p3><nt>$
+      1 ^@entreprenør<n>$ – ^prpers<prn><subj><p3><m>$
+      1 ^@corporation<np>$ – ^prpers<prn><subj><p3><nt>$
+      1 ^@betraktelig<adj>$ – ^prpers<prn><subj><p3><nt>$
+      1 ^@år gammel<adj>$ – ^himself<prn><p3>$
+      1 ^@antifascist<n>$ – ^something<prn><ind>$

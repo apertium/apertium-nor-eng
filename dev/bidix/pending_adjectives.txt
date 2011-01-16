@@ -1,73 +1,73 @@
-  10871 ^@opprinnelig<adj>$
-   5909 ^@in<adj>$
-   5894 ^@økonomisk<adj>$
-   5329 ^@kraftig<adj>$
-   5161 ^@historisk<adj>$
-   4897 ^@år gammel<adj>$
+  10864 ^@opprinnelig<adj>$
+   5934 ^@in<adj>$
+   5890 ^@økonomisk<adj>$
+   5327 ^@kraftig<adj>$
+   5160 ^@historisk<adj>$
+   4891 ^@år gammel<adj>$
    4735 ^@fremre<adj>$
-   4173 ^@hovedsakelig<adj>$
-   3822 ^@øvre<adj>$
-   3670 ^@naturlig<adj>$
-   3468 ^@trolig<adj>$
+   4167 ^@hovedsakelig<adj>$
+   3821 ^@øvre<adj>$
+   3664 ^@naturlig<adj>$
+   3463 ^@trolig<adj>$
    3438 ^@veldig<adj>$
-   2968 ^@personlig<adj>$
-   2385 ^@spansk<adj>$
-   2351 ^@nedre<adj>$
-   2346 ^@ytterlig<adj>$
-   2055 ^@fysisk<adj>$
+   2964 ^@personlig<adj>$
+   2379 ^@spansk<adj>$
+   2350 ^@nedre<adj>$
+   2342 ^@ytterlig<adj>$
+   2051 ^@fysisk<adj>$
    1972 ^@videregående<adj>$
-   1572 ^@sistnevnt<adj>$
-   1540 ^@antagelig<adj>$
-   1529 ^@sivil<adj>$
+   1569 ^@sistnevnt<adj>$
+   1538 ^@antagelig<adj>$
+   1525 ^@sivil<adj>$
    1442 ^@vesentlig<adj>$
    1407 ^@daværende<adj>$
-   1315 ^@juridisk<adj>$
+   1314 ^@juridisk<adj>$
    1260 ^@midlertidig<adj>$
-   1175 ^@østre<adj>$
+   1174 ^@østre<adj>$
    1134 ^@elektronisk<adj>$
-   1069 ^@dramatisk<adj>$
+   1068 ^@dramatisk<adj>$
    1039 ^@strategisk<adj>$
    1022 ^@arkeologisk<adj>$
     937 ^@automatisk<adj>$
     849 ^@biologisk<adj>$
-    812 ^@separat<adj>$
-    790 ^@psykisk<adj>$
-    772 ^@tilsynelatende<adj>$
+    813 ^@separat<adj>$
+    788 ^@psykisk<adj>$
     772 ^@hyppig<adj>$
+    771 ^@tilsynelatende<adj>$
     747 ^@regelmessig<adj>$
     727 ^@velkjent<adj>$
-    715 ^@angivelig<adj>$
-    697 ^@systematisk<adj>$
-    691 ^@kontinuerlig<adj>$
+    712 ^@angivelig<adj>$
+    695 ^@systematisk<adj>$
+    690 ^@kontinuerlig<adj>$
     684 ^@tydelig<adj>$
     666 ^@villig<adj>$
-    658 ^@teoretisk<adj>$
-    586 ^@psykologisk<adj>$
+    657 ^@teoretisk<adj>$
+    583 ^@psykologisk<adj>$
     578 ^@grundig<adj>$
     575 ^@moralsk<adj>$
-    552 ^@sørøstlig<adj>$
+    543 ^@sørøstlig<adj>$
     499 ^@ytre<adj>$
-    486 ^@drøy<adj>$
+    484 ^@drøy<adj>$
     462 ^@indirekte<adj>$
-    461 ^@verdt<adj>$
-    456 ^@kontinental<adj>$
+    456 ^@verdt<adj>$
+    454 ^@kontinental<adj>$
     451 ^@snar<adj>$
-    423 ^@antakelig<adj>$
-    422 ^@betraktelig<adj>$
+    421 ^@antakelig<adj>$
+    420 ^@betraktelig<adj>$
     411 ^@samisk<adj>$
-    400 ^@forsiktig<adj>$
+    398 ^@forsiktig<adj>$
     362 ^@kroatisk<adj>$
     362 ^@faktisk<adj>$
     349 ^@tett<adj>$
     340 ^@ofte<adj>$
-    337 ^@selvfølgelig<adj>$
-    330 ^@uendelig<adj>$
+    336 ^@selvfølgelig<adj>$
+    329 ^@uendelig<adj>$
     326 ^@stadig<adj>$
     319 ^@pansre<adj>$
     305 ^@ettertraktet<adj>$
     299 ^@permanent<adj>$
-    290 ^@bokstavelig<adj>$
-    289 ^@øyeblikkelig<adj>$
+    289 ^@bokstavelig<adj>$
+    287 ^@øyeblikkelig<adj>$
     269 ^@materiell<adj>$
     262 ^@eksakt<adj>$
     258 ^@virksom<adj>$
@@ -100,9 +100,9 @@
     144 ^@termisk<adj>$
     141 ^@nominell<adj>$
     135 ^@samfunnsmessig<adj>$
-    134 ^@frøken<adj>$
     133 ^@mestselgende<adj>$
     132 ^@hjemlig<adj>$
+    132 ^@frøken<adj>$
     124 ^@mestvinnende<adj>$
     123 ^@menneskeskapt<adj>$
     119 ^@lokalhistorisk<adj>$
@@ -118,18 +118,18 @@
      92 ^@regelrett<adj>$
      92 ^@nordnorsk<adj>$
      87 ^@uttrykkelig<adj>$
-     86 ^@trippel<adj>$
      86 ^@foreløpig<adj>$
+     85 ^@trippel<adj>$
      83 ^@treårig<adj>$
      83 ^@isfri<adj>$
-     81 ^@sid<adj>$
+     80 ^@sid<adj>$
      78 ^@stedlig<adj>$
      78 ^@ok<adj>$
      74 ^@sensorisk<adj>$
      69 ^@gjev<adj>$
-     65 ^@operasjonell<adj>$
      64 ^@uaktuell<adj>$
      63 ^@tysk-østerriksk<adj>$
+     63 ^@operasjonell<adj>$
      61 ^@slovakisk<adj>$
      60 ^@sentralafrikansk<adj>$
      58 ^@sakte<adj>$
@@ -143,12 +143,12 @@
      51 ^@fastmontert<adj>$
      50 ^@sår<adj>$
      49 ^@avsides<adj>$
-     46 ^@brukervennlig<adj>$
      45 ^@rein<adj>$
      45 ^@gråblå<adj>$
+     45 ^@brukervennlig<adj>$
+     44 ^@ven<adj>$
      44 ^@overhenge<adj>$
      44 ^@inderlig<adj>$
-     43 ^@ven<adj>$
      43 ^@trøndersk<adj>$
      41 ^@selvbærende<adj>$
      40 ^@severdig<adj>$
@@ -252,7 +252,6 @@
      13 ^@sørnorsk<adj>$
      13 ^@sømmelig<adj>$
      13 ^@rotet<adj>$
-     13 ^@ljuge<adj>$
      13 ^@hjernedød<adj>$
      13 ^@hårreisende<adj>$
      13 ^@godlynt<adj>$
@@ -260,6 +259,7 @@
      13 ^@avføre<adj>$
      12 ^@sjangermessig<adj>$
      12 ^@reklamefri<adj>$
+     12 ^@ljuge<adj>$
      12 ^@jevngammel<adj>$
      12 ^@hemmeligstemple<adj>$
      12 ^@forsettlig<adj>$
@@ -300,7 +300,6 @@
       8 ^@spesialskrevet<adj>$
       8 ^@snarrådig<adj>$
       8 ^@reformvillig<adj>$
-      8 ^qi<np><top><sg>$ ş ^@in<adj>$ ă ^u<n><sg>$
       8 ^@planfri<adj>$
       8 ^@motsvare<adj>$
       8 ^@meterhøy<adj>$
@@ -350,6 +349,7 @@
       6 ^@dyregod<adj>$
       6 ^@barnerik<adj>$
       6 ^@atomvåpenfri<adj>$
+      5 ^*sudeste$ | ^@sørøstlig<adj>$
       5 ^@støvfri<adj>$
       5 ^@rwandisk<adj>$
       5 ^@presidere<adj>$
@@ -367,6 +367,7 @@
       5 ^@indre<adj>$
       5 ^@helårig<adj>$
       5 ^@halvhøy<adj>$
+      5 ^@fransk<n><sp>$ – ^@spansk<adj>$
       5 ^@femtenårig<adj>$
       5 ^@evangelisere<adj>$
       5 ^@erodere<adj>$
@@ -396,7 +397,6 @@
       4 ^@høvle<adj>$
       4 ^@hjemmevevd<adj>$
       4 ^@hjemmebasert<adj>$
-      4 ^*he$ ð ^@in<adj>$
       4 ^@giftfri<adj>$
       4 ^@forskriftsmessig<adj>$
       4 ^@forfryse<adj>$
@@ -407,12 +407,14 @@
       4 ^@adle<adj>$
       3 ^@vralte<adj>$
       3 ^@vidsynt<adj>$
+      3 ^@verdt<adj>$ $
       3 ^@vassen<adj>$
       3 ^@tøyse<adj>$
       3 ^@synkefri<adj>$
       3 ^@syndfri<adj>$
       3 ^@straffri<adj>$
       3 ^@storfornøyd<adj>$
+      3 ^south<n><sg>$ ‑ ^@sørøstlig<adj>$
       3 ^@skulderlang<adj>$
       3 ^@psykologisere<adj>$
       3 ^@parasittere<adj>$
@@ -422,14 +424,12 @@
       3 ^@muggen<adj>$
       3 ^@motebevisst<adj>$
       3 ^@likerette<adj>$
-      3 ^last<vblex><inf>$ ð ^@in<adj>$
       3 ^@kvantitere<adj>$
       3 ^@konvergere<adj>$
       3 ^@kompromissvillig<adj>$
       3 ^@kjederøyke<adj>$
       3 ^@jazze<adj>$
       3 ^@innsatsvillig<adj>$
-      3 ^@in<adj>$ í ^*rida$
       3 ^@hovedsakelig<adj>$ 
       3 ^@hegne<adj>$
       3 ^@fullastet<adj>$ 
@@ -443,6 +443,7 @@
       3 ^@fabrikkny<adj>$
       3 ^@evindelig<adj>$
       3 ^@estetisere<adj>$
+      3 ^enliven<vblex><inf>$ & ^@in<adj>$
       3 ^@dissonere<adj>$
       3 ^@dansk<adj>$
       3 ^@danseglad<adj>$
@@ -500,6 +501,8 @@
       2 ^@konsesjonsfri<adj>$
       2 ^@koffeinfri<adj>$
       2 ^@kjønnsbestemme<adj>$
+      2 ^@kapp<n><sp>$ – ^native<adj>$
+      2 ^italian<adj>$   ^@bilfabrikk<n><sg>$
       2 ^@ironisere<adj>$
       2 ^@inhibere<adj>$
       2 ^@hospitere<adj>$
@@ -519,51 +522,81 @@
       2 ^@fete<adj>$
       2 ^@feberfri<adj>$
       2 ^@duge<adj>$
+      2 ^@drøy<adj>$ $
       2 ^@døddrukken<adj>$
+      2 ^citizen<n><pl>$ – ^@sivil<adj>$
       2 ^@charmere<adj>$
       2 ^@bevisstgjøre<adj>$
       2 ^@bestemt<adj>$
       2 ^@arkaisere<adj>$
+      2 ^@år gammel<adj>$ – ^mean<vblex><inf>$
+      2 ^anti<adj>$ – ^@imperialist<n><pl>$
       2 ^@ansvarsfri<adj>$
       2 ^@aksle<adj>$
+      1 ^@ytterlig<adj>$ £ ^50 000<num>$
+      1 ^@ytterlig<adj>$ £ ^25 000<num>$
+      1 ^@ytterlig<adj>$ £ ^250 000<num>$
+      1 ^@ytterlig<adj>$ $
       1 ^@ytterlig<adj>$ 
-      1 ^*wei$ ß ^@in<adj>$
-      1 ^wait<vblex><inf>$ ç ^@in<adj>$
-      1 ^v<n><sg>$ ǫð ^@in<adj>$
+      1 ^with<adv>$ ” ^@frøken<adj>$
+      1 ^why<adv><itg>$ – ^angry<adj><sint>$ – ^@slå<n><sg>$ – ^table<vblex><inf>$ – ^18<num>$ – ^october<n><sg>$
+      1 ^where<adv><itg>$ ” ^strong<adj><sint>$ ” ^@promotor<n><sg>$
+      1 ^*volkspolizeikreisämter$ – ^@in<adj>$
       1 ^@vispe<adj>$
+      1 ^@verdt<adj>$ £ ^3,500<num>$
+      1 ^@verdt<adj>$ £ ^16,5<num>$
       1 ^@velkjent<adj>$ 
       1 ^@vannkjøle<adj>$
       1 ^@ure<adj>$
+      1 ^@uio<np>$ | ^nordic<adj>$
       1 ^@ugjestfri<adj>$
-      1 ^*ú$ð ^@in<adj>$
       1 ^@ubedt<adj>$
+      1 ^@tysk<n><sp>$ – ^american<adj>$
+      1 ^typical<adj>$ ” ^@kvinneyrke<n><pl>$ ”^.<sent>$
       1 ^@tydelig<adj>$ 
       1 ^@trøtte<adj>$
+      1 ^@trolig<adj>$ 　 ^1981<num>$
+      1 ^@trippel<adj>$ & ^touch<n><sg>$
       1 ^@trestemmig<adj>$
       1 ^@tremulere<adj>$
       1 ^@tredjeseedet<adj>$
       1 ^@tralle<adj>$
-      1 ^town<n><sg>$ ł ^*ód$ ź’ ^@historisk<adj>$
       1 ^@totalfrede<adj>$
+      1 ^*tks$ ´ ^@opprinnelig<adj>$
       1 ^@tjenestefri<adj>$
+      1 ^time<n><sg>$ – ^@opprinnelig<adj>$
       1 ^@tilsmusse<adj>$
+      1 ^tibet<np><top><sg>$ – ^@sivil<adj>$
+      1 ^through<pr>$ ” ^@operasjonell<adj>$
+      1 ^the<det><def><sg>$ ” ^@fysisk<adj>$
+      1 ^that<det><dem><sg>$ “ ^@naturlig<adj>$ ” ^@fysisk<adj>$
+      1 ^terrible<adj>$ » – ^@il<n><sg>$
       1 ^@terminfeste<adj>$
       1 ^@terminal<adj>$ 
       1 ^@teoretisere<adj>$
+      1 ^tension<n><sg>$ – ^@fysisk<adj>$
+      1 ^teigen<np><cog><sg>$ – ^@sistnevnt<adj>$
+      1 ^technical<adj>$ – ^@teoretisk<adj>$
       1 ^@tårnhøy<adj>$
       1 ^@tane<adj>$
+      1 ^@systematisk<adj>$ – ^in<pr>$
       1 ^@syndefri<adj>$
       1 ^@svampe<adj>$
+      1 ^@sule<vblex><imp>$ | ^southern<adj>$
       1 ^@stue<adj>$
-      1 ^stubborn<adj>$ ð ^@ir<n><sg>$
-      1 ^stubborn<adj>$ ð ^@ire<vblex><imp>$
       1 ^@strid<adj>$
-      1 ^*strau$ ß ^@in<adj>$
-      1 ^strange<adj><sint>$ ē ^@nu<n><sg>$
       1 ^@stoff-fri<adj>$
+      1 ^stavanger<np><top><sg>$ | ^@østre<adj>$
       1 ^@ståke<adj>$
+      1 ^*splutsje$ — ^@fysisk<adj>$
       1 ^@spiralisere<adj>$
       1 ^@sparkle<adj>$
+      1 ^@spansk<adj>$ ” ^*barrueca$ ” – ^sparkle<vblex><inf>$
+      1 ^*sosio$ – ^@økonomisk<adj>$
+      1 ^so-called<adj>$ ” ^@revisjonist<n><pl>$ ” ^in<pr>$
+      1 ^so-called<adj>$ ” ^@heiarop<n><sg>$ ” ^as<pr>$
+      1 ^so-called<adj>$ ” ^@ad<pr>$
+      1 ^s<n><sg>$ – ^@in<adj>$
       1 ^@snøvle<adj>$
       1 ^@snørekjøre<adj>$
       1 ^@snikmyrde<adj>$
@@ -578,59 +611,89 @@
       1 ^@skvatre<adj>$
       1 ^@skvaldre<adj>$
       1 ^@skreppe<adj>$
-      1 ^*sk$ ǫð ^@in<adj>$
       1 ^@skinndød<adj>$
       1 ^@skimle<adj>$
+      1 ^*skångna$ – ^@sistnevnt<adj>$
       1 ^@skamrose<adj>$
+      1 ^@sjikt<n><sg>$ – ^small<adj><sint>$
+      1 ^@sivil<adj>$ – ^more<adv>$
       1 ^@sivil<adj>$ 
       1 ^@siselere<adj>$
-      1 ^@sin tid<adv>$ ł ^*ód$ ź’ ^big<adj><sint><sup>$
-      1 ^*sh$ ō ^@in<adj>$
+      1 ^@sid<adj>$ & ^nancy<np><ant><f><sg>$
+      1 ^shall<vaux><inf>$ – ^@angivelig<adj>$
+      1 ^'s<gen>$ – ^@brukervennlig<adj>$
       1 ^@separat<adj>$ 
       1 ^@sentre<adj>$
+      1 ^:<sent>$ ” ^@opprinnelig<adj>$
       1 ^@semske<adj>$
       1 ^@seide<adj>$
+      1 ^save<vblex><inf>$ + ^@ljuge<adj>$
       1 ^@sause<adj>$
       1 ^@samfunnsbevisst<adj>$
       1 ^@såle<adj>$
-      1 ^*rurannsóknastö$ ð ^@in<adj>$
       1 ^@rulleføre<adj>$
       1 ^@røyte<adj>$
       1 ^@rikosjettere<adj>$
+      1 ^right<n><pl>$ | ^@økonomisk<adj>$
+      1 ^@repertoar<n><sg>$ — ^@hovedsakelig<adj>$
       1 ^@rekreere<adj>$
       1 ^@redoble<adj>$
       1 ^@råkald<adj>$
+      1 ^quick<adj><sint>$ − ^@menuett<n><sg>$ − ^@adagio<adv>$ − ^@menuett<n><sg>$ − ^quick<adj><sint>$
+      1 ^*px$ | ^@opprinnelig<adj>$
       1 ^@pudre<adj>$
+      1 ^@psykologisk<adj>$ ” ^law<n><pl>$ ” ^in<pr>$
+      1 ^@psykologisk<adj>$ – ^in<pr>$
+      1 ^@psykisk<adj>$ – ^*velmenende$
+      1 ^@psykisk<adj>$ — ^become<vblex><inf>$
+      1 ^*protection$ — ^@in<adj>$
       1 ^@programfeste<adj>$
-      1 ^*prentmi$ ð ^steady<vblex><inf>$ ð ^@in<adj>$
+      1 ^political<adj>$ & ^@økonomisk<adj>$
+      1 ^political<adj>$ ” ^@comeback<n><sg>$ ” ^alter<vblex><pp>$
       1 ^@poliorammet<adj>$
       1 ^@poetisere<adj>$
       1 ^@plundre<adj>$
       1 ^@plire<adj>$
       1 ^@plinge<adj>$
       1 ^@platedebutere<adj>$
+      1 ^plain<n><sg>$ – ^@hovedsakelig<adj>$
       1 ^@perspirere<adj>$
+      1 ^@personlig<adj>$ ” ^*goodnight$
+      1 ^@personlig<adj>$ ¬ ^be<vblex><pres># called$
+      1 ^@personlig<adj>$ “ ^at<pr>$
       1 ^@personlig<adj>$ 
       1 ^@personell<adj>$
       1 ^@påspandert<adj>$
+      1 ^@øyeblikkelig<adj>$ – ^or<cnjcoo>$
+      1 ^@øyeblikkelig<adj>$ ”^,<cm>$
+      1 ^@øvre<adj>$ „ ^*gäu$ “ ^south<n><sg>$
       1 ^@øvre<adj>$ 
+      1 ^other<det><ind><pl>$ – ^@personlig<adj>$
+      1 ^oslo<np><top><sg>$ – ^@hovedsakelig<adj>$
+      1 ^or<cnjcoo>$ ” ^detect<vblex><inf>$ ” ^@angivelig<adj>$
       1 ^@optimere<adj>$
       1 ^@optimalisere<adj>$
       1 ^@opprinnelig<adj>$ 陳港生^,<cm>$
+      1 ^@opprinnelig<adj>$ «₤» ^with<pr>$
       1 ^@opprinnelig<adj>$ ł ^*ódzki$
       1 ^@opprinnelig<adj>$ 
-      1 ^o<n><sg>$ ð ^@in<adj>$
-      1 ^old<adj><sint>$ ł ^*ód$ ź- ^@urskog<n><sg>$
       1 ^@ok<adj>$ 
       1 ^@nuppe<adj>$
-      1 ^normal<adj>$ ñ ^@as<n><sg>$
+      1 ^@not<n><pl>$ – ^@angivelig<adj>$
+      1 ^north west<n><sg>$ – ^@sørøstlig<adj>$
       1 ^@nomadisere<adj>$
+      1 ^new<adj><sint>$ ” ^@sound<n><sg>$ ” ^with<pr>$
+      1 ^@nedre<adj>$ – ^egypt<np><top><sg>$
       1 ^@nebbe<adj>$
+      1 ^@naturlig<adj>$ – ^prpers<prn><subj><p3><m><sg>$
+      1 ^@naturlig<adj>$ – ^of which<adv>$
       1 ^@naturlig<adj>$ 
       1 ^@myte<adj>$
       1 ^@mynte<adj>$
       1 ^@mugne<adj>$
       1 ^@motsigelsesfri<adj>$
+      1 ^more<det><qnt><sp>$ ” ^@opprinnelig<adj>$ ” ^popular<adj>$
+      1 ^more<det><qnt><sp>$ ” ^@kraftig<adj>$
       1 ^@misfarge<adj>$
       1 ^@minere<adj>$
       1 ^@menge<adj>$
@@ -638,87 +701,108 @@
       1 ^*max<adj>$ ˈ ^@ve<n><sg>$ ː ^b<n><sg>$ ɐ ^]<rpar>$
       1 ^@max<adj>$ 
       1 ^@matte<adj>$
+      1 ^madrid<np><top><sg>$ – ^@kontinental<adj>$
       1 ^@lunke<adj>$
-      1 ^(<lpar>$学習院大学 ^*gakush$ ū ^@in<adj>$
+      1 ^(<lpar>$” ^@historisk<adj>$
       1 ^@loe<adj>$
+      1 ^@live<n><sp>$ & ^@kraftig<adj>$
+      1 ^@lit<n><sg>$ – ^medium<adj>$
       1 ^@linn<adj>$
       1 ^@linde<adj>$
       1 ^@le<adj>$
       1 ^@latinisere<adj>$
+      1 ^late<adj><sint>$ – ^@akillessene<n><sg>$
+      1 ^land<vblex><pp>$ – ^@hovedsakelig<adj>$
       1 ^@landslagsaktuell<adj>$
       1 ^@kvistfri<adj>$
       1 ^@kviste<adj>$
       1 ^@kvine<adj>$
       1 ^@kverve<adj>$
+      1 ^*kulleverandør$ — ^@økonomisk<adj>$
       1 ^@krøple<adj>$
       1 ^@kroatisk<adj>$ ð ^anxiety<n><sg>$ ð ^*akovic$
       1 ^@kraftig<adj>$ 
       1 ^@korrelere<adj>$
+      1 ^@kontinuerlig<adj>$ – ^@om bare<adv>$
       1 ^@kontinuerlig<adj>$ 
       1 ^@kontinuere<adj>$
+      1 ^@kontinental<adj>$ – ^with<pr>$
       1 ^@konfliktfri<adj>$
       1 ^@konfesjonsfri<adj>$
       1 ^@kollaborere<adj>$
+      1 ^@kloss<n><pl>$ – ^independent<adj>$
       1 ^@klorholdig<adj>$
       1 ^@klorfri<adj>$
       1 ^@kjølhale<adj>$
       1 ^@kirkefremmed<adj>$
+      1 ^@kinesisk<n><sp>$ – ^japanese<adj>$
+      1 ^*kheta$ » – ^@tilsynelatende<adj>$
       1 ^@katolisere<adj>$
       1 ^@karikere<adj>$
       1 ^@kare<adj>$
+      1 ^@kapp<n><sp>$ – ^dutch<adj>$
       1 ^@kapital<adj>$
+      1 ^@kampanje<n><sg>$ ” ^radical<adj>$
+      1 ^@juridisk<adj>$ – ^some<det><qnt><sp>$
       1 ^@julerød<adj>$
-      1 ^*jør$ ð ^@in<adj>$
+      1 ^jon<np><ant><m><sg>$ – ^@selvfølgelig<adj>$
       1 ^@ivre<adj>$
       1 ^@istemme<adj>$
+      1 ^@iss<np>$ ´ ^first<adj><ord>$
+      1 ^@isotop<n><pl>$ – ^different<adj>$
       1 ^@invertere<adj>$
       1 ^@interkalere<adj>$
-      1 ^in<pr>$ ł ^*ód$ ź ^@hovedsakelig<adj>$
-      1 ^in<pr>$ ć ^@veldig<adj>$
       1 ^@innseile<adj>$
       1 ^@innpassere<adj>$
       1 ^@initial<n><sg>$ 영 ^@in<adj>$
-      1 ^@in<adj>$ ż ^*ynier$
-      1 ^@in<adj>$ ü ^*rnbergprosessene$
-      1 ^@in<adj>$ü^*rnbergprosessen$
-      1 ^@in<adj>$ü^*rnberg$
+      1 ^@in<adj>$ {{ ^*cite$
+      1 ^@in<adj>$ „ ^*callots$
+      1 ^@in<adj>$ § ^156<num>$
+      1 ^@in<adj>$ § ^113<num>$
       1 ^@in<adj>$ »
       1 ^@ilikne<adj>$
       1 ^@hovedsaklig<adj>$ 
+      1 ^horn<n><sg>$ – ^@antagelig<adj>$
       1 ^@hoftelang<adj>$
-      1 ^@historisk<adj>$ *θ ^become<vblex><pp>$
+      1 ^history<n><sg>$ – ^@hovedsakelig<adj>$
+      1 ^history<n><sg>$ · ^@historisk<adj>$
       1 ^@historisk<adj>$ 
+      1 ^himself<prn><p3><sg>$ ” ^artificial<adj>$ ” ^@habitat<n><pl>$
       1 ^@himmelropende<adj>$
       1 ^@himmelhøy<adj>$
       1 ^@heroisere<adj>$
       1 ^@hellelegge<adj>$
+      1 ^have<vbhaver><pres>$ +/- ^@uendelig<adj>$
+      1 ^have<vbhaver><pres>$ -´ ^@antakelig<adj>$
       1 ^@hauge<adj>$
+      1 ^happy<adj><sint>$ – ^@hold<n><sg>$
       1 ^@hånle<adj>$
       1 ^@halvmeterhøy<adj>$
       1 ^@halvgammal<adj>$
       1 ^@gyse<adj>$
       1 ^@gylle<adj>$
       1 ^@gullslått<adj>$
-      1 ^@gresk<n><sp>$ ερυσίπελας - ^red<adj><sint>$
       1 ^@greine<adj>$
-      1 ^greek<adj>$ ψυχή " ^@psyke<n><sg>$
-      1 ^@gold<adj>$ ü ^*berwiegt$
+      1 ^good<adj><sint><sup>$ ” ^@management<n><sg>$
+      1 ^@gold<adj>$ & ^@soul<n><sg>$
       1 ^@godvillig<adj>$
-      1 ^g<n><sg>$ ü ^@ven<adj>$
       1 ^@gnelle<adj>$
       1 ^@gneldre<adj>$
       1 ^@gjenge<adj>$
       1 ^@gerere<adj>$
-      1 ^*gakush$ û ^@in<adj>$
-      1 ^*gablat$ íð ^@in<adj>$
+      1 ^gander<vblex><inf>$ – ^@hovedsakelig<adj>$
       1 ^@frysetørke<adj>$
       1 ^@fremre<adj>$ í ^*safjördur$
       1 ^@fremre<adj>$ 
       1 ^@fremholde<adj>$
+      1 ^@fransk<n><sp>$ – ^canadian<adj>$
+      1 ^@fransk<n><sp>$ – ^american<adj>$
       1 ^@forynge<adj>$
       1 ^@fortrolle<adj>$
+      1 ^@forsvarsmekanisme<n><pl>$ – ^typical<adj>$
       1 ^@forsnevre<adj>$
       1 ^@forsimple<adj>$
+      1 ^@forsiktig<adj>$ – ^the<det><def><sg>$
       1 ^@forråe<adj>$
       1 ^@forlyde<adj>$
       1 ^@fordanske<adj>$
@@ -727,35 +811,57 @@
       1 ^@før<adj>$
       1 ^@fluorescere<adj>$
       1 ^@flekkfri<adj>$
+      1 ^@fantasy<np>$ & ^final<adj>$
       1 ^@fæl<adj>$
       1 ^@eviglang<adj>$
       1 ^@enervere<adj>$
       1 ^@eneansvarlig<adj>$
       1 ^@elektronisk<adj>$ 
+      1 ^eastern europe<np><top><sg>$ – ^@trolig<adj>$
       1 ^@dyrekjær<adj>$
       1 ^@duplisere<adj>$
       1 ^@duggfri<adj>$
+      1 ^duet<n><sg>$ ” ^@in<adj>$
+      1 ^@dramatisk<adj>$ – ^from<pr>$
       1 ^@dramatisk<adj>$ 
+      1 ^drama<n><sg>$ | ^@historisk<adj>$
       1 ^@dorme<adj>$
       1 ^@dise<adj>$
-      1 ^different<adj>$ π- ^@meson<n><pl>$
+      1 ^detect<vblex><inf>$ » – ^@psykologisk<adj>$
       1 ^@desintegrere<adj>$
       1 ^@demre<adj>$
+      1 ^define<vblex><pp>$ ” ^@operasjonell<adj>$
+      1 ^decade<n><pl>$ – ^@trolig<adj>$
+      1 ^*dèagh$ – ^@opprinnelig<adj>$
       1 ^@daværende<adj>$ 
       1 ^@datterlig<adj>$
-      1 ^@čalphabet<n><sg>$ íř ^olympic<adj>$
-      1 ^*busslei$ ð ^@in<adj>$
+      1 ^@dansk<n><sp>$ – ^norwegian<adj>$
+      1 ^dangerous<adj>$ – ^@hvertfall<adv>$
+      1 ^current<adj>$ – ^@journal<n><sg>$
+      1 ^*cullbergs$ “ ^@frøken<adj>$
+      1 ^concrete<n><sg>$ – ^@trolig<adj>$
+      1 ^ceremony<n><sg>$ – ^@antagelig<adj>$
+      1 ^*canadabåten$ – ^@antakelig<adj>$
+      1 ^burn<vblex><past>$ – ^@sistnevnt<adj>$
       1 ^@bukle<adj>$
       1 ^@bryste<adj>$
       1 ^@brulegge<adj>$
+      1 ^british<adj>$   ^@bilmerke<n><sg>$
       1 ^@briske<adj>$
       1 ^@brannforsikre<adj>$
+      1 ^@bonjour<n><sg>$ – ^good<adj><sint>$
       1 ^@bomfri<adj>$
+      1 ^@bokstavelig<adj>$ ” ^heaven<n><pl>$
+      1 ^@bøk<n><pl>$ – ^@hovedsakelig<adj>$
       1 ^@blaut<adj>$
       1 ^@blåne<adj>$
+      1 ^@betraktelig<adj>$ – ^prpers<prn><subj><p3><nt><sg>$
+      1 ^@betraktelig<adj>$ – ^become<vblex><past>$
+      1 ^below<pr>$ – ^@trolig<adj>$
       1 ^@bekymringsfri<adj>$
+      1 ^*befolkningskategorier$ – ^@naturlig<adj>$
       1 ^@beferdet<adj>$
-      1 ^*bash$ ō ^@hovedsakelig<adj>$
+      1 ^become<vblex><past>$ ” ^*synova$ ” ^@hovedsakelig<adj>$
       1 ^@ballaste<adj>$
       1 ^@avtrappe<adj>$
       1 ^@avrette<adj>$
@@ -764,10 +870,21 @@
       1 ^@avbøte<adj>$
       1 ^@austnorsk<adj>$
       1 ^@attrahere<adj>$
+      1 ^as<pr>$ ” ^@systematisk<adj>$
+      1 ^as<pr>$ ” ^@naturlig<adj>$ ”^.<sent>$
+      1 ^@år gammel<adj>$ – ^release<vblex><past>$
+      1 ^@år gammel<adj>$ » – ^in<pr>$
+      1 ^@år gammel<adj>$ – ^himself<prn><p3><sg>$
+      1 ^@år gammel<adj>$ – ^appoint<vblex><pp>$
       1 ^@arbeidsfri<adj>$
       1 ^@ansøke<adj>$
       1 ^@anrike<adj>$
       1 ^@ankellang<adj>$
-      1 ^angle<n><sg>$ γ ^@separat<adj>$
+      1 ^@amerikansk<n><sp>$ – ^british<adj>$
+      1 ^already<adv>$ » – ^@naturlig<adj>$
       1 ^@adskillig<adj>$ 
+      1 ^a<det><ind><sg>$ ” ^@forsiktig<adj>$
+      1 ^a<det><ind><sg>$ ” ^common<adj>$ ” ^@bruk<n><pl>$
+      1 ^@academy<np>$ ” ^@in<adj>$
       1 ^@absolutt<adj>$ 
+      1 ^6<num>$ – ^@veldig<adj>$

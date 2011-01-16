@@ -1,50 +1,50 @@
-  27709 ^@der<pr>$
-   8617 ^@her<pr>$
-   6325 ^@bl<pr>$
-   3964 ^@foran<pr>$
-   3545 ^@von<pr>$
-   2709 ^@av dette<pr>$
-   1851 ^@i hele<pr>$
-   1728 ^@van<pr>$
+  27717 ^@der<pr>$
+   8610 ^@her<pr>$
+   6451 ^@bl<pr>$
+   3961 ^@foran<pr>$
+   3548 ^@von<pr>$
+   2707 ^@av dette<pr>$
+   1850 ^@i hele<pr>$
+   1721 ^@van<pr>$
    1504 ^@unna<pr>$
-   1439 ^@deriblant<pr>$
-   1322 ^@sørover<pr>$
-   1293 ^@i følge<pr>$
-   1149 ^@dit<pr>$
-   1121 ^@ombord<pr>$
+   1432 ^@deriblant<pr>$
+   1320 ^@sørover<pr>$
+   1290 ^@i følge<pr>$
+   1146 ^@dit<pr>$
+   1120 ^@ombord<pr>$
    1027 ^@østover<pr>$
     872 ^@fremfor<pr>$
     834 ^@vestover<pr>$
-    690 ^@øst<pr>$
+    683 ^@øst<pr>$
     638 ^@herfra<pr>$
-    595 ^@herunder<pr>$
+    591 ^@herunder<pr>$
     504 ^@underveis<pr>$
     430 ^@med hensyn til<pr>$
-    407 ^@inklusive<pr>$
+    404 ^@inklusive<pr>$
+    404 ^@ad<pr>$
     395 ^@frem i<pr>$
-    384 ^@ad<pr>$
     356 ^@derved<pr>$
     317 ^@att<pr>$
     300 ^@iblant<pr>$
     299 ^@innover<pr>$
-    291 ^@utenlands<pr>$
-    215 ^@utfra<pr>$
-    204 ^@sør<pr>$
+    290 ^@utenlands<pr>$
+    214 ^@utfra<pr>$
     204 ^@à<pr>$
+    203 ^@sør<pr>$
     181 ^@eksklusive<pr>$
-    176 ^@dertil<pr>$
+    175 ^@dertil<pr>$
     138 ^@herav<pr>$
+    133 ^@á<pr>$
+    128 ^@eksklusiv<pr>$
     128 ^@bakfra<pr>$
-    127 ^@eksklusiv<pr>$
-    121 ^@hit<pr>$
-    119 ^@bl<pr>$ ü ^*cher$
-    118 ^@utad<pr>$
+    120 ^@hit<pr>$
     118 ^@henne<pr>$
-    118 ^@á<pr>$
+    117 ^@utad<pr>$
     115 ^@hjemmefra<pr>$
     109 ^@innenlands<pr>$
     107 ^@avgårde<pr>$
     104 ^@trass i<pr>$
+     99 ^@ner<pr>$
      95 ^@utenpå<pr>$
      87 ^@avsted<pr>$
      87 ^@anno<pr>$
@@ -64,12 +64,10 @@
      50 ^@innunder<pr>$
      49 ^@styrbord<pr>$
      49 ^@oppunder<pr>$
-     48 ^*gr$ ü ^@ner<pr>$
      47 ^@nedstrøms<pr>$
      46 ^@versus<pr>$
      46 ^@uti<pr>$
      41 ^@vesta<pr>$
-     41 ^@ner<pr>$
      40 ^@post<pr>$
      38 ^@inklusiv<pr>$
      36 ^@her<pr>$ 
@@ -89,20 +87,19 @@
      25 ^@oppimot<pr>$
      24 ^@opp imot<pr>$
      24 ^@nordøstover<pr>$
-     24 ^@fremad<pr>$
      23 ^@vis-à-vis<pr>$
      23 ^@akterover<pr>$
      22 ^@vestfra<pr>$
      21 ^@nordenfor<pr>$
+     21 ^@fremad<pr>$
      20 ^@innfor<pr>$
      20 ^@herifra<pr>$
      19 ^@nordpå<pr>$
+     19 ^@nedi<pr>$
      19 ^@midtskips<pr>$
      19 ^@hist<pr>$
      18 ^@oppstrøms<pr>$
-     18 ^@nedi<pr>$
      18 ^@nedenunder<pr>$
-     18 ^@đalphabet<n><sg>$ ạ ^in<pr>$
      17 ^@sammesteds<pr>$
      17 ^@nord om<pr>$
      17 ^@innenskjærs<pr>$
@@ -118,7 +115,6 @@
      12 ^@sjøveis<pr>$
      12 ^@langveisfra<pr>$
      12 ^@der<pr>$ 
-     11 ^*br$ ü ^@der<pr>$
      10 ^@undervegs<pr>$
      10 ^@oven<pr>$
      10 ^@landverts<pr>$
@@ -131,22 +127,20 @@
       9 ^@nedad<pr>$
       9 ^@hjå<pr>$
       9 ^@frampå<pr>$
-      9 ^@do<n><sg>$ ñ ^at<pr>$
       9 ^@dit hen<pr>$
-      9 ^@der ute<pr>$
       8 ^@utafra<pr>$
       8 ^@sørpå<pr>$
+      8 ^)<rpar>$ |« ^@bl<pr>$
       8 ^@østpå<pr>$
       8 ^@nedved<pr>$
       8 ^@innaskjærs<pr>$
       8 ^@der oppe<pr>$
       8 ^@aktenfor<pr>$
-      8 ^@ad<pr>$ û ^*naisk$
       7 ^@nedentil<pr>$
       7 ^@innved<pr>$
       7 ^@hvoriblant<pr>$
       7 ^@gatelangs<pr>$
-      7 ^@bl<pr>$ ü ^*chers$
+      7 ^@der ute<pr>$
       6 ^@utifra<pr>$
       6 ^@ultimo<pr>$
       6 ^@oventil<pr>$
@@ -158,36 +152,32 @@
       6 ^@der inne<pr>$
       6 ^@babord<pr>$
       6 ^@attpå<pr>$
-      6 ^@ad<pr>$ û ^*nakhôr$
-      6 ^@ad<pr>$ û ^*naic$
       5 ^@vestpå<pr>$
       5 ^@utapå<pr>$
       5 ^@sørsørvest<pr>$
+      5 ^@øst<pr>$ – ^vest<n><sg>$
       5 ^@nere<pr>$
       5 ^@nedom<pr>$
       5 ^@midtvegs<pr>$
       5 ^@midtfjords<pr>$
-      5 ^*gebr$ ü ^@der<pr>$
       5 ^@derom<pr>$
       5 ^@att<pr>$ 
-      4 ^@von<pr>$ ü ^*xk$ ü ^*ll$
+      4 ^@von<pr>$ ü ^*xk$
       4 ^@unntagen<pr>$
       4 ^@nordafjells<pr>$
       4 ^@nedenom<pr>$
-      4 ^@mei<n><sg>$ ß ^@ner<pr>$
       4 ^@medsols<pr>$
       4 ^@langveis<pr>$
-      4 ^@gal<n><pl>$ ţ ^in<pr>$
       4 ^@frempå<pr>$
       4 ^@fremom<pr>$
       4 ^@formedelst<pr>$
       4 ^@bakut<pr>$
       4 ^@bakfra<pr>$ 
-      4 ^@antropolog<n><sg>$ í ^at<pr>$
       3 ^@vestsørvest<pr>$
       3 ^@utom<pr>$
       3 ^@utmed<pr>$
       3 ^@sønnenfjells<pr>$
+      3 ^@…<sent><clb>$ ” ^in<pr>$
       3 ^@poste restante<pr>$
       3 ^@oppigjennom<pr>$
       3 ^@kringom<pr>$
@@ -195,24 +185,21 @@
       3 ^@innefra<pr>$
       3 ^@hvor hen<pr>$
       3 ^@herunder<pr>$ 
-      3 ^@gand<n><sg>$ í ^at<pr>$
       3 ^@fremtil<pr>$
-      3 ^for<pr>$ ç ^@as<n><sg>$
       3 ^@der borte<pr>$
       3 ^@bortom<pr>$
       3 ^@aktenom<pr>$
-      3 ^@ad<pr>$ û ^*naiske$
       2 ^@vestnordvest<pr>$
       2 ^@veggimellom<pr>$
       2 ^@utomhus<pr>$
-      2 ^@sigri<np>$ ð ^of<pr>$
       2 ^@østsørøst<pr>$
+      2 ^@øst<pr>$ -ł ^*ód$
       2 ^@ombord<pr>$ 
       2 ^@nordetter<pr>$
-      2 ^@ner<pr>$ þ ^*uz$
+      2 ^*ng$ ̃ ^*mg$ ̃ ^@á<pr>$
       2 ^@motstrøms<pr>$
-      2 ^*klau$ ß ^@ner<pr>$
-      2 ^in<pr>$ ł ^*ód$ ź ^@ligger<n><sg>$
+      2 ^@mellomledd<n><sg>$ — ^as<pr>$
+      2 ^@katolisisme<n><sg>$ – ^as<pr>$
       2 ^@innomhus<pr>$
       2 ^@innafra<pr>$
       2 ^@ikring<pr>$
@@ -222,170 +209,338 @@
       2 ^@heim<pr>$
       2 ^@heimefra<pr>$
       2 ^@heden<pr>$
-      2 ^@ei<adv>$ ð ^in<pr>$
+      2 ^@goal<n><sg>$ — ^as<pr>$
       2 ^@ditover<pr>$
+      2 ^@der ute<pr>$ – ^@der inne<adv>$
       2 ^@bort mot<pr>$
       2 ^@bortetter<pr>$
-      2 ^@bl<pr>$ ü ^*thner$
-      2 ^@bl<pr>$ ü ^*hnbach$
       2 ^@bent fram<pr>$
-      2 ^at<pr>$ ç ^@or<n><sg>$
-      1 ^*yes$ ü ^@der<pr>$
+      1 ^*zengo$ 	- ^@foran<pr>$
       1 ^@xin<np>$ 信王 ^in<pr>$
-      1 ^@wei<np>$ ß ^by<pr>$
+      1 ^word<n><sg>$ ” ^process<n><sg>$ ” ^@her<pr>$
+      1 ^with<pr>$ ” ^@data<n><sg>$
+      1 ^wergeland<np><top><sg>$ – ^@dertil<pr>$
+      1 ^@walk<np>$ ” ^in<pr>$
+      1 ^*vp$ – ^@der<pr>$
+      1 ^@vis<n><sg>$ – ^with<pr>$
+      1 ^@vindforhold<n><pl>$ — ^with<pr>$
+      1 ^victim<n><pl>$ – ^@deriblant<pr>$
       1 ^@vestenom<pr>$
       1 ^@vestenfra<pr>$
+      1 ^@verk<n><sg>$ – ^on<pr>$
+      1 ^@verk<n><m><pl>$ – ^in<pr>$
+      1 ^@van<pr>$ – ^*contos$
+      1 ^valley<n><sg>$  ^@ad<pr>$
+      1 ^@utland<n><sg>$ – ^next to<pr>$
+      1 ^@utland<n><sg>$ – ^among<pr>$
       1 ^@utetter<pr>$
+      1 ^@utenlands<pr>$ – ^a<det><ind><sg>$
+      1 ^up<pr>$ ” ^@fans<n><sg>$
       1 ^@underveis<pr>$ 
-      1 ^to<pr>$ β- ^@praseodym<n><sg>$
-      1 ^to<pr>$ β- ^@dysprosium<n><sg>$
-      1 ^to<pr>$ α- ^@tinn<n><sg>$
-      1 ^to<pr>$ ł ^*ód$ ź ^@permanent<n><sg>$
-      1 ^t<n><sg>$ ȟ ^that<cnjsub>$ ȟ ^@á<pr>$
+      1 ^*ukerevyen$ ” ^*dryl$ ´ ^@an<adv>$ ” ^from<pr>$
+      1 ^turkey<np><top><sg>$ | ^@van<pr>$
+      1 ^to<pr>$ ” ^@hallo<n><sg>$
+      1 ^to<pr>$ ” ^@fight<n><sg>$
+      1 ^to<pr>$ ” ^@double<n><sg>$
+      1 ^topic<n><sg>$ – ^@her<pr>$
       1 ^t<n><sg>$ ɕ ^@á<pr>$
-      1 ^@th<np>$ ờ ^in<pr>$
-      1 ^@th<np>$ ọ ^from<pr>$
-      1 ^*sp$ ʰ ^at<pr>$ í ^@ra<n><sg>$
+      1 ^@ting<n><sg>$ » – ^in<pr>$
+      1 ^time<n><sg>$ – ^@av dette<pr>$
+      1 ^@tilde<n><sg>$ «~» ^after<pr>$
+      1 ^@tilbygg<n><sg>$ – ^vestry<n><sg>$ – ^with<pr>$
+      1 ^through<pr>$ ” ^@operasjonell<adj>$
+      1 ^*thinkers$ ” ^@i hele<pr>$
+      1 ^theatre<n><pl>$ – ^@deriblant<pr>$
+      1 ^texas<np><top><sg>$ | ^@van<pr>$
+      1 ^@teorem<n><sg>$   ^with<pr>$
+      1 ^@teorem<n><sg>$   ^to<pr>$
+      1 ^@tekstilindustri<n><sg>$ – ^outside<pr>$
+      1 ^@systematisk<adj>$ – ^in<pr>$
+      1 ^stockholm<np><top><sg>$ – ^@der<pr>$
+      1 ^@spermie<n><sg>$ » – ^as<pr>$
+      1 ^@speedway<n><sg>$   ^for<pr>$
+      1 ^sørum<np><top><sg>$ — ^@dit<pr>$
       1 ^@sørsørøst<pr>$
+      1 ^@sørover<pr>$ – ^prpers<prn><subj><p3><m><sg>$
+      1 ^@sørover<pr>$ – ^part<n><sg>$
       1 ^@sønnafjells<pr>$
-      1 ^@skei<n><sg>$ ð ^in<pr>$
+      1 ^@song<np>$ ”^,<cm>$ “ ^over<pr>$
+      1 ^so-called<adj>$ ” ^@revisjonist<n><pl>$ ” ^in<pr>$
+      1 ^so-called<adj>$ ” ^@heiarop<n><sg>$ ” ^as<pr>$
+      1 ^so-called<adj>$ ” ^@ad<pr>$
+      1 ^@snu<n><sg>$ – ^on<pr>$
+      1 ^s<n><sg>$ – ^@der<pr>$
+      1 ^@slaver<n><pl>$ – ^in<pr>$
+      1 ^@skolearbeid<n><sg>$ ” ^within<pr>$
       1 ^@sjøverts<pr>$
+      1 ^situation<n><pl>$ » — ^@herunder<pr>$
+      1 ^sign<n><pl>$ „ ^@…<sent><clb>$ “ ^by<pr>$
+      1 ^significance<n><sg>$ – ^@herunder<pr>$
       1 ^:<sent>$ الدوحة‎ - ^@ad<pr>$
-      1 ^;<sent>$ þ ^@á<pr>$
-      1 ^@sad<np><top>$ ì ^at<pr>$
-      1 ^@re<n><sg>$ ş ^in<pr>$ ţ ^at<pr>$
-      1 ^@re<n><sg>$ ş ^in<pr>$ ţ ^a<n><sg>$
-      1 ^@pek<n><sg>$ ç ^in<pr>$
+      1 ^.<sent>$ ” ^@i følge<pr>$
+      1 ^;<sent>$ – ^@her<pr>$
+      1 ^.<sent>$ – ^@fremad<pr>$
+      1 ^;<sent>$ ” ^@der<pr>$
+      1 ^@…<sent><clb>$ ” ^through<pr>$
+      1 ^@…<sent><clb>$ ” ^@her<pr>$
+      1 ^@seminar<n><pl>$ – ^to<pr>$
+      1 ^@samnorsk<n><sp>$ ” ^as<pr>$
+      1 ^rügen<np><top><sg>$ — ^@der<pr>$
+      1 ^)<rpar>$ | ^@bl<pr>$
+      1 ^@rover<n><sg>$   ^in<pr>$
+      1 ^@road<np><top>$ ” ^with<pr>$
+      1 ^*rettroenhet$ – ^@deriblant<pr>$
+      1 ^@real<np>$ ” ^on<pr>$
+      1 ^@psykologisk<adj>$ ” ^law<n><pl>$ ” ^in<pr>$
+      1 ^@psykologisk<adj>$ – ^in<pr>$
+      1 ^processing<n><sg>$ – ^@herunder<pr>$
+      1 ^@prefiks<n><sg>$ ” ^m<n><sg>$ ” ^in<pr>$
+      1 ^@potensial<n><sg>$ ” ^by<pr>$
+      1 ^*pieter$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^02<num>$
+      1 ^@personlig<adj>$ “ ^at<pr>$
+      1 ^per<pr>$ @ ^*example$
+      1 ^*performance$ ” ^@foran<pr>$
+      1 ^@party<n><sg>$   ^in<pr>$
+      1 ^over<pr>$ – ^@for<adv>$
+      1 ^over<pr>$ – ^@ei<adv>$
+      1 ^@overmot<n><sg>$ – ^as<pr>$
+      1 ^@overlege<n><sg>$   ^with<pr>$
       1 ^@ovafra<pr>$
-      1 ^@øst<pr>$ -ł ^*ód$ ź^.<sent>$
-      1 ^@øst<pr>$ -ł ^*ód$ ź ^in<pr>$ ł ^*ód$ ź ^*voivodskap$
+      1 ^out<pr>$ & ^@spise<n><sg>$
+      1 ^@osv<adv>$ – ^in<pr>$
+      1 ^@øst<pr>$ – ^*vestakse$
       1 ^@øst<pr>$ 
       1 ^@østnordøst<pr>$
       1 ^@østetter<pr>$
       1 ^@østenom<pr>$
+      1 ^@örn<np>$ — ^as<pr>$
+      1 ^@orchestra<np>$ ‎ ^on<pr>$
+      1 ^@opptreden<n><sg>$ – ^with<pr>$
+      1 ^@opprinnelig<adj>$ «₤» ^with<pr>$
       1 ^@oppom<pr>$
       1 ^@oppfor<pr>$
-      1 ^on<pr>$ β- ^@karbon<n><sg>$
-      1 ^on<pr>$ β- ^@enzym<n><pl>$
-      1 ^@on<np>$ ç ^at<pr>$
-      1 ^*ok$ þ ^@á<pr>$
-      1 ^of<pr>$ ἀν- ^@an<adv>$
-      1 ^of<pr>$ β- ^@keratin<n><sg>$
-      1 ^of<pr>$ ł ^*ód$ ź- ^@urskog<n><sg>$
+      1 ^@opinion<n><sg>$ – ^@inklusive<pr>$
+      1 ^o<n><sg>$ ʊʔ ^@à<pr>$ ʊ ^n<n><sg>$
+      1 ^on<pr>$   ^@østside<n><sg>$
+      1 ^on<pr>$ ” ^@royal<np>$
+      1 ^on<pr>$ @ ^*mac$
+      1 ^on<pr>$ ” ^@live<n><sp>$
+      1 ^on<pr>$ ” ^@dampkjøkken<n><sg>$
+      1 ^on<pr>$ ” ^@bokk<n><sg>$
+      1 ^on<pr>$ ” ^@billboard<np>$
+      1 ^on<pr>$ − ^52.51<num>$ ° ^@deklinasjon<n><sg>$
+      1 ^@oligarki<n><sg>$ – ^in<pr>$
+      1 ^@oktav<n><pl>$ – ^up<pr>$
+      1 ^of<pr>$ ”  ^@samlag<n><sg>$
+      1 ^of<pr>$ — ^@jeblad<np>$ 
       1 ^of<pr>$ í ^@sleiv<n><sg>$
-      1 ^*ó$ ð ^@á<pr>$ ð ^*ahraun$
-      1 ^@noro<np>$ ñ ^at<pr>$
+      1 ^of<pr>$ ” ^@european<np>$
+      1 ^of<pr>$ «@» ^as<pr>$
+      1 ^@odyssé<n><sg>$ – ^as<pr>$
+      1 ^oar<n><pl>$ – ^@inklusive<pr>$
+      1 ^@nynorsk<n><sp>$ + ^in<pr>$
+      1 ^norwegian<n><sg>$ ” ^@biland<n><sg>$ ” ^as<pr>$
+      1 ^norway<np><top><sg>$ – ^@deriblant<pr>$
+      1 ^north<n><sg>$ – ^@sør<pr>$
       1 ^@nordom<pr>$
       1 ^@nordnordvest<pr>$
       1 ^@nordnordøst<pr>$
+      1 ^@nordland<n><sg>$ ‎ ^forth<pr>$
       1 ^@nordenfra<pr>$
+      1 ^no<det><ind><pl>$ ” ^@hit<n><sg>$ ” ^before<pr>$
+      1 ^@nidarosdomen<np>$ – ^as<pr>$
+      1 ^new<adj><sint>$ ” ^@sound<n><sg>$ ” ^with<pr>$
+      1 ^@nestemann<n><pl>$ ” ^on<pr>$
       1 ^@nedtil<pr>$
       1 ^@nedpå<pr>$
-      1 ^@nedi<pr>$ ć^,<cm>$
+      1 ^@navnedag<n><sg>$ – ^with<pr>$
+      1 ^@natriumklorid<n><sg>$ – ^of<pr>$
       1 ^@motsols<pr>$
-      1 ^mother tongue<n><sg>$ ṭ ^r<n><sg>$ ā ^@bl<pr>$ ə ^s<n><sg>$
+      1 ^@motrevolusjon<n><sg>$ – ^of<pr>$
+      1 ^moss<np><top><sg>$ – ^@fremad<pr>$ 	 ^2<num>$ – ^0<num>$
+      1 ^@mille<n><pl>$   ^between<pr>$
+      1 ^michigan<np><top><sg>$ | ^@van<pr>$
+      1 ^michael<np><ant><m><sg>$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^02<num>$
+      1 ^@metallurgi<n><sg>$ – ^in<pr>$
+      1 ^@menneskeape<n><pl>$ – ^under<pr>$
+      1 ^medium<n><pl>$ – ^@her<pr>$
       1 ^@mangesteds<pr>$
-      1 ^@mal<n><sg>$ ḫ ^out<pr>$
-      1 ^(<lpar>$хаб ^@á<pr>$ ровск^)<rpar>$
-      1 ^(<lpar>$حطّة^,<cm>$ ḥ ^at<pr>$ ṭṭ ^@äalphabet<n><sg>$
-      1 ^*kapali$ ç ^@ar<n><sg>$ ş ^in<pr>$
-      1 ^*jiquiri$ ç ^@á<pr>$
-      1 ^@japansk<n><sp>$ 硫黄島 ^in<pr>$ ō ^t<n><sg>$ ō^,<cm>$
+      1 ^@macdonnell<np>$ — ^in<pr>$
+      1 ^@luftkamp<n><pl>$ – ^in<pr>$
+      1 ^(<lpar>$хаб ^@á<pr>$
+      1 ^@lov<n><sp>$ – ^as<pr>$
+      1 ^*louvre$ – ^@der<pr>$
+      1 ^@ljan<np>$ – ^with<pr>$
+      1 ^@livsløp<n><sg>$ – ^from<pr>$
+      1 ^@lit<n><sg>$ ” ^*teaser$ ” ^in<pr>$
+      1 ^lifestyle<n><sg>$ – ^@inklusive<pr>$
+      1 ^@levetid<n><sg>$ – ^with<pr>$
+      1 ^@leir<n><sg>$ – ^as<pr>$
+      1 ^@lee<np>$ – ^as<pr>$
+      1 ^@lede<n><pl>$ ” ^of<pr>$
+      1 ^@league<np><top>$ ” ^together with<pr>$
+      1 ^@la<n><sg>$ – ^@utfra<pr>$
+      1 ^@landauer<n><sg>$ – ^as<pr>$
+      1 ^@kristianstad<np>$ — ^after<pr>$
+      1 ^*krillmaling$ – ^@der<pr>$
+      1 ^@konvertitt<n><pl>$ – ^as<pr>$
+      1 ^@kontinental<adj>$ – ^with<pr>$
+      1 ^@kjerrevei<n><sg>$ – ^in<pr>$
+      1 ^king<n><pl>$ – ^@der<pr>$
+      1 ^karsten<np><ant><m><sg>$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^06<num>$
+      1 ^@karosseri<n><sg>$   ^of<pr>$
+      1 ^*joost$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^02<num>$
       1 ^@jamsides<pr>$
-      1 ^@it<n><sp>$ ō ^under<pr>$
+      1 ^@international<np>$ ” ^as<pr>$
+      1 ^@intel<np>$ ® ^in<pr>$
+      1 ^instead of<pr>$ «& ^@not<n><sg>$
+      1 ^in<pr>$   ^@england<n><sg>$
+      1 ^in<pr>$ ´ ^@ve<n><sg>$
       1 ^in<pr>$ ɔɔ ^@osv<adv>$
-      1 ^in<pr>$ ł ^*ód$ ź ^@hovedsakelig<adj>$
-      1 ^in<pr>$ ć ^@veldig<adj>$
-      1 ^in<pr>$ ç ^@ar<n><pl>$
-      1 ^in<pr>$ ç ^@á<pr>$
-      1 ^in<pr>$ ç ^@ank<n><sg>$ ı ^r<n><sg>$ ı^,<cm>$
-      1 ^in<pr>$ ç ^@áalphabet<n><sg>$
+      1 ^in<pr>$ ç ^@ank<n><sg>$
       1 ^@innover<pr>$ 
       1 ^@innenlands<pr>$ 
       1 ^@innenifra<pr>$
       1 ^@ingensteds<pr>$
-      1 ^@il<n><sg>$ í ^on<pr>$
-      1 ^@ili<np>$ ć ^to<pr>$
+      1 ^@indifferens<n><sg>$ — ^@der<pr>$
       1 ^@i hele<pr>$ 
+      1 ^@i følge<pr>$ § ^53<num>$
       1 ^@i følge<pr>$ 
-      1 ^*ibia$ ç ^@á<pr>$
-      1 ^*hluti$ þ ^@á<pr>$
+      1 ^@husmorskole<n><sg>$ ” ^within<pr>$
       1 ^@hjemom<pr>$
-      1 ^@hev<n><sg>$ í ^at<pr>$
-      1 ^@her<pr>$ í ^*vási$
-      1 ^@her<pr>$ ð ^*ubrei$ ð ^*arlindir$
-      1 ^@her<pr>$ ā ^t<n><sg>$
+      1 ^@hjemmeside<n><pl>$ – ^with<pr>$
+      1 ^@hit<pr>$ & ^@run<n><sg>$
+      1 ^@hindi<n><sp>$ — ^in<pr>$
+      1 ^@her<pr>$ — ^*rapunzeltårnet$
+      1 ^@her<pr>$ – ^his<det><pos><pl>$
       1 ^@herover<pr>$
+      1 ^@hero<n><sg>$ ” ^on<pr>$
       1 ^@herom<pr>$
       1 ^@henad<pr>$
-      1 ^*hauptschlu$ ß ^@der<pr>$
-      1 ^*haf$ ð ^in<pr>$ þ ^@ar<n><sg>$
-      1 ^*guaira$ ç ^@á<pr>$
-      1 ^@gresk<n><sp>$ μίμησις ^from<pr>$ μιμεîσθαι^)<rpar>$
-      1 ^@gresk<n><sp>$ κολοφών ^as<pr>$
-      1 ^greek<n><sg>$ -κρατία ^@krat<n><sg>$ í ^at<pr>$
-      1 ^from<pr>$ 空 ^@kare<n><sg>$
-      1 ^from<pr>$ β- ^@tinn<n><sg>$
-      1 ^from<pr>$ α- ^@praseodym<n><sg>$
+      1 ^@heimevern<n><sg>$ – ^as<pr>$
+      1 ^@harmonikk<n><sg>$ – ^to<pr>$
+      1 ^@hankjønnsord<n><sg>$ → ^@akkusativ<n><sg>$ → ^on<pr>$
+      1 ^@halvår<n><sg>$ – ^in<pr>$
+      1 ^@grenseland<n><sg>$ " – ^between<pr>$
+      1 ^great<adv>$ ” ^@folkemøte<n><sg>$ ” ^on<pr>$
+      1 ^*gerben$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^02<num>$
+      1 ^*genrelitteratur$ – ^@her<pr>$
+      1 ^@gen<n><pl>$ ” ^as<pr>$
+      1 ^@gardenia<n><sg>$ ” ^in<pr>$
+      1 ^@galmannsverk<n><sg>$ – ^outside<pr>$
       1 ^@fremfor<pr>$ 
-      1 ^for<pr>$ śī ^@la<n><sg>$
-      1 ^*flei$ ß ^@ner<pr>$
+      1 ^@fremad<pr>$ – ^bön<np><top><sg>$ 	 ^3<num>$ – ^0<num>$
+      1 ^@fransk<n><sp>$   ^for<pr>$
+      1 ^@foundation<np>$ – ^as<pr>$
+      1 ^@fosterbarn<n><sg>$ – ^@herunder<pr>$
+      1 ^@fortsatt<adv>$ – ^in<pr>$
+      1 ^@forsamlingshus<n><sg>$ ” ^sconce<n><sg>$ ” ^in<pr>$
+      1 ^for<pr>$ ” ^@stimulus<n><sg>$ ” ^and<cnjcoo>$
+      1 ^for<pr>$ “ ^@senter<n><sg>$
+      1 ^@forhånd<n><sp>$ – ^in<pr>$
+      1 ^@forbrenningsmotor<n><sg>$   ^through<pr>$
+      1 ^@fjelltopp<n><sg>$ – ^@der<pr>$
+      1 ^firm<n><sg>$ – ^@van<pr>$
+      1 ^@fez<np>$ – ^as<pr>$
+      1 ^@festningsverk<n><sg>$ – ^@der<pr>$
+      1 ^*favorittområdet$ – ^@dit<pr>$
+      1 ^@fascistparti<n><sg>$ – ^*pnf$ – ^before<pr>$
+      1 ^@far<n><sg>$ – ^as<pr>$
+      1 ^@etnografi<n><sg>$ ” ^under<pr>$
+      1 ^erik<np><ant><m><sg>$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^02<num>$
       1 ^@ensteds<pr>$
-      1 ^@ei<adv>$ ß ^@ner<pr>$
+      1 ^@eksistensialisme<n><sg>$ – ^as<pr>$
+      1 ^@ei<adv>$ – ^at<pr>$
       1 ^@efterpå<pr>$
-      1 ^*draškovi$ ć ^@von<pr>$
+      1 ^@dynasti<n><sg>$ – ^under<pr>$
+      1 ^@dramatisk<adj>$ – ^from<pr>$
+      1 ^document<n><sg>$ ” ^@arbeidsgrunnlag<n><sg>$ ” – ^as<pr>$
+      1 ^d<n><sg>$ & ^@ad<pr>$
+      1 ^@dit<pr>$ – ^more<adv>$
       1 ^@dit<pr>$ 
-      1 ^@der<pr>$ љ^,<cm>$ њ^,<cm>$ ј ^and<cnjcoo>$ џ ^also<adv>$
-      1 ^@der<pr>$ ν = ^*lamorfrekvensen$ 
+      1 ^@der<pr>$ љ^,<cm>$
       1 ^@der<pr>$ α₁- ^*antitrypsinnivået$
-      1 ^@der<pr>$ ü ^@lo<n><sg>$
-      1 ^@der<pr>$ ü ^*brigen$
-      1 ^@der<pr>$ ü ^*blichen$
       1 ^@der<pr>$ ü ^*berzeugung$
       1 ^@der<pr>$ ü ^*berläufer$
+      1 ^@der<pr>$ ” ^that<det><dem><pl>$
+      1 ^@der<pr>$ „ ^*nsu$
+      1 ^@der<pr>$ ” ^*duel$
+      1 ^@der<pr>$ – ^antique<n><sg>$
+      1 ^@der<pr>$ $
       1 ^@derimellom<pr>$
+      1 ^@deriblant<pr>$ ” ^@el<n><sg>$
       1 ^@der hen<pr>$
-      1 ^*curu$ ç ^@á<pr>$
-      1 ^*cura$ ç ^@á<pr>$
-      1 ^*col$ í ^@der<pr>$
+      1 ^debt<n><sg>$ – ^@her<pr>$
+      1 ^commercial bank<n><pl>$ – ^@deriblant<pr>$
       1 ^,<cm>$ б ^@á<pr>$ ба-яг ^@á<pr>$
-      1 ^,<cm>$ þ ^@á<pr>$
       1 ^@church<np>$ 中華福音信義會 ^in<pr>$
+      1 ^@championship<np>$   ^in<pr>$
+      1 ^@cd<n><sg>$ ” ^frode<np><ant><m><sg>$ ” ^as<pr>$
       1 ç ^@à<pr>$
+      1 ^cameroon<np><top><sg>$ | ^@øst<pr>$
+      1 ^@bystat<n><sg>$ – ^in<pr>$
+      1 ^by<pr>$ ” ^@anstalt<n><sg>$
+      1 ^@buddha<np>$ ” – ^as<pr>$
+      1 ^@bruksområde<n><sg>$ – ^from<pr>$
+      1 ^@brand<n><sg>$ ─ ^as<pr>$
       1 ^@borttil<pr>$
       1 ^@bort imot<pr>$
-      1 ^*borovi$ ć ^@von<pr>$
-      1 ^*borojevi$ ć ^@von<pr>$
-      1 ^*bò$ ʊ ^d<n><sg>$ ʒ ^o<n><sg>$ ʊʔ ^@à<pr>$ ʊ ^n<n><sg>$
-      1 ^@bl<pr>$ а ^g<n><sg>$ о ^v<n><sg>$ е ^*sjtsj$ е ^*nsk$
-      1 ^@bl<pr>$ œ ^]<rpar>$
-      1 ^@bl<pr>$ ã ^]<rpar>$
+      1 ^@boone<np>$ — ^as<pr>$
+      1 ^@bolighus<n><sg>$ – ^with<pr>$
+      1 ^@bøk<n><pl>$ — ^among<pr>$
       1 ^@bl<pr>$ 
       1 ^@bent frem<pr>$
+      1 ^below<pr>$ – ^@trolig<adj>$
       1 ^@beint fram<pr>$
-      1 ^@bal<n><sg>$ þ ^at<pr>$
+      1 ^@begynner<n><sg>$ – ^on<pr>$
+      1 ^before<pr>$ ” ^@lov<n><sp>$
+      1 ^@beer<np>$ – ^as<pr>$
+      1 ^@barfoed<np>$ — ^as<pr>$
       1 ^@baki<pr>$
+      1 ^@badehus<n><sg>$ – ^with<pr>$
+      1 ^@av dette<pr>$ – ^to<pr>$
       1 ^@av dette<pr>$ 
       1 ^@austover<pr>$
-      1 ^@att<pr>$ ā ^@as<n><sg>$
+      1 ^@att<pr>$ ´ ^@tel<n><sg>$
       1 ^@attom<pr>$
       1 ^@attmed<pr>$
-      1 ^at<pr>$ ğ ^@as<n><sg>$ ı^)<rpar>$
-      1 ^at<pr>$ ğ ^@as<n><sg>$ ı ^or<cnjcoo>$
-      1 ^at<pr>$ ð þ ^@eir<n><sg>$
-      1 ^at<pr>$ ð ^@nor<n><sg>$ ð ^@an<adv>$
-      1 ^at<pr>$ ð í ^@tal<n><sg>$ í ^u<n><sg>$
-      1 ^at<pr>$ ð ^@al<n><sg>$
+      1 ^at<pr>$ – ^@öalphabet<n><sg>$
+      1 ^at<pr>$ 	 ^@nor<n><sg>$ 	 ^01<num>$
+      1 ^at<pr>$ ð í ^@tal<n><sg>$
       1 ^as<pr>$ ὂν ^@on<np>$
+      1 ^as<pr>$ – ^@tross<n><sg>$
+      1 ^as<pr>$ ” ^@systematisk<adj>$
+      1 ^as<pr>$ ” ^@stem<n><sg>$ ” ^to<pr>$
+      1 ^as<pr>$ ” ^@…<sent><clb>$
+      1 ^as<pr>$ ” ^@regle<n><pl>$
+      1 ^as<pr>$ ” ^@opus<n><sg>$
+      1 ^as<pr>$ ” ^north sea<np><top><sg>$ ”^,<cm>$ ” ^@gudskjelovkveld<n><sg>$ ” ^and<cnjcoo>$ ” ^*aftenklokker$ ” ^in<pr>$
+      1 ^as<pr>$ ” ^@naturlig<adj>$ ”^.<sent>$
+      1 ^as<pr>$ ” ^@nattmann<n><sg>$
+      1 ^as<pr>$ ” ^@likt<adv>$ ”^.<sent>$
+      1 ^as<pr>$ – ^@ihvertfall<adv>$
+      1 ^as<pr>$ ” ^@hele<n><sg>$
       1 ^as<pr>$ 샤^,<cm>$ 셔 ^@osv<adv>$
-      1 ^@ar<n><pl>$ ç ^@á<pr>$
-      1 ^@á<pr>$ í ^*slensku$
+      1 ^as<pr>$ ” ^@boys<np>$ ” ^(<lpar>$
+      1 ^@aristokrati<n><sg>$ – ^in<pr>$
+      1 ^@argentin<n><pl>$ – ^@deriblant<pr>$
+      1 ^@år gammel<adj>$ » – ^in<pr>$
+      1 ^@arbeidsgiver<n><sg>$ – ^as<pr>$
+      1 ^@arameisk<n><sg>$ – ^as<pr>$
       1 ^@á<pr>$ í ^*slandi$
-      1 ^also<adv>$ þ ^in<pr>$ ð ^@riks<n><sg>$
-      1 ^@al<n><sg>$ þýð ^*ubandalagi$ ð ^together with<pr>$
-      1 ^@al<n><sg>$ -ḥ ^in<pr>$ ṣ ^n<n><sg>$
+      1 ^@åpner<n><sg>$ — ^together with<pr>$
+      1 ^@annekskirke<n><sg>$ ” ^with<pr>$
+      1 ^@alterbok<n><sg>$ – ^as<pr>$
+      1 ^@al<n><sg>$ -ḥ ^in<pr>$
+      1 ^@allfarvei<n><sg>$ – ^on<pr>$
       1 ^@allesteds<pr>$
       1 ^@alias<pr>$ 
-      1 ^@ad<pr>$ þ ^*jó$ ð ^*hildarstö$ ð ^*um$
-      1 ^@ad<pr>$ ā ^m<n><sg>$ ā ^*lig$ ā ^*va$
-      1 ^2<num>$ π ^@eksklusiv<pr>$
+      1 ^@afrodite<np>$ – ^as<pr>$
+      1 ^@ad<pr>$ þ ^*jó$
+      1 ^@ad<pr>$ & ^*rpil$
+      1 ^a<det><ind><sg>$ ” ^@overbygning<n><sg>$ ” ^over<pr>$
+      1 ^a<det><ind><sg>$ ” ^evidence<n><sg>$ ” ^@utad<pr>$
+      1 ^71 048<num>$ 	  	 ^@van<pr>$
+      1 ^71 047<num>$ 	  	 ^@van<pr>$
+      1 ^60<num>$ ° ^@foran<pr>$
+      1 ^180<num>$ ° ^@der<pr>$

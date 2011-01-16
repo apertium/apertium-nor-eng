@@ -1,35 +1,131 @@
-      1 ^t<n>$ í ^my<det><pos>$ ð ^@jar<n>$ ð ^*arhafi$ ð ^and<cnjcoo>$
-      1 ^t<n>$ ȟ ^that<cnjsub>$ ȟ ^@á<pr>$
-      1 ^@tant<n>$ ō ^or<cnjcoo>$
-      1 ^@tane<vblex><pp>$ ã ^and<cnjcoo>$
-      1 ^@suffiks<n>$ -ī ^and<cnjcoo>$
-      1 ^@suffiks<n>$ -ā ^and<cnjcoo>$ -ū^.<sent>$
-      1 ^@skei<n>$ ð ^and<cnjcoo>$
-      1 ^@sav<n>$ şı ^or<cnjcoo>$
+      3 ^@sør<n><sp>$ – ^and<cnjcoo>$
+      3 ^@nord<n><sp>$ – ^and<cnjcoo>$
+      3 ^@for<adv>$ – ^and<cnjcoo>$
+      2 ^@øst<n><sp>$ – ^and<cnjcoo>$
+      2 ^@college<n>$ – ^and<cnjcoo>$
+      2 ^because<cnjsub>$ ” ^@…<sent><clb>$
+      1 ^*wo$ ” ^and<cnjcoo>$ ” ^@meine<vblex><imp>$
+      1 ^@venstre<n><sp>$ – ^and<cnjadv>$
+      1 ^@ved<n>$ – ^and<cnjcoo>$
+      1 ^@vassveg<n>$ – ^in order to<cnjsub>$
+      1 ^*vaar$ ”^,<cm>$ “ ^@springdans<n>$ ” ^and<cnjcoo>$ “ ^norwegian<n>$ ”^.<sent>$
+      1 ^@tysk<n><sp>$ – ^and<cnjcoo>$
+      1 ^@tv<np>$ + ^and<cnjcoo>$
+      1 ^@trend<n>$ – ^and<cnjcoo>$
+      1 ^@transformasjon<n>$   ^and<cnjcoo>$
+      1 ^@tom<n>$ – ^that<cnjsub>$
+      1 ^that<cnjsub>$ ” ^@sentralledelse<n>$
+      1 ^that<cnjsub>$ ” ^@riksteatret<np>$
+      1 ^that<cnjsub>$ “ ^@it<n><sp>$
+      1 ^@teflon<n>$ ® ^and<cnjcoo>$
+      1 ^@tally<n>$ – ^and<cnjcoo>$
+      1 ^@story<n>$ ” ^or<cnjcoo>$ ” ^*tolvskillingsoperaen$ ” ^and<cnjcoo>$
+      1 ^song<n>$ ” ^be<vbser><past>$ ” ^and<cnjcoo>$ ” ^@charmere<vblex><imp>$
+      1 ^so<cnjadv>$ – ^@korte<vblex><imp>$
+      1 ^@skrivemåte<n>$ – ^so<cnjadv>$
+      1 ^@…<sent><clb>$ ” ^so that<cnjsub>$
+      1 ^@…<sent><clb>$ ” ^and<cnjcoo>$ ” ^@…<sent><clb>$
+      1 ^@…<sent><clb>$ ” ^and<cnjcoo>$
+      1 ^@seer<n>$ – ^even though<cnjadv>$
+      1 ^@sedan<n>$   ^and<cnjcoo>$
+      1 ^@samarbeidsorgan<n>$ – ^and<cnjcoo>$
       1 ^@russisk<n><sp>$ витус ионассен беринг ^or<cnjcoo>$ иван иванович беринг = ^ivan<np><ant><m>$
-      1 ^or<cnjcoo>$ ολύμπια ^@ol<n>$ ý ^*mpia$
-      1 ^or<cnjcoo>$ β- ^@prefiks<n>$
-      1 ^or<cnjcoo>$ ā ^c<n>$ ā ^@ra<n>$
+      1 ^@rom<n>$ — ^both<cnjcoo>$
+      1 ^@rettssak<n>$ — ^that<cnjsub>$
+      1 ^@proff<n>$ ™ ^and<cnjcoo>$
+      1 ^@postulat<n>$ – ^and<cnjcoo>$
+      1 ^@populærmusikk<n>$ – ^and<cnjadv>$
+      1 ^@polyester<n>$ – ^and<cnjcoo>$
+      1 ^@pluralisme<n>$ – ^because<cnjsub>$
+      1 ^@pedagogikk<n>$ – ^and<cnjcoo>$
+      1 ^@øyeblikkelig<adj>$ – ^or<cnjcoo>$
+      1 ^other<det><ind>$ ” ^@ting<n>$ ” ^or<cnjcoo>$ ” ^organism<n>$ ”^.<sent>$
+      1 ^or<cnjcoo>$ ολύμπια ^@ol<n>$
+      1 ^or<cnjcoo>$ – ^@sjeldnere<adv>$ – ^oppose<vblex><past>$
+      1 ^or<cnjcoo>$ ” ^detect<vblex><inf>$ ” ^@angivelig<adj>$
+      1 ^@oranje<np>$ – ^and<cnjcoo>$
+      1 ^@mute<vblex><inf>$ ” ^and<cnjcoo>$ ” ^*priceless$ ”^.<sent>$
+      1 ^@morfar<n>$ – ^and<cnjcoo>$
+      1 ^@molekyl<n>$ – ^and that<cnjcoo>$
+      1 ^@mobbing<n>$ – ^or<cnjcoo>$
+      1 ^@missil<n>$ – ^or<cnjcoo>$
+      1 ^@mislykkes<vblex><pstv><pp>$ – ^if<cnjsub>$
+      1 ^@metropolitan<np>$ – ^and<cnjcoo>$
+      1 ^@menighet<n>$ – ^and<cnjcoo>$
+      1 ^@luftstrøm<n>$ ” ^that<cnjsub>$
+      1 ^@lo<n>$ – ^and<cnjcoo>$ ” ^*cabrioletbusser$ ” ^operate<vblex><pres>$
+      1 ^@live<n><sp>$ – ^that<cnjsub>$
+      1 ^@live<n><sp>$ – ^and<cnjcoo>$
+      1 ^@linux<np>$ ® ^and<cnjcoo>$
+      1 ^@league<np><top>$ – ^and<cnjcoo>$
+      1 ^@lange<n>$ – ^and<cnjcoo>$
+      1 ^@kvadratur<n>$   ^and<cnjcoo>$
+      1 ^@kulturpris<n>$ ” ^and<cnjcoo>$ “ ^robert<np><ant><m>$
+      1 ^@knulle<vblex><inf>$ — ^and<cnjcoo>$
+      1 ^@kjøttdeig<n>$ ” ^or<cnjcoo>$
+      1 ^@killing<n>$   ^and<cnjcoo>$
+      1 ^@karplante<n>$ – ^and<cnjcoo>$
+      1 ^@karpefisk<n>$ – ^both<cnjcoo>$
+      1 ^@karpefisk<n>$ – ^and<cnjcoo>$
       1 ^@jiddisch<n><sp>$ כּלי־זמיר ^and<cnjcoo>$
-      1 ^@ili<np>$ ć ^that<cnjsub>$
-      1 ^@ili<np>$ ć ^in order to<cnjsub>$
-      1 ^@ili<np>$ ć ^and<cnjcoo>$
+      1 ^@jazze<vblex><imp>$ – ^and<cnjcoo>$
+      1 ^install<vblex><pp>$ ” ^@brannmur<n>$ ” ^and<cnjcoo>$ ” ^*skolelinux$ ” ^on<pr>$
+      1 ^increase<vblex><inf>$ ” ^@ire<vblex><imp>$ ” – ^or<cnjcoo>$
+      1 ^iceland<np><top>$ ” ^and<cnjcoo>$ ” ^@on<np>$
+      1 ^@hvem som helst<adv>$ – ^and that<cnjcoo>$
+      1 ^hue<vblex><pp>$ ‹ ^@nigger<n>$ › ^and<cnjcoo>$
+      1 ^@holdeplass<n>$ – ^and<cnjcoo>$
+      1 ^@hele<n>$ ” ^or<cnjcoo>$
+      1 ^@heine<vblex><inf>$   ^and<cnjcoo>$
+      1 ^@hall<n>$ – ^and<cnjcoo>$
       1 ^@gresk<n><sp>$ ἄττα ^and<cnjcoo>$
-      1 ^@gresk<n><sp>$ ἐκκλησία ^and<cnjcoo>$ -λογια^,<cm>$
+      1 ^@gresk<n><sp>$ ἐκκλησία ^and<cnjcoo>$
       1 ^@gresk<n><sp>$ «εις την πόλιν» ^or<cnjcoo>$ «στην πόλη» ^[<lpar>$
-      1 ^*funksjonelle$ α ^and<cnjcoo>$ β ^@hemoglobin<n>$
+      1 ^@fyrst<n>$ ” ^and<cnjcoo>$
+      1 ^for<pr>$ ” ^@stimulus<n>$ ” ^and<cnjcoo>$
+      1 ^@forbrenningsmotor<n>$ – ^and<cnjcoo>$
       1 ^@for<adv>$ 우 ^or<cnjcoo>$ 으^.<sent>$
       1 ^@for<adv>$ 오 ^or<cnjcoo>$ 어 ^or<cnjcoo>$
-      1 ^@for<adv>$ 어 ^and<cnjcoo>$
-      1 ^@der<pr>$ љ^,<cm>$ њ^,<cm>$ ј ^and<cnjcoo>$ џ ^also<adv>$
-      1 ^b<n>$ ū ^@ting<n>$ ė ^and<cnjcoo>$
-      1 ^@bal<n>$ ş ^and<cnjcoo>$
-      1 ^@bak<n>$ ł ^*ód$ ź ^and<cnjcoo>$
-      1 ^at<pr>$ ğ ^@as<n>$ ı ^or<cnjcoo>$
+      1 ^@far<n>$ – ^and<cnjcoo>$
+      1 ^@familievern<n>$ – ^and<cnjcoo>$
+      1 ^@e-verk<n>$ – ^both<cnjcoo>$
+      1 ^@egg<n>$ – ^and<cnjcoo>$
+      1 ^@ef<np>$ – ^and<cnjcoo>$
+      1 ^@district<np><top>$ – ^and<cnjcoo>$
+      1 ^@direktiv<n>$ – ^or<cnjcoo>$
+      1 ^@differensial<n>$ -  ^and<cnjcoo>$
+      1 ^@deklinasjon<n>$ + ^90<num>$ ° ^or<cnjcoo>$
+      1 ^@dansk<n><sp>$ – ^and<cnjcoo>$
+      1 ^cover<vblex><pp>$ ” ^@aristokrat<n>$ ”^,<cm>$ ” ^warrior<n>$ ”^,<cm>$ ” ^slave<vblex><pres>$ ” ^and<cnjcoo>$
+      1 ^@copyright<n>$ © ^and<cnjcoo>$
+      1 ^@college<n>$ ” ^and<cnjcoo>$ “ ^*concordia$
+      1 ^,<cm>$ ” ^@kappestrid<n>$ ” ^and<cnjcoo>$ ” ^*mannjevninger$ ”^.<sent>$
+      1 ^,<cm>$ “ ^@gullfisk<n>$ ”^,<cm>$ “ ^chicken<n>$ ” ^and<cnjcoo>$
+      1 ^by<pr>$ ” ^*shr$ ”^,<cm>$ ” ^d<n>$ ”^,<cm>$ ” ^v<n>$ ” ^and<cnjcoo>$ ” ^k<n>$ ” ^minus<n>$ ” ^@ire<vblex><imp>$ ” ^.<sent>$
+      1 ^@buddhisme<n>$ – ^and<cnjcoo>$
+      1 ^@bosetting<n>$ – ^both<cnjcoo>$
+      1 ^@bokverk<n>$ ” ^*barnehagepedagogikk$ ” ^and<cnjcoo>$ ” ^enliven<vblex><inf>$
+      1 ^@blande<n>$ – ^and<cnjcoo>$
+      1 ^@bande<vblex><imp>$ ” ^and<cnjcoo>$ “ ^*the$
+      1 ^@ballspill<n>$ – ^and<cnjcoo>$
+      1 ^as<pr>$ ” ^north sea<np><top>$ ”^,<cm>$ ” ^@gudskjelovkveld<n>$ ” ^and<cnjcoo>$ ” ^*aftenklokker$ ” ^in<pr>$
+      1 ^@as<n>$ ” ^and<cnjcoo>$
       1 ^@armensk<n>$ միքայել ^or<cnjcoo>$
-      1 ^@arabisk<n><sp>$ أبو سنبل ^or<cnjcoo>$ أبو سمبل^)<rpar>$
-      1 ^and<cnjcoo>$ 三里灣 ^@san<n>$
-      1 ^and<cnjcoo>$ π- ^@meson<n>$
-      1 ^and<cnjcoo>$ í ^@log<n>$
-      1 ^@al<n>$ þýð ^*ubandalagi$ ð ^or<cnjcoo>$
-      1 ^@al<n>$ þýð ^*ubandalagi$ ð ^and<cnjcoo>$
+      1 ^@arketyp<n>$ — ^or<cnjcoo>$
+      1 ^area<n>$ – ^@kraków<np>$ – ^and<cnjcoo>$
+      1 ^and<cnjcoo>$ ” ^@with<np>$
+      1 ^and<cnjcoo>$ ” ^@tusenårsrike<n>$ ”^,<cm>$
+      1 ^and<cnjcoo>$ ” ^@…<sent><clb>$
+      1 ^and<cnjcoo>$ ” ^@regle<n>$ ” ^@for<adv>$
+      1 ^and<cnjcoo>$ ” ^@norwegian<np>$
+      1 ^and<cnjcoo>$ “ ^@my<n>$
+      1 ^and<cnjcoo>$ «@» ^(<lpar>$
+      1 ^and<cnjcoo>$ – ^@lede<n>$
+      1 ^and<cnjcoo>$ – ^@instruktør<n>$
+      1 ^and<cnjcoo>$ – ^@bolle<n>$
+      1 ^and<cnjcoo>$ @> ^and<cnjcoo>$
+      1 ^and<cnjcoo>$ ” ^@act<np>$
+      1 ^@alp<n>$ – ^and<cnjcoo>$
+      1 ^@algebra<n>$   ^or<cnjcoo>$
+      1 ^@algebra<n>$   ^and<cnjcoo>$
+      1 ^a<det><ind>$ ” ^@ting<n>$ ” ^or<cnjcoo>$
