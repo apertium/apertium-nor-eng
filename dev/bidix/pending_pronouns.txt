@@ -1,48 +1,132 @@
-      4 ^@herzog<np>$ & ^prpers<prn><subj><p3><mf>$
-      3 ^@val<n>$ & ^prpers<prn><subj><p3><mf>$
-      2 ^prpers<prn><subj><p3><m>$ ” ^@…<sent><clb>$
-      1 ^@utland<n>$ – ^this<prn><dem><mf>$
+    112 ^prpers<prn><subj><p3><m>$ - ^@dynasti<n>$
+     26 ^@pas<n>$ - ^prpers<prn><subj><p3><mf>$ - ^calais<np><top>$
+     16 ^north<n>$ - ^@pas<n>$ - ^prpers<prn><subj><p3><mf>$ - ^calais<np><top>$
+      7 ^@val<n>$ - ^prpers<prn><subj><p3><mf>$ - ^*marne$
+      7 ^prpers<prn><obj><p3><m>$ - ^@kamse<vblex><imp>$
+      4 ^@saint<np><top>$ - ^*aubin$ - ^prpers<prn><subj><p2><mf>$ - ^*cormier$
+      4 ^@puy<np>$ - ^prpers<prn><subj><p3><mf>$ - ^*dôme$
+      4 ^prpers<prn><subj><p3><m>$ - ^@kinesisk<n><sp>$
+      4 ^@herke<vblex><imp>$ - ^prpers<prn><subj><p3><mf>$ - ^stad<np><top>$
+      3 ^@sør<n><sp>$ - ^prpers<prn><subj><p3><m>$
+      3 ^@saint<np><top>$ - ^jean<np><ant><m>$ - ^prpers<prn><subj><p3><mf>$ - ^*maurienne$
+      2 ^@trebygning<n>$ - ^prpers<prn><subj><p3><nt>$
+      2 ^@slett<n>$ - ^this<prn><dem><mf>$
+      2 ^@slett<n>$ - ^prpers<prn><subj><p1><mf>$
+      2 ^@saint<np><top>$ - ^jean<np><ant><m>$ - ^prpers<prn><subj><p3><mf>$ - ^*luz$
+      2 ^prpers<prn><subj><p3><m>$ - ^@fortsatt<adv>$
+      2 ^prpers<prn><subj><p3><mf>$ - ^@attachere<vblex><pp>$
+      2 ^@nord<n><sp>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@valpe<vblex><pres><p3>$ - ^this<prn><dem>$
+      1 ^@val<n>$ - ^prpers<prn><subj><p3><mf>$ - ^*grâce$
+      1 ^@valdemar<np>$ - ^prpers<prn><subj><p3><mf>$
+      1 ^@utsagn<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@utgift<n>$ - ^this<prn><dem><mf>$
+      1 ^@underlag<n>$ - ^this<prn><dem><mf>$
+      1 ^@ting<n>$ - ^prpers<prn><subj><p1><mf>$
+      1 ^@tilfelle<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@telefoni<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@synsvinkel<n>$ - ^prpers<prn><subj><p3><m>$
       1 ^@syndikalisme<n>$ » ─ ^prpers<prn><subj><p3><nt>$
-      1 ^@svarer<n>$ “ ^prpers<prn><subj><p2><mf>$
-      1 ^@stein<adv>$ – ^prpers<prn><subj><p2><mf>$
-      1 ^@sørover<pr>$ – ^prpers<prn><subj><p3><m>$
-      1 ^@slager<n>$ ” ^prpers<prn><subj><p3><nt>$
-      1 ^@…<sent><clb>$ ” ^this<prn><dem>$
+      1 ^@syndefall<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@svensk<n><sp>$ - ^something<prn><ind><nt>$
+      1 ^@substrat<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@styrkeprøve<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@stabæk<np>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@språklyd<n>$ - ^this<prn><dem><mf>$
+      1 ^@spenst<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@sonar<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@slett<n>$ - « ^prpers<prn><subj><p3><mf>$
+      1 ^@slettes<adv>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@slettes<adv>$ - ^prpers<prn><subj><p1><mf>$
+      1 ^@skogbrann<n>$ - ^prpers<prn><subj><p3><mf>$
+      1 ^@skillinge<vblex><imp>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@sin tid<adv>$ - ^prpers<prn><subj><p3><mf>$
+      1 ^@sin tid<adv>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@sekst<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@seer<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^say<vblex><inf>$ - ^though<adv>$ - ^prpers<prn><subj><p2><mf>$ - ^though<adv>$ - ^@då<n>$
+      1 ^@sannsynliggjøre<vblex><pp>$ - ^prpers<prn><subj><p3><mf>$
       1 ^@samnorsk<n><sp>$  – ^something<prn><ind><nt>$
-      1 ^@range<vblex><imp>$ – ^prpers<prn><subj><p3><m>$
+      1 ^@saint<np><top>$ - ^*rémy$ - ^prpers<prn><subj><p3><mf>$ - ^provence<np><top>$
+      1 ^@saint<np><top>$ - ^philippe<np><ant><m>$ - ^prpers<prn><subj><p2><mf>$ - ^*roule$
+      1 ^@saint<np><top>$ - ^nicolas<np><ant><m>$ - ^prpers<prn><subj><p3><mf>$ - ^port number<np><top>$
+      1 ^@saint<np><top>$ - ^louis<np><ant><m>$ - ^prpers<prn><subj><p2><mf>$ - ^have<vbhaver><inf>$
+      1 ^@saint<np><top>$ - ^*laurent$ - ^prpers<prn><subj><p2><mf>$ - ^@maroni<np>$
+      1 ^@saint<np><top>$ - ^*gilles$ - ^prpers<prn><subj><p2><mf>$ - ^gard<np><ant><m>$
+      1 ^@saint<np><top>$ - ^*germain$ - ^prpers<prn><subj><p2><mf>$ - ^val<np><cog>$
+      1 ^@saint<np><top>$ - ^*gély$ - ^prpers<prn><subj><p2><mf>$ - ^*fesc$
+      1 ^@saint<np><top>$ - ^*frédéric$ - ^prpers<prn><subj><p3><mf>$ - ^*beauce$
+      1 ^*sainte$ - ^@maure<n>$ - ^prpers<prn><subj><p3><mf>$ - ^*touraine$
+      1 ^@rochefort<np>$ - ^prpers<prn><subj><p2><mf>$ - ^gard<np><ant><m>$
+      1 ^@respons<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@regelmessig<adj>$ - ^something<prn><ind>$
+      1 ^@rappe<vblex><pp>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@rampelys<n>$ - ^this<prn><dem><mf>$
       1 ^@ps<n>$ ׃ ^prpers<prn><subj><p1><mf>$
-      1 ^prpers<prn><subj><p3><nt>$ – ^@gotisk<n><sp>$
-      1 ^prpers<prn><subj><p3><nt>$ – ^@foruten<adv>$
-      1 ^prpers<prn><subj><p3><m>$ ” ^@vell<n>$
+      1 ^prpers<prn><subj><p3><nt>$ - ^@utfra<pr>$
       1 ^prpers<prn><subj><p3><m>$ û ^@dunse<vblex><imp>$
-      1 ^prpers<prn><subj><p1><mf>$ – ^@nuv<n>$
+      1 ^prpers<prn><subj><p3><m>$ - ^@platå<n>$
+      1 ^prpers<prn><subj><p3><m>$ - ^@i følge<pr>$
+      1 ^prpers<prn><subj><p3><m>$ - ^@fa<n>$
+      1 ^prpers<prn><subj><p3><f>$ - ^@sjiraff<n>$
+      1 ^prpers<prn><subj><p3><f>$ - ^@sjimpanse<n>$
+      1 ^prpers<prn><subj><p3><f>$ - ^@bloom<np>$
       1 ^prpers<prn><subj><p1><mf>$ <@ ^'<apos>$
-      1 ^prpers<prn><obj><p3><m>$ – ^@stabæk<np>$ 	 	 ^1<num>$ – ^2<num>$ 
-      1 ^prpers<prn><obj><p3><m>$ – ^@pors<n>$
-      1 ^prpers<prn><obj><p3><m>$ – ^@hødd<np>$ 	 	 ^0<num>$ – ^2<num>$ 	 
-      1 ^prpers<prn><obj><p3><f>$ ” ^@nigger<n>$
-      1 ^@press<n>$ – ^something<prn><ind>$
-      1 ^@naturlig<adj>$ – ^prpers<prn><subj><p3><m>$
-      1 ^@narkotikapoliti<n>$ – ^something<prn><ind><nt>$
-      1 ^@müller<np><top>$ – ^what<prn><itg><mf><sp>$
-      1 ^@molekyl<n>$ – ^something<prn><ind>$
-      1 ^@melkeprodukt<n>$ – ^prpers<prn><subj><p3><nt>$
-      1 ^@krigsgud<n>$ – ^prpers<prn><subj><p3><m>$
-      1 ^@konsertere<vblex><imp>$ – ^something<prn><ind><nt>$
-      1 ^@kongstanke<n>$ – ^prpers<prn><subj><p3><nt>$
-      1 ^@kolibri<n>$ – ^prpers<prn><subj><p3><m>$
-      1 ^@klaverkonsert<n>$ “ ^prpers<prn><subj><p3><m>$
-      1 ^@kambrium<n><sp>$ – ^what<prn><itg><mf><sp>$
-      1 ^@imperium<n>$ – ^something<prn><ind><nt>$
-      1 ^@ideal<n>$ – ^prpers<prn><subj><p3><nt>$
-      1 ^@homilie<n>$ – ^prpers<prn><subj><p3><nt>$
-      1 ^himself<prn><p3>$ – ^@halvpart<n>$
-      1 ^himself<prn><p3>$ ” ^artificial<adj>$ ” ^@habitat<n>$
-      1 ^@guddom<n>$ – ^prpers<prn><subj><p3><m>$
-      1 ^@gaia<np>$ – ^*kronos$ – ^prpers<prn><obj><p3><mf>$
-      1 ^@farve<n>$ – ^prpers<prn><subj><p3><nt>$
-      1 ^@entreprenør<n>$ – ^prpers<prn><subj><p3><m>$
-      1 ^@corporation<np>$ – ^prpers<prn><subj><p3><nt>$
-      1 ^@betraktelig<adj>$ – ^prpers<prn><subj><p3><nt>$
-      1 ^@år gammel<adj>$ – ^himself<prn><p3>$
-      1 ^@antifascist<n>$ – ^something<prn><ind>$
+      1 ^prpers<prn><obj><p3><f>$ -- ^@utad<pr>$
+      1 ^prpers<prn><obj><p1><mf>$ - ^@slett<n>$
+      1 ^@plateau<np><top>$ - ^prpers<prn><subj><p3><mf>$ - ^*beille$
+      1 ^*pau$ - ^prpers<prn><subj><p3><mf>$ - ^@pernambuco<np>$
+      1 ^@pamflett<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@oranje<np>$ - ^prpers<prn><subj><p3><mf>$
+      1 ^@omsider<adv>$ - ^prpers<prn><subj><p3><f>$
+      1 ^@oljelampe<n>$ - ^this<prn><dem><mf>$
+      1 ^@ok<adj>$ - ^prpers<prn><subj><p2><mf>$
+      1 ^@nomen<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@nm<n>$ - ^something<prn><ind>$
+      1 ^@mynte<vblex><imp>$ - ^prpers<prn><subj><p2><mf>$
+      1 ^@metan<n>$ - ^something<prn><ind><nt>$
+      1 ^*mandsju$ - ^prpers<prn><subj><p3><m>$ - ^@kinesisk<n><sp>$
+      1 ^@management<n>$ - ^something<prn><ind><nt>$
+      1 ^make<vblex><inf>$ - ^prpers<prn><subj><p3><nt>$ - ^alternately<adv>$ »- ^@ideal<n>$
+      1 ^make<vblex><inf>$ - ^prpers<prn><subj><p3><nt>$ - ^alternately<adv>$ - ^@greie<n>$
+      1 ^@langdrag<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@laken<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@kulde<n>$ - ^prpers<prn><subj><p3><mf>$
+      1 ^@konsistens<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@konsertere<vblex><imp>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@knurr<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@kassakreditt<n>$ - ^and<cnjcoo>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@kardinal<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@kant<n>$ - ^prpers<prn><subj><p3><mf>$
+      1 ^@ile<n>$ - ^prpers<prn><subj><p3><mf>$ - ^france<np><top>$
+      1 ^@idealsamfunn<n>$ - ^prpers<prn><subj><p3><mf>$
+      1 ^@ideal<n>$ - ^prpers<prn><subj><p3><mf>$
+      1 ^@høyre<n><sp>$ - ^this<prn><dem><mf>$
+      1 ^@høyre<n><sp>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@hjernevev<n>$ - ^something<prn><ind><nt>$
+      1 ^@hjerneslag<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^himself<prn><p3>$ - ^@verk<n>$
+      1 ^himself<prn><p3>$ - ^@sun<np>$
+      1 ^himself<prn><p3>$ - ^@konsentrat<n>$
+      1 ^@handlemåte<n>$ - ^this<prn><dem><mf>$
+      1 ^@hageby<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@gruppering<n>$ - ^something<prn><ind><nt>$
+      1 ^@grunne<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@gnostisisme<n>$ - ^this<prn><dem><mf>$
+      1 ^@gjestedirigent<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@gateuorden<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@gammelengelsk<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@fort<n>$ - ^prpers<prn><subj><p3><mf>$ - ^france<np><top>$ - ^area<n>$
+      1 ^@for hånd<adv>$ - ^prpers<prn><subj><p3><m>$
+      1 ^*fontaine$ - ^prpers<prn><subj><p3><mf>$ - ^@vaucluse<np>$
+      1 ^@fer<np>$ - ^prpers<prn><subj><p3><mf>$ - ^*lance$
+      1 ^@dit<pr>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@bystat<n>$ » - ^prpers<prn><subj><p3><nt>$
+      1 ^@bestevenn<n>$ - ^prpers<prn><subj><p3><m>$
+      1 ^@bauge<vblex><imp>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@baklader<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@bakk<n>$ - ^prpers<prn><subj><p2><mf>$
+      1 ^@avokado<n>$ - ^fruit<n>$ - ^prpers<prn><subj><p3><mf>$
+      1 ^@araberhest<n>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@an<adv>$ - ^prpers<prn><subj><p3><nt>$
+      1 ^@akuttmedisin<n>$ - ^this<prn><dem><mf>$

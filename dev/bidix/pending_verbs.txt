@@ -1,5 +1,5 @@
     236 korte<vblex><inf>
-    112 bande<vblex><inf>
+    111 bande<vblex><inf>
      78 ekse<vblex><inf>
      77 sande<vblex><inf>
      69 gnu<vblex><inf>
@@ -15,11 +15,11 @@
      35 skylde<vblex><inf><pass>/skyldes<vblex><pstv><inf>
      34 sule<vblex><inf>
      32 møte<vblex><inf><pass>/møtes<vblex><pstv><inf>
-     32 base<vblex><inf>
+     31 base<vblex><inf>
      30 sanne<vblex><inf>
      30 nulle<vblex><inf>
      29 styrte<vblex><inf>
-     28 ele<vblex><inf>
+     27 ele<vblex><inf>
      26 mislykkes<vblex><pstv><inf>
      26 anføre<vblex><inf>
      26 age<vblex><inf>
@@ -155,7 +155,6 @@
       5 landsforvise<vblex><inf>
       5 kvede<vblex><inf>
       5 kompilere<vblex><inf>
-      5 huie<vblex><inf>
       5 hanske<vblex><inf>
       5 fullende<vblex><inf>
       5 forgylle<vblex><inf>
@@ -191,6 +190,7 @@
       4 kise<vblex><inf>
       4 kå<vblex><inf>
       4 kare<vblex><inf>
+      4 huie<vblex><inf>
       4 huge<vblex><inf>
       4 gramse<vblex><inf>
       4 gjenoppføre<vblex><inf>
@@ -247,7 +247,6 @@
       3 hegne<vblex><inf>
       3 gjennombore<vblex><inf>
       3 gjenetablere<vblex><inf>
-      3 formatere<vblex><inf>
       3 flake<vblex><inf>
       3 fjernstyre<vblex><inf>
       3 firedele<vblex><inf>
@@ -339,7 +338,9 @@
       2 fradømme<vblex><inf>
       2 forvri<vblex><inf>
       2 forpakte<vblex><inf>
+      2 formatere<vblex><inf>
       2 forfryse<vblex><inf>
+      2 føre<vblex><inf>
       2 foreldes<vblex><pstv><inf>
       2 forarme<vblex><inf>
       2 fleipe<vblex><inf>
@@ -410,6 +411,7 @@
       1 stikle<vblex><inf>
       1 stette<vblex><inf>
       1 stele<vblex><inf>
+      1 steike<vblex><imp>
       1 statsdirigere<vblex><inf>
       1 stålsette<vblex><inf>
       1 sprøsteke<vblex><inf>
@@ -432,6 +434,7 @@
       1 saktne<vblex><inf>
       1 rotfylle<vblex><inf>
       1 romanisere<vblex><inf>
+      1 rolle<vblex><imp>
       1 rivalisere<vblex><inf>
       1 rine<vblex><inf>
       1 retirere<vblex><inf>
@@ -490,6 +493,7 @@
       1 loe<vblex><inf>
       1 lire<vblex><inf>
       1 lense<vblex><inf>
+      1 lee<vblex><inf>
       1 lauve<vblex><inf>
       1 lånefinansiere<vblex><inf>
       1 laksere<vblex><inf>
@@ -518,10 +522,12 @@
       1 katalysere<vblex><inf>
       1 karikere<vblex><inf>
       1 karbonisere<vblex><inf>
+      1 kappe<vblex><imp>
       1 kalligrafere<vblex><inf>
       1 jorte<vblex><inf>
       1 jekke<vblex><inf>
       1 istandsette<vblex><inf>
+      1 *israel
       1 islamisere<vblex><inf>
       1 irrigere<vblex><inf>
       1 invertere<vblex><inf>
@@ -573,7 +579,6 @@
       1 fraternisere<vblex><inf>
       1 fradragsføre<vblex><inf>
       1 forutbestemme<vblex><inf>
-      1 fortsette<vblex><pp>
       1 forta<vblex><inf>
       1 forsynde<vblex><inf>
       1 forstumme<vblex><inf>
@@ -601,7 +606,6 @@
       1 esle<vblex><inf>
       1 erigere<vblex><inf>
       1 eire<vblex><inf>
-      1 eie<vblex><imp>
       1 egle<vblex><inf>
       1 dunge<vblex><inf>
       1 dubbe<vblex><inf>
@@ -649,6 +653,7 @@
       1 avdramatisere<vblex><inf>
       1 approbere<vblex><inf>
       1 apokopere<vblex><inf>
+      1 ape<vblex><imp>
       1 anodisere<vblex><inf>
       1 annamme<vblex><inf>
       1 alterere<vblex><inf>

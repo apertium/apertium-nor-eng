@@ -1,83 +1,390 @@
-      8 ^71<num>$ ° ^@nord<n><sp>$
-      4 ^@grunnloven<np>$ § ^2<num>$
-      3 ^2<num>$ & ^@prime<vblex><inf>$
-      3 ^2<num>$ ° ^@øalphabet<n>$
-      3 ^28<num>$ ° ^@nord<n><sp>$
-      3 ^21<num>$ – ^@landslag<n>$
+     70 ^two<num>$ - ^@seter<n>$
+     61 ^21<num>$ - ^@landslag<n>$
+     21 ^@il<n>$ - ^2<num>$
+     20 ^19<num>$ - ^@landslag<n>$
+     17 ^@mig<n>$ - ^21<num>$
+     16 ^3<num>$ - ^@format<n>$
+     16 ^1800<num>$ - ^@tal<n>$
+     14 ^@mig<n>$ - ^25<num>$
+     14 ^@mig<n>$ - ^17<num>$
+     14 ^@age<vblex><imp>$ - ^3<num>$
+     13 ^@ol<n>$ - ^2004<num>$
+     13 ^@mig<n>$ - ^23<num>$
+     12 ^@uh<n>$ - ^1<num>$
+     12 ^@ol<n>$ - ^1996<num>$
+     12 ^@ol<n>$ - ^1992<num>$
+     12 ^@ol<n>$ - ^1988<num>$
+     12 ^@ol<n>$ - ^1972<num>$
+     12 ^@ar<n>$ - ^15<num>$
+     11 ^@ra<n>$ - ^2<num>$
+     11 ^@ol<n>$ - ^2000<num>$
+     11 ^@ol<n>$ - ^1976<num>$
+     11 ^@il<n>$ - ^18<num>$
+     11 ^21<num>$ - ^@landskamp<n>$
+     11 ^1<num>$ - ^@hit<n>$
+     11 ^1<num>$ - ^0<num>$ - ^@sei<n>$
+     11 ^1900<num>$ - ^@tal<n>$
+     10 ^@ol<n>$ - ^1984<num>$
+     10 ^@ol<n>$ - ^1980<num>$
+     10 ^2,0<num>$ - ^@lit<n>$
+     10 ^1<num>$ - ^@vm<n>$
+      9 ^u<n>$ - ^21<num>$ - ^@landslag<n>$
+      9 ^@tt<n><sp>$ - ^33<num>$
+      9 ^@ol<n>$ - ^1964<num>$
+      9 ^2<num>$ - ^@lytter<n>$
+      9 ^2.0<num>$ - ^@lit<n>$
+      9 ^12<num>$ - ^@tom<n>$
+      8 ^@ol<n>$ - ^2008<num>$
+      8 ^@ol<n>$ - ^1968<num>$
+      8 ^@mig<n>$ - ^31<num>$
+      8 ^@mig<n>$ - ^15<num>$
+      8 ^@il<n>$ - ^102<num>$
+      8 ^1<num>$ - ^@føre<n>$
+      8 ^1700<num>$ - ^@tal<n>$
+      8 ^1600<num>$ - ^@tal<n>$
+      8 ^1500<num>$ - ^@tal<n>$
+      8 ^10<num>$ - ^@hit<n>$
+      8 ^09<num>$ - ^2008<num>$ - ^@golden<np>$
+      7 ^@mig<n>$ - ^29<num>$
+      7 ^@mig<n>$ - ^27<num>$
+      7 ^@an<adv>$ - ^124<num>$
+      7 ^3<num>$ - ^@lit<n>$
+      7 ^1917<num>$ - ^@rettskriving<n>$
+      7 ^18<num>$ - ^@landslag<n>$
+      7 ^1300<num>$ - ^@tal<n>$
+      6 ^@ps<n>$ - ^10<num>$
+      6 ^@ol<n>$ - ^1960<num>$
+      6 ^@mig<n>$ - ^19<num>$
+      6 ^@il<n>$ - ^8<num>$
+      6 ^37<num>$ - ^@buss<n>$
+      6 ^2<num>$ - ^@lit<n>$
+      6 ^1<num>$ - ^@sei<n>$
+      6 ^1100<num>$ - ^@tal<n>$
+      5 ^@uh<n>$ - ^60<num>$
+      5 ^@pm<n>$ - ^1<num>$
+      5 ^@mig<n>$ - ^9<num>$
+      5 ^@il<n>$ - ^76<num>$
+      5 ^@ar<n>$ - ^10<num>$
+      5 ^40<num>$ - ^@insulin<n>$
+      5 ^3,0<num>$ - ^@lit<n>$
+      5 ^20<num>$ - ^@landslag<n>$
+      5 ^1998<num>$ - ^@vm<n>$
+      5 ^1980<num>$ - ^@tal<n>$
+      5 ^1950<num>$ - ^@tal<n>$
+      5 ^1200<num>$ - ^@tal<n>$
+      5 ^100<num>$ - ^@insulin<n>$
+      5 ^0<num>$ - ^@sei<n>$
+      4 ^@ps<n>$ - ^84<num>$
+      4 ^@ol<n>$ - ^1956<num>$
+      4 ^@mir<np>$ - ^2<num>$
+      4 ^@mig<n>$ - ^39<num>$
+      4 ^@fruktose<n>$ - ^6<num>$ - ^@fosfat<n>$
+      4 ^@fruktose<n>$ - ^1,6<num>$ - ^*bisfosfat$
+      4 ^@cox<n>$ - ^1<num>$
+      4 ^@bate<vblex><imp>$ - ^5<num>$
+      4 ^@an<adv>$ - ^2<num>$
+      4 ^@age<vblex><imp>$ - ^3<num><ord>$
+      4 ^900<num>$ - ^@tal<n>$
+      4 ^8601<num>$ - ^@format<n>$
+      4 ^6<num>$ - ^@kant<n>$
+      4 ^5<num>$ - ^@lit<n>$
+      4 ^5,0<num>$ - ^@lit<n>$
+      4 ^50<num>$ - ^@cent<n>$
+      4 ^4<num>$ - ^@water<n>$
+      4 ^4<num>$ - ^@lit<n>$
+      4 ^4.2<num>$ - ^@lit<n>$
+      4 ^40<num>$ - ^@hit<n>$
+      4 ^3<num>$ - ^2<num>$ - ^@sei<n>$
+      4 ^3.8<num>$ - ^@lit<n>$
+      4 ^2<num>$ - ^0<num>$ - ^@sei<n>$
+      4 ^2,5<num>$ - ^@lit<n>$
+      4 ^23<num>$ - ^@verdensmester<n>$
+      4 ^23<num>$ - ^@landslag<n>$
+      4 ^1994<num>$ - ^@vm<n>$
+      4 ^1990<num>$ - ^@tal<n>$
+      4 ^1970<num>$ - ^@tal<n>$
+      4 ^1960<num>$ - ^@tal<n>$
+      4 ^1920<num>$ - ^@tal<n>$
+      4 ^1890<num>$ - ^@tal<n>$
+      4 ^17<num>$ - ^@landslag<n>$
+      4 ^1.6<num>$ - ^@lit<n>$
+      4 ^16<num>$ - ^@landslag<n>$
+      4 ^15<num>$ - ^@tom<n>$
+      4 ^1.5<num>$ - ^@lit<n>$
+      4 ^1.4<num>$ - ^@lit<n>$
+      4 ^1400<num>$ - ^@tal<n>$
+      4 ^1.2<num>$ - ^@lit<n>$
+      4 ^1,0<num>$ - ^@lit<n>$
+      4 ^1000<num>$ - ^@tal<n>$
+      3 ^@vm<n>$ - ^2006<num>$
+      3 ^u<n>$ - ^17<num>$ - ^@landslag<n>$
+      3 ^two<num>$ - ^@steg<n>$
+      3 ^@tt<n><sp>$ - ^30<num>$
+      3 ^ten<num>$ - ^@åring<n>$
+      3 ^@stabæk<np>$ 	 	 ^0<num>$
+      3 ^@stabæk<np>$ 	 ^0<num>$
+      3 ^@ps<n>$ - ^5<num>$
+      3 ^@paperback<n>$ - ^14<num><ord>$
+      3 ^@ol<n>$ - ^1952<num>$
+      3 ^nine<num>$ - ^@åring<n>$
+      3 ^@mig<n>$ - ^31<num><ord>$
+      3 ^@mig<n>$ - ^19<num><ord>$
+      3 ^@il<n>$ - ^38<num>$
+      3 ^@il<n>$ - ^24<num>$
+      3 ^@il<n>$ - ^1<num>$
+      3 ^@il<n>$ - ^14<num>$
+      3 ^@il<n>$ - ^12<num>$
+      3 ^@il<n>$ - ^10<num>$
+      3 ^@helium<n>$ - ^3<num>$
+      3 ^four<num>$ - ^@seter<n>$
+      3 ^@cox<n>$ - ^2<num>$
+      3 ^@cd<n>$ - ^2<num>$
+      3 ^@bate<vblex><imp>$ - ^11<num>$
+      3 ^@an<adv>$ - ^72<num>$
+      3 ^@an<adv>$ - ^22<num>$
+      3 ^@an<adv>$ - ^225<num>$
+      3 ^90<num>$ - ^@bakk<n>$
+      3 ^8<num>$ - ^@fly<n>$
+      3 ^800<num>$ - ^@tal<n>$
+      3 ^4<num>$ - ^@sekund<n>$
+      3 ^4<num>$ - ^1<num>$ - ^@sei<n>$
+      3 ^4.9<num>$ - ^@lit<n>$
+      3 ^4,2<num>$ - ^@lit<n>$
+      3 ^4.0<num>$ - ^@lit<n>$
+      3 ^3,2<num>$ - ^@lit<n>$
+      3 ^2<num>$ - ^@fly<n>$
+      3 ^2<num>$ - ^1<num>$ - ^@sei<n>$
+      3 ^2.8<num>$ - ^@lit<n>$
+      3 ^25<num>$ - ^@pinse<vblex><imp>$
+      3 ^23<num>$ - ^@vm<n>$
+      3 ^23<num>$ - ^@em<n>$
+      3 ^21<num>$ - ^@em<n>$
+      3 ^20<num>$ - ^@hit<n>$
+      3 ^2010<num>$ - ^@vinne<n>$
+      3 ^2006<num>$ - ^@vm<n>$
+      3 ^1930<num>$ - ^@tal<n>$
+      3 ^18<num>$ - ^@tom<n>$
+      3 ^1,8<num>$ - ^@lit<n>$
+      3 ^1,6<num>$ - ^@lit<n>$
+      3 ^1.3<num>$ - ^@lit<n>$
+      3 ^1,3<num>$ - ^@lit<n>$
+      3 ^100<num>$ - ^@watt<n>$
+      2 ^@vm<n>$ - ^1994<num>$
+      2 ^@vm<n>$ - ^1966<num>$
       2 ^@united<np>$ 	 ^46 9<num>$
       2 ^@united<np>$ 	 ^46 11<num>$
-      2 ^@marsvin<n>$ – ^22<num>$
-      2 ^@i henhold til<adv>$ § ^61<num>$
-      2 ^@grunnloven<np>$ § ^73<num>$
-      2 ^@forretningsorden<n>$ § ^14<num>$
-      2 ^@avtalelov<n>$ § ^36<num>$
-      2 ^88<num>$ ° ^@øst<n><sp>$
-      2 ^86<num>$ ° ^@øst<n><sp>$
-      2 ^70<num>$ ° ^@nord<n><sp>$
-      2 ^69<num>$ ° ^@nord<n><sp>$
-      2 ^60<num>$ ° ^@nord<n><sp>$
-      2 ^45<num>$ ° ^@øst<n><sp>$
-      2 ^400<num>$ – ^@fly<n>$
-      2 ^30<num>$ ° ^@nord<n><sp>$
+      2 ^u<n>$ - ^21<num>$ - ^@verdensmester<n>$
+      2 ^u<n>$ - ^21<num>$ - ^@landskamp<n>$
+      2 ^@technetium<n>$ - ^99<num>$
+      2 ^@strontium<n>$ - ^90<num>$ - ^source<n>$
+      2 ^@stabæk<np>$ 	 	 ^1<num>$
+      2 ^@skeie<vblex><pp>$ 	 	 ^3<num>$
+      2 ^six<num>$ - ^@åring<n>$
+      2 ^*ribose$ - ^5<num>$ - ^@fosfat<n>$
+      2 ^@propan<n>$ - ^1<num>$ - ^@ol<n>$
+      2 ^@pre<n>$ - ^64<num>$
+      2 ^@pm<n>$ - ^2<num>$
+      2 ^@ol<n>$ - ^1948<num>$
+      2 ^@ol<n>$ - ^1936<num>$
+      2 ^@nm<n>$ - ^135<num>$
+      2 ^@nm<n>$ - ^116<num>$
+      2 ^@mig<n>$ - ^3<num>$
+      2 ^@mig<n>$ - ^29<num><ord>$ 
+      2 ^@mig<n>$ - ^25<num><ord>$ 
+      2 ^@mig<n>$ - ^21<num><ord>$ 
+      2 ^*kc$ - ^135<num>$ - ^@fly<n>$
+      2 ^@karbon<n><sp>$ - ^14<num>$
+      2 ^@ir<n>$ - ^3<num>$
+      2 ^@il<n>$ - ^96<num>$
+      2 ^@il<n>$ - ^86<num>$
+      2 ^@il<n>$ - ^2<num><ord>$
+      2 ^@il<n>$ - ^28<num>$
+      2 ^@il<n>$ - ^20<num>$
+      2 ^@il<n>$ - ^103<num>$
+      2 ^@hødd<np>$ 	 	 ^2<num>$
+      2 ^@glukose<n>$ - ^6<num>$ - ^@fosfat<n>$
+      2 ^four<num>$ - ^@live<n><sp>$
+      2 ^f<n>$ - ^16<num>$ - ^@fly<n>$
+      2 ^@eos<np>$ - ^1<num>$
+      2 ^eight<num>$ - ^@åring<n>$
+      2 ^@dash<np><top>$ - ^7<num>$
+      2 ^@cd<n>$ - ^4<num>$ - ^*celler$
+      2 ^@bate<vblex><imp>$ - ^9<num>$
+      2 ^@bate<vblex><imp>$ - ^7<num>$
+      2 ^@as<n>$ - ^5<num>$
+      2 ^@an<adv>$ - ^24<num>$
+      2 ^@an<adv>$ - ^12<num>$
+      2 ^@age<vblex><imp>$ - ^3<num><ord>$ 
+      2 ^95<num>$ - ^@kompilator<n>$
+      2 ^8<num>$ - ^@seter<n>$
+      2 ^80<num>$ - ^@tal<n>$
+      2 ^7<num>$ - ^@tom<n>$
+      2 ^7<num>$ "- ^@ep<n>$
+      2 ^6<num>$ - ^@pinn<n>$
+      2 ^6<num>$ - ^@chassis<n>$
+      2 ^6<num>$ - ^@avkjøring<n>$
+      2 ^6.3<num>$ - ^@lit<n>$
+      2 ^6 3<num>$ - ^@lit<n>$
+      2 ^5<num>$ - ^@cent<n>$ - ^coin<n>$
+      2 ^5<num>$ - ^@cent<n>$
+      2 ^5.8<num>$ - ^@lit<n>$
+      2 ^5.0<num>$ - ^@lit<n>$
+      2 ^50<num>$ - ^@kaliber<n>$
+      2 ^4<num>$ - ^@straight<n>$
+      2 ^4<num>$ - ^@speed<n>$
+      2 ^4<num>$ - ^2<num>$ - ^@sei<n>$
+      2 ^4.7<num>$ - ^@lit<n>$
+      2 ^4,5<num>$ - ^@lit<n>$
+      2 ^45<num>$ - ^@al<n>$
+      2 ^40<num>$ - ^@bakk<n>$
+      2 ^3<num>$ - ^@seter<n>$
+      2 ^36<num>$ - ^@pinse<vblex><imp>$
+      2 ^30<num>$ - ^@sekund<n>$
+      2 ^30<num>$ ′ ^@øalphabet<n>$
       2 ^2<num>$ • ^@supe<vblex><pres>$
-      2 ^2006<num>$ | ^@kris<n>$
-      2 ^1<num>$ ° ^@vest<n><sp>$
-      2 ^1994<num>$ – ^@høydehopp<n>$
-      2 ^1929<num>$ – « ^@first<np>$
-      2 ^15<num>$ ° ^@øalphabet<n>$
-      1 ^@ytterlig<adj>$ £ ^50 000<num>$
-      1 ^@ytterlig<adj>$ £ ^25 000<num>$
-      1 ^@ytterlig<adj>$ £ ^250 000<num>$
+      2 ^2<num>$ - ^@seter<n>$
+      2 ^2<num>$ - ^@rensing<n>$
+      2 ^2<num>$ - ^@ram<n>$
+      2 ^2,7<num>$ - ^@lit<n>$
+      2 ^25<num>$ - ^@sesse<vblex><inf>$
+      2 ^2.5<num>$ - ^@lit<n>$
+      2 ^255<num>$ - ^@kubikk<n>$
+      2 ^24<num>$ - ^@stem<n>$
+      2 ^2.4<num>$ - ^@lit<n>$
+      2 ^24<num>$ - ^@chassis<n>$
+      2 ^20<num>$ - ^@sesse<vblex><inf>$
+      2 ^20<num>$ - ^@dukat<n>$
+      2 ^200<num>$ - ^@kubikk<n>$
+      2 ^2000<num>$ - ^@tal<n>$
+      2 ^1<num>$ - ^@gen<n>$
+      2 ^1<num>$ - ^@cent<n>$
+      2 ^19<num>$ - ^@tom<n>$
+      2 ^19<num>$ - ^@lit<n>$
+      2 ^1.9<num>$ - ^@lit<n>$
+      2 ^1994<num>$ - ^@ol<n>$
+      2 ^1938<num>$ - ^@rettskriving<n>$
+      2 ^1910<num>$ - ^@rettskriving<n>$
+      2 ^1907<num>$ - ^@rettskriving<n>$
+      2 ^1901<num>$ - ^@rettskriving<n>$
+      2 ^1900<num>$ - ^@talle<n>$
+      2 ^18<num>$ - ^@vm<n>$
+      2 ^1.8<num>$ - ^@lit<n>$
+      2 ^18<num>$ - ^@landskamp<n>$
+      2 ^1801<num>$ - ^@kneik<n>$
+      2 ^16<num>$ - ^@tom<n>$
+      2 ^13,5<num>$ - ^@tom<n>$
+      2 ^120<num>$ - ^@bakk<n>$
+      2 ^10<num>$ - ^@cent<n>$ - ^mint<n>$
+      2 ^10<num>$ - ^@cent<n>$
+      2 ^100<num>$ - ^@seter<n>$
+      2 ^08<num>$ - ^2008<num>$ - ^@golden<np>$
+      2 ^00<num>$ ′ ^@øalphabet<n>$
+      1 ^@yak<n>$ - ^41<num>$
+      1 ^@yak<n>$ - ^40<num>$
+      1 ^@yak<n>$ - ^28<num>$
       1 ^*wim$ 	 ^*dvl$ 	 ^@bel<n>$ 	 ^01<num>$
       1 ^*wilfried$ 	 ^*qst$ 	 ^@bel<n>$ 	 ^02<num>$
-      1 ^why<adv><itg>$ – ^angry<adj><sint>$ – ^@slå<n>$ – ^table<vblex><inf>$ – ^18<num>$ – ^october<n>$
       1 ^@walsall<np>$ 	 ^46 7<num>$
       1 ^@walsall<np>$ 	 ^46 15<num>$
+      1 ^@vm<n>$ - ^97<num>$
+      1 ^@vm<n>$ - ^93<num>$
+      1 ^@vm<n>$ - ^89<num>$
+      1 ^@vm<n>$ - ^85<num>$
+      1 ^@vm<n>$ - ^2007<num>$
+      1 ^@vm<n>$ - ^2005<num>$
+      1 ^@vm<n>$ - ^2002<num>$
+      1 ^@vm<n>$ - ^1998<num>$
+      1 ^@vm<n>$ - ^1991<num>$
+      1 ^@vm<n>$ - ^05<num><ord>$
       1 ^vladimir<np><ant><m>$ 	 ^*iba$ 	 ^@rus<n>$ 	 ^01<num>$
       1 ^@vicente<np>$ 	 ^*iba$ 	 ^*esp$ 	 ^05<num>$
-      1 ^@verdt<adj>$ £ ^3,500<num>$
-      1 ^@verdt<adj>$ £ ^16,5<num>$
+      1 ^@vete<n>$ - ^194<num>$
+      1 ^@vektklasse<n>$ - ^75<num>$
+      1 ^@vase<vblex><pp>$ - ^13<num><ord>$
       1 ^@vagina<n>$ / #- ^20<num>$ 
-      1 ^@utc<n>$ + ^9<num>$
-      1 ^@utc<n>$ + ^3<num>$
-      1 ^@utc<n>$ + ^2<num>$
-      1 ^@utc<n>$ + ^14<num>$
-      1 ^@utc<n>$ + ^12<num>$
+      1 ^*utf$ - ^8<num>$ - ^@data<n>$
+      1 ^@utc<n>$ - ^6<num><ord>$ 
+      1 ^@utc<n>$ - ^5<num>$
+      1 ^@ure<vblex><imp>$ - ^416<num>$
+      1 ^@ure<vblex><imp>$ - ^23<num>$
+      1 ^@unix<np>$ - ^98<num>$
       1 ^@united<np>$ 	 ^46 5<num>$
       1 ^@united<np>$ 	 ^46 12<num>$
       1 ^@united<np>$ 	 ^46 10<num>$
-      1 ^@united<np>$ £ ^1<num>$
+      1 ^u<n>$ - ^19<num>$ - ^@landslag<n>$
+      1 ^u<n>$ - ^19<num>$ - ^@em<n>$ 
+      1 ^u<n>$ - ^19<num>$ - ^@em<n>$
+      1 ^@uh<n>$ - ^1<num>$ - ^helicopter<n>$
+      1 ^two<num>$ - ^@ving<n>$
+      1 ^two<num>$ - ^@tusen<adv>$ - ^kilometre<n>$
+      1 ^two<num>$ - ^@tuner<n>$ - ^tv<n>$
+      1 ^two<num>$ - ^@spring<n>$ - ^variety<n>$
+      1 ^two<num>$ - ^@san<n>$
+      1 ^two<num>$ - ^@rupi<n>$
+      1 ^two<num>$ - ^@pol<n>$
+      1 ^two<num>$ - ^@kromosom<n>$
+      1 ^two<num>$ - ^@delere<vblex><inf>$
+      1 ^two<num>$ - ^@day<np>$
+      1 ^two<num>$ - ^@åring<n>$
+      1 ^two<num>$ - ^and<cnjcoo>$ - ^eat<vblex><inf>/eat:1<vblex><inf>$ - ^@halvt<adv>$
+      1 ^twenty<num>$ - ^@sesse<vblex><inf>$
+      1 ^*tu$ - ^154<num>$ - ^@fly<n>$
       1 ^@trolig<adj>$ 　 ^1981<num>$
       1 ^@town<np><top>$ 	 ^46 9<num>$
       1 ^@town<np><top>$ 	 ^46 5<num>$
       1 ^@town<np><top>$ 	 ^46 19<num>$
-      1 ^tønsberg<np><top>$ – ^@hødd<np>$ 	 	 ^1<num>$ – ^1<num>$ 		 
+      1 ^@top<np>$ - ^20<num>$ »- ^list<n>$
+      1 ^top<n>$ - ^30<num>$ - ^@hit<n>$
+      1 ^top<n>$ - ^20<num>$ - ^@hit<n>$
+      1 ^top<n>$ - ^10<num>$ - ^@hit<n>$
       1 ^tom<np><ant><m>$ 	 ^*qst$ 	 ^@bel<n>$ 	 ^02<num>$
+      1 ^t<n>$ - ^34<num>$ - ^@stridsvogn<n>$
+      1 ^@tilfelle<n>$ - ^two<num>$
       1 ^ticket-window<vblex><inf>$ 	 ^*csc$ 	 ^@ause<vblex><imp>$ 	 ^00<num>$
+      1 ^@th<np>$ - ^400<num>$
+      1 ^@th<np>$ - ^228<num>$
+      1 ^@th<np>$ - ^180<num>$
       1 ^*thierry$ 	 ^*cof$ 	 ^@bel<n>$ 	 ^04<num>$
-      1 ^@sv<np>$ – ^913<num>$
-      1 ^strømsgodset<np><top>$ – ^@skeie<vblex><pp>$ 	 ^0<num>$
-      1 ^@strende<vblex><pres><p3>$ – ^two<num>$
-      1 ^@startnummer<n>$ # ^46<num><ord>$
-      1 ^@stabæk<np>$ – ^tønsberg<np><top>$ 	 ^1<num>$ – ^1<num>$ 
-      1 ^@stabæk<np>$ – ^@skeie<vblex><pp>$ 	 	 ^4<num>$ – ^0<num>$ 	 
-      1 ^@stabæk<np>$ – ^sandefjord<np><top>$ 	 ^3<num>$ – ^1<num>$ 		 
-      1 ^@stabæk<np>$ – ^kongsvinger<np><top>$ 	 ^4<num>$ – ^1<num>$ 		 
-      1 ^@stabæk<np>$ – ^hone<vblex><inf>$ 	 	 ^2<num>$ – ^2<num>$ 	 
-      1 ^@stabæk<np>$ – ^@hødd<np>$ 	 ^4<num>$ – ^1<num>$ 		 
-      1 ^@stabæk<np>$ – ^follo<np><top>$ 	 ^1<num>$ – ^1<num>$ 	 
-      1 ^@stabæk<np>$ – ^alta<np><top>$ 	 ^2<num>$ – ^1<num>$ 	 
-      1 ^@sp<np>$ – ^929<num>$
-      1 ^@spider-man<np>$ # ^50<num>$
-      1 ^sogndal<np><top>$ – ^@stabæk<np>$ 	 	 ^1<num>$ – ^1<num>$ 	 
-      1 ^sogndal<np><top>$ – ^@hødd<np>$ 	 	 ^2<num>$ – ^2<num>$ 	 
-      1 ^@slamme<vblex><imp>$ – ^24<num>$
-      1 ^@skeid<n>$ – ^@stabæk<np>$ 		 ^1<num>$ – ^0<num>$ 	 
-      1 ^@skeid<n>$ – ^moss<np><top>$ 	 ^1<num>$ – ^2<num>$ 
-      1 ^@skeid<n>$ – ^@hødd<np>$ 	 	 ^2<num>$ – ^5<num>$ 	 
-      1 ^@skeid<n>$ – ^follo<np><top>$ 	 	 ^1<num>$ – ^1<num>$ 	 
-      1 ^@skeid<n>$ – ^alta<np><top>$ 	 	 ^0<num>$ – ^0<num>$ 	 
-      1 ^.<sent>$ – ^@stabæk<np>$ 	 ^0<num>$ – ^2<num>$ 		 
+      1 ^ten<num>$ - ^@mil<n><sp>$
+      1 ^@tave<vblex><imp>$ - ^8<num>$
+      1 ^@tatar<n>$ - ^5,8<num>$
+      1 ^@talent<n>$ - ^84<num><ord>$
+      1 ^@sv<np>$ - ^728<num>$
+      1 ^@sv<np>$ - ^328<num>$
+      1 ^@sv<np>$ - ^1<num>$
+      1 ^@sup<n>$ - ^8<num>$
+      1 ^@sun<np>$ - ^4<num>$
+      1 ^@sun<np>$ - ^3<num>$
+      1 ^@stabæk<np>$ 	 	 ^2<num>$
+      1 ^@stabæk<np>$ 		 ^1<num>$
+      1 ^@stabæk<np>$ 		 ^0<num>$
+      1 ^ss<abbr>$ - ^20<num>$ - ^@missil<n>$
+      1 ^ss<abbr>$ - ^20<num>$ - ^@base<vblex><inf>$
+      1 ^ss<abbr>$ - ^11<num>$ - ^@missil<n>$
+      1 ^@sprint<n>$ - ^10<num>$
+      1 ^@sp<np>$ - ^2<num>$
+      1 ^@spd<np>$ - ^13<num>$
+      1 ^@society<np>$ - ^2006<num>$ - ^12<num>$ - ^12<num>$ 
+      1 ^@sms<np>$ - ^seven<num>$
+      1 ^@slett<n>$ -- ^85.166<num>$
+      1 ^@slaktehus<n>$ - ^5<num>$
+      1 ^@skøyteklubb<n>$ - ^94<num>$
+      1 ^@skeie<vblex><pp>$ 	 	 ^5<num>$
+      1 ^@skeie<vblex><pp>$ 	 ^5<num>$
+      1 ^@skeie<vblex><pp>$ 	 	 ^4<num>$
+      1 ^@skeie<vblex><pp>$ 	 ^4<num>$
+      1 ^@skeie<vblex><pp>$ 	 ^2<num>$
+      1 ^@skeie<vblex><pp>$ 	 	 ^1<num>$
+      1 ^@skeie<vblex><pp>$ 	 ^0<num>$ - ^2<num>$ 
+      1 ^six<num>$ - ^@steg<n>$
+      1 ^six<num>$ - ^@slags<n><sp>$
+      1 ^six<num>$ - ^@seter<n>$
+      1 ^six<num>$ - ^@otte<n>$
+      1 ^'s<gen>$ - ^@vm<n>$ - ^91<num>$
+      1 ^seventeen<num>$ - ^@åring<n>$
+      1 ^seven<num>$ - ^@stenge<n>$
+      1 ^seven<num>$ - ^part<n>$ - ^@allianse<n>$
+      1 ^...<sent>$ -- ^@opus<n>$ - ^9<num><ord>$
       1 ^@sekund<n>$ ≡ ^0,3048<num>$
       1 ^*sb$ 	 ^6 42<num>$ 	  		 ^kari<np><ant><m>$ 	 ^@vehniäinen<np>$ 		 ^*konnmk$
       1 ^*sb$ 	 ^42 8<num>$ 	  		 ^janne<np>$ 	 ^@puranen<np>$ 		 ^*helrc$ 	 ^@suzuki<np>$
@@ -88,7 +395,7 @@
       1 ^*sb$ 	 ^34 25<num>$ 	  		 ^*tatu$ 	 ^*lauslehto$ 	 ^*tumk$ 	 ^@suzuki<np>$
       1 ^*sb$ 	 ^33 14<num>$ 	  		 ^@björn<np>$ 	 ^rasmussen<np><cog>$ 	 ^stavanger<np><top>$
       1 ^*sb$ 	 ^30 6<num>$ 	  		 ^@timo<np>$ 	 ^@paavilainen<np>$
-      1 ^*sb$ 	 ^27 174<num>$ 	  		 ^@timo<np>$
+      1 ^*sb$ 	 ^27 174<num>$ 	  		 ^@timo<np>$ - ^p<n>$ 	 ^hietanen<np><cog>$
       1 ^*sb$ 	 ^25 7<num>$ 	  		 ^jari<np><ant><m>$ 	 ^@aromaa<np>$ 		 ^*valkmk$ 	 ^@suzuki<np>$
       1 ^*sb$ 	 ^23 48<num>$ 	  		 ^jan<np><ant><m>$ 	 ^@grev<n>$ 		 ^falkenberg<np><cog>$
       1 ^*sb$ 	 ^22 35<num>$ 	  		 ^*aki$ 	 ^*taipale$ 	 	 ^*imk$ 	 ^@suzuki<np>$
@@ -98,101 +405,207 @@
       1 ^*sb$ 	 ^15 5<num>$ 	  		 ^@raimo<np>$ 	 ^@kesseli<np>$ 		 ^kem<np><cog>$
       1 ^*sb$ 	 ^11 1<num>$ 	  		 ^*topi$ 	 ^@haarala<np>$ 		 ^*tmk$ 	 ^@suzuki<np>$
       1 ^@san<n>$ 	 - ^3<num>$ 
+      1 ^@samarium<n>$ - ^153<num>$ - ^*edtmp$
+      1 ^@rv<np>$ - ^1<num>$
       1 ^r<n>$ 	 ^@ause<vblex><imp>$ 	 ^03<num>$
-      1 ^@ra<n>$ > ^80<num>$
-      1 ^@ps<n>$ ~= ^25<num>$
-      1 ^prpers<prn><obj><p3><m>$ – ^@stabæk<np>$ 	 	 ^1<num>$ – ^2<num>$ 
-      1 ^prpers<prn><obj><p3><m>$ – ^@hødd<np>$ 	 	 ^0<num>$ – ^2<num>$ 	 
-      1 ^@potte<vblex><pres><p3>$ | ^31<num><ord>$
-      1 ^@pluss<adv>$ £ ^45,000<num>$
+      1 ^r<n>$ - ^77<num>$ - ^@missil<n>$
+      1 ^r<n>$ - ^60<num>$ - ^@missil<n>$
+      1 ^r<n>$ - ^40<num>$ - ^@missil<n>$
+      1 ^r<n>$ - ^36<num>$ - ^@missil<n>$
+      1 ^r<n>$ - ^16<num>$ - ^@missil<n>$
+      1 ^r<n>$ - ^1340<num>$ - ^@an<adv>$ - ^1<num>$
+      1 ^*ribulose$ - ^5<num>$ - ^@fosfat<n>$
+      1 ^*ribose$ - ^5<num>$ - ^@fosfat<n>$ → ^2<num>$
+      1 ^*rgd$ - ^5<num>$ - ^@håndgranat<n>$
+      1 ^@reel<n>$ - ^two<num>$ - ^@reel<n>$
+      1 ^@ra<n>$ - ^85621<num>$
+      1 ^@ra<n>$ - ^5<num>$
+      1 ^@ra<n>$ - ^226<num>$
+      1 ^@raide<n>$ - ^18<num><ord>$ 
+      1 ^@rade<vblex><pres><p3>$ - ^1<num>$
+      1 ^@ps<n>$ - ^10<num><ord>$ 
+      1 ^@propan<n>$ - ^2<num>$ - ^@ol<n>$
+      1 ^@pre<n>$ - ^64<num><ord>$
+      1 ^@pre<n>$ - ^1989<num>$
+      1 ^@pre<n>$ - ^1850<num>$
+      1 ^@polonium<n>$ - ^210<num>$
+      1 ^@pm<n>$ - ^6<num>$
+      1 ^@pm<n>$ - ^3<num>$
       1 ^*pieter$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^02<num>$
       1 ^philippe<np><ant><m>$ 	 ^*fdj$ 	 ^@bel<n>$ 	 ^02<num>$
+      1 ^*pferd$ - ^1927<num>$ - ^@helstøpe<vblex><pp>$
+      1 ^peak<vblex><inf>$ - ^20<num>$ - ^@hit<n>$
+      1 ^@part<np>$ - ^147<num>$ - ^school<n>$
+      1 ^@part<np>$ - ^147<num>$
       1 ^@palace<np>$ 	 ^46 7<num>$
+      1 ^@pace<vblex><imp>$ - ^10<num>$ - ^championship<n>$
+      1 ^@otte<n>$ - ^400<num>$
+      1 ^@oste<vblex><pp>$ - ^1<num>$
+      1 ^@or<n>$ - ^4<num><ord>$
       1 ^@orient<n>$ 	 ^46 9<num>$
-      1 ^on<pr>$ − ^52.51<num>$ ° ^@deklinasjon<n>$
+      1 ^on<pr>$ - ^70<num>$ - ^@tal<n>$
+      1 ^@on<np>$ - ^two<num>$ - ^ottawa<np><top>$
+      1 ^one<num>$ - ^@hit<n>$ - ^artist<n>$
+      1 ^one<num>$ - ^@hit<n>$
+      1 ^one<num>$ - ^@dagse<vblex><imp>$
+      1 ^@ol<n>$ - ^92<num>$
+      1 ^@ol<n>$ - ^2002<num>$
+      1 ^@ol<n>$ - ^1912<num>$
+      1 ^@ol<n>$ - ^1900<num>$
+      1 ^@nordøst<n>$ - ^6<num>$
+      1 ^@nord<n><sp>$ - ^americas<np><top>$ - ^500<num>$
+      1 ^@nordal<np><top>$ - ^91<num>$
+      1 ^@nm<n>$ - ^41<num>$
+      1 ^@nm<n>$ - ^15<num>$
+      1 ^@nm<n>$ - ^142<num>$
+      1 ^@nm<n>$ - ^100<num>$
+      1 ^nine<num>$ - ^@cd<n>$
       1 ^@nigger<n>$ / #- ^20<num>$ 
-      1 ^@natte<vblex><imp>$ – ^17<num><ord>$
-      1 ^moss<np><top>$ – ^@stabæk<np>$ 	 	 ^0<num>$ – ^0<num>$ 	 
-      1 ^moss<np><top>$ – ^@skeie<vblex><pp>$ 	 ^5<num>$ – ^1<num>$ 	 
-      1 ^moss<np><top>$ – ^@hødd<np>$ 	 ^2<num>$ – ^1<num>$ 		 
-      1 ^moss<np><top>$ – ^@fremad<pr>$ 	 ^2<num>$ – ^0<num>$
+      1 ^@ne<n>$ - ^1<num>$
+      1 ^@my<n>$ - ^1104<num>$
+      1 ^*mt$ - ^32<num>$ - ^@modus<n>$
+      1 ^*mpeg$ - ^2<num>$ - ^@konsept<n>$
+      1 ^@moselle<np>$ - ^17<num><ord>$
+      1 ^@monne<vblex><pres><p3>$ - ^50<num>$
+      1 ^@monne<vblex><pres>$ - ^90<num>$
+      1 ^@monne<vblex><pres>$ - ^200<num>$
+      1 ^@monne<vblex><pres>$ - ^100<num>$
       1 ^@minimum<n>$ − ^9,6<num>$
+      1 ^@mig<n>$ - ^9<num><ord>$
+      1 ^@mig<n>$ - ^35<num><ord>$
+      1 ^@mig<n>$ - ^35<num>$
+      1 ^@mig<n>$ - ^33<num>$
+      1 ^@mig<n>$ - ^31<num><ord>$ 
+      1 ^@mig<n>$ - ^27<num><ord>$ 
+      1 ^@mig<n>$ - ^21<num><ord>$
+      1 ^@mig<n>$ - ^1<num>$
+      1 ^@mig<n>$ - ^19<num><ord>$ 
+      1 ^@mig<n>$ - ^17<num><ord>$
+      1 ^@mig<n>$ - ^15<num><ord>$
+      1 ^@mig<n>$ - ^15<num>$ - ^fighterjet<n>$
       1 ^*mickael$ 	 ^@rab<np>$ 	 ^that<det><dem>$ 	 ^02<num>$
       1 ^michael<np><ant><m>$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^02<num>$
+      1 ^@mc<n><sp>$ - ^4<num>$
+      1 ^@mc<n><sp>$ - ^130<num>$
       1 ^mario<np><ant><m>$ 	 ^*dvl$ 	 ^@bel<n>$ 	 ^01<num>$
       1 ^marc<np><ant><m>$ 	 ^@rab<np>$ 	 ^@bel<n>$ 	 ^02<num>$
+      1 ^@maksimum<n>$ - ^9<num>$
+      1 ^@makker<n>$ - ^12<num>$
+      1 ^@mac<np>$ - ^10<num>$ 
+      1 ^@lsd<n>$ - ^25<num>$
+      1 ^@lov<n><sp>$ - ^1996<num>$ - ^12<num>$ - ^20<num>$ - ^106<num>$
+      1 ^@lov<n><sp>$ - ^1985<num>$ - ^06<num>$ - ^14<num>$ - ^77<num>$
+      1 ^l<n>$ - ^70<num>$ - ^@kanon<adv>$
+      1 ^@litium<n>$ - ^7<num><ord>$ 
       1 ^@lire<n>$ = € ^1<num><ord>$ 
       1 ^@ligakamp<n>$ 	 + ^9<num>$
-      1 ^@life<np>$ + ^10<num>$
-      1 ^@levealder<n>$ – ^6<num>$
-      1 ^@landskamp<n>$ – ^93<num>$
+      1 ^@lav<n>$ - ^5,6<num>$ % - ^and<cnjcoo>$
+      1 ^@la<n>$ - ^5<num>$
+      1 ^@la<n>$ - ^331<num>$
+      1 ^@la<n>$ - ^2<num>$
+      1 ^@la<n>$ - ^17<num>$
       1 ^@kost<n>$ € ^399<num>$
-      1 ^@kost<n>$ £ ^100<num>$
+      1 ^*koegler$ - ^@paperback<n>$ - ^14<num><ord>$
       1 ^@kim<n>$ 	 ^@fas<adv>$ 	 ^lux<n>$ 	 ^01<num>$
+      1 ^@kim<n>$ - ^1<num>$ - ^machine<n>$
       1 ^kevin<np><ant><m>$ 	 ^*qst$ 	 ^@bel<n>$ 	 ^03<num>$
       1 ^karsten<np><ant><m>$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^06<num>$
+      1 ^@karbon<n><sp>$ - ^14<num>$ - ^*datering$
+      1 ^@karbon<n><sp>$ - ^13<num>$
+      1 ^@karbon<n><sp>$ - ^12<num>$
+      1 ^@karbon<n>$ - ^14<num><ord>$
+      1 ^@karbon<n>$ - ^14<num>$
+      1 ^@karbon<n>$ - ^12<num><ord>$ 
+      1 ^@karbon<n>$ - ^12 6<num>$
+      1 ^@karbon<n>$ - ^11<num>$
+      1 ^@kalium<n>$ - ^40<num>$
       1 ^*joost$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^02<num>$
       1 ^johan<np><ant><m>$ 	 ^*dvl$ 	 ^@bel<n>$ 	 ^01<num>$
+      1 ^@iss<np>$ - ^2<num>$
+      1 ^@ir<n>$ - ^5<num>$
+      1 ^@iridium<n>$ - ^192<num>$
+      1 ^@ire<vblex><imp>$ - ^3<num><ord>$
       1 ^@intel<np>$ ® ^80860<num>$ ™ ^(<lpar>$
-      1 ^@institute<np>$ | ^986<num>$
-      1 ^@in<adj>$ § ^156<num>$
-      1 ^@in<adj>$ § ^113<num>$
-      1 ^@i henhold til<adv>$ § ^270<num>$
-      1 ^@i henhold til<adv>$ § ^110<num>$
-      1 ^@i følge<pr>$ § ^53<num>$
-      1 ^@hopprenn<n>$ + ^15<num>$
-      1 ^hønefoss<np><top>$ – ^@stabæk<np>$ 	 ^0<num>$ – ^2<num>$ 	 
-      1 ^hønefoss<np><top>$ – ^@skeie<vblex><pp>$ 	 	 ^3<num>$ – ^2<num>$ 		 
-      1 ^@hødd<np>$ – ^strømsgodset<np><top>$ 	 ^4<num>$ – ^4<num>$ 		 
-      1 ^@hødd<np>$ – ^@stabæk<np>$ 	 	 ^0<num>$ – ^2<num>$ 	 
-      1 ^@hødd<np>$ – ^sogndal<np><top>$ 	 ^4<num>$ – ^1<num>$ 
-      1 ^@hødd<np>$ – ^@skeie<vblex><pp>$ 	 	 ^3<num>$ – ^0<num>$ 	 
-      1 ^@hødd<np>$ – ^hønefoss<np><top>$ 	 	 ^0<num>$ – ^3<num>$ 
-      1 ^@hødd<np>$ – ^follo<np><top>$ 	 	 ^1<num>$ – ^4<num>$ 	 
-      1 ^@hødd<np>$ – ^alta<np><top>$ 	 ^3<num>$ – ^0<num>$ 		 
-      1 ^@hele<n>$ £ ^8.0<num>$
-      1 ^@hele<n>$ £ ^5,5<num>$
-      1 ^@hele<n>$ £ ^1,5<num>$
-      1 ^@hauge<vblex><inf>$ – ^30<num>$
+      1 ^@inhibitor<n>$ - ^1<num>$
+      1 ^@il<n>$ - ^82<num>$
+      1 ^@il<n>$ - ^78<num>$
+      1 ^@il<n>$ - ^76 8<num>$
+      1 ^@il<n>$ - ^6<num>$
+      1 ^@il<n>$ - ^62<num><ord>$
+      1 ^@il<n>$ - ^62<num>$ - ^aeroplane<n>$
+      1 ^@il<n>$ - ^62<num>$
+      1 ^@il<n>$ - ^42<num>$
+      1 ^@il<n>$ - ^40<num>$
+      1 ^@il<n>$ - ^22<num>$
+      1 ^@il<n>$ - ^20<num><ord>$ 
+      1 ^@il<n>$ - ^18<num>$ - ^aeroplane<n>$
+      1 ^@høyre<n><sp>$ - ^100<num>$
+      1 ^@hødd<np>$ 	 ^4<num>$
+      1 ^@hødd<np>$ 	 	 ^3<num>$
+      1 ^@hødd<np>$ 	 ^2<num>$
+      1 ^@hødd<np>$ 	 ^1<num>$ - ^1<num>$ 
+      1 ^@hødd<np>$ 	 	 ^1<num>$
+      1 ^@hødd<np>$ 		 ^0<num>$
+      1 ^@hødd<np>$ 	 	 ^0<num>$
+      1 ^@hødd<np>$ 	 ^0<num>$
+      1 ^h<n>$ - ^*purin$ - ^6<num>$ - ^@amin<n>$
+      1 ^@hele<n>$ - ^40<num>$
+      1 ^@heimevernsdistrikt<n>$ - ^17<num>$
+      1 ^hamper<vblex><pres>$ - ^@glukose<n>$ - ^6<num>$ - ^@fosfat<n>$
       1 ^*gsxr$ 	 ^n<n>$ 			 ^6 6<num>$ 			  	 ^@hommersåk<np>$ 
-      1 ^@grunnloven<np>$ § ^97<num>$
-      1 ^@grunnloven<np>$ § ^96<num><ord>$
-      1 ^@grunnloven<np>$ § ^91<num>$
-      1 ^@grunnloven<np>$ § ^83<num>$
-      1 ^@grunnloven<np>$ § ^6<num>$
-      1 ^@grunnloven<np>$ §§ ^57<num>$
-      1 ^@grunnloven<np>$ § ^4<num>$
-      1 ^@grunnloven<np>$ § ^41<num><ord>$ 
-      1 ^@grunnloven<np>$ § ^41<num>$
-      1 ^@grunnloven<np>$ § ^3<num><ord>$ 
-      1 ^@grunnloven<np>$ § ^106<num>$
-      1 ^@grinde<np>$ – ^27<num>$
-      1 ^grenland<np><top>$ – ^@stabæk<np>$ 		 ^0<num>$ – ^0<num>$ 	 
-      1 ^grenland<np><top>$ – ^@skeie<vblex><pp>$ 	 ^4<num>$ – ^1<num>$ 		 
-      1 ^grenland<np><top>$ – ^@hødd<np>$ 		 ^0<num>$ – ^1<num>$ 	 
+      1 ^g<n>$ - ^18<num>$ - ^@landslag<n>$
+      1 ^*glyseraldehyd$ - ^3<num>$ - ^@fosfat<n>$ 
+      1 ^@glukose<n>$ - ^6<num>$ - ^*fosfatdehydrogenase$
       1 ^*gerben$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^02<num>$
-      1 ^@fremad<pr>$ – ^bön<np><top>$ 	 ^3<num>$ – ^0<num>$
-      1 ^@fosfat<n>$ → ^2<num>$
-      1 ^@forretningsorden<n>$ § ^33<num>$
-      1 ^@forretningsorden<n>$ §§ ^28<num>$
-      1 ^@forretningsorden<n>$ § ^10<num>$
+      1 ^@geir<n>$ - ^two<num>$
+      1 ^@fuge<vblex><imp>$ - ^70<num>$
+      1 ^@fruktose<n>$ - ^2,6<num>$ - ^*bisfosfat$
+      1 ^@fruktose<n>$ - ^1,6<num>$ - ^*bisfosfatase$
+      1 ^@fremad<pr>$ 	 ^2<num>$
+      1 ^four<num>$ - ^@åring<n>$
       1 ^@forest<np><top>$ 	 ^46 20<num>$
-      1 ^follo<np><top>$ – ^@stabæk<np>$ 	 	 ^2<num>$ – ^4<num>$ 	 
-      1 ^follo<np><top>$ – ^@skeie<vblex><pp>$ 	 	 ^1<num>$ – ^2<num>$ 	 
-      1 ^follo<np><top>$ – ^@hødd<np>$ 	 ^1<num>$
-      1 ^@fly<n>$ ~ ^25<num>$
-      1 ^@fax<n>$ + ^49<num>$
-      1 ^@fantasy<np>$ # ^15<num>$
+      1 ^f<n>$ - ^16<num>$ - ^@simulator<n>$
+      1 ^f<n>$ - ^117<num>$ - ^@fly<n>$
+      1 ^@fjellvegg<n>$ - ^2<num>$
+      1 ^five<num>$ - ^@sees<vblex><pstv><pp>$
+      1 ^five<num>$ - ^@åring<n>$
+      1 ^*fenylalanin$ - ^1<num>$ - ^@metyl<n>$
+      1 ^@fellesstart<n>$ - ^99<num><ord>$
+      1 ^@far<n>$ - ^two<num>$ - ^*the$ - ^*right$
+      1 ^europe<np><top>$ - ^@college<n>$   ^1952<num>$ - ^1953<num>$
       1 ^erik<np><ant><m>$ 	 ^@rab<np>$ 	 ^below<pr>$ 	 ^02<num>$
+      1 ^@england<n>$ - ^20<num><ord>$
+      1 ^@em<n>$ - ^2005<num>$
+      1 ^@em<n>$ - ^2000<num>$
+      1 ^@em<n>$ - ^1992<num>$
+      1 ^@em<n>$ - ^1969<num>$
+      1 ^@elevasjon<n>$ - ^90<num>$
       1 ^@eddy<np>$ 	 ^paralyse<vblex><inf>$ 	 ^*ita$ 	 ^02<num>$
-      1 ^@dieselmotor<n>$ | ^2,5<num>$
-      1 ^@dieselmotor<n>$ | ^2,25<num>$
+      1 ^@dv<n>$ - ^5<num>$
+      1 ^@døgn<n>$ - ^24<num>$
+      1 ^d<n>$ - ^*erytrose$ - ^4<num>$ - ^@fosfat<n>$
+      1 ^@dh<n>$ - ^4<num>$ - ^machine<n>$
       1 ^*denis$ 	 ^@rab<np>$ 	 ^dose<vblex><inf>$ 	 ^02<num>$
-      1 ^@deklinasjon<n>$ + ^90<num>$ ° ^or<cnjcoo>$
-      1 ^@deklinasjon<n>$ – ^35<num>$ °^.<sent>$
+      1 ^*dc$ - ^9<num>$ - ^@fly<n>$
+      1 ^*dc$ - ^9<num>$ - ^@design<n>$
+      1 ^*dc$ - ^8<num>$ - ^@fly<n>$
+      1 ^*dc$ - ^7<num>$ - ^@fly<n>$
+      1 ^*dc$ - ^6<num>$ - ^@fly<n>$
+      1 ^*dc$ - ^4<num>$ - ^@fly<n>$
+      1 ^*dc$ - ^10<num>$ - ^@fly<n>$
+      1 ^@day<np>$ - ^4<num><ord>$
+      1 ^@dash<np><top>$ - ^8<num><ord>$
+      1 ^@dash<n>$ - ^8<num>$ - ^q<n>$
+      1 ^@dash<n>$ - ^8<num>$
+      1 ^@dash<n>$ - ^7<num>$
+      1 ^@cox<n>$ - ^2<num>$ - ^*hemmere$
+      1 ^@cox<n>$ - ^2<num>$ - ^hamper<vblex><pres>$
+      1 ^@cox<n>$ - ^1<num><ord>$ 
       1 ^@copyright<n>$ © ^2006<num>$
       1 ^@copyright<n>$ © ^2004<num>$
-      1 ^@college<n>$   ^1952<num>$
+      1 ^c<n>$ - ^5<num>$ - ^@fly<n>$
+      1 ^c<n>$ - ^17<num>$ - ^@fly<n>$
+      1 ^@club<np>$ - ^two<num>$ - ^*death$ - ^angle<n>$
       1 ^@city<n>$ 	 ^46 9<num>$
       1 ^@city<n>$ 	 ^46 7<num>$
       1 ^@city<n>$ 	 ^46 19<num>$
@@ -200,175 +613,536 @@
       1 ^@city<n>$ 	 ^46 12<num>$
       1 ^@city<n>$ 	 ^46 11<num>$
       1 ^@city<n>$ 	 ^46 10<num>$
-      1 ^@city<n>$ # ^1<num>$
       1 ^*christophe$ 	 ^*dvl$ 	 ^@bel<n>$ 	 ^01<num>$
-      1 ^@cape<np><top>$ – ^28<num><ord>$
+      1 ^@cesium<n>$ - ^133<num>$
+      1 ^@cerium<n>$ - ^144<num>$
+      1 ^@cd<n>$ - ^850<num>$ - ^6<num>$
+      1 ^@cd<n>$ - ^4<num>$ - ^or<cnjcoo>$
+      1 ^@cd<n>$ - ^4<num>$ - ^level<n>$
       1 ^*cadel$ 	 ^*dvl$ 	 ^@ause<vblex><imp>$ 	 ^01<num>$
-      1 ^@bryne<n>$ – ^@stabæk<np>$ 	 	 ^0<num>$ – ^1<num>$ 	 
-      1 ^@bryne<n>$ – ^@skeie<vblex><pp>$ 	 	 ^5<num>$ – ^1<num>$ 	 
-      1 ^@bryne<n>$ – ^sandefjord<np><top>$ 	 ^1<num>$ – ^3<num>$ 		 
-      1 ^@bryne<n>$ – ^moss<np><top>$ 	 	 ^0<num>$ – ^2<num>$ 	 
-      1 ^@bryne<n>$ – ^kongsvinger<np><top>$ 	 ^3<num>$ – ^1<num>$ 		 
-      1 ^@bryne<n>$ – ^@hødd<np>$ 	 ^0<num>$ – ^1<num>$ 	 
-      1 ^@bryne<n>$ – ^follo<np><top>$ 	 ^1<num>$ – ^1<num>$ 
-      1 ^@bryne<n>$ – ^alta<np><top>$ 	 	 ^3<num>$ – ^1<num>$ 	 
-      1 ^@brothers<np>$ # ^21<num>$
+      1 ^@bronsealder<n>$ - ^500<num>$
+      1 ^@british<np>$ - ^7.7<num>$
       1 ^@bramme<vblex><imp>$ 	 ^*qst$ 	 ^below<pr>$ 	 ^03<num>$
       1 ^@bradford<np>$ 	 ^46 15<num>$ 	 ^4 4<num>$
+      1 ^@bordeaux<n>$ - ^17<num><ord>$
       1 ^@bolton<np>$ 	 ^46 14<num>$
       1 ^@bolton<np>$ 	 ^46 13<num>$ 	 ^6 4<num>$
+      1 ^@boleslav<np>$ - ^13<num><ord>$
       1 ^@bogne<vblex><pp>$ 	 ^145<num>$
+      1 ^b<n>$ - ^36<num>$ - ^@fly<n>$
+      1 ^b<n>$ - ^1<num>$ - ^@lo<n>$
+      1 ^@blues<vblex><pstv><pp>$ - ^1971<num>$ - ^1983<num>$
+      1 ^@billboard<np>$ - ^1<num><ord>$
       1 ^*bilag$ @ ^143400<num>$
+      1 ^@beryllium<n>$ - ^14<num>$
       1 ^@berte<vblex><imp>$ 	 ^*pho$ 	 ^*ger$ 	 ^04<num>$
-      1 ^@bensinmotor<n>$ | ^2,5<num>$
-      1 ^@bensinmotor<n>$ | ^2,0<num>$
-      1 ^@bande<vblex><pp>$ + ^44<num><ord>$
+      1 ^@bate<vblex><imp>$ - ^5<num><ord>$
       1 ^axel<np><ant><m>$ 	 ^*dvl$ 	 ^@bel<n>$ 	 ^01<num>$
-      1 ^@avgiftsvedtak<n>$ § ^2<num><ord>$ 
-      1 ^@avgiftsvedtak<n>$ § ^2<num>$
+      1 ^@award<np>$ - ^8<num>$
+      1 ^@auto<n><sp>$ - ^5<num><ord>$ 
       1 ^at<pr>$ 	 ^@nor<n>$ 	 ^01<num>$
+      1 ^*aspartyl$ - ^*fenylalanin$ - ^1<num>$ - ^@metyl<n>$
       1 ^asle<np><ant><m>$ 	 ^*csc$ 	 ^@nor<n>$ 	 ^00<num>$
-      1 ^@asal<n>$ § ^6<num>$
-      1 ^@asal<n>$ § ^1<num>$
-      1 ^@arvelov<n>$ §§ ^48<num>$
-      1 ^@arvelov<n>$ § ^29<num><ord>$
-      1 ^alta<np><top>$ – ^@stabæk<np>$ 	 ^0<num>$ – ^1<num>$ 	 
-      1 ^alta<np><top>$ – ^@skeie<vblex><pp>$ 	 ^2<num>$ – ^0<num>$ 		 
-      1 ^alta<np><top>$ – ^@hødd<np>$ 	 	 ^3<num>$ – ^1<num>$ 	 
-      1 ^@aksjelov<n>$ § ^5<num>$
-      1 ^@aksjelov<n>$ § ^3<num>$
+      1 ^@ar<n>$ - ^5<num>$
+      1 ^@ar<n>$ - ^1<num>$
+      1 ^@ar<n>$ - ^15<num><ord>$
+      1 ^@ar<n>$ - ^15<num>$ - ^@klon<n>$
+      1 ^@ar<n>$ - ^10<num><ord>$
+      1 ^@argon<n>$ - ^40<num><ord>$
+      1 ^@argon<n>$ - ^40<num>$
+      1 ^@ap<n>$ - ^4<num>$
+      1 ^@ap<n>$ - ^3<num>$
+      1 ^@angriper<n>$ - ^two<num>$
+      1 ^and<cnjcoo>$ - ^60<num>$ - ^@tal<n>$
+      1 ^@an<adv>$ - ^74<num><ord>$ 
+      1 ^@an<adv>$ - ^70<num>$
+      1 ^@an<adv>$ - ^400<num>$
+      1 ^@an<adv>$ - ^30<num>$
+      1 ^@an<adv>$ - ^2<num><ord>$ 
+      1 ^@an<adv>$ - ^28<num>$ - ^@fly<n>$
+      1 ^@an<adv>$ - ^28<num>$ - ^aeroplane<n>$
+      1 ^@an<adv>$ - ^28<num>$
+      1 ^@an<adv>$ - ^148<num>$
+      1 ^@an<adv>$ - ^12<num><ord>$
+      1 ^@an<adv>$ - ^124<num>$ - ^100<num>$
+      1 ^@an<adv>$ - ^11<num>$
+      1 ^@an<adv>$ - ^10<num>$ - ^aeroplane<n>$
+      1 ^@amt<n>$ - ^10<num>$
+      1 ^@alp<n>$ - ^46<num>$
+      1 ^@alp<n>$ - ^44<num>$
+      1 ^@al<n>$ - ^7<num>$
+      1 ^@al<n>$ - ^31<num>$
+      1 ^@al<n>$ - ^21<num>$
+      1 ^@akutt<n>$ - ^80<num>$
+      1 ^@aker<n>$ - ^1958<num>$
+      1 ^@age<vblex><imp>$ - ^168<num>$
+      1 ^@ad<pr>$ - ^14<num>$
+      1 ^a<det><ind>$ - ^@nulle<vblex><imp>$ - ^six<num>$
+      1 ^a<det><ind>$ - ^@nulle<vblex><imp>$ - ^seven<num>$
+      1 ^a<det><ind>$ - ^@nulle<vblex><imp>$ - ^eight<num>$
       1 ^active<n>$ @ ^900199<num>$
-      1 ^97<num>$ ° ^@øalphabet<n>$
+      1 ^9<num>$ - ^@tom<n>$
+      1 ^9<num>$ - ^@stem<n>$
+      1 ^9<num>$ - ^@pinse<vblex><imp>$
+      1 ^9<num>$ - ^@format<n>$
+      1 ^9<num>$ - ^@fly<n>$
+      1 ^99<num>$ - ^@antigen<n>$
+      1 ^976<num>$ - ^@love<n><sp>$
+      1 ^924<num>$ - ^@karosseri<n>$
       1 ^91<num>$ @ ^*hotmail$
+      1 ^90<num>$ - ^@tal<n>$
+      1 ^90<num>$ - ^@seter<n>$
+      1 ^904<num>$ - ^978<num>$ - ^@kongedømme<n>$
+      1 ^900<num>$ - ^@nette<vblex><pp>$
+      1 ^900<num>$ - ^@fly<n>$
+      1 ^8<num>$ - ^@tom<n>$
+      1 ^8<num>$ - ^@steg<n>$
+      1 ^8<num>$ - ^@pinse<vblex><imp>$
+      1 ^8<num>$ - ^@kant<n>$
+      1 ^8<num>$ - ^@gangar<n>$
+      1 ^8<num>$ - ^@cd<n>$
+      1 ^8<num>$ - ^@bakk<n>$
       1 ^8<num>$ ⅞ ^@tom<n>$
-      1 ^8,6<num>$ ° ^@vest<n><sp>$
-      1 ^8 300<num>$ – ^@fly<n>$
-      1 ^8,28<num>$ ° ^@vest<n><sp>$
-      1 ^8 200<num>$ – ^@fly<n>$
-      1 ^81<num>$ ° ^@øst<n><sp>$
-      1 ^81<num>$ ° ^37<num>$ ′ ^00<num>$ ″ ^@øst<n><sp>$
-      1 ^8 100<num>$ – ^@fly<n>$
-      1 ^80<num>$ ° ^@øst<n><sp>$
-      1 ^78<num>$ ° ^@nord<n><sp>$
-      1 ^75,53<num>$ ° ^@vest<n><sp>$
+      1 ^88<num>$ - ^@fly<n>$
+      1 ^86<num>$ - ^@applikasjon<n>$
+      1 ^80<num>$ - ^@pinn<n>$
+      1 ^80<num>$ %- ^@boliglån<n>$
+      1 ^8085<num>$ - ^@design<n>$
+      1 ^801<num>$ - ^@flymotor<n>$
+      1 ^7<num>$ - ^@utredning<n>$
+      1 ^7<num>$ - ^@seter<n>$
+      1 ^7<num>$ - ^@lit<n>$
+      1 ^7<num>$ - ^@kanon<adv>$
+      1 ^7<num>$ - ^@ikon<n>$ - ^get<vblex><inf>$
+      1 ^7<num>$ »- ^@ikon<n>$
+      1 ^7<num>$ - ^@cent<n>$
+      1 ^7893<num>$ - ^@osv<adv>$
+      1 ^7,700<num>$ - ^@seter<n>$
+      1 ^76<num>$ - ^@seter<n>$
+      1 ^767<num>$ - ^@fly<n>$
+      1 ^75<num>$ - ^@watt<n>$
+      1 ^748<num>$ - ^@design<n>$
+      1 ^747<num>$ - ^@fly<n>$
+      1 ^72<num>$ - ^@pinn<n>$
+      1 ^72<num>$ - ^@la<n>$
+      1 ^727<num>$ - ^@fly<n>$
       1 ^71<num>$ ⁰ ^@nord<n><sp>$
       1 ^71 048<num>$ 	  	 ^@van<pr>$
       1 ^71 047<num>$ 	  	 ^@van<pr>$
       1 ^71 045<num>$ 	  	 ^@merckx<np>$
       1 ^71 041<num>$ 	  	 ^@mc<n><sp>$
-      1 ^6<num>$ – ^@veldig<adj>$
+      1 ^71000<num>$ - ^@seter<n>$
+      1 ^70<num>$ - ^@tal<n>$
+      1 ^70<num>$ - ^@buss<n>$
+      1 ^70<num>$ - ^@bakk<n>$
+      1 ^70 2<num>$ - ^@byte<n>$
+      1 ^700<num>$ - ^@tal<n>$
+      1 ^6<num>$ π- ^@elektron<n>$
+      1 ^6<num>$ - ^@trasé<n>$
+      1 ^6<num>$ - ^@trase<n>$
+      1 ^6<num>$ - ^@tom<n>$
+      1 ^6<num>$ - ^@stem<n>$
+      1 ^6<num>$ - ^@seter<n>$
       1 ^6<num><ord>$ 	 ^@direktorat<n>$
-      1 ^6<num>$ ° ^51<num>$ ′ ^@øst<n><sp>$
-      1 ^68.86<num>$ ° ^@øalphabet<n>$
-      1 ^66<num>$ ° ^@nor<n>$
-      1 ^65<num>$ ° ^00<num>$ ′ ^@øalphabet<n>$
+      1 ^6<num>$ - ^@oktav<n>$
+      1 ^6<num>$ - ^@lokale<n>$
+      1 ^6<num>$ - ^@lit<n>$
+      1 ^6<num>$ - ^@inhibitor<n>$
+      1 ^6<num>$ - ^@gen<n>$
+      1 ^6<num>$ - ^@bru<n>$
+      1 ^6<num>$ - ^@adressering<n>$
+      1 ^6<num>$ - ^1<num>$ - ^@sei<n>$
+      1 ^6,75<num>$ - ^@lit<n>$
+      1 ^66<num>$ - ^@lok<n>$
       1 ^64<num>$ • ^@supe<vblex><pres>$
-      1 ^64,5<num>$ ° ^@nord<n><sp>$
-      1 ^60<num>$ ° ^@sør<n><sp>$
-      1 ^60<num>$ ° ^@foran<pr>$
-      1 ^5<num>$ ° ^@øst<n><sp>$
+      1 ^633<num>$ - ^@bunker<n>$
+      1 ^62<num>$ - ^@vm<n>$
+      1 ^6,2<num>$ - ^@lit<n>$
+      1 ^60<num>$ - ^@watt<n>$
+      1 ^60<num>$ - ^@tal<n>$
+      1 ^60<num>$ - ^@syklus<n>$
+      1 ^6.0<num>$ - ^@lit<n>$
+      1 ^60<num>$ - ^@kaliber<n>$
+      1 ^6.0<num>$ »- ^@format<n>$
+      1 ^60<num>$ - ^@chassis<n>$
+      1 ^60<num>$ - ^@buss<n>$
+      1 ^600<num>$ - ^@tal<n>$
+      1 ^600<num>$ - ^@rom<n>$
+      1 ^600<num>$ - ^@chassis<n>$
+      1 ^5<num>$ - ^@tom<n>$
+      1 ^5<num>$ - ^@syklon<n>$
+      1 ^5<num>$ - ^@steg<n>$
       1 ^5<num><ord>$ 	 ^@vedkommende<n><sp>$
-      1 ^58<num>$ ° ^4<num>$ ′ ^@nord<n><sp>$
-      1 ^55<num>$ ° ^@sør<n><sp>$
-      1 ^55<num>$ ° ^@bratte<n>$
+      1 ^5<num>$ - ^@kronemynt<n>$
+      1 ^5<num>$ - ^@fjonge<vblex><imp>$
+      1 ^5<num>$ - ^@byte<n>$
+      1 ^5<num>$ - ^@algoritme<n>$
+      1 ^5<num>$ - ^3<num>$ - ^@sei<n>$
+      1 ^5<num>$ - ^2<num>$ - ^@sei<n>$
+      1 ^5<num>$ - ^1<num>$ - ^@sei<n>$
+      1 ^5<num>$ - ^0<num>$ - ^@sei<n>$
+      1 ^5.7<num>$ - ^@lit<n>$
+      1 ^5,7<num>$ - ^@lit<n>$
+      1 ^56<num>$ - ^@la<n>$
+      1 ^54<num>$ - ^@åring<n>$
       1 ^53<num>$ @ ^*aol$
-      1 ^51<num>$ + ^@avskjedskonsert<n>$
-      1 ^51<num>$ ° ^31<num>$ ′ ^@nord<n><sp>$
-      1 ^51<num>$ ° ^27<num>$ ′ ^52<num>$ ″ ^@øalphabet<n>$
-      1 ^50<num>$ ° ^@nord<n><sp>$
-      1 ^4<num>$ + ^@vinne<n>$
-      1 ^4<num>$ „ ^@gro<n>$
-      1 ^4.8<num>$ ° ^@øalphabet<n>$
-      1 ^4,53<num>$ ° ^@sør<n><sp>$
-      1 ^44<num>$ ° ^30<num>$ ′– ^56<num>$ ° ^30<num>$ ′ ^@øalphabet<n>$
+      1 ^52<num>$ - ^@trim<n>$
+      1 ^52<num>$ - ^@fly<n>$
+      1 ^50<num>$ - ^@pinse<vblex><imp>$
+      1 ^50<num>$ - ^@penny<n>$ - ^coin<n>$ 
+      1 ^50<num>$ - ^@kronemynt<n>$
+      1 ^50<num>$ - ^@fly<n>$
+      1 ^50<num>$ - ^ear<n>$ - ^@mynte<vblex><imp>$
+      1 ^50<num>$ - ^@årsfest<n>$
+      1 ^500<num>$ - ^@tal<n>$
+      1 ^4<num>$ - ^@triol<n>$
+      1 ^4<num>$ - ^@tom<n>$
+      1 ^4<num>$ - ^@seter<n>$
+      1 ^4<num>$ - ^@runn<n>$
+      1 ^4<num>$ - ^@rak<n>$
+      1 ^4<num>$ - ^@programleder<n>$
+      1 ^4<num>$ - ^*perf$ - ^@format<n>$
+      1 ^4<num><ord>$ - ^@jacket<n>$
+      1 ^4<num>$ ′ ^@nord<n><sp>$
+      1 ^4<num>$ - ^@lymfocytt<n>$
+      1 ^4<num>$ - ^@lede<n>$
+      1 ^4<num>$ - ^@landskamp<n>$
+      1 ^4<num>$ - ^@karbon<n>$
+      1 ^4<num>$ - ^@gangar<n>$
+      1 ^4<num>$ »- ^@design<n>$
+      1 ^4<num>$ - ^@cd<n>$
+      1 ^4<num>$ - ^@antagonist<n>$
+      1 ^4<num>$ - ^@antagonisme<n>$
+      1 ^4<num>$ - ^@aksle<vblex><pp>$
+      1 ^4,8<num>$ - ^@lit<n>$
+      1 ^48<num>$ - ^@byte<n>$
+      1 ^4,7<num>$ - ^@lit<n>$
+      1 ^46<num>$ - ^@we<np>$ - ^8<num>$
+      1 ^46<num>$ - ^@seter<n>$
+      1 ^4.6<num>$ - ^@lit<n>$
+      1 ^4,5<num>$ - ^@sei<n>$
+      1 ^450<num>$ - ^@nette<vblex><pp>$
+      1 ^450<num>$ - ^@enzym<n>$
+      1 ^4.4<num>$ - ^@lit<n>$
+      1 ^4,4<num>$ - ^@lit<n>$
+      1 ^44<num>$ - ^@kaliber<n>$
+      1 ^43<num>$ - ^@kanon<adv>$
+      1 ^42<num>$ - ^@as<n>$
+      1 ^41<num>$ - ^@stridsvogn<n>$
+      1 ^4.1<num>$ - ^@lit<n>$
       1 ^41<num>$  % ^@ligger<n>$
-      1 ^41<num>$ ° ^13<num>$ ′ ^@øalphabet<n>$
-      1 ^40<num>$ ° ^@nord<n><sp>$
+      1 ^40<num>$ - ^@yrke<n>$ 
+      1 ^40<num>$ - ^@pinn<n>$
+      1 ^4,0<num>$ - ^@lit<n>$
+      1 ^40<num>$ - ^@acre<n>$
       1 ^400<num>$ € ^@pr<n>$
+      1 ^400<num>$ - ^@fly<n>$
+      1 ^400<num>$ % - ^@dv<n>$
+      1 ^3<num>$ - ^@tour<np>$
+      1 ^3<num>$ - ^@tom<n>$
+      1 ^3<num>$ - ^@toge<vblex><pp>$
+      1 ^3<num>$ - ^@syklon<n>$
       1 ^3<num>$ • ^@supe<vblex><pres>$
+      1 ^3<num>$ - ^@steg<n>$
+      1 ^3<num>$ - ^@sei<n>$
+      1 ^3<num>$ - ^@programleder<n>$
+      1 ^3<num>$ - ^*perf$ - ^@format<n>$
       1 ^3<num><ord>$ 	 ^@økt<n>$
-      1 ^3<num>$ + ^@open<np>$
-      1 ^3<num>$ ° ^@elevasjon<n>$
-      1 ^@³<det><qnt>$ | ^43<num>$
-      1 ^39<num>$ ° ^@øst<n><sp>$
-      1 ^39,74<num>$ ° ^@nord<n><sp>$
-      1 ^36<num>$ ° ^@øalphabet<n>$
-      1 ^33<num>$ ° ^@øst<n><sp>$
-      1 ^30<num>$ ° ^@øalphabet<n>$
-      1 ^2<num>$ ” ^@nord<n><sp>$
-      1 ^@²<det><qnt>$ | ^16.072<num>$
-      1 ^29<num>$ | ^@saint<np><top>$
-      1 ^29<num>$ | ^@prim<n>$
-      1 ^29<num>$ ° ^@nord<n><sp>$
-      1 ^29<num>$ | ^@nirvana<n>$
-      1 ^29<num>$ | ^@borgund<np>$
-      1 ^28<num>$ ° ^30<num>$ ′ ^@øalphabet<n>$
-      1 ^28<num>$ ° ^03<num>$ ′ ^00<num>$ ″ ^@nord<n><sp>$
-      1 ^28,2<num>$ ° ^@øst<n><sp>$
-      1 ^26<num>$ ° ^@nord<n><sp>$
+      1 ^3<num>$ - ^@metyl<n>$ - ^3<num>$ - ^*buten$ - ^1<num>$ - ^@ol<n>$
+      1 ^3<num>$ - ^@metyl<n>$ - ^2<num>$ - ^*buten$ - ^1<num>$ - ^@ol<n>$
+      1 ^3<num>$ - ^@lok<n>$
+      1 ^3<num>$ - ^@kulelager<n>$
+      1 ^3<num>$ - ^@konsept<n>$
+      1 ^3<num>$ - ^@in<adj>$ - ^*yw$ - ^s<n>$
+      1 ^3<num>$ - ^@ikon<n>$
+      1 ^3<num>$ - ^@gold<adj>$ - ^praise<vblex><inf>$
+      1 ^3<num>$ - ^@fosfat<n>$
+      1 ^3<num>$ "- ^@format<n>$
+      1 ^3<num>$ - ^@formatere<vblex><pret>$
+      1 ^3<num>$ - ^@felt<n>$
+      1 ^3<num>$ - ^@chassis<n>$
+      1 ^3<num>$ - ^@cent<n>$
+      1 ^3<num>$ - ^@cd<n>$ - ^roman<n>$
+      1 ^3<num>$ - ^@cd<n>$
+      1 ^3<num>$ - ^@akse<n>$
+      1 ^3<num>$ - ^2<num>$ - ^@dissens<n>$
+      1 ^3<num>$ - ^1<num>$ - ^@sei<n>$
+      1 ^3<num>$ - ^0<num>$ - ^@sei<n>$
+      1 ^3,8<num>$ - ^@lit<n>$
+      1 ^38<num>$ - ^@kaliber<n>$
+      1 ^3.7<num>$ - ^@lit<n>$
+      1 ^3.7<num>$ - ^@in<adj>$
+      1 ^3,6<num>$ - ^@lit<n>$
+      1 ^3.5<num>$ - ^@regle<n>$
+      1 ^3,5<num>$ - ^@ps<n>$ - ^*kriegsmotorrad$
+      1 ^35<num>$ - ^@negativ<n>$
+      1 ^3.5<num>$ - ^@lit<n>$
+      1 ^350<num>$ - ^@modus<n>$
+      1 ^350<num>$ - ^@in<adj>$ - ^*one$ - ^cassette<n>$
+      1 ^350<num>$ - ^@in<adj>$ - ^*one$
+      1 ^34<num>$ - ^@we<np>$ - ^7<num>$
+      1 ^3,3<num>$ - ^@lit<n>$
+      1 ^338<num>$ - ^@kaliber<n>$
+      1 ^3.30<num>$ - ^@barriere<n>$
+      1 ^3.2<num>$ - ^@lit<n>$
+      1 ^3 200<num>$ - ^4 300<num>$ - ^@studie<n>$
+      1 ^31<num>$ ′ ^@nord<n><sp>$
+      1 ^31<num>$ - ^@kass<n>$
+      1 ^30<num>$ - ^@tom<n>$
+      1 ^30<num>$ - ^@tal<n>$
+      1 ^30<num>$ - ^@ps<n>$ - ^motor<n>$
+      1 ^30<num>$ - ^@karbon<n>$
+      1 ^30<num>$ - ^@kaliber<n>$
+      1 ^302<num>$ - ^@kubikk<n>$
+      1 ^300<num>$ - ^@watt<n>$
+      1 ^3000<num>$ - ^@toge<vblex><imp>$
+      1 ^2<num>$ - ^worm<n>$ - ^@mynte<vblex><imp>$
+      1 ^2<num>$ - ^@togsett<n>$
+      1 ^2<num>$ - ^@star<np><top>$
+      1 ^2<num>$ - ^@spinn<n>$
+      1 ^2<num>$ - ^@solist<n>$
+      1 ^2<num>$ - ^@småfolk<n>$
+      1 ^2<num>$ - ^@senter<n>$
+      1 ^2<num>$ - ^@segment<n>$
+      1 ^2<num>$ - ^@romsonde<n>$
+      1 ^2<num>$ - ^@rikte<vblex><imp>$
+      1 ^2<num>$ - ^@programleder<n>$
+      1 ^2<num>$ - ^@miks<n>$
+      1 ^2<num>$ - ^@metyl<n>$ - ^@butan<n>$
+      1 ^2<num>$ - ^@metyl<n>$ - ^as<pr>$
+      1 ^2<num>$ - ^@metyl<n>$ - ^1,3<num>$ - ^*butadien$
+      1 ^2<num>$ - ^@leir<n>$
+      1 ^2<num>$ - ^@kommentar<n>$
+      1 ^2<num>$ - ^@klor<n>$ - ^4<num>$ - ^(<lpar>$
+      1 ^2<num>$ - ^@klepp<n>$
+      1 ^2<num>$ - ^@gas<n>$
+      1 ^2<num>$ - ^@format<n>$
+      1 ^2<num>$ - ^@fjes<n>$
+      1 ^2<num>$ - ^@erg<n>$
+      1 ^2<num>$ - ^@ekvivalens<n>$
+      1 ^2<num>$ - ^@drivverk<n>$
+      1 ^2<num>$ - ^@diske<vblex><imp>$
+      1 ^2<num>$ - ^@disc<n>$ - ^edition<n>$
+      1 ^2<num>$ - ^@disc<n>$
+      1 ^2<num>$ - ^@cruise<n>$
+      1 ^2<num>$ - ^@cent<n>$
+      1 ^2<num>$ - ^@cd<n>$
+      1 ^2<num>$ - ^@byte<n>$
+      1 ^2<num>$ - ^@bildetekst<n>$
+      1 ^@²<det><qnt>$ - ^32 020<num>$ 
+      1 ^28<num>$ - ^@stem<n>$
+      1 ^2,8<num>$ - ^@lit<n>$
+      1 ^27<num>$ ′ ^52<num>$ ″ ^@øalphabet<n>$
+      1 ^275<num>$ - ^@seter<n>$
+      1 ^27 000<num>$ - ^@seter<n>$
+      1 ^264<num>$ - ^@format<n>$
       1 ^25<num>$ ‰ ^@ved<n>$
-      1 ^25<num>$ ” ^@øst<n><sp>$
-      1 ^2,34880<num>$ ° ^@øalphabet<n>$
-      1 ^21<num>$ – ^@landskamp<n>$
-      1 ^20<num>$ ° ^@vest<n><sp>$
-      1 ^20<num>$ ° ^@øst<n><sp>$
-      1 ^20<num>$ ° ^@øalphabet<n>$
-      1 ^2010<num>$ – ^@sup<n>$
-      1 ^2010<num>$ – ^@sprint<n>$
-      1 ^2009<num>$ – ^2013<num>$ | ^@stortingsrepresentant<n>$
-      1 ^2009<num>$ – ^2010<num>$ | ^@skotsk<n><sp>$
-      1 ^2007<num>$ | ^@em<n>$
-      1 ^2007<num>$ – ^2011<num>$ | ^@byråd<n>$
-      1 ^2007<num>$ – ^2008<num>$ | ^@kris<n>$
-      1 ^2006<num>$ – ^@jan<n>$
-      1 ^2005<num>$ ” ^@walk<np>$
+      1 ^25<num>$ - ^@stem<n>$
+      1 ^25<num>$ - ^@sekund<n>$
+      1 ^25<num>$ - ^@cent<n>$
+      1 ^250<num>$ - ^@kilo<n>$
+      1 ^24<num>$ - ^@tom<n>$
+      1 ^24<num>$ - ^@kanon<adv>$
+      1 ^2.3<num>$ - ^@lit<n>$
+      1 ^2,35<num>$ - ^@format<n>$
+      1 ^2345<num>$ - ^@der<pr>$
+      1 ^232<num>$ - ^@kubikk<n>$
+      1 ^22<num>$ - ^@sekund<n>$
+      1 ^22<num>$ - ^@kaliber<n>$
+      1 ^228<num>$ - ^@fly<n>$
+      1 ^2265<num>$ - ^@osv<adv>$
+      1 ^2258<num>$ - ^@tilsynelatende<adj>$
+      1 ^21<num>$ - ^@stopper<n>$
+      1 ^20<num>$ - ^@vm<n>$
+      1 ^20<num>$ - ^@verdensmester<n>$
+      1 ^20<num>$ - ^@tal<n>$
+      1 ^20<num>$ - ^@sesse<vblex><pp>$
+      1 ^20<num>$ - ^@sekund<n>$
+      1 ^20<num>$ - ^@schilling<n>$ - ^*seddel$
+      1 ^20<num>$ - ^@opptreden<n>$
+      1 ^20<num>$ - ^@la<n>$
+      1 ^20<num>$ - ^@cent<n>$ - ^euro<n>$
+      1 ^20<num>$ - ^@cent<n>$
+      1 ^200<num>$ - ^@tal<n>$
+      1 ^200<num>$ - ^@lit<n>$
+      1 ^2009<num>$ - ^@trine<vblex><inf>$
+      1 ^2009<num>$ - ^@russ<n>$
+      1 ^2008<num>$ - ^@dugnad<n>$
+      1 ^2007<num>$ - ^@kjøper<n>$
+      1 ^2007<num>$ - ^@herav<pr>$
+      1 ^2006<num>$ - ^@club<np>$
+      1 ^2006<num>$ - ^@cd<n>$ - ^solely<adv>$
       1 ^2005<num>$ ē ^@riks<n>$
-      1 ^2005<num>$ – ^2009<num>$ | ^@stortingsrepresentant<n>$
+      1 ^2005<num>$ - ^@arrangement<n>$
       1 ^2004<num>$ @ ^play<n>$
-      1 ^2004<num>$ — ^@game<n>$
-      1 ^2002<num>$ — ^@game<n>$
-      1 ^2001<num>$ — ^@game<n>$
+      1 ^2000<num>$ - ^@problematikk<n>$
+      1 ^2000<num>$ - ^@jubilé<n>$
+      1 ^20 000<num>$ - ^@seter<n>$
+      1 ^1<num>$ - ^@vinne<n>$
       1 ^1<num>$ 	 ^s<n>$ 				 ^1 6<num>$ 	  	 ^7<num>$ 	 ^@höör<np>$ 
+      1 ^1<num>$ - ^@segment<n>$
+      1 ^1<num>$ - ^@satsing<n>$
+      1 ^1<num>$ - ^@romsonde<n>$
+      1 ^1<num>$ - ^@rom<n>$
+      1 ^1<num>$ - ^@parameter<n>$
+      1 ^1<num>$ »- ^@open<np>$
       1 ^1<num>$ 	 ^n<n>$ 	 ^9 13<num>$ 		  	 ^16 13<num>$ 	  	 ^51<num>$ 	 ^@otte<n>$ 
       1 ^1<num>$ 	 ^n<n>$ 			 ^11 11<num>$ 			  	 ^@mo<n>$
-      1 ^19<num>$ ° ^04<num>$ ′ ^@øalphabet<n>$
-      1 ^19<num>$ ° ^00<num>$ ′ ^@øalphabet<n>$
-      1 ^1998<num>$ — ^@sup<n>$
-      1 ^1997<num>$ — ^@sup<n>$
-      1 ^1997<num>$ — ^@game<n>$
-      1 ^1996<num>$ | ^@ol<n>$
-      1 ^1996<num>$ — ^@game<n>$
-      1 ^1995<num>$ — ^@sup<n>$
-      1 ^1995<num>$ — ^@game<n>$
-      1 ^1993<num>$ — ^@game<n>$
-      1 ^1992<num>$ — ^@game<n>$
-      1 ^1980<num>$ | ^@militærkupp<n>$
-      1 ^1978<num>$ – ^@osv<adv>$
-      1 ^1954<num>$ – ^@høydehopp<n>$
-      1 ^1939<num>$ — ^*fallingwater$ — ^@for<adv>$
-      1 ^19.2<num>$ ° ^@øst<n><sp>$
-      1 ^19,2<num>$ ° ^@øst<n><sp>$
-      1 ^1916<num>$ — ^@midt<n>$
-      1 ^1878<num>$ | ^@kongress<n>$
-      1 ^180<num>$ ° ^@der<pr>$
-      1 ^17<num>$ – ^@åring<n>$
+      1 ^1<num>$ - ^@modul<n>$
+      1 ^1<num>$ - ^@konstruktør<n>$
+      1 ^1<num>$ - ^@kanon<adv>$
+      1 ^1<num>$ - ^@fly<n>$
+      1 ^1<num>$ - ^@fas<n>$
+      1 ^1<num>$ - ^@chassis<n>$
+      1 ^1<num>$ - ^@bildetekst<n>$
+      1 ^1<num>$ - ^@base<vblex><imp>$ - ^131<num>$
+      1 ^1<num>$ - ^@allianse<n>$
+      1 ^1<num>$ - ^a<det><ind>$ - ^@foran<pr>$
+      1 ^1<num>$ - ^4<num>$ - ^@smell<n>$
+      1 ^1<num>$ - ^2<num>$ - ^3<num>$ - ^4<num>$ - ^5<num>$ - ^@sei<n>$
+      1 ^19<num>$ - ^@trikk<n>$
+      1 ^19<num>$ - ^@seter<n>$
+      1 ^1,9<num>$ - ^@lit<n>$
+      1 ^19<num>$ - ^@karbon<n><sp>$
+      1 ^19<num>$ - ^@em<n>$
+      1 ^19<num>$ - ^@brett<n>$
+      1 ^19<num>$ - ^@åring<n>$
+      1 ^1997<num>$ - ^2007<num>$ - ^@best<np>$
+      1 ^1993<num>$ - ^@implementere<vblex><pres>$
+      1 ^1993<num>$ - ^@arrangement<n>$
+      1 ^1992<num>$ - ^@ol<n>$
+      1 ^1992<num>$ - ^@em<n>$
+      1 ^1990<num>$ - ^@re<n>$
+      1 ^1989<num>$ - ^@chateau<n>$
+      1 ^1988<num>$ - ^1990<num>$ - ^@golden<np>$
+      1 ^1984<num>$ - ^@osv<adv>$
+      1 ^1980<num>$ - ^@osv<adv>$
+      1 ^1980<num>$ - ^@ne<n>$
+      1 ^1975<num>$ - ^@hit<n>$
+      1 ^1974<num>$ - ^1976<num>$ - ^@grand<n>$
+      1 ^1973<num>$ - ^@nord<n><sp>$ - ^americas<np><top>$ 
+      1 ^1971<num>$ - ^@animal<n>$
+      1 ^196<num>$ - ^@fly<n>$
+      1 ^1967<num>$ - ^@opptreden<n>$
+      1 ^1966<num>$ - ^@england<n>$ 
+      1 ^1952<num>$ - ^@larv<n>$
+      1 ^1950<num>$ - ^@talle<n>$
+      1 ^1948<num>$ - ^@koordinatsystem<n>$
+      1 ^1941<num>$ - ^@statutt<n>$
+      1 ^1937<num>$ - ^@salmebok<n>$
+      1 ^1928<num>$ - ^@ol<n>$
+      1 ^1927<num>$ - ^@nord<n><sp>$ - ^americas<np><top>$
+      1 ^1921<num>$ - ^@ving<n>$
+      1 ^1920<num>$ - ^@vestkyst<n>$
+      1 ^1912<num>$ - ^@tilfelle<n>$
+      1 ^1906<num>$ - ^@skjelv<n>$
+      1 ^18<num>$ - ^@trikk<n>$
+      1 ^18<num>$ - ^@seter<n>$
+      1 ^18<num>$ - ^@mc<n><sp>$
+      1 ^18<num>$ - ^@keeper<n>$
+      1 ^18<num>$ - ^@bru<n>$
+      1 ^18<num>$ - ^@49-åring<n>$
+      1 ^1886<num>$ - ^@matrikkel<n>$
+      1 ^1877<num>$ -  ^@landdistrikt<n>$
+      1 ^1875<num>$ - ^@folketelling<n>$
+      1 ^1864<num>$ - ^@sande<vblex><imp>$
+      1 ^1860<num>$ - ^@eid<n>$
+      1 ^1859<num>$ - ^@brekke<n>$
+      1 ^1848<num>$ - ^@revolt<n>$
+      1 ^1840<num>$ - ^@tal<n>$
+      1 ^1830<num>$ - ^@tal<n>$
+      1 ^1820<num>$ - ^@ving<n>$
+      1 ^1820<num>$ - ^@tal<n>$
+      1 ^1810<num>$ - ^@ving<n>$
+      1 ^1801<num>$ - ^@bakk<n>$
+      1 ^18 000<num>$ - ^@seter<n>$
+      1 ^17<num>$ - ^@vm<n>$
+      1 ^1,7<num>$ - ^@lit<n>$
+      1 ^17<num>$ - ^@em<n>$
+      1 ^17<num>$ - ^@buss<n>$
+      1 ^1770<num>$ - ^@tal<n>$
+      1 ^16<num>$ - ^@stem<n>$
       1 ^16<num>$ ´- ^@stem<n>$
-      1 ^15<num>$ – ^@åring<n>$
-      1 ^14<num>$ ° ^@øst<n><sp>$
-      1 ^142<num>$ ° ^12<num>$ ′ ^@øalphabet<n>$
-      1 ^13<num>$ ° ^@øst<n><sp>$
+      1 ^16<num>$ - ^@sigma<n>$
+      1 ^16<num>$ - ^@seter<n>$
+      1 ^16<num>$ - ^@rv<np>$
+      1 ^16<num>$ - ^@fly<n>$
+      1 ^16<num>$ - ^@byte<n>$
+      1 ^16 45<num>$ - ^@kaliber<n>$
+      1 ^1600<num>$ - ^@talle<n>$
+      1 ^15<num>$ - ^@seter<n>$
+      1 ^15<num>$ - ^@pinn<n>$
+      1 ^15<num><ord>$ - ^@åring<n>$
+      1 ^15<num>$ - ^@fjonge<vblex><imp>$
+      1 ^15<num>$ - ^@bein<n>$ 
+      1 ^15<num>$ - ^@bakk<n>$
+      1 ^15<num>$ - ^@åring<n>$
+      1 ^1590<num>$ - ^@tal<n>$
+      1 ^150<num>$ - ^@or<n>$
+      1 ^1500<num>$ - ^@seter<n>$
+      1 ^14<num>$ - ^@tom<n>$
+      1 ^1,4<num>$ - ^@lit<n>$
+      1 ^14<num>$ - ^@åring<n>$
+      1 ^140<num>$ - ^@seter<n>$
+      1 ^140<num>$ - ^@kilo<n>$
+      1 ^140<num>$ - ^@bakk<n>$
+      1 ^13<num>$ - ^@trase<n>$
+      1 ^13<num>$ - ^@tom<n>$
+      1 ^13<num>$ ′ ^@øalphabet<n>$
+      1 ^13<num>$ - ^@chiffer<n>$
+      1 ^13<num>$ - ^@årsklasse<n>$
+      1 ^13<num>$ - ^@åring<n>$
+      1 ^137<num>$ - ^@bakk<n>$
       1 ^137 171<num>$ 	  	 ^@mc<n><sp>$
-      1 ^136<num>$ ° - ^142<num>$ ° ^@øalphabet<n>$
-      1 ^12,32<num>$ ° ^@deklinasjon<n>$
-      1 ^11<num>$ – ^@notifikasjon<n>$
-      1 ^11<num>$ – ^@ekvivalens<n>$
-      1 ^116<num>$ °- ^118<num>$ ° ^@øst<n><sp>$
-      1 ^11,26<num>$ ° ^@vest<n><sp>$
-      1 ^111<num>$ ° ^04<num>$ ′ ^27.5<num>$ ″ ^@øalphabet<n>$
+      1 ^130<num>$ - ^@midt<n>$
+      1 ^12<num>$ - ^@seter<n>$
+      1 ^12<num>$ ′ ^@øalphabet<n>$
+      1 ^12<num>$ - ^@mil<n><sp>$
+      1 ^12<num>$ - ^@lit<n>$
+      1 ^12<num>$ - ^@kant<n>$
+      1 ^12<num>$ "- ^@format<n>$
+      1 ^12<num>$ "- ^@ep<n>$
+      1 ^12<num>$ - ^@årsklasse<n>$
+      1 ^11<num>$ - ^@stem<n>$
+      1 ^1.1<num>$ - ^@lit<n>$
+      1 ^1,1<num>$ - ^@lit<n>$
+      1 ^11<num>$ - ^@algoritme<n>$
+      1 ^119<num>$ - ^@seter<n>$
+      1 ^115<num>$ - ^@central<np><top>$
+      1 ^113<num>$ - ^@chassis<n>$
       1 ^110<num>$   ^@sup<n>$
+      1 ^110<num>$ - ^@pinn<n>$
+      1 ^110<num>$ - ^@fly<n>$
+      1 ^110<num>$ - ^@bak<n>$
+      1 ^1.100<num>$ - ^@lit<n>$
       1 ^10<num>$   ^@motorblokk<n>$
-      1 ^10<num>$ ° ^10<num>$ ′ ^@øalphabet<n>$
+      1 ^10<num>$ - ^@pinse<vblex><imp>$
+      1 ^10<num>$ ′ ^@øalphabet<n>$
+      1 ^10<num>$ - ^@cruzeiro<n>$
+      1 ^10<num>$ - ^0<num>$ - ^@sei<n>$
+      1 ^109<num>$ - ^@design<n>$
       1 ^1098<num>$ 	 ^n<n>$ 			 ^9 7<num>$ 	  		 ^16<num>$ 	 ^@sande<vblex><inf>$ 
-      1 ^104<num>$ ° ^@vest<n><sp>$
-      1 ^@½<det><qnt>$ – ^5<num>$
-      1 ^@½<det><qnt>$ – ^1<num>$
+      1 ^105<num>$ - ^@bakk<n>$
+      1 ^100<num>$ - ^@tal<n>$
+      1 ^100<num>$ - ^@pinn<n>$
+      1 ^100<num>$ - ^@myriade<n>$
+      1 ^100<num>$ - ^@karosseri<n>$
+      1 ^100<num>$ - ^@hit<n>$
+      1 ^100<num>$ - ^@bakk<n>$
+      1 ^100<num>$ - ^@avstemning<n>$
+      1 ^100<num>$ - ^@acre<n>$
+      1 ^1001<num>$ - ^@natte<vblex><imp>$ - ^jewel<n>$
+      1 ^0<num>$ -π ^@radian<n>$
+      1 ^0<num>$ - ^@spinn<n>$
+      1 ^0<num>$ - ^@mal<n>$
+      1 ^0<num>$ - ^@lit<n>$
+      1 ^0<num>$ - ^@felt<n>$
+      1 ^0<num>$ - ^@akse<n>$
+      1 ^0<num>$ - ^1<num>$ - ^@sei<n>$
+      1 ^0.9<num>$ - ^@lit<n>$
+      1 ^07<num>$ - ^@jubilé<n>$
+      1 ^0,5<num>$ - ^@tom<n>$
+      1 ^04<num>$ ′ ^@øalphabet<n>$
+      1 ^04<num>$ ′ ^27.5<num>$ ″ ^@øalphabet<n>$
+      1 ^03<num>$ ′ ^00<num>$ ″ ^@nord<n><sp>$
+      1 ^02<num>$ - ^2007<num>$ - ^@dunder<n>$

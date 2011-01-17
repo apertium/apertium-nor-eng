@@ -24734,6 +24734,7 @@
 
     <!-- SECTION: Punctuation -->
 
+    <e><re>[¼½]</re><p><l><s n="det"/><s n="qnt"/></l><r><s n="num"/></r></p><par n="qnt_num"/></e>
     <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="det"/><s n="qnt"/></l><r><s n="num"/></r></p><par n="qnt_num"/></e>
     <e><re>[0-9]+</re><p><l>.<s n="adj"/><s n="ord"/></l><r><s n="num"/><s n="ord"/></r></p></e>
     <e><re>[0-9]+</re><p><l>-åring<s n="n"/><s n="m"/><s n="sg"/></l><r><b/>year<b/>old<s n="num"/><s n="sg"/></r></p></e>

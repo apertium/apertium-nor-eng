@@ -1,116 +1,321 @@
-   6104 ^@²<det><qnt>$
-    283 ^@³<det><qnt>$
-    177 ^@½<det><qnt>$
+   6101 ^@²<det><qnt>$
+    274 ^@³<det><qnt>$
+    135 ^@EP<n>$ - ^a<det><ind>$
+    130 ^@CD<n>$ - ^a<det><ind>$
+     67 ^@DVD<n>$ - ^a<det><ind>$
+     26 ^a<det><ind>$ - ^@seter<n>$
      24 ^@²<det><qnt>$ 
+     23 ^@LP<n>$ - ^a<det><ind>$
+     19 ^All<det><qnt><sp>$ - ^@Star<np><top>$
+     15 ^@al<n>$ - ^Your<det><pos>$
      15 ^@¹<det><qnt>$
-     15 ^@¾<det><qnt>$
-      8 ^@¼<det><qnt>$
-      2 ^@vestkyst<n>$ – ^a<det><ind>$
-      2 ^that<det><dem>$ ” ^@re<n>$ ” ^psychology<n>$
-      2 ^@Sule<vblex><imp>$ | ^the<det><def>$
-      2 ^@LP<n>$ ´ ^a<det><ind>$
-      2 ^@Bedford<np>$ | ^the<det><def>$
-      2 ^a<det><ind>$ ” ^@…<sent><clb>$
-      2 ^@³<det><qnt>$ | ^E<n>$
+     14 ^@¾<det><qnt>$
+     12 ^@cd<n>$ - ^a<det><ind>$
+     11 ^@ad<pr>$ - ^Your<det><pos>$
+      9 ^premium<n>$ - ^@CD<n>$ - ^a<det><ind>$
+      9 ^HIS<det><pos>$ - ^@prefiks<n>$
+      8 ^a<det><ind>$ - ^to<pr>$ - ^a<det><ind>$ - ^@korrespondanse<n>$
+      7 ^His<det><pos>$ - ^@Jürgen<np>$
+      7 ^All<det><qnt><sp>$ - ^@Star<n>$
+      6 ^@Saint<np><top>$ - ^*Germain$ - ^a<det><ind>$ - ^*Laye$
+      6 ^@Puy<np>$ - ^a<det><ind>$ - ^*Velay$
+      5 ^Premium<n>$ - ^@CD<n>$ - ^a<det><ind>$
+      4 ^@Saint<np><top>$ - ^*Germain$ - ^that<det><dem>$ - ^*Prés$
+      4 ^@Saint<np><top>$ - ^*Dié$ - ^that<det><dem>$ - ^@Vosges<np>$
+      4 ^@Al<n>$ - ^Your<det><pos>$
+      4 ^All<det><qnt><sp>$ - ^@star<n>$
+      4 ^all<det><qnt><sp>$ - ^@star<n>$
+      3 ^@Saint<np><top>$ - ^Jean<np><ant><m>$ - ^that<det><dem>$ - ^*Maurienne$
+      3 ^Other<det><ind>$ - ^@Len<n>$
+      3 ^@live<n><sp>$ - ^@DVD<n>$ - ^a<det><ind>$
+      3 ^@lit<n>$ - ^that<det><dem>$ - ^parade<n>$
+      3 ^debut<n>$ - ^@EP<n>$ - ^a<det><ind>$
+      3 ^a<det><ind>$ - ^@dagse<vblex><imp>$
+      2 ^@Val<n>$ - ^that<det><dem>$ - ^*Marne$
+      2 ^@utenlands<pr>$ - ^a<det><ind>$
+      2 ^@Understrøm<n>$ - ^a<det><ind>$
+      2 ^@suffiks<n>$ - ^a<det><ind>$
+      2 ^@Saint<np><top>$ - ^Paul<np><ant><m>$ - ^that<det><dem>$ - ^*Cluny$
+      2 ^@Saint<np><top>$ - ^Maurice<np><ant><m>$ - ^a<det><ind>$ - ^*Chalencon$
+      2 ^@Saint<np><top>$ - ^Ant<n>$ - ^that<det><dem>$ - ^*Fossés$
+      2 ^@Puy<np>$ - ^that<det><dem>$ - ^*Dôme$
+      2 ^Privy<n>$ - ^@Re<n>$ - ^My<det><pos>$
+      2 ^@Palé<n>$ - ^that<det><dem>$
+      2 ^*Ob$ - ^@La<n>$ - ^Your<det><pos>$
+      2 ^No<det><ind>$ - ^@Live<n><sp>$
+      2 ^@League<np><top>$ - ^a<det><ind>$
+      2 ^@eksposisjon<n>$ - ^a<det><ind>$
+      2 ^@Dore<vblex><imp>$ - ^a<det><ind>$ - ^*Ernil$
+      2 ^@CD<n>$ - ^The<det><def>$
+      2 ^@CD<n>$ - ^HAVE# SPACE FOR<vblex><inf>$ - ^a<det><ind>$
+      2 ^@BNP<n><sp>$ - ^a<det><ind>$
+      2 ^All<det><qnt><sp>$ - ^@Story<n>$
+      2 ^All<det><qnt><sp>$ - ^@Star<np><top>$ - ^fight<n>$
+      2 ^all<det><qnt><sp>$ - ^@or<n>$ - ^*nothing$
+      2 ^@ABC<n>$ - ^a<det><ind>$
+      2 ^@³<det><qnt>$ - ^*messen$
       2 ^@¹<det><qnt>$ 
-      1 ^@verken<n>$ ” ^my<det><pos>$
-      1 ^@vårflom<n>$ – ^a<det><ind>$
-      1 ^@utenlands<pr>$ – ^a<det><ind>$
-      1 ^@University<np>$ – ^a<det><ind>$
-      1 ^@Titan<n>$ – ^a<det><ind>$
-      1 ^@tilnavn<n>$ – ^a<det><ind>$
-      1 ^@tilfelle<n>$ – ^that<det><dem>$
-      1 ^their<det><pos>$ ” ^@…<sent><clb>$
-      1 ^the<det><def>$ ” ^@fysisk<adj>$
-      1 ^that<det><dem>$ “ ^@naturlig<adj>$ ” ^@fysisk<adj>$
-      1 ^that<det><dem>$ ” ^@lit<n>$
-      1 ^that<det><dem>$ ” ^*gjenfødte$ ” ^@Buddha<np>$
-      1 ^@telegrafi<n>$ – ^a<det><ind>$
-      1 ^@synsvinkel<n>$ – ^his<det><pos>$
-      1 ^such<det><ind>$ ” ^*usømmelige$ ” ^@skriveri<n>$
-      1 ^@stoffmisbruk<n>$ – ^a<det><ind>$
-      1 ^@stem<n>$ – ^a<det><ind>$
-      1 ^@soppe<vblex><imp>$ – ^more<det><qnt><sp>$
-      1 ^some<det><qnt>$ – ^@sanseinntrykk<n>$
-      1 ^@sleik<n>$ – ^a<det><ind>$
-      1 ^@skytte<n>$ + ^a<det><ind>$
-      1 ^@skilling<n>$ – ^many<det><qnt>$
-      1 ^@sinnstilstand<n>$ — ^that<det><dem>$
-      1 ^@seter<n>$ – ^that<det><dem>$
-      1 ^@sekst<n>$ + ^a<det><ind>$
-      1 ^@scherzo<n>$ – ^a<det><ind>$
-      1 ^@russisk<n><sp>$ – ^a<det><ind>$
-      1 ^@Rochelle<np>$ – ^a<det><ind>$
-      1 ^@rettsmedisin<n>$ – ^a<det><ind>$
+      1 ^*Zeppelin$ - ^@DVD<n>$ - ^a<det><ind>$
+      1 ^*Zein$ - ^@el<n>$ - ^Your<det><pos>$
+      1 ^@yoga<n>$ - ^a<det><ind>$
+      1 ^@Wood<np>$ - ^that<det><dem>$
+      1 ^*Wiki$ - ^@treff<n>$ - ^Both<det><ind>$
+      1 ^@War<np>$ - ^a<det><ind>$
+      1 ^*Wa$ - ^a<det><ind>$ - ^@Re<n>$
+      1 ^*Vitry$ - ^a<det><ind>$ - ^@Brie<n>$
+      1 ^@vis<n>$ - ^their<det><pos>$
+      1 ^@VG<np>$ - ^That<det><dem>$
+      1 ^@verk<n>$ - ^many<det><qnt>$
+      1 ^@Venstre<n><sp>$ »- ^communism<n>$ - ^a<det><ind>$
+      1 ^@våpenskjold<n>$ - ^a<det><ind>$
+      1 ^@Val<n>$ - ^that<det><dem>$ - ^*Grâce$
+      1 ^@utlending<n>$ - ^the most<det><qnt>$
+      1 ^use<vblex><pres>$ - ^@id<n>$ - ^a<det><ind>$
+      1 ^@United<np>$ - ^each<det><ind>$
+      1 ^@UB<np>$ - ^his<det><pos>$
+      1 ^@TV<np>$ - ^his<det><pos>$
+      1 ^@tusen<adv>$ - ^a<det><ind>$
+      1 ^@trotskist<n>$ - ^a<det><ind>$
+      1 ^@tross<n>$ - ^that<det><dem>$
+      1 ^@tross<n>$ - ^many<det><qnt>$
+      1 ^@tredjeplass<n>$ - ^that<det><dem>$
+      1 ^@tipp<n>$ - ^guess<vblex><inf>$ - ^guess<vblex><inf>$ - ^his<det><pos>$
+      1 ^@tilfelle<n>$ - ^the<det><def>$
+      1 ^@TH<np>$ - ^this<det><dem>$
+      1 ^that<det><dem>$ - ^@Supervisor<n>$
+      1 ^That<det><dem>$ - ^@dur<n>$
+      1 ^that<det><dem>$ - ^@amerikanisering<n>$
+      1 ^@tefte<vblex><imp>$ - ^a<det><ind>$
+      1 ^@Tang<n>$ - ^a<det><ind>$
+      1 ^@Takoradi<np>$ - ^a<det><ind>$
+      1 ^Take<vblex><inf>$ - ^die<vblex><inf>$ - ^your<det><pos>$ - ^@boom<n>$
+      1 ^@sykepleierutdannelse<n>$ - ^a<det><ind>$
+      1 ^*Sucy$ - ^a<det><ind>$ - ^@Brie<n>$
+      1 ^@stue<vblex><imp>$ ­ ^a<det><ind>$
+      1 ^@Stigma<n>$ " - ^a<det><ind>$
+      1 ^@startmotor<n>$ - ^a<det><ind>$
+      1 ^@Stalinisme<n>$ - ^a<det><ind>$
+      1 ^@spaniel<n>$ - ^his<det><pos>$
+      1 ^@sonar<n>$ - ^that<det><dem>$
+      1 ^@solo<adv>$ - ^@LP<n>$ - ^a<det><ind>$
+      1 ^@slager<n>$ - ^that<det><dem>$
+      1 ^@Skippertak<n>$ » - ^a<det><ind>$
+      1 ^@Skarve<vblex><imp>$ - ^a<det><ind>$
+      1 ^@sjøl<adv>$ - ^many<det><qnt>$
+      1 ^'s<gen>$ - ^@CD<n>$ - ^a<det><ind>$
+      1 ^@Sev<n>$ - ^a<det><ind>$
+      1 ^!<sent>$ - ^@CD<n>$ - ^a<det><ind>$
+      1 ^@selvfølgelig<adj>$ - ^a<det><ind>$
+      1 ^@School<np>$ - ^a<det><ind>$
+      1 ^@samfunnsklasse<n>$ - ^such<det><ind>$
+      1 ^@Saint<np><top>$ - ^*Valery$ - ^a<det><ind>$ - ^*Caux$
+      1 ^@Saint<np><top>$ - ^*Sauveur$ - ^that<det><dem>$ - ^*Mazamet$
+      1 ^@Saint<np><top>$ - ^*Romain$ - ^a<det><ind>$ - ^*Jarez$
+      1 ^@Saint<np><top>$ - ^Pierre<np><ant><m>$ - ^that<det><dem>$ - ^*Corbie$
+      1 ^@Saint<np><top>$ - ^July<n>$ - ^A<det><ind>$ - ^*Genevois$ }}
+      1 ^@Saint<np><top>$ - ^Jean<np><ant><m>$ - ^that<det><dem>$ - ^*Luz$
+      1 ^@Saint<np><top>$ - ^*Germain$ - ^that<det><dem>$ - ^@Pre<n>$
+      1 ^@Saint<np><top>$ - ^*Germain$ - ^a<det><ind>$ - ^*Laye$ - ^treaty<n>$
+      1 ^@Saint<np><top>$ - ^*Denis$ - ^a<det><ind>$ - ^Lyon<np><top>$
+      1 ^@Saint<np><top>$ - ^*Bertrand$ - ^that<det><dem>$ - ^*Commingues$
+      1 ^@Saint<np><top>$ - ^*Arnoult$ - ^a<det><ind>$ - ^*Yvelines$
+      1 ^@Saint<np><top>$ - ^André<np><ant><m>$ - ^that<det><dem>$ - ^*Cubzac$ - ^death<n>$
+      1 ^@Saint-Martin<np>$ - ^that<det><dem>$ - ^l<n>$
+      1 ^*Sainte$ - ^*Geneviève$ - ^that<det><dem>$ - ^@Boi<n>$
+      1 ^*Safi$ - ^@Al<n>$ - ^Your<det><pos>$
+      1 ^@Rover<n>$ - ^a<det><ind>$
+      1 ^@ROM<n>$ - ^a<det><ind>$
+      1 ^@romani<n><sp>$ - ^a<det><ind>$
+      1 ^@Rochefort<np>$ - ^sour<adj><sint>$ - ^More<det><qnt><sp>$
+      1 ^@Qing<np>$ - ^his<det><pos>$
+      1 ^@proff<n>$ - ^his<det><pos>$
+      1 ^@Profeti<n>$ - ^that<det><dem>$
+      1 ^privy<n>$ - ^@re<n>$ - ^my<det><pos>$ - ^@fa<n>$ - ^*so$ - ^@la<n>$ - ^be# silent<vblex><inf>$ - ^(<lpar>$
+      1 ^PRIVY<n>$ - ^@RE<n>$ - ^MY<det><pos>$
+      1 ^Privy<n>$ - ^@re<n>$ - ^my<det><pos>$
+      1 ^Praise<vblex><inf>$ - ^@EP<n>$ - ^a<det><ind>$
       1 ^@Potte<vblex><pres><p3>$ · ^Theatre<n>$ · ^Literature<n>$ · ^*Kulturvitenskap$ · ^Anthropology<n>$ · ^Religion<n>$ · ^The<det><def>$
-      1 ^@pakt<n>$ | ^a<det><ind>$
+      1 ^@potensial<n>$ - ^our<det><pos>$
+      1 ^Port Number<np><top>$ - ^@Royal<np>$ - ^that<det><dem>$ - ^*Champs$
+      1 ^@Police<np>$ - ^a<det><ind>$
+      1 ^@pas<n>$ - ^that<det><dem>$ - ^*deux$
+      1 ^@påskedag<n>$ - ^the<det><def>$
+      1 ^@Paracelsus<np>$ - ^a<det><ind>$
+      1 ^@Palé<n>$ - ^the<det><def>$
+      1 ^*overvåknings$ - ^@roll<n>$ - ^all<det><qnt>$
+      1 ^our<det><pos>$ - ^@rituale<n>$
       1 ^Other<det><ind>$ @ ^world<n>$
-      1 ^other<det><ind>$ ” ^@ting<n>$ ” ^or<cnjcoo>$ ” ^organism<n>$ ”^.<sent>$
-      1 ^other<det><ind>$ ” ^@syssel<n>$ ” ^(<lpar>$
-      1 ^other<det><ind>$ – ^@personlig<adj>$
-      1 ^@Nordland<n>$ – ^a<det><ind>$
-      1 ^no<det><ind>$ ” ^@hit<n>$ ” ^before<pr>$
-      1 ^@New York<np><top>$ – ^their<det><pos>$
-      1 ^@Nautilus<n>$ » — ^that<det><dem>$
-      1 ^@narkotikamisbruk<n>$ – ^his<det><pos>$
-      1 ^more<det><qnt><sp>$ ” ^@opprinnelig<adj>$ ” ^popular<adj>$
-      1 ^more<det><qnt><sp>$ ” ^@kraftig<adj>$
+      1 ^other<det><ind>$ - ^@trema<n>$
+      1 ^other<det><ind>$ - ^@syntaks<n>$
+      1 ^other<det><ind>$ - ^@snakk<n>$
+      1 ^Other<det><ind>$ - ^@Leena<np>$
+      1 ^@østover<pr>$ - ^that<det><dem>$
+      1 ^original<n>$ - ^@LP<n>$ - ^a<det><ind>$
+      1 ^*oppfølger$ - ^@CD<n>$ - ^a<det><ind>$
+      1 ^@omkamp<n>$ - ^the<det><def>$
+      1 ^@OL<n>$ - ^her<det><pos>$
+      1 ^@oljetre<n>$ - ^a<det><ind>$
+      1 ^@Not<n>$ " - ^That<det><dem>$
+      1 ^@nemesis<n>$ - ^a<det><ind>$
+      1 ^@Nauru<np>$ - ^a<det><ind>$
+      1 ^@NASA<np>$ - ^*WorldWind$ - ^no<det><ind>$
+      1 ^@nasalitet<n>$ - ^a<det><ind>$
+      1 ^my<det><pos>$ - « ^@midt<n>$
+      1 ^MY<det><pos>$ - ^@La<n>$
+      1 ^MY<det><pos>$ - ^@ensemble<n>$
+      1 ^more<det><qnt><sp>$ - ^@campus<n>$
+      1 ^more<det><qnt><sp>$ - ^@bruk<n>$
+      1 ^@missil<n>$ - ^that<det><dem>$
+      1 ^@misbruk<n>$ - ^a<det><ind>$
+      1 ^*mini<adj>$ - ^@CD<n>$ - ^a<det><ind>$
+      1 ^@Midt<adv>$ - ^His<det><pos>$
       1 ^*Mickael$ 	 ^@RAB<np>$ 	 ^THAT<det><dem>$ 	 ^02<num>$
-      1 ^@membran<n>$ – ^that<det><dem>$
-      1 ^@Marshallplanen<np>$ – ^the<det><def>$
+      1 ^@metan<n>$ - ^that<det><dem>$
+      1 ^@menneskeliv<n>$ - ^the most<det><qnt>$
+      1 ^@MEMO<n>$ - ^A<det><ind>$
+      1 ^@Medici<np>$ - ^that<det><dem>$
+      1 ^@max<adj>$ - ^my<det><pos>$ - ^rule<n>$
+      1 ^Marxism<n>$ - ^@leninisme<n>$ - ^a<det><ind>$
+      1 ^*Marj$ - ^The other<det><dem>$ - ^@platå<n>$
+      1 ^@LP<n>$ - ^a<det><ind>$ 
+      1 ^@Lp<n>$ - ^a<det><ind>$
       1 ^[<lpar>$ ˈ ^your<det><pos>$ ː ^*tr$ ɪç ˈ ^@bo<n><sp>$ ː ^*nh$
-      1 ^@landskamp<n>$ – ^all<det><qnt>$
-      1 ^@kunstmuseum<n>$ » – ^that<det><dem>$
-      1 ^@kunstart<n>$ — ^more<det><qnt><sp>$
-      1 ^@kolonnade<n>$ – ^The<det><def>$
-      1 ^@Katolisisme<n>$ | ^That<det><dem>$
-      1 ^@juridisk<adj>$ – ^some<det><qnt><sp>$
-      1 ^@Institute<np>$ – ^this<det><dem>$
-      1 ^@indigo<n>$ – ^a<det><ind>$
-      1 ^His<det><pos>$ ’ ” ^@…<sent><clb>$
-      1 ^his<det><pos>$ ” ^brother<n>$ ” ^@Seth<np>$
-      1 ^@Herzog<np>$ & ^that<det><dem>$
-      1 ^@her<pr>$ – ^his<det><pos>$
-      1 ^@gravplass<n>$ – ^more<det><qnt><sp>$
-      1 ^@fredspris<n>$ – ^that<det><dem>$
-      1 ^@framtid<n>$ – ^that<det><dem>$
-      1 ^@forsiktig<adj>$ – ^the<det><def>$
-      1 ^@forretningsliv<n>$ – ^that<det><dem>$
+      1 ^@livsverk<n>$ - ^the<det><def>$
+      1 ^@livsløp<n><nt>$ - ^the<det><def>$
+      1 ^@live<n><sp>$ - ^@EP<n>$ - ^a<det><ind>$
+      1 ^@Live<n><sp>$ - ^@CD<n>$ - ^a<det><ind>$
+      1 ^@lesesal<n>$ - ^all<det><qnt>$
+      1 ^@lede<n>$ - ^that<det><dem>$
+      1 ^@landslag<n>$ - ^a<det><ind>$
+      1 ^@La<n>$ - ^*Chaux$ - ^that<det><dem>$ - ^Fund<n>$
+      1 ^@kvartfinale<n>$ - ^a<det><ind>$
+      1 ^@kryptografi<n>$ - ^a<det><ind>$
+      1 ^@krusifiks<n>$ - ^that<det><dem>$
+      1 ^@KrF<np>$ - ^his<det><pos>$
+      1 ^@krangel<n>$ - ^both<det><ind>$
+      1 ^@konsertere<vblex><imp>$ - ^a<det><ind>$
+      1 ^@kongedømme<n>$ - ^that<det><dem>$
+      1 ^@kommafeil<n>$ - ^that<det><dem>$
+      1 ^@klikk<n>$ - ^Your<det><pos>$
+      1 ^@Kinck<np>$ - « ^The<det><def>$
+      1 ^@kildekode<n>$ - ^all<det><qnt>$
+      1 ^@Kat<n>$ - ^a<det><ind>$
+      1 ^@kasino<n>$ - ^the most<det><qnt>$
+      1 ^@Jam<n>$ - ^this<det><dem>$
+      1 ^@jacket<n>$ » - ^a<det><ind>$
+      1 ^@Indigo<n>$ » - ^the<det><def>$
+      1 ^@ideal<n>$ - ^that<det><dem>$
+      1 ^*hyllest$ - ^@CD<n>$ - ^a<det><ind>$
+      1 ^*Hsi$ - ^A<det><ind>$ - ^@Ting<n>$
+      1 ^@Holme<n>$ - ^a<det><ind>$
+      1 ^@hit<pr>$ - ^a<det><ind>$
+      1 ^@hit<n>$ - ^their<det><pos>$
+      1 ^@hit<n>$ - ^a<det><ind>$
+      1 ^His<det><pos>$ - ^@Subjekt<n>$ 
+      1 ^His<det><pos>$ - ^@Glas<n>$
+      1 ^@her<pr>$ - ^the most<det><qnt>$
+      1 ^@her<pr>$ - ^that<det><dem>$
+      1 ^@her<pr>$ - ^all<det><qnt>$
+      1 ^@her<pr>$ - ^a<det><ind>$
+      1 ^*Helloween$ - ^@EP<n>$ - ^a<det><ind>$
+      1 ^@heim<n>$ - ^the most<det><qnt>$
+      1 ^@handelsfartøy<n>$ - ^all<det><qnt>$
+      1 ^@grumse<vblex><imp>$ » - ^a<det><ind>$
+      1 ^@Grammy<np>$ - ^a<det><ind>$
+      1 ^*Galerus$ - ^a<det><ind>$ - ^@Brie<n>$
+      1 ^@Fotballklubb<n>$ - ^no<det><ind>$
+      1 ^@formalisme<n>$ - ^a<det><ind>$
+      1 ^@forfatterskap<n>$ - ^that<det><dem>$
+      1 ^@forfatterskap<n><nt>$ - ^his<det><pos>$
+      1 ^@Folkeparti<n>$ - ^a<det><ind>$
+      1 ^@fly<n>$ - ^many<det><qnt>$
+      1 ^@fjellvegg<n>$ - ^that<det><dem>$
       1 ^@filolog<n>$ · ^His<det><pos>$
-      1 ^@ener<n>$ – ^a<det><ind>$
-      1 ^@elveleie<n>$ – ^that<det><dem>$
-      1 ^@Eisenach<np>$ | ^Other<det><ind>$
-      1 ^@dyreart<n>$ – ^that<det><dem>$
-      1 ^@døgn<n>$ – ^that<det><dem>$
-      1 ^@Dis<adv>$ – ^a<det><ind>$
-      1 ^@der<pr>$ ” ^that<det><dem>$
-      1 ^@Columbus<np>$ – ^a<det><ind>$
-      1 ^,<cm>$ Δ ^@¹<det><qnt>$
-      1 ^@c-moll<n>$ – ^a<det><ind>$
-      1 ^@bøk<n>$ – ^the<det><def>$
-      1 ^@biperson<n>$ – ^both<det><ind>$
-      1 ^@bardun<n>$ – ^no<det><ind>$
-      1 ^@bakben<n>$ – ^all<det><qnt>$
-      1 ^@Award<np>$ — ^the<det><def>$
-      1 ^@amt<n>$ – ^the<det><def>$
-      1 ^all<det><qnt>$ – ^@kvare<vblex><imp>$
+      1 ^@Fer<np>$ - ^that<det><dem>$ - ^*Lance$
+      1 ^@fellesstart<n>$ - ^his<det><pos>$
+      1 ^@fargefotografi<n>$ - ^that<det><dem>$
+      1 ^*Faremoutier$ - ^a<det><ind>$ - ^@Brie<n>$
+      1 ^@fall<n>$ - ^that<det><dem>$
+      1 ^@Exe<vblex><imp>$ - ^his<det><pos>$
+      1 ^@exe<vblex><imp>$ - ^her<det><pos>$
+      1 ^Enliven<vblex><inf>$ - ^@DVD<n>$ - ^a<det><ind>$
+      1 ^@England<n>$ - ^this<det><dem>$
+      1 ^@England<n>$ - ^a<det><ind>$
+      1 ^@El<n>$ - ^Your<det><pos>$
+      1 ^@East<np><top>$ - ^that<det><dem>$
+      1 ^*DVB$ - ^@DATA<n>$ - ^A<det><ind>$
+      1 ^Double<adj>$ - ^@CD<n>$ - ^a<det><ind>$
+      1 ^double<adj>$ - ^@CD<n>$ - ^a<det><ind>$
+      1 ^@DO<n>$ - ^That<det><dem>$
+      1 ^@don<n>$ - ^a<det><ind>$
+      1 ^@dominant<n>$ -- ^which<det><itg>$
+      1 ^@dekan<n>$ - ^a<det><ind>$
+      1 ^@deildegast<n>$ - ^a<det><ind>$
+      1 ^concert<n>$ - ^@DVD<n>$ - ^a<det><ind>$
+      1 ^@Commons<np>$ - ^a<det><ind>$
+      1 ^collect<vblex><inf>$ - ^@CD<n>$ - ^a<det><ind>$
+      1 ^@Cocktail<n>$ - ^this<det><dem>$
+      1 ^@cockney<n>$ - ^a<det><ind>$
+      1 ^,<cm>$ Δ ^@¹<det><qnt>$ - ^*tetrahydrocannabinol$
+      1 ^@Club<np>$ - ^a<det><ind>$
+      1 ^@Cicero<n>$ - ^his<det><pos>$
+      1 ^@chip<n>$ - ^a<det><ind>$
+      1 ^@Ceram<np>$ - ^a<det><ind>$
+      1 ^@CD<n>$ - ^his<det><pos>$
+      1 ^*Canet$ - ^a<det><ind>$ - ^@Roussillon<np>$
+      1 ^@burettslag<n>$ - ^both<det><ind>$
+      1 ^@bunker<n>$ - ^a<det><ind>$
+      1 ^@bøk<n>$ - ^all<det><qnt>$
+      1 ^@bøk<n>$ - ^a<det><ind>$
+      1 ^boat<n>$ - ^@landingsplass<n>$ - ^many<det><qnt>$
+      1 ^@Biokjemi<n>$ - ^a<det><ind>$
+      1 ^@Bingo<n>$ - ^a<det><ind>$
+      1 ^@BH<n>$ - ^her<det><pos>$
+      1 ^@bebyggelse<n>$ - ^many<det><qnt>$
+      1 ^*Bartholomew$ - ^*the$ - ^@Great<np><top>$ - ^that<det><dem>$
+      1 ^@bakfra<pr>$ - ^a<det><ind>$
+      1 ^@avsides<adj>$ - ^more<det><qnt><sp>$
+      1 ^@Ar<n>$ - ^My<det><pos>$
+      1 ^@arbeidsområde<n>$ - ^that<det><dem>$
+      1 ^@arbeiderforbund<n>$ - ^The<det><def>$
+      1 ^Angry<adj><sint>$ - ^Jan<np><ant><m>$ - ^that<det><dem>$ - ^@Evangelist<n>$
+      1 ^@anemometer<n>$ - ^a<det><ind>$
+      1 ^@amfi<n>$ - ^more<det><qnt><sp>$
+      1 ^@Altertavle<n>$ - ^a<det><ind>$
+      1 ^All<det><qnt><sp>$ - ^@star<n>$ - ^make<vblex><inf>$
+      1 ^all<det><qnt><sp>$ - ^@irsk<n><sp>$
+      1 ^All<det><qnt><sp>$ - ^@Indisk<n><sp>$
+      1 ^all<det><qnt>$ «- ^*orama$ »- ^@neologisme<n>$
       1 ^all<det><qnt>$ → ^@adle<vblex><imp>$ 
-      1 ^@akselavstand<n>$ — ^both<det><ind>$
-      1 ^a<det><ind>$ ” ^@Villa<n>$
-      1 ^a<det><ind>$ ” ^@ting<n>$ ” ^or<cnjcoo>$
-      1 ^a<det><ind>$ ” ^@Strut<n>$
-      1 ^a<det><ind>$ ” ^@slett<n>$ ” ^be #scarce<vblex><inf>$
-      1 ^a<det><ind>$ “ ^@slå<n>$
-      1 ^a<det><ind>$ ” ^@overbygning<n>$ ” ^over<pr>$
-      1 ^a<det><ind>$ ” ” ^@Open<np>$
-      1 ^a<det><ind>$ “ ^@lov<n><sp>$ ”^.<sent>$
+      1 ^@Alen<n>$ - ^the<det><def>$
+      1 ^a<det><ind>$ α- ^@aminosyre<n>$
+      1 ^a<det><ind>$ - ^@vestenfor<pr>$
+      1 ^A<det><ind>$ - ^@TV<np>$ - ^*dokumentar$
+      1 ^A<det><ind>$ - ^@tuner<n>$ - ^TV<n>$
+      1 ^A<det><ind>$ - ^@seter<n>$
+      1 ^a<det><ind>$ - ^@nulle<vblex><imp>$ - ^tree<n>$
+      1 ^a<det><ind>$ - ^@nulle<vblex><imp>$ - ^six<num>$
+      1 ^a<det><ind>$ - ^@nulle<vblex><imp>$ - ^seven<num>$
+      1 ^a<det><ind>$ - ^@nulle<vblex><imp>$ - ^eight<num>$
+      1 ^a<det><ind>$ «- ^@isme<n>$
       1 ^a<det><ind>$ @ ^@import<n>$
-      1 ^a<det><ind>$ ” ^@forsiktig<adj>$
-      1 ^a<det><ind>$ “ ^@folkefront<n>$ ”^,<cm>$
-      1 ^a<det><ind>$ ” ^evidence<n>$ ” ^@utad<pr>$
-      1 ^a<det><ind>$ ” ^common<adj>$ ” ^@bruk<n>$
-      1 ^@³<det><qnt>$ | ^43<num>$
-      1 ^@²<det><qnt>$ | ^16.072<num>$
-      1 ^@½<det><qnt>$ | ^*Ranma$
-      1 ^@½<det><qnt>$ – ^5<num>$
-      1 ^@½<det><qnt>$ – ^1<num>$
+      1 ^a<det><ind>$ - ^@hit<n>$
+      1 ^A<det><ind>$ - ^@Dore<vblex><imp>$
+      1 ^a<det><ind>$ - ^@æalphabet<n>$
+      1 ^A<det><ind>$ - ^A<det><ind>$ - ^@Nulle<vblex><imp>$
+      1 ^@³<det><qnt>$ - ^*Zweizylinder$ - ^*Heckmotor$
+      1 ^@³<det><qnt>$ - ^water<n>$
+      1 ^@³<det><qnt>$ - ^variety<n>$
+      1 ^@³<det><qnt>$ - ^or<cnjcoo>$
+      1 ^@³<det><qnt>$ - ^motor<n>$
+      1 ^@³<det><qnt>$ - ^*Motorfahrrad$
+      1 ^@³<det><qnt>$ - ^*Maschine$
+      1 ^@³<det><qnt>$ - ^*hybridiserte$
+      1 ^@³<det><qnt>$ - ^Grade<n>$
+      1 ^@³<det><qnt>$ - ^about<pr>$
+      1 ^@²<det><qnt>$ - ^mean<vblex><inf>$
+      1 ^@²<det><qnt>$ - ^grade<n>$
+      1 ^@²<det><qnt>$ - ^distribute<vblex><pp>$
+      1 ^@²<det><qnt>$ - ^32 020<num>$ 
+      1 ^1<num>$ - ^a<det><ind>$ - ^@foran<pr>$
+      1 ^@¾<det><qnt>$ - ^rhythm<n>$
