@@ -7265,6 +7265,7 @@
 <e slr="1"><p><l>verdi<s n="n"/><s n="m"/></l><r>value<s n="n"/></r></p></e>
 <e>        <p><l>verdighet<s n="n"/></l>     <r>dignity<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>verk<s n="n"/><s n="nt"/></l><r>work<s n="n"/></r></p></e>
+<e>        <p><l>årsverk<s n="n"/><s n="nt"/></l><r>years<b/>work<s n="n"/></r></p></e>
 <e>        <p><l>verksted<s n="n"/><s n="nt"/></l><r>workshop<s n="n"/></r></p></e>
 <e slr="1"><p><l>verksted<s n="n"/><s n="nt"/></l><r>shop<s n="n"/></r></p></e>
 <e>        <p><l>verktøy<s n="n"/><s n="nt"/></l><r>tool<s n="n"/></r></p></e>
@@ -7301,6 +7302,10 @@
 <e>        <p><l>vevstol<s n="n"/><s n="m"/></l><r>loom<s n="n"/></r></p></e>
 <e>        <p><l>vibrasjon<s n="n"/><s n="m"/></l><r>vibration<s n="n"/></r></p></e>
 <e>        <p><l>vibrator<s n="n"/><s n="m"/></l><r>vibrator<s n="n"/></r></p></e>
+<e>        <p><l>analysator<s n="n"/><s n="m"/></l><r>analyser<s n="n"/></r></p></e>
+<e>        <p><l>russisk<s n="n"/><s n="nt"/></l><r>Russian<s n="n"/></r></p></e>
+<e>        <p><l>preposisjon<s n="n"/><s n="m"/></l><r>preposition<s n="n"/></r></p></e>
+<e>        <p><l>adverb<s n="n"/><s n="m"/></l><r>adverb<s n="n"/></r></p></e>
 <e>        <p><l>vicomte<s n="n"/><s n="m"/></l><r>viscount<s n="n"/></r></p></e>
 <e>        <p><l>video<s n="n"/><s n="m"/></l><r>video<s n="n"/></r></p></e>
 <e>        <p><l>videokassett<s n="n"/><s n="m"/></l><r>video<b/>cassette<s n="n"/></r></p></e>
