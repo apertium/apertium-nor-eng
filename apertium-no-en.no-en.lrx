@@ -1,0 +1,128 @@
+<rules>
+
+<!-- Jeg har ikke den fjerneste anelse om hva det neste han vil gjøre er. I don't have the remotest inkling about what he will do next. -->
+
+<rule>
+                <or>
+			<match lemma="minst" tags="adj.def.*"/>
+                	<match lemma="fjern" tags="adj.sup.*"/>
+		</or>
+                <match lemma="anelse" tags="n.sg">
+                        <select lemma="inkling" tags="n.sg"/>
+                </match>
+</rule>
+
+<!-- Det er en markant forskjell mellom de to. There is a marked difference between them.  -->
+
+<rule>
+		<or>
+			<match lemma="markant" tags="adj"/>
+			<match lemma="betydelig" tags="adj"/>
+		</or>
+		<match lemma="forskjell" tags="n.sg">
+			<select lemma="difference" tags="n.sg"/>
+		</match>
+</rule>
+
+<!-- Tyskland hadde ikke nok bevis til å arrestere ham. Germany did not have enough evidence to arrest him.  -->
+
+<rule>
+		<or>
+			<match lemma="tekniske" tags="adj"/>
+			<match lemma="nok" tags="adj"/>
+		</or>
+		<match lemma="bevis" tags="n.sg">
+			<select lemma="evidence" tags="n.sg"/>
+		</match>
+</rule>
+
+<!-- Hvor finner jeg en lang kjole? Where do I find a long dress? -->
+
+<rule>
+		<or>
+			<match lemma="lang" tags="adj"/>
+			<match lemma="vakker" tags="adj"/>
+		</or>
+		<match lemma="kjole" tags="n.sg">
+			<select lemma="dress" tags="n.sg"/>
+		</match>
+</rule>
+
+
+<!-- Det blir ikke god suppe av billig kjøtt. Cheap meat doesn't make a good soup. -->
+
+<rule>
+		<or>
+			<match lemma="billig" tags="adj.*"/> 
+			<match lemma="and" tags="n"/> 
+			<match lemma="kylling" tags="n.sg"/> 
+			<match lemma="hest" tags="n.sg"/> 
+		</or>
+		<match lemma="kjøtt" tags="n.sg">
+			<select lemma="meat" tags="n.sg"/>
+		</match>
+</rule>
+
+<!-- Vi er i samme klasse. We are in the same class. -->
+
+<rule>
+		<or>
+			<match lemma="samme" tags="det"/> 
+			<match lemma="morgen" tags="adj"/> 
+			<match lemma="ettermiddag" tags="adj"/> 
+		</or>
+		<match lemma="klasse" tags="n.sg">
+			<select lemma="class" tags="n.sg"/>
+		</match>
+</rule>
+
+<!-- Han har sterk kontroll over tidsplanen. He has strong control over the schedule. -->
+
+<rule>
+		<or>		
+			<match lemma="sterk" tags="adj"/>
+			<match lemma="ubegrenset" tags="adj"/>
+		</or>
+		<match lemma="kontroll" tags="n">
+			<select lemma="control" tags="n"/>
+		</match>
+</rule>
+
+<!-- Produktene er av god kvalitet. The products are of good quality. -->
+
+<rule>
+		<or>
+			<match lemma="god" tags="adj"/>
+			<match lemma="darlig" tags="adj"/>
+		</or>
+		<match lemma="kvalitet" tags="n">
+			<select lemma="quality" tags="n"/>
+		</match>
+</rule>
+
+<!-- India er verdens sjuende største land. India is the world's seventh largest country. -->
+
+<rule>
+		<or>
+			<match lemma="stor" tags="adj.sup.*"/> 
+			<match lemma="farlig" tags="adj.sup"/> 
+			<match lemma="velstående" tags="adj.*"/> 
+		</or>
+		<match lemma="land" tags="n.sg">
+			<select lemma="country" tags="n.sg"/>
+		</match>
+</rule>
+
+<!-- Nordmenn sutrer over for lav lønn. Norwegians whine over low pay. -->
+
+<rule>
+		<or>
+			<match lemma="lav" tags="adj"/> 
+			<match lemma="dårlig" tags="adj"/> 
+		</or>
+		<match lemma="lønn" tags="n.sg">
+			<select lemma="pay" tags="n.sg"/>
+		</match>
+</rule>
+
+</rules>
