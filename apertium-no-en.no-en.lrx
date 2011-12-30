@@ -120,8 +120,8 @@
 			<match lemma="lav" tags="adj"/> 
 			<match lemma="dårlig" tags="adj"/> 
 		</or>
-		<match lemma="lønn" tags="n.sg">
-			<select lemma="pay" tags="n.sg"/>
+		<match lemma="lønn" tags="n">
+			<select lemma="pay" tags="n"/>
 		</match>
 </rule>
 
