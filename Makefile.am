@@ -28,8 +28,8 @@ TARGETS_COMMON = \
 # Prevent the .d file from being removed automatically:
 .PRECIOUS: .deps/.d
 
-.deps/$(BASENAME).$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix lexchoicebil.xsl .deps/.d
-	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
+#.deps/$(BASENAME).$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix lexchoicebil.xsl .deps/.d
+#	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
 
 # nb-en
 $(PREFIX1b).automorf.bin: $(BASENAME).$(LANG1b).dix
@@ -49,9 +49,9 @@ $(PREFIX1).lex.bin: $(BASENAME).$(PREFIX1).lex
 
 $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	if [ ! -d .deps ]; then mkdir .deps; fi
-	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > .deps/$(BASENAME).$(PREFIX1).dix
-	apertium-validate-dictionary .deps/$(BASENAME).$(PREFIX1).dix
-	lt-comp lr .deps/$(BASENAME).$(PREFIX1).dix $@
+#	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > .deps/$(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
+	lt-comp lr $(BASENAME).$(PREFIX1).dix $@
 
 $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x

@@ -15,6 +15,7 @@
 /autogen.sh -text
 /configure.ac -text
 dev/RULES-AND-MULTIWORDS -text
+dev/apertium-no-en.no-en.lrx -text
 dev/bidix/400_high_freq_nouns.dix -text
 dev/bidix/pending_adjectives.txt -text
 dev/bidix/pending_adverbs.txt -text

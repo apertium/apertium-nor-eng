@@ -28,6 +28,27 @@
     </pipeline>
   </mode>
 
+  <mode name="no-en-biltrans">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nb-en.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nb-en.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="no-en.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="no-en.prob"/>
+      </program>
+      <program name="lt-proc -b">
+        <file name="no-en.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
   <mode name="no-en-tagger">
     <pipeline>
       <program name="lt-proc -w">

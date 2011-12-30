@@ -117,11 +117,11 @@
 
 <rule>
 		<or>
-			<match lemma="lav" tags="adj.*"/> 
-			<match lemma="dårlig" tags="adj.*"/> 
+			<match lemma="lav" tags="adj"/> 
+			<match lemma="dårlig" tags="adj"/> 
 		</or>
-		<match lemma="lønn" tags="n.f.*">
-			<select lemma="pay" tags="n.*"/>
+		<match lemma="lønn" tags="n.sg">
+			<select lemma="pay" tags="n.sg"/>
 		</match>
 </rule>
 
