@@ -12,6 +12,7 @@
 /apertium-no-en.no-en.t1x -text
 /apertium-no-en.no-en.t2x -text
 /apertium-no-en.no-en.t3x -text
+/apertium-no-en.no-en3.lrx -text
 /autogen.sh -text
 /configure.ac -text
 dev/RULES-AND-MULTIWORDS -text
