@@ -1,5 +1,6 @@
 <rules>
 
+
 <!-- Jeg har ikke den fjerneste anelse om hva det neste han vil gjøre er. I don't have the remotest inkling about what he will do next. -->
 
 <rule>
@@ -125,4 +126,664 @@
 		</match>
 </rule>
 
+
+
+<!-- Benytt denne ypperlig anledning til å ta en titt inn i musikkens virkelige skattekamre. Take this excellent opportunity to take a look into the music's true treasures.    -->   
+
+<rule>
+		<or>
+			<match lemma="ypperlig" tags="adj.*"/> 
+			<match lemma="få" tags="adj.*"/> 
+		</or>
+		<match lemma="anledning" tags="n.m.*">
+			<select lemma="opportunity" tags="n.*"/>
+		</match>
+</rule>
+
+
+
+<!-- Dette er et svært vellykket resultat av at partnerskapet våget å satse på ny anvendelse av en miljøvennlig teknologi som har spart oss for store utslipp på Troll, sier Amland.  This is a very successful result of the partnership chose to focus on new applications of an environmentally friendly technology that has saved us huge emissions.   -->  
+
+<rule>
+		<or>
+			<match lemma="ny" tags="adj.*"/> 
+			<match lemma="sen" tags="adj"/> 
+		</or>
+		<match lemma="anvendelse" tags="n.m.*">
+			<select lemma="application" tags="n.*"/>
+		</match>
+</rule>
+
+
+
+<!-- Dette er ikke en kommersiell avbrytelse. This is not a commercial interruption. -->   
+
+<rule>
+		<or>
+			<match lemma="kommersiell" tags="adj.*"/> 
+			<match lemma="sen" tags="adj.*"/>     
+		</or>
+		<match lemma="avbrytelse" tags="n.m.*">
+			<select lemma="interruption" tags="n.*"/>
+		</match>
+</rule>
+
+
+
+
+<!--Er du ung, har lav utdanning, lav lønn? denne jobben er bare for deg!. Are you young, have low education, low wages? this job is just for you! -->   
+
+<rule>
+  <or>
+    <match lemma="lav" tags="adj.*"/> 
+   <match lemma="dårlig" tags="adj.*"/> 
+   </or>
+   <match lemma="lønn" tags="n.*">
+    <select lemma="pay" tags="n.*"/>
+  </match>
+ </rule>
+
+<!-- Dette lille selskapet anses å være blant de hundre mest lovende bedrifter i miljøteknologi. This small company is considered to be among the hundred most promising enterprises in environmental technology.   -->   
+
+<rule>
+		<or>
+			<match lemma="lovende" tags="*"/> 
+			<match lemma="liten" tags="adj.*"/>     
+		</or>
+		<match lemma="bedrift" tags="n.m.*">
+			<select lemma="enterprise" tags="n.*"/>
+		</match>
+</rule>
+
+<!-- Machu Picchu har løs begrensning på  turister som får komme inn. Machu Picchu has loose restriction on tourists who have visited. --> 
+
+<rule>
+		<or>
+			<match lemma="hardt" tags="adj"/> 
+			<match lemma="løs" tags="adj.*"/>     
+		</or>
+		<match lemma="begrensning" tags="n.m.*">
+			<select lemma="restriction" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!-- Dette er ikke en kommersiell avbrytelse. This is not a commercial interruption.   -->  
+
+<rule>
+		<or>
+			<match lemma="kommersiell" tags="adj.*"/> 
+			<match lemma="tidlig" tags="adj.*"/>     
+		</or>
+		<match lemma="avbrytelse" tags="n.m.*">
+			<select lemma="interruption" tags="n.*"/>
+		</match>
+</rule>
+
+<!-- Vær oppmerksom på at dette ikke gjelder for særlig stor eller særlig tung bagasje.  Note that this does not apply to very large or very heavy luggage. -->  
+
+<rule>
+		<or>
+			<match lemma="tung" tags="adj.*"/> 
+			<match lemma="bittesmå" tags="*"/>     
+		</or>
+		<match lemma="bagasje" tags="n.m.*">
+			<select lemma="luggage" tags="n.*"/>
+		</match>
+</rule>
+
+<!-- Det pågår nå en politisk debatt i Sveio om hvor vi skal bygge nytt basseng. There is now a political debate in Sveio about where we are building a new pool. --> 
+
+<rule>
+		<or>
+			<match lemma="ny" tags="adj.*"/> 
+			<match lemma="gammel" tags="adj.*"/>     
+		</or>
+		<match lemma="basseng" tags="n.nt.*">
+			<select lemma="pool" tags="n.*"/>
+		</match>
+</rule>
+
+<!-- Machu Picchu har løs begrensning på  turister som får komme inn. Machu Picchu has loose restrictions on tourists who will enter.  -->  
+
+<rule>
+		<or>
+			<match lemma="høy" tags="adv.*"/> 
+			<match lemma="låg" tags="adj.*"/>     
+		</or>
+		<match lemma="begrensning" tags="n.m.*">
+			<select lemma="restriction" tags="n.*"/>
+		</match>
+</rule>
+
+<!-- Det er aldrig for sent at få en lykkelig barndom. It is never too late to have a happy childhood.    -->  
+
+<rule>
+		<or>
+			<match lemma="lykkelig" tags="adj.*"/> 
+			<match lemma="forferdelig" tags="adj.*"/>     
+		</or>
+		<match lemma="barndom" tags="n.m.*">
+			<select lemma="childhood" tags="n.*"/>
+		</match>
+</rule>
+
+<!-- Sosial dumping ikke er et ukjent begrep i skolesektoren. Social dumping is not an unknown concept in the education sector.     -->  
+
+<rule>
+		<or>
+			<match lemma="ukjent" tags="adj.*"/> 
+			<match lemma="perfekt" tags="adj.*"/>     
+		</or>
+		<match lemma="begrep" tags="n.nt.*">
+			<select lemma="concept" tags="n.*"/>
+		</match>
+</rule>
+
+<!-- Aggressiv begynnelse som flyter ut i oppkuttede gitarnoter som spretter spørrende omkring i rommet. Aggressive start flowing into the chopped guitar notes bounce inquiring about the room.    -->    
+
+<rule>
+		<or>
+			<match lemma="Aggressiv" tags="adj.*"/> 
+			<match lemma="vellykket" tags="adj.*"/>     
+		</or>
+		<match lemma="begynnelse" tags="n.m.*">
+			<select lemma="start" tags="n.*"/>
+		</match>
+</rule>
+
+<!--  Bivirkninger av langvarig behandling med ADHD-medicin sendes ikke. Side effects of prolonged treatment with ADHD Medicine is not sent.    -->  
+
+<rule>
+		<or>
+			<match lemma="langvarig" tags="adj.*"/> 
+			<match lemma="rask" tags="adj.*"/>     
+		</or>
+		<match lemma="behandling" tags="n.*">
+			<select lemma="treatment" tags="n.*"/>
+		</match>
+</rule>
+
+
+
+<!--  I lokalsamfunnet ønsker KIWANIS å hjelpe der hvor virkelig behov er til stede. Do you have real need for traveling?    -->  
+
+<rule>
+		<or>
+			<match lemma="virkelig" tags="adj.*"/> 
+			<match lemma="umiddelbar" tags="adj.*"/>     
+		</or>
+		<match lemma="behov" tags="n.*">
+			<select lemma="need" tags="n.*"/>
+		</match>
+</rule>
+
+
+
+<!--  Vatnet skal stamme frå ein stor bekk i området. The water must come from a big stream in the area.    -->  
+
+<rule>
+		<or>
+			<match lemma="mindre" tags="adj"/> 
+			<match lemma="stor" tags="adj.*"/>     
+		</or>
+		<match lemma="bekk" tags="n.m.*">
+			<select lemma="stream" tags="n.*"/>
+		</match>
+</rule>
+
+<!--  Deloitte-huset har en attraktiv plassering i Drive Allmenningen som vil være den viktigste offentlige plassen. Conducted great house with attractive location.    --> 
+
+<rule>
+		<or>
+			<match lemma="attraktiv" tags="adj.*"/> 
+			<match lemma="nær" tags="adj.*"/>     
+		</or>
+		<match lemma="plassering" tags="n.*">
+			<select lemma="location" tags="n.*"/>
+		</match>
+</rule>
+
+<!--  Jeg plutselig videresendt ukjent beskjed på skjermen hver gang. I suddenly escalated unknown message on the screen each time. -->  
+
+<rule>
+		<or>
+			<match lemma="ukjent" tags="adj.*"/> 
+			<match lemma="lang" tags="adj.*"/>     
+		</or>
+		<match lemma="beskjed" tags="n.m.*">
+			<select lemma="message" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!--  Det er sjelden bruk for kraftig beskyttelse i laboratoriesammenheng, selv om det finnes unntak, for eksempel ved rengjøring av kjemikaliesøl, drift og vedlikehold av fasiliteter, og forskning under spesielle omstendigheter.. It is rarely used for powerful protection in the laboratory context, although there are exceptions, such as cleaning chemical spills, operation and maintenance of facilities, and research under special circumstances.   -->  
+
+<rule>
+		<or>
+			<match lemma="kraftig" tags="*"/> 
+			<match lemma="svake" tags="*"/>     
+		</or>
+		<match lemma="beskyttelse" tags="n.m.*">
+			<select lemma="protection" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!--  Jeg pleide å drømme om å danse i Nøtteknekkeren, og å bli løftet høyt opp i luften, og å gjøre nydelige bevegelser som gir publikum frysninger. I used to dream of dancing in The Nutcracker, and to be lifted high into the air, and to make beautiful movements that give the audience chills -->  
+
+<rule>
+		<or>
+			<match lemma="nydelig" tags="adj.*"/> 
+			<match lemma="langsom" tags="*"/>     
+		</or>
+		<match lemma="bevegelse" tags="n.m.*">
+			<select lemma="movement" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!--  Dette er Norge berømte bidragsyter til terrorist skoler i Pakistan. This is Norway's famous contributor to the terrorist schools in Pakistan.    -->  
+
+<rule>
+		<or>
+			<match lemma="største" tags="adj"/> 
+			<match lemma="berømt" tags="adj.*"/>     
+		</or>
+		<match lemma="bidragsyter" tags="n.m.*">
+			<select lemma="contributor" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!--På det lille hotellet har derfor de norske hopperne lagt igjen et uklar bilde av seg selv. In the small hotel has the Norwegian ski jumpers left an unclear picture of himself.          -->
+
+<rule>
+        <or>
+            <match lemma="signert" tags="*"/>
+            <match lemma="uklar" tags="adj.*"/>
+        </or>
+        <match lemma="bilde" tags="n.nt.*">
+            <select lemma="picture" tags="n.*"/>
+        </match>
+</rule>
+
+
+<!--I bunnen av velley, han fant haug av frisk blad. In the bottom of velley, he found the pile of fresh leaves. -->    
+
+<rule>
+        <or>
+            <match lemma="tørket" tags="*"/>
+            <match lemma="frisk" tags="adj.*"/>
+        </or>
+        <match lemma="blad" tags="n.*">
+            <select lemma="leaf" tags="n.*"/>
+        </match>
+</rule>
+
+
+<!-- Hvordan lage et billig bluss. How to make a cheap flares. -->  
+
+<rule>
+		<or>
+			<match lemma="billig" tags="adj.*"/>
+			<match lemma="kaldt" tags="*"/>
+		</or>
+		<match lemma="bluss" tags="n.*">
+			<select lemma="flare" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!--Ved å bruke denne nye teknologien maskin, kan du oppnå en så rask blanding. By using this new technology machine, you can achieve such rapid blend.    -->   
+
+<rule>
+        <or>
+            <match lemma="rask" tags="adj.*"/>
+            <match lemma="treg" tags="adj.*"/>
+        </or>
+        <match lemma="blanding" tags="n.*">
+            <select lemma="blend" tags="n.*"/>
+        </match>
+</rule>
+
+
+
+<!-- men vi kan selvsagt også levere store, pen bolig til de som måtte ønske det. but we can of course also deliver large, beautiful housing for those who want it.   -->
+
+<rule>
+		<or>
+			<match lemma="spesielle" tags="*"/>
+			<match lemma="pen" tags="adj.*"/>
+		</or>
+		<match lemma="bolig" tags="n.m.*">
+			<select lemma="housing" tags="n.*"/>
+		</match>
+</rule>
+
+<!--Vinneren av Årets evigung bonde 2011 er et sunt forbilde med et bredt engasjement for landbruk og det hun driver med. The winner of the year's young farmer 2011 is a healthy role model with a broad commitment to agriculture and what she doing.   -->   kk
+
+<rule>
+		<or>
+			<match lemma="evigung" tags="adj.*"/>
+			<match lemma="berømmelig" tags="adj.*"/>
+		</or>
+		<match lemma="bonde" tags="n.m.*">
+			<select lemma="farmer" tags="n.*"/>
+		</match>
+</rule>
+
+
+
+<!--Forstyrring eller bruk av anabole steroider kan gi voldsom bryst. Disturbance or use of anabolic steroids can cause large breast.    -->
+
+<rule>
+		<or>
+			<match lemma="voldsom" tags="adj.*"/>
+			<match lemma="kaldt" tags="*"/>
+		</or>
+		<match lemma="bryst" tags="n.*">
+			<select lemma="breast" tags="n.*"/>
+		</match>
+</rule>
+
+<!--Randy Savage ble 58 år gammel. Savage begynte med wrestling i 1973, og vant tjue mesterskap i løpet av sin karriere som profesjonell bryter.
+Randy Savage was 58 years old. Savage started wrestling in 1973, and won twenty championships during his career as a professional switch  -->
+
+<rule>
+		<or>
+			<match lemma="profesjonell" tags="*"/>
+			<match lemma="brutt" tags="*"/>
+		</or>
+		<match lemma="bryter" tags="n.m.*">
+			<select lemma="switch" tags="n.*"/>
+		</match>
+</rule>
+
+<!--Gjensidige hjelper deg å forsikre høstet a Er det noen forskjell i fordelingen av muskel bygging og fett lagringsplass hvis du spiser usunn fett eller hvit brød?
+Is there any difference in the distribution of muscle building and fat storage if you eat unhealthy fat or white bread?  -->
+
+
+<rule>
+		<or>
+			<match lemma="daglige" tags="*"/>
+			<match lemma="hvit" tags="adj.*"/>
+		</or>
+		<match lemma="brød" tags="n.*">
+			<select lemma="bread" tags="n.*"/>
+		</match>
+</rule>
+
+
+
+
+<!-- Hvis ingen andre har gitt likedan bud som deg, bare ignorer det. If no one else has the same bid as you, just ignore it.    -->
+
+<rule>
+        <or>
+            <match lemma="likedan" tags="adj.*"/>
+            <match lemma="likegyldig" tags="adj.*"/>     
+        </or>
+        <match lemma="bud" tags="n.*">
+            <select lemma="message" tags="n.*"/>
+        </match>
+</rule>
+
+Ikea Foundation har bestemt seg for å gi et historisk beløp på 331 millioner kroner i nødhjelp til verdens største flyktningleir i Dadaab i Kenya.
+<!--  IKEA gir historisk beløp til tørkeofre.  IKEA gives historical amounts to drought victims.    -->
+
+<rule>
+        <or>
+            <match lemma="historisk" tags="adj.*"/>
+            <match lemma="maksimal" tags="adj.*"/>     
+        </or>
+        <match lemma="beløp" tags="n.*">
+            <select lemma="amount" tags="n.*"/>
+        </match>
+</rule>
+
+<!-- Pepperkakehus i Haiti, palass ruiner midt i en kinesisk millionby og et høyreist byggverk i London er blant de truede stedene på World Monuments. Gingerbread in Haiti, palace ruins in the middle of a Chinese millionby and a tall building in London is among the most endangered sites on the World Monuments.   -->
+
+<rule>
+        <or>
+            <match lemma="nakent" tags="*"/>
+            <match lemma="høyreist" tags="adj.*"/>     
+        </or>
+        <match lemma="byggverk" tags="n.*">
+            <select lemma="building" tags="n.*"/>
+        </match>
+</rule>
+
+Statsminister Meles Zenawi sier at regjeringen har mer enn nok bevis at de internerte var engasjertt i terrorisme.
+<!-- Tyskland hadde ikke nok bevis til å arrestere ham. Germany did not have enough evidence to arrest him.    --> 
+
+<rule>
+		<or>
+			<match lemma="teknisk" tags="adj.*"/>
+			<match lemma="nok" tags="*"/>
+		</or>
+		<match lemma="bevis" tags="n.*">
+			<select lemma="evidence" tags="n.*"/>
+		</match>
+</rule>
+
+<!--Det har også vertikal damp, 2,5 m ledning, Double Active Calc System samt dryppstop .. It also has vertical steam, 2.5 m cable, Double Active Calc System and drip stop.   -->  
+
+<rule>
+        <or>
+            <match lemma="vertikal" tags="adj.*"/>
+            <match lemma="diger" tags="adj.*"/>     
+        </or>
+        <match lemma="damp" tags="n.m.*">
+            <select lemma="steam" tags="n.*"/>
+        </match>
+</rule>
+
+
+<!-- Det pågår nå en politisk debatt i Sveio om hvor vi skal bygge diger basseng. There is now a political debate in Sveio about where we are building a huge pool.  -->
+
+<rule>
+		<or>
+			<match lemma="diger" tags="adj.*"/> 
+			<match lemma="gamle" tags="adj.*"/>     
+		</or>
+		<match lemma="basseng" tags="n.*">
+			<select lemma="pool" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!-- Københavns Universitet har berømt anseelse. University of Copenhagen has famous reputation. -->
+
+<rule>
+		<or>
+			<match lemma="slett" tags="adj.*"/> 
+			<match lemma="berømt" tags="adj.*"/> 
+		</or>
+		<match lemma="anseelse" tags="n.m.*">
+			<select lemma="reputation" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!--   Vi går ut og spiser en deilig biff etterpå. We go out and eat a delicious steak afterwards.   -->
+
+<rule>
+		<or>
+			<match lemma="deilig" tags="adj.*"/> 
+			<match lemma="hardt" tags="adj"/>     
+		</or>
+		<match lemma="biff" tags="n.m.*">
+			<select lemma="steak" tags="n.*"/>
+		</match>
+</rule>
+
+<!--Det er dessuten et farlig land å ferdes i,  i alle fall ikke alene.  There is also a dangerous country to travel in, at least not alone. -->
+
+<rule>
+		<or>
+			<match lemma="konfliktfylte" tags="adj"/> 
+			<match lemma="farlig" tags="adj.*"/> 
+		</or>
+		<match lemma="land" tags="n.*">
+			<select lemma="country" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!-- Vi har valgt en produsent som er kjent for god kvalitet. We have chosen a manufacturer who is known for good quality. --> 
+
+<rule>
+		<or>
+			<match lemma="god" tags="adj.*"/>
+			<match lemma="darlig" tags="adj.*"/>
+		</or>
+		<match lemma="kvalitet" tags="n.m.*">
+			<select lemma="quality" tags="n.*"/>
+		</match>
+</rule>
+
+<!--   Tabellen gir en oversikt over organisatorisk inndeling av arbeidsoppgaver og operasjoner som gir en vesentlig miljøpåvirkning. The table provides an overview of the organizational division of tasks and operations that provide a significant environmental impact. --> 
+
+<rule>
+		<or>
+			<match lemma="administrativ" tags="adj.*"/>
+			<match lemma="organisatorisk" tags="adj.*"/>
+		</or>
+		
+                <match lemma="inndeling" tags="n.*">
+			<select lemma="division" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!-- Men det er mange andre som opplever en minst like sterk kontroll.But there are many others who are experiencing an equally strong control. -->  
+
+<rule>
+		<or>		
+			<match lemma="sterk" tags="adj.*"/>
+			<match lemma="ubegrenset" tags="adj.*"/>
+		</or>
+		<match lemma="kontroll" tags="n.m.*">
+			<select lemma="control" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!--Kanskje dette er litt dum spørsmål, men jeg kommer ikke fra norge (men jeg bor i norge...), jeg kjenner ikke alle ord. Maybe this is a bit silly question, but I do not come from Norway (but I live in Norway ...), I do not know all the words.--> 
+
+<rule>
+		<or>
+			<match lemma="dum" tags="adj.*"/>
+			<match lemma="kort" tags="adj.*"/>
+		</or>
+		
+                <match lemma="spørsmål" tags="n.*">
+			<select lemma="question" tags="n.*"/>
+		</match>
+</rule>
+
+
+
+<!-- Rasjonaliseringstiltak har også i stor grad vært direkte rettet mot en økt utnyttelse av menneskelig arbeidskraft. Forskjellige anvendelser av arbeidsstudier og lønnssystemer har ført til økt tempo, kortere pauser, mer monotont og kjedelig arbeid, redusert samvær med arbeidskamerater og mer stress.
+Rationalisation measures have largely been directed towards an increased use of human labor. Various applications of work study and wage systems has led to increased tempo, shorter breaks, more monotonous and boring work, reduced interaction with fellow workers and more stress.   -->
+
+<rule>
+		<or>
+			<match lemma="frivillig" tags="adj.*"/> 
+			<match lemma="kjedelig" tags="adj.*"/> 
+		</or>
+		<match lemma="arbeid" tags="n.*">
+			<select lemma="work" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!--Effekten vil være at vi bruker en mengde ressurser på noe som i beste fall vil resultere i en mild irritasjon hos terroristene, The effect will be that we spend a lot of resources on something that at best will result in a mild irritation at the terrorists.  -->  
+
+<rule>
+		<or>
+			<match lemma="mild" tags="adj.*"/>
+			<match lemma="liten" tags="adj.*"/>
+		</or>
+		
+                <match lemma="irritasjon" tags="n.m.*">
+			<select lemma="irritation" tags="n.*"/>
+		</match>
+</rule>
+
+
+
+<!-- Man får et unikt innblikk i andre kulturer gjennom studier og feltarbeid. You get a unique insight into other cultures through the study and field work. -->  
+
+<rule>
+		<or>
+			<match lemma="lite" tags="adv.*"/>
+			<match lemma="unik" tags="adj.*"/>
+		</or>
+		<match lemma="innblikk" tags="n.*">
+			<select lemma="insight" tags="n.*"/>
+		</match>
+</rule>
+
+<!--Klangen av navnet og sammensetningen ”Hansa øl”, vekket assosiasjoner om noe historisk og tradisjonsrikt som ga bedriften profesjonell anstrøk..   -->
+
+<rule>
+		<or>
+			<match lemma="profesjonell" tags="adj.*"/> 
+			<match lemma="dyp" tags="adj.*"/>     
+		</or>
+		<match lemma="anstrøk" tags="n.*">
+			<select lemma="touch" tags="n.*"/>
+		</match>
+</rule>
+
+
+<!--  Forskerne oppdaget at søt og fet mat også skapte sterk avhengighet. The researchers discovered that the sweet and fatty foods also created a strong addiction. This messed up research program    -->
+
+<rule>
+		<or>
+			<match lemma="Snodig" tags="adj"/> 
+			<match lemma="sterk" tags="adj.*"/>     
+		</or>
+		<match lemma="avhengighet" tags="n.*">
+			<select lemma="addiction" tags="n.*"/>
+		</match>
+</rule>
+
+<!-- Dette er en veldig behagelig diett synes jeg, man får mer energi og blir mer konsentrert. This is a very pleasant diet, I think, you get more energy and become more concentrated. --> 
+
+<rule>
+        <or>
+            <match lemma="behagelig" tags="adj.*"/>
+            <match lemma="deilig" tags="adj.*"/>     
+        </or>
+        <match lemma="diett" tags="n.m.*">
+            <select lemma="diet" tags="n.*"/>
+        </match>
+</rule>
+
+<!-- echo " En person kan kun være internasjonal dommer i en av NGTFs konkurransegrener samtidig.  A person can only be an international judge in one of NGTFs competitive branches simultaneously. --> 
+
+<rule>
+        <or>
+            <match lemma="lydhøre" tags="adj"/>
+            <match lemma="internasjonal" tags="adj.*"/>     
+        </or>
+        <match lemma="dommer" tags="n.m.*">
+            <select lemma="judge" tags="n.*"/>
+        </match>
+</rule>
+
+<!-- Korea er Høy avhengighet av import både av råvarer. Korea's high dependence on imports of both raw materials,-->
+
+<rule>
+		<or>
+			<match lemma="Høy" tags="adj.*"/> 
+			<match lemma="kvalmende" tags="*"/>     
+		</or>
+		<match lemma="avhengighet" tags="n.*">
+			<select lemma="dependence" tags="n.*"/>
+		</match>
+</rule>
 </rules>
