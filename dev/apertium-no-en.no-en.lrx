@@ -786,4 +786,560 @@ Rationalisation measures have largely been directed towards an increased use of 
 			<select lemma="dependence" tags="n.*"/>
 		</match>
 </rule>
+
+
+<rule>    
+  		<match lemma="egenskap" tags="*"/>
+  		<match lemma="gjerning" tags="n.*">
+  			<select lemma="deed" tags="n.*"/>
+  		</match>
+  	</rule>
+
+
+<rule>
+
+	<match lemma="mange" tags="*"/>
+
+	<match lemma="spøkelse" tags="n.*">
+		<select lemma="ghost" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+  <or>
+  	<match lemma="grønn" tags="adj.*"/>
+	<match lemma="rød" tags="adj.*"/>
+  </or>	
+	<match lemma="flagg" tags="n.*">
+		<select lemma="flag" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+     <or>
+	<match lemma="økonomisk" tags="adj.*"/>
+        <match lemma="global" tags="adj.*"/>
+     </or>
+
+	<match lemma="utsikt" tags="n.*">
+		<select lemma="prospect" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+          <or>
+  	<match lemma="Særskilt" tags="adj.*"/>
+	<match lemma="lang" tags="adj.*"/>
+  </or>	
+	<match lemma="skjema" tags="n.*">
+		<select lemma="form" tags="n.*"/>
+	</match>
+
+</rule>	
+
+
+<rule>
+       <or>
+       
+        <match lemma="harde" tags="adj.*"/>
+	<match lemma="bløt" tags="adj.*"/>
+
+     </or>
+	
+	<match lemma="kjerne" tags="n.*">
+		<select lemma="core" tags="n.*"/>
+	</match>
+</rule>
+
+
+
+
+	<rule>
+		<match lemma="gjøre" tags="*"/>	
+ 	 <or>
+  		<match lemma="god" tags="adj.*"/>
+  		<match lemma="dårlig" tags="adj.*"/>
+ 	 </or>
+  		<match lemma="gjerning" tags="n.*">
+  			<select lemma="work" tags="n.*"/>
+  		</match>
+</rule>
+
+<rule>
+    <or>
+        <match lemma="vitenskapelig" tags="adj.*"/>
+        <match lemma="kriminell" tags="adj.*"/>
+    </or>
+        <match lemma="bevis" tags="n.*">
+        <select lemma="evidence" tags="n.*"/></match>
+</rule>
+
+
+<rule>
+    
+	<match lemma="solid" tags="adj.*"/>
+	
+	<match lemma="kant" tags="n.*">
+		<select lemma="edge" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+
+      <or>    
+        <match lemma="svak" tags="adj.*"/>
+        <match lemma="sterk" tags="adj.*"/>
+ 	  </or>	
+	<match lemma="punkt" tags="n.*">
+		<select lemma="point" tags="n.*"/>
+    </match>
+
+
+</rule>
+
+<rule>
+
+	<match lemma="tradisjonell" tags="adj.*"/>
+
+	<match lemma="terskel" tags="n.m.*">
+		<select lemma="threshold" tags="n.*"/>
+	</match>
+</rule>
+
+
+
+<rule>
+
+       <match lemma="økonomisk" tags="adj.*"/>
+	<match lemma="anlegg" tags="n.*">
+		<select lemma="capacity" tags="n.*"/>
+	</match>
+		
+</rule>	
+
+
+<rule>
+
+       <match lemma="operativ" tags="adj.*"/>
+	<match lemma="anlegg" tags="n.*">
+		<select lemma="facility" tags="n.*"/>
+	</match>
+		
+</rule>	
+
+
+
+<rule>
+
+ <match lemma="internasjonal" tags="adj.*"/>
+
+  <match lemma="konvensjon" tags="n.m.*">
+
+  <select lemma="convention" tags="n.*"/>
+
+ </match>
+
+ </rule>
+
+
+<rule>
+	<match lemma="politisk" tags="adj.*"/>
+	<match lemma="asyl" tags="n.*">
+		<select lemma="asylum" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+	<match lemma="trist" tags="adj.*"/>
+	<match lemma="avskjed" tags="n.*">
+		<select lemma="farewell" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+	<match lemma="endelig" tags="adj.*"/>
+	<match lemma="avslag" tags="n.*">
+		<select lemma="rejection" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+	<match lemma="kraftig" tags="adj.*"/>
+	<match lemma="avstand" tags="n.*">
+		<select lemma="distance" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+	<match lemma="smart" tags="adj.*"/>
+	<match lemma="bedrag" tags="n.*">
+		<select lemma="deception" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+	<match lemma="privat" tags="adj.*"/>
+	<match lemma="begravelse" tags="n.*">
+		<select lemma="funeral" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+	<match lemma="bedrageri" tags="*"/>
+	<match lemma="beskyttelse" tags="n.*">
+		<select lemma="protection" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+	<match lemma="lojal" tags="*"/>
+	<match lemma="bidragsyter" tags="n.*">
+		<select lemma="contributor" tags="n.*"/>
+	</match>
+</rule>
+
+
+
+<rule>    
+	<match lemma="egenskap" tags="*"/>
+	<match lemma="gjerning" tags="n.*">
+		<select lemma="deed" tags="n.*"/>
+	</match>
+</rule>
+
+
+
+<rule>
+	<match lemma="gjøre" tags="*"/>	
+ <or>
+	<match lemma="god" tags="adj.*"/>
+	<match lemma="dårlig" tags="adj.*"/>
+ </or>
+	<match lemma="gjerning" tags="n.*">
+		<select lemma="work" tags="n.*"/>
+	</match>
+</rule>
+
+
+
+<rule>
+	<match lemma="jury" tags="n.m.*"/>
+	<match lemma="kasse" tags="n.*">
+		<select lemma="box" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+  <or>
+	<match lemma="politisk" tags="adj.*"/>
+	<match lemma="statlig" tags="adj.*"/>
+  </or>
+  	<match lemma="handling" tags="n.*">
+  		<select lemma="action" tags="n.*"/>
+  	</match>
+</rule> 
+
+
+
+<rule>   
+  <or>
+	<match lemma="vegg" tags="*"/>
+	<match lemma="dør" tags="*"/>
+        <match lemma="bro" tags="*"/>
+
+  </or>	
+	<match lemma="skjelett" tags="n.*">
+		<select lemma="framework" tags="n.*"/>
+	</match>	
+</rule>  
+
+
+<rule>
+	<match lemma="lag" tags="n.*">
+		<select lemma="layer" tags="n.*"/>
+	</match>
+	<match lemma="av" tags="pr"/>
+	
+	<match lemma="maleri" tags="n.*"/>
+</rule> 
+
+
+<rule>
+  <or>   
+	<match lemma="bank" tags="*"/>
+	<match lemma="frø" tags="*"/>
+  </or>	
+	<match lemma="hvelv" tags="n.*">
+		<select lemma="vault" tags="n.*"/>
+	</match>  
+</rule>
+
+
+
+<rule>   
+  <or>
+  	<match lemma="offentlig" tags="adj.*"/>
+
+  	<match lemma="vanlig" tags="adj.*"/>
+  </or>
+  	<match lemma="konsern" tags="n.*">
+  		<select lemma="concern" tags="n.*"/>
+  	</match>
+</rule>
+
+
+
+
+<rule>
+	 
+      
+	<match lemma="med" tags="pr"/>
+	<match lemma="stil" tags="n.*">
+		<select lemma="style" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+     <or>
+	<match lemma="anbringelse" tags="*"/>
+        <match lemma="Særskilt" tags="*"/>
+     </or>
+
+	<match lemma="skjema" tags="n.*">
+		<select lemma="form" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+       <or>
+       
+        <match lemma="fersken" tags="*"/>
+	<match lemma="eple" tags="*"/>
+        <match lemma="pære" tags="*"/>
+     </or>
+	
+	<match lemma="kjerne" tags="n.*">
+		<select lemma="core" tags="n.*"/>
+	</match>
+</rule>
+
+
+
+<rule>
+	<match lemma="bevis" tags="n.*">
+		<select lemma="proof" tags="n.*"/>
+	</match>
+	<or>	         
+	<match lemma="begrep" tags="*"/>
+	<match lemma="liv" tags="*"/>
+	<match lemma="innkjøp" tags="*"/>
+	</or>
+</rule>
+
+
+
+<rule>
+  	<match lemma="eksplosiv" tags="adj.*"/>
+	<match lemma="erklæring" tags="n.*">
+		<select lemma="declaration" tags="n.*"/>
+	</match>
+</rule>
+
+
+
+
+
+<rule>
+    <or>
+	<match lemma="krig" tags="*"/>
+        <match lemma="bank" tags="*"/>
+    </or>
+	<match lemma="erklæring" tags="n.*">
+		<select lemma="statement" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+    <or>               
+
+        <match lemma="fjell" tags="n.*"/>
+	<match lemma="båt" tags="n.m.*"/>
+   </or>
+        <match lemma="kant" tags="n.*">
+	<select lemma="edge" tags="n.*"/>
+	</match>
+	</rule>
+
+<rule>
+
+   <or>	
+	<match lemma="kollapse" tags="*"/>
+	<match lemma="sult" tags="*"/>
+	<match lemma="konkurs" tags="*"/>
+   </or>	
+	<match lemma="kant" tags="n.*">
+	    <select lemma="brink" tags="n.*"/>
+	</match>	
+
+</rule>	
+
+
+<rule>
+	<match lemma="stå" tags="vblex.*"/>
+	<match lemma="på" tags="pr"/>
+	
+	<match lemma="kant" tags="n.*">
+		<select lemma="edge" tags="n.*"/>
+	</match>
+</rule>
+
+
+
+
+<rule>
+	<match lemma="kant" tags="n.*">
+		<select lemma="edge" tags="n.*"/>
+	</match>
+	<match lemma="av" tags="pr"/>
+
+  <or>
+  	<match lemma="trevirke" tags="n.pl"/>
+  	<match lemma="skog" tags="*"/>
+  </or>	
+</rule>	
+
+
+   
+<rule>
+  <or>  	       
+    <match lemma="strand" tags="n.*"/>
+
+    <match lemma="elv" tags="n.*"/>
+
+    <match lemma="strøm" tags="n.*"/> 
+  </or>
+   
+	<match lemma="kant" tags="n.*">
+		<select lemma="side" tags="n.*"/>
+	</match>
+
+</rule>	
+
+  	<rule>
+  		<match lemma="atombombe" tags="n.*"/>
+  		<match lemma="skrekk" tags="n.*">
+  			<select lemma="scare" tags="n.*"/>
+  		</match>
+  	</rule>
+
+
+<rule>
+	<match lemma="punkt" tags="n.*">
+		<select lemma="point" tags="n.*"/>
+	</match>
+	<match lemma="av" tags="pr"/>
+    <or>		
+
+     <match lemma="korrupsjon" tags="n.m.*"/>
+
+ 	<match lemma="fiasko" tags="n.m.*"/>
+</or> 	
+
+</rule>
+
+
+
+<rule>
+	<match lemma="terskel" tags="n.m.*">
+		<select lemma="threshold" tags="n.*"/>
+	</match>
+	<match lemma="av" tags="pr"/>
+
+  	<match lemma="krise" tags="*"/>
+</rule>  
+
+
+<rule>
+	<match lemma="slutt" tags="n.m.*">
+		<select lemma="end" tags="n.*"/>
+	</match>
+	<match lemma="av" tags="pr"/>
+	<match lemma="kile" tags="*"/>
+</rule>	
+
+
+
+<rule>
+  <or>
+  	<match lemma="bølge" tags="*"/>
+  	
+
+  	<match lemma="atom" tags="*"/>
+  
+  	<match lemma="naturgass" tags="*"/>
+  </or>	
+	<match lemma="kraft" tags="n.*">
+		<select lemma="energy" tags="n.*"/>
+	</match>
+</rule>	
+
+
+
+<rule>
+	<match lemma="anlegg" tags="n.*">
+		<select lemma="capacity" tags="n.*"/>
+	</match>
+	<match lemma="av" tags="pr"/>
+
+ 
+	<match lemma="økonomi" tags="*"/>
+</rule>	
+
+<rule>
+	<match lemma="usunn" tags="adj.*"/>
+	<match lemma="avhengighet" tags="n.*">
+		<select lemma="dependence" tags="n.*"/>
+	</match>
+</rule>
+
+
+<rule>
+  <match lemma="stil" tags="n.*">
+      <select lemma="style" tags="n.*"/>
+  </match>
+  
+  <match lemma="av" tags="pr"/>
+<or>
+
+  <match lemma="påkledning" tags="*"/>
+  <match lemma="kunst" tags="*"/>
+</or>    
+</rule>
+
+ 	<rule>
+
+  		<match lemma="prat" tags="*"/>
+  		<match lemma="rom" tags="n.*">
+  			<select lemma="room" tags="n.*"/>
+  		</match>
+  	</rule>
+
+
+
+
 </rules>
