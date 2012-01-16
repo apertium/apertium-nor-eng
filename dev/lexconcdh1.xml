@@ -1,0 +1,217 @@
+<rules>
+     
+    <rule>
+     
+            <match lemma="krav" tags="n.*">
+                    <select lemma="requirement" tags="n.*"/>
+            </match>
+            <match lemma="til" tags="pr"/>
+    </rule>
+         
+     
+    <rule>
+         <or>
+            <match lemma="detalj" tags="*"/>
+            <match lemma="klar" tags="*"/>
+            <match lemma="møte" tags="n.*"/>
+            <match lemma="margin" tags="n.*"/>
+         </or>
+     
+            <match lemma="krav" tags="n.*">
+             
+            <select lemma="requirement" tags="n.*"/>
+           
+           </match>              
+                   
+    </rule>
+
+       
+    <rule>
+       <or>
+        <match lemma="betydningsfull" tags="adj.*"/>
+        <match lemma="forutsetning" tags="adj.*"/>
+       </or>
+        <match lemma="krav" tags="n.*">
+                <select lemma="requirement" tags="n.*"/>
+        </match>
+       
+       <match lemma="for" tags="pr"/>
+   </rule>
+ 
+
+ 
+    <rule>
+
+    <match lemma="land" tags="n.*"/>
+    <match lemma="krav" tags="n.*">
+ 
+        <select lemma="requisition" tags="n.*"/>
+    </match>
+    
+    </rule>
+
+    <rule>
+     
+        <match lemma="krav" tags="n.*">
+             <select lemma="requisition" tags="n.*"/>
+        </match>
+       <or>
+          <match lemma="profil" tags="n.*"/>
+          <match lemma="skjema" tags="n.*"/>
+          <match lemma="brev" tags="n.*"/> 
+       </or>
+        
+    </rule>
+
+
+    <rule>
+             
+        <or>   
+ 
+        <match lemma="kraft" tags="n.*"/>
+        <match lemma="trussel" tags="n.*"/>
+ 
+        <match lemma="reaksjon" tags="n.*"/>
+        <match lemma="motsetning" tags="n.*"/>
+        </or>
+        <match lemma="til" tags="pr"/>
+         <match lemma="krav" tags="n.*">
+       
+                <select lemma="requisition" tags="n.*"/>
+        </match> 
+               
+        </rule>
+ 
+ 
+
+
+ 
+    <rule>
+        <match lemma="krav" tags="n.*">
+            <select lemma="demand" tags="n.*"/>
+        </match>
+        <match lemma="på" tags="pr"/>
+        </rule>
+  
+    <rule>
+        <match lemma="krav" tags="n.*">
+             <select lemma="demand" tags="n.*"/>
+        </match>
+        
+        <or>
+        <match lemma="kraft" tags="n.*"/>
+        <match lemma="lydighet" tags="n.*"/>
+        </or>
+       
+    </rule>
+ 
+      
+  <rule>
+       
+   <match lemma="krav" tags="n.*">
+        <select lemma="demand" tags="n.*"/>
+   </match>
+ 
+   <match lemma="og" tags="cnjcoo"/>  
+ 
+   <or>
+   <match lemma="tilbud" tags="n.*"/>
+   <match lemma="forbruk" tags="n.*"/>
+   </or>
+             
+               
+</rule>
+ 
+    <rule>    
+        <or>
+        <match lemma="utstede" tags="vblex.*"/>
+        <match lemma="belønning" tags="n"/>
+        <match lemma="reisegods" tags="n.*"/>
+        <match lemma="stake" tags="n.*"/>
+        <match lemma="gehør" tags="n.*"/>
+        <match lemma="forsikringsselskap" tags="n.*"/>
+        <match lemma="eiendom" tags="n.*"/>
+        <match lemma="umulig" tags="adj.*"/>
+        <match lemma="ulovlig" tags="adj.*"/>
+        <match lemma="ugyldig" tags="adj.*"/>
+        </or>
+           
+        <match lemma="krav" tags="n.*">
+             <select lemma="claim" tags="n.*"/>
+        </match>
+           
+    </rule>
+     
+     
+    <rule>
+  
+        <match lemma="krav" tags="n.*">
+             <select lemma="claim" tags="n.*"/>
+        </match>
+        <match lemma="til" tags="pr"/>
+        <or>
+        <match lemma="Høyre" tags="n.*"/>
+        <match lemma="polise" tags="n.*"/>
+        <match lemma="verdi" tags="n.*"/>
+        </or>
+     
+    </rule>
+      
+   <rule>
+   
+        <match lemma="erklæring" tags="n.*"/>
+ 
+        <match lemma="av" tags="pr"/>
+       <match lemma="krav" tags="n.*">
+       
+                <select lemma="claim" tags="n.*"/>
+        </match>
+       
+       
+   </rule>     
+
+    <rule>
+     
+       <or>
+          <match lemma="politisk" tags="adj.*"/>
+          <match lemma="økonomisk" tags="adj.*"/>
+     
+       </or>
+        <match lemma="krav" tags="n.*">
+             <select lemma="constraint" tags="n.*"/>
+        </match>
+
+    </rule>
+     
+
+    <rule>
+     
+       <or>
+          <match lemma="jobb" tags="n.*"/>
+          <match lemma="tverretatlig" tags="adj.*"/>
+         <match lemma="tvunget" tags="adj.*"/>
+     
+     
+       </or>
+        <match lemma="krav" tags="n.*">
+             <select lemma="constraint" tags="n.*"/>
+        </match>
+          
+    </rule>
+     
+
+    <rule>
+         <match lemma="krav" tags="n.*">
+           
+                 <select lemma="constraint" tags="n.*"/>
+         </match>
+         <match lemma="av" tags="pr"/>
+           
+         <match lemma="militær" tags="*"/>
+         <match lemma="liv" tags="*"/>
+           
+    </rule>
+ 
+
+     
+    </rules>

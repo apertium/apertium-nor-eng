@@ -33,6 +33,7 @@ dev/generation-report.txt -text
 dev/generation-test.sh -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
+dev/lexconcdh1.xml -text
 dev/missing-bidix-freq.sh -text
 dev/testsentences -text
 dev/testvoc.sh -text
