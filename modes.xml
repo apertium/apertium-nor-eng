@@ -245,10 +245,12 @@
         <file name="no-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="no-en.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-no-en.no-en.t1x"/>
         <file name="no-en.t1x.bin"/>
-        <file name="no-en.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-no-en.no-en.t2x"/>
@@ -271,5 +273,42 @@
       </program>
     </pipeline>
   </mode>
+
+  <mode name="no-en-debug" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nb-en.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nb-en.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="no-en.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="no-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="no-en.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-no-en.no-en.t1x"/>
+        <file name="no-en.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-no-en.no-en.t2x"/>
+        <file name="no-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-no-en.no-en.t3x"/>
+        <file name="no-en.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="no-en.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
 
 </modes>
