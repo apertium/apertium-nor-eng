@@ -1,0 +1,11 @@
+
+
+Compile as usual, but the 
+
+ make
+
+command should be replaced by
+
+ make MK_EN=../../trunk/apertium-mk-en/ NN_NB=../../trunk/apertium-nn-nb/
+
+
