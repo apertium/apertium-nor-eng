@@ -1,4 +1,4 @@
-
+Requires apertium-nob installed (or use ./configure NOBSRC=/path/to/apertium-nob)
 
 Compile as usual, but the 
 
@@ -6,6 +6,6 @@ Compile as usual, but the
 
 command should be replaced by
 
- make MK_EN=../../trunk/apertium-mk-en/ NN_NB=../../trunk/apertium-nn-nb/
+ make MK_EN=../../trunk/apertium-mk-en/
 
 

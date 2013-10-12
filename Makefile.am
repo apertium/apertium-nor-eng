@@ -36,12 +36,10 @@ $(PREFIX1b).automorf.bin: $(BASENAME).$(LANG1b).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG1b).dix
 	lt-comp lr $(BASENAME).$(LANG1b).dix $@
 
-$(PREFIX1b).rlx.bin: $(NN_NB)/apertium-nn-nb.nb-nn.rlx
-	cg-comp $(NN_NB)/apertium-nn-nb.nb-nn.rlx $@
+$(PREFIX1b).rlx.bin: $(NOBSRC)/apertium-nob.nob.rlx
+	cg-comp $(NOBSRC)/apertium-nob.nob.rlx $@
 
-
-# nn-nn TODO
-
+# nn-en TODO
 
 # no-en (files common to both nb-nn and nn-en)
 $(PREFIX1).lex.bin: $(BASENAME).$(PREFIX1).lex

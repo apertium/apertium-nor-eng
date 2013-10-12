@@ -11,6 +11,10 @@ AM_INIT_AUTOMAKE([apertium-no-en], [0.1.0], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 
+PKG_CHECK_MODULES([APERTIUM_NOB],[apertium-nob])
+AC_ARG_VAR(NOBSRC, "Source directory for apertium-nob")
+AS_IF([test -z "$NOBSRC"], [NOBSRC=`pkg-config --variable=srcdir apertium-nob`])
+
 AC_DEFUN([PKG_CHECK_APERTIUM], [
   APERTIUM_VER=0
   PKG_CHECK_MODULES(APERTIUM, apertium-3.0 >= 3.0.0,
