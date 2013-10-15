@@ -1,17 +1,26 @@
-VERSION=0.1.0
-LANG1=no
-LANG1b=nb
-LANG1n=nn
-LANG2=en
+bVERSION=0.1.0
+LANG1=nor
+LANG1b=nob
+LANG1n=nno
+LANG1ne=nn_e
+LANG1na=nn_a
+LANG2=eng
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX1b=$(LANG1b)-$(LANG2)
 PREFIX1n=$(LANG1n)-$(LANG2)
+SRC1n=$(NNOSRC)
+SRC1b=$(NOBSRC)
+#SRC2=ENGSRC TODO
 
 BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON = \
+     $(PREFIX1n).automorf.bin \
+     $(PREFIX1n).rlx.bin \
+     $(PREFIX1n).prob \
      $(PREFIX1b).automorf.bin \
      $(PREFIX1b).rlx.bin \
+     $(PREFIX1b).prob \
      $(PREFIX1).lex.bin \
      $(PREFIX1).autobil.bin \
      $(PREFIX1).t1x.bin \
@@ -31,15 +40,28 @@ TARGETS_COMMON = \
 #.deps/$(BASENAME).$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix lexchoicebil.xsl .deps/.d
 #	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
 
-# nb-en
-$(PREFIX1b).automorf.bin: $(BASENAME).$(LANG1b).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG1b).dix
-	lt-comp lr $(BASENAME).$(LANG1b).dix $@
+# nob-eng
+$(PREFIX1b).automorf.bin: $(SRC1b)/apertium-$(LANG1b).$(LANG1b).dix
+	apertium-validate-dictionary $<
+	lt-comp lr $< $@
 
-$(PREFIX1b).rlx.bin: $(NOBSRC)/apertium-nob.nob.rlx
-	cg-comp $(NOBSRC)/apertium-nob.nob.rlx $@
+$(PREFIX1b).rlx.bin: $(SRC1b)/apertium-$(LANG1b).$(LANG1b).rlx
+	cg-comp $< $@
 
-# nn-en TODO
+$(PREFIX1b).prob: $(SRC1b)/$(LANG1b).prob
+	cp $< $@
+
+# nno-eng
+$(PREFIX1n).automorf.bin: $(SRC1n)/apertium-$(LANG1n).$(LANG1n).dix $(SRC1n)/alt.xsl .deps/.d
+	xsltproc --stringparam alt $(LANG1na) $(SRC1n)/alt.xsl $< > .deps/$@
+	apertium-validate-dictionary .deps/$@
+	lt-comp lr .deps/$@ $@
+
+$(PREFIX1n).rlx.bin: $(SRC1n)/apertium-$(LANG1n).$(LANG1n).rlx
+	cg-comp $< $@
+
+$(PREFIX1n).prob: $(SRC1n)/$(LANG1n).prob
+	cp $< $@
 
 # no-en (files common to both nb-nn and nn-en)
 $(PREFIX1).lex.bin: $(BASENAME).$(PREFIX1).lex
@@ -74,7 +96,8 @@ $(PREFIX1).autopgen.bin: $(MK_EN)/apertium-mk-en.post-en.dix
 
 EXTRA_DIST=$(BASENAME).$(LANG1b).dix \
            $(BASENAME).$(PREFIX1b).rlx \
-           $(PREFIX1).prob \
+           $(PREFIX1n).prob \
+           $(PREFIX1b).prob \
 	   $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(PREFIX1).t1x \
 	   $(BASENAME).$(PREFIX1).t2x \
@@ -90,7 +113,6 @@ modes/$(PREFIX1).mode: modes.xml
 	cp *.mode modes/
 
 apertium_no_en_DATA=$(TARGETS_COMMON) \
-                    $(PREFIX1).prob   \
 		    modes.xml 
 
 noinst_DATA=modes/$(PREFIX1).mode

@@ -15,6 +15,10 @@ PKG_CHECK_MODULES([APERTIUM_NOB],[apertium-nob])
 AC_ARG_VAR(NOBSRC, "Source directory for apertium-nob")
 AS_IF([test -z "$NOBSRC"], [NOBSRC=`pkg-config --variable=srcdir apertium-nob`])
 
+PKG_CHECK_MODULES([APERTIUM_NNO],[apertium-nno])
+AC_ARG_VAR(NNOSRC, "Source directory for apertium-nno")
+AS_IF([test -z "$NNOSRC"], [NNOSRC=`pkg-config --variable=srcdir apertium-nno`])
+
 AC_DEFUN([PKG_CHECK_APERTIUM], [
   APERTIUM_VER=0
   PKG_CHECK_MODULES(APERTIUM, apertium-3.0 >= 3.0.0,

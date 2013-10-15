@@ -1,311 +1,623 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
-  <mode name="no-en-morph">
+  <mode name="nob-eng-morph">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="no-en-morph-cmpd">
+  <mode name="nob-eng-morph-cmpd">
     <pipeline>
       <program name="lt-proc -e -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="no-en-constraint">
+  <mode name="nob-eng-constraint">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="nb-en.rlx.bin"/>
+        <file name="nob-eng.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="no-en-biltrans">
+  <mode name="nob-eng-biltrans">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="nb-en.rlx.bin"/>
+        <file name="nob-eng.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="no-en.lex.bin"/>
+        <file name="nor-eng.lex.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="no-en.prob"/>
+        <file name="nob-eng.prob"/>
       </program>
       <program name="lt-proc -b">
-        <file name="no-en.autobil.bin"/>
+        <file name="nor-eng.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="no-en-tagger">
+  <mode name="nob-eng-tagger">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="nb-en.rlx.bin"/>
+        <file name="nob-eng.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="no-en.lex.bin"/>
+        <file name="nor-eng.lex.bin"/>
       </program>
       <program name="apertium-tagger -p -g">
-        <file name="no-en.prob"/>
+        <file name="nob-eng.prob"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="no-en-lex">
+  <mode name="nob-eng-lex">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="nb-en.rlx.bin"/>
+        <file name="nob-eng.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="no-en.lex.bin"/>
+        <file name="nor-eng.lex.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="no-en-chunker">
+  <mode name="nob-eng-chunker">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="nb-en.rlx.bin"/>
+        <file name="nob-eng.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="no-en.lex.bin"/>
+        <file name="nor-eng.lex.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="no-en.prob"/>
+        <file name="nob-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-no-en.no-en.t1x"/>
-        <file name="no-en.t1x.bin"/>
-        <file name="no-en.autobil.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+        <file name="nor-eng.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="no-en-interchunk">
+  <mode name="nob-eng-interchunk">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="nb-en.rlx.bin"/>
+        <file name="nob-eng.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="no-en.lex.bin"/>
+        <file name="nor-eng.lex.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="no-en.prob"/>
+        <file name="nob-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-no-en.no-en.t1x"/>
-        <file name="no-en.t1x.bin"/>
-        <file name="no-en.autobil.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+        <file name="nor-eng.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-no-en.no-en.t2x"/>
-        <file name="no-en.t2x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="no-en-postchunk-nocg"> <!-- For generation test script -->
+  <mode name="nob-eng-postchunk-nocg"> <!-- For generation test script -->
     <pipeline>
       <program name="lt-proc">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="no-en.prob"/>
+        <file name="nob-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-no-en.no-en.t1x"/>
-        <file name="no-en.t1x.bin"/>
-        <file name="no-en.autobil.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+        <file name="nor-eng.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-no-en.no-en.t2x"/>
-        <file name="no-en.t2x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-no-en.no-en.t3x"/>
-        <file name="no-en.t3x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t3x"/>
+        <file name="nor-eng.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="no-en-postchunk">
+  <mode name="nob-eng-postchunk">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="nb-en.rlx.bin"/>
+        <file name="nob-eng.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="no-en.lex.bin"/>
+        <file name="nor-eng.lex.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="no-en.prob"/>
+        <file name="nob-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-no-en.no-en.t1x"/>
-        <file name="no-en.t1x.bin"/>
-        <file name="no-en.autobil.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+        <file name="nor-eng.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-no-en.no-en.t2x"/>
-        <file name="no-en.t2x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-no-en.no-en.t3x"/>
-        <file name="no-en.t3x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t3x"/>
+        <file name="nor-eng.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="no-en-cmpd">
+  <mode name="nob-eng-cmpd">
     <pipeline>
       <program name="lt-proc -e -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="nb-en.rlx.bin"/>
+        <file name="nob-eng.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="no-en.lex.bin"/>
+        <file name="nor-eng.lex.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="no-en.prob"/>
+        <file name="nob-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-no-en.no-en.t1x"/>
-        <file name="no-en.t1x.bin"/>
-        <file name="no-en.autobil.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+        <file name="nor-eng.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-no-en.no-en.t2x"/>
-        <file name="no-en.t2x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-no-en.no-en.t3x"/>
-        <file name="no-en.t3x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t3x"/>
+        <file name="nor-eng.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="no-en.autogen.bin"/>
+        <file name="nor-eng.autogen.bin"/>
       </program>
 <!--
       <program name="lt-proc -t">
-        <file name="no-en.alpha.bin"/>
+        <file name="nor-eng.alpha.bin"/>
       </program>
 -->
       <program name="lt-proc -p">
-        <file name="no-en.autopgen.bin"/>
+        <file name="nor-eng.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="no-en" install="yes">
+  <mode name="nob-eng" install="yes">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="nb-en.rlx.bin"/>
+        <file name="nob-eng.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="no-en.lex.bin"/>
+        <file name="nor-eng.lex.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="no-en.prob"/>
+        <file name="nob-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="no-en.autobil.bin"/>
+        <file name="nor-eng.autobil.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-no-en.no-en.t1x"/>
-        <file name="no-en.t1x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-no-en.no-en.t2x"/>
-        <file name="no-en.t2x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-no-en.no-en.t3x"/>
-        <file name="no-en.t3x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t3x"/>
+        <file name="nor-eng.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="no-en.autogen.bin"/>
+        <file name="nor-eng.autogen.bin"/>
       </program>
 <!--
       <program name="lt-proc -t">
-        <file name="no-en.alpha.bin"/>
+        <file name="nor-eng.alpha.bin"/>
       </program>
 -->
       <program name="lt-proc -p">
-        <file name="no-en.autopgen.bin"/>
+        <file name="nor-eng.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="no-en-debug" install="no">
+  <mode name="nob-eng-debug" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="nb-en.automorf.bin"/>
+        <file name="nob-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="nb-en.rlx.bin"/>
+        <file name="nob-eng.rlx.bin"/>
       </program>
       <program name="cg-proc -w">
-        <file name="no-en.lex.bin"/>
+        <file name="nor-eng.lex.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="no-en.prob"/>
+        <file name="nob-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="no-en.autobil.bin"/>
+        <file name="nor-eng.autobil.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-no-en.no-en.t1x"/>
-        <file name="no-en.t1x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-no-en.no-en.t2x"/>
-        <file name="no-en.t2x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-no-en.no-en.t3x"/>
-        <file name="no-en.t3x.bin"/>
+        <file name="apertium-nor-eng.nor-eng.t3x"/>
+        <file name="nor-eng.t3x.bin"/>
       </program>
       <program name="lt-proc -d">
-        <file name="no-en.autogen.bin"/>
+        <file name="nor-eng.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- nno-eng -->
+
+  <mode name="nno-eng-morph">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="nno-eng-morph-cmpd">
+    <pipeline>
+      <program name="lt-proc -e -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="nno-eng-constraint">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="nno-eng.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="nno-eng-biltrans">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nno-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="nor-eng.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="nno-eng.prob"/>
+      </program>
+      <program name="lt-proc -b">
+        <file name="nor-eng.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="nno-eng-tagger">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nno-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="nor-eng.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -p -g">
+        <file name="nno-eng.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="nno-eng-lex">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nno-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="nor-eng.lex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="nno-eng-chunker">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nno-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="nor-eng.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="nno-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+        <file name="nor-eng.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="nno-eng-interchunk">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nno-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="nor-eng.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="nno-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+        <file name="nor-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="nno-eng-postchunk-nocg"> <!-- For generation test script -->
+    <pipeline>
+      <program name="lt-proc">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="nno-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+        <file name="nor-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-nor-eng.nor-eng.t3x"/>
+        <file name="nor-eng.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="nno-eng-postchunk">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nno-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="nor-eng.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="nno-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+        <file name="nor-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-nor-eng.nor-eng.t3x"/>
+        <file name="nor-eng.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="nno-eng-cmpd">
+    <pipeline>
+      <program name="lt-proc -e -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nno-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="nor-eng.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="nno-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+        <file name="nor-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-nor-eng.nor-eng.t3x"/>
+        <file name="nor-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="nor-eng.autogen.bin"/>
+      </program>
+<!--
+      <program name="lt-proc -t">
+        <file name="nor-eng.alpha.bin"/>
+      </program>
+-->
+      <program name="lt-proc -p">
+        <file name="nor-eng.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="nno-eng" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nno-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="nor-eng.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="nno-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="nor-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-nor-eng.nor-eng.t3x"/>
+        <file name="nor-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="nor-eng.autogen.bin"/>
+      </program>
+<!--
+      <program name="lt-proc -t">
+        <file name="nor-eng.alpha.bin"/>
+      </program>
+-->
+      <program name="lt-proc -p">
+        <file name="nor-eng.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="nno-eng-debug" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nno-eng.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="nno-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="nor-eng.lex.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="nno-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="nor-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-nor-eng.nor-eng.t1x"/>
+        <file name="nor-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-nor-eng.nor-eng.t2x"/>
+        <file name="nor-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-nor-eng.nor-eng.t3x"/>
+        <file name="nor-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="nor-eng.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
