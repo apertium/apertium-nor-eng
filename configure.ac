@@ -19,30 +19,7 @@ PKG_CHECK_MODULES([APERTIUM_NNO],[apertium-nno])
 AC_ARG_VAR(NNOSRC, "Source directory for apertium-nno")
 AS_IF([test -z "$NNOSRC"], [NNOSRC=`pkg-config --variable=srcdir apertium-nno`])
 
-AC_DEFUN([PKG_CHECK_APERTIUM], [
-  APERTIUM_VER=0
-  PKG_CHECK_MODULES(APERTIUM, apertium-3.0 >= 3.0.0,
-  [
-    APERTIUM_VER=30
-  ],
-  [
-    PKG_CHECK_MODULES(APERTIUM, apertium-3.1 >= 3.1.0,
-    [
-      APERTIUM_VER=31
-    ],
-    [
-      PKG_CHECK_MODULES(APERTIUM, apertium-3.2 >= 3.2.0,
-      [
-        APERTIUM_VER=31
-      ],
-      [
-        PKG_CHECK_MODULES(APERTIUM, apertium-3.3 >= 3.3.0)
-        APERTIUM_VER=33
-      ])
-    ])
-  ])
-  AC_SUBST(APERTIUM_VER)
-])
+PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version, [], [PKG_CHECK_MODULES(APERTIUM,   apertium-3.2 >= required_apertium_version)])
 
 AC_DEFUN([PKG_CHECK_LTTOOLBOX], [
   LTTOOLBOX_VER=0
@@ -67,9 +44,7 @@ AC_DEFUN([PKG_CHECK_LTTOOLBOX], [
     ])
   ])
   AC_SUBST(LTTOOLBOX_VER)
-])
 
-PKG_CHECK_APERTIUM
 PKG_CHECK_LTTOOLBOX
 
 
