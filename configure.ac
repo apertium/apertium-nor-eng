@@ -11,41 +11,10 @@ AM_INIT_AUTOMAKE([apertium-no-en], [0.1.0], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 
-PKG_CHECK_MODULES([APERTIUM_NOB],[apertium-nob])
-AC_ARG_VAR(NOBSRC, "Source directory for apertium-nob")
-AS_IF([test -z "$NOBSRC"], [NOBSRC=`pkg-config --variable=srcdir apertium-nob`])
 
-PKG_CHECK_MODULES([APERTIUM_NNO],[apertium-nno])
-AC_ARG_VAR(NNOSRC, "Source directory for apertium-nno")
-AS_IF([test -z "$NNOSRC"], [NNOSRC=`pkg-config --variable=srcdir apertium-nno`])
 
 PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version, [], [PKG_CHECK_MODULES(APERTIUM,   apertium-3.2 >= required_apertium_version)])
-
-AC_DEFUN([PKG_CHECK_LTTOOLBOX], [
-  LTTOOLBOX_VER=0
-  PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox-3.0 >= 3.0.0,
-  [
-    LTTOOLBOX_VER=30
-  ],
-  [
-    PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox-3.1 >= 3.1.0,
-    [
-      LTTOOLBOX_VER=31
-    ],
-    [
-      PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox-3.2 >= 3.2.0,
-      [
-        LTTOOLBOX_VER=31
-      ],
-      [
-        PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox-3.3 >= 3.3.0)
-        LTTOOLBOX_VER=33
-      ])
-    ])
-  ])
-  AC_SUBST(LTTOOLBOX_VER)
-
-PKG_CHECK_LTTOOLBOX
+PKG_CHECK_MODULES(LTTOOLBOX,   lttoolbox >= required_lttoolbox_version, [], [PKG_CHECK_MODULES(LTTOOLBOX,   lttoolbox-3.2 >= required_lttoolbox_version)])
 
 
 AC_PATH_PROG(CGCOMP, cg-comp, no)
@@ -67,6 +36,23 @@ if test x$ac_cv_path_CGPROC = xno
 then
   AC_MSG_ERROR([You don't have cg-proc installed.])
 fi
+
+
+AC_ARG_VAR(NNOSRC, "Source directory for apertium-nno")
+AS_IF([test -z "$NNOSRC"],
+      [
+          PKG_CHECK_MODULES([APERTIUM_NNO], [apertium-nno])
+          NNOSRC=`pkg-config --variable=srcdir apertium-nno`
+      ],
+      [echo "Using apertium-nno from $NNOSRC"])
+
+AC_ARG_VAR(NOBSRC, "Source directory for apertium-nob")
+AS_IF([test -z "$NOBSRC"],
+      [
+          PKG_CHECK_MODULES([APERTIUM_NOB], [apertium-nob])
+          NOBSRC=`pkg-config --variable=srcdir apertium-nob`
+      ],
+      [echo "Using apertium-nob from $NOBSRC"])
 
 
 AC_OUTPUT([Makefile])
