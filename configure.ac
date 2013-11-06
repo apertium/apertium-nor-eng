@@ -38,21 +38,9 @@ then
 fi
 
 
-AC_ARG_VAR(NNOSRC, "Source directory for apertium-nno")
-AS_IF([test -z "$NNOSRC"],
-      [
-          PKG_CHECK_MODULES([APERTIUM_NNO], [apertium-nno])
-          NNOSRC=`pkg-config --variable=srcdir apertium-nno`
-      ],
-      [echo "Using apertium-nno from $NNOSRC"])
+m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertium.m4 in ACLOCAL_PATH? See: http://wiki.apertium.org/wiki/Installation_troubleshooting])])
 
-AC_ARG_VAR(NOBSRC, "Source directory for apertium-nob")
-AS_IF([test -z "$NOBSRC"],
-      [
-          PKG_CHECK_MODULES([APERTIUM_NOB], [apertium-nob])
-          NOBSRC=`pkg-config --variable=srcdir apertium-nob`
-      ],
-      [echo "Using apertium-nob from $NOBSRC"])
-
+AP_CHECK_LING([1n], [apertium-nno])
+AP_CHECK_LING([1b], [apertium-nob])
 
 AC_OUTPUT([Makefile])

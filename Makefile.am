@@ -8,9 +8,6 @@ LANG2=eng
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX1b=$(LANG1b)-$(LANG2)
 PREFIX1n=$(LANG1n)-$(LANG2)
-SRC1n=$(NNOSRC)
-SRC1b=$(NOBSRC)
-#SRC2=ENGSRC TODO
 
 BASENAME=apertium-$(PREFIX1)
 
@@ -41,26 +38,26 @@ TARGETS_COMMON = \
 #	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
 
 # nob-eng
-$(PREFIX1b).automorf.bin: $(SRC1b)/apertium-$(LANG1b).$(LANG1b).dix
+$(PREFIX1b).automorf.bin: $(AP_SRC1b)/apertium-$(LANG1b).$(LANG1b).dix
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@
 
-$(PREFIX1b).rlx.bin: $(SRC1b)/apertium-$(LANG1b).$(LANG1b).rlx
+$(PREFIX1b).rlx.bin: $(AP_SRC1b)/apertium-$(LANG1b).$(LANG1b).rlx
 	cg-comp $< $@
 
-$(PREFIX1b).prob: $(SRC1b)/$(LANG1b).prob
+$(PREFIX1b).prob: $(AP_LIB1b)/$(LANG1b).prob
 	cp $< $@
 
 # nno-eng
-$(PREFIX1n).automorf.bin: $(SRC1n)/apertium-$(LANG1n).$(LANG1n).dix $(SRC1n)/alt.xsl .deps/.d
-	xsltproc --stringparam alt $(LANG1na) $(SRC1n)/alt.xsl $< > .deps/$@
+$(PREFIX1n).automorf.bin: $(AP_SRC1n)/apertium-$(LANG1n).$(LANG1n).dix $(AP_SRC1n)/alt.xsl .deps/.d
+	xsltproc --stringparam alt $(LANG1na) $(AP_SRC1n)/alt.xsl $< > .deps/$@
 	apertium-validate-dictionary .deps/$@
 	lt-comp lr .deps/$@ $@
 
-$(PREFIX1n).rlx.bin: $(SRC1n)/apertium-$(LANG1n).$(LANG1n).rlx
+$(PREFIX1n).rlx.bin: $(AP_SRC1n)/apertium-$(LANG1n).$(LANG1n).rlx
 	cg-comp $< $@
 
-$(PREFIX1n).prob: $(SRC1n)/$(LANG1n).prob
+$(PREFIX1n).prob: $(AP_LIB1n)/$(LANG1n).prob
 	cp $< $@
 
 # no-en (files common to both nb-nn and nn-en)
