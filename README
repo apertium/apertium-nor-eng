@@ -1,11 +1,91 @@
-Requires apertium-nob installed (or use ./configure NOBSRC=/path/to/apertium-nob)
+Norwegian and English
 
-Compile as usual, but the 
+                            apertium-nor-eng
+===============================================================================
 
- make
+This is an Apertium language pair for translating between Norwegian
+and English. What you can use this language package for:
 
-command should be replaced by
+* Translating between Norwegian (both Bokmål and Nynorsk) and English
+* Morphological analysis of Norwegian and English
+* Part-of-speech tagging of Norwegian and English
 
- make MK_EN=../../trunk/apertium-mk-en/
+For information on the latter two points, see subheading "For more 
+information" below
 
+Requirements
+===============================================================================
 
+You will need the following software installed:
+
+* lttoolbox (>= 3.1.2)
+* apertium (>= 3.2.0)
+* vislcg3 (>= 0.9.7.5129)
+* apertium-nno
+* apertium-nob
+* apertium-eng
+
+If this does not make any sense, we recommend you look at: www.apertium.org
+
+Compiling
+===============================================================================
+
+Given the requirements being installed, you should be able to just run:
+
+$ ./configure
+$ make MK_EN=../../trunk/apertium-mk-en/
+# make install
+
+You can use ./autogen.sh instead of ./configure you're compiling from
+SVN. If you're using a --prefix to ./configure, make sure it's the
+same one you used to install apertium itself.
+
+Testing
+===============================================================================
+
+If you are in the source directory after running make, the following
+commands should work:
+
+$  echo "eg er ein fisk" | apertium -d . nno-eng
+I am a fish
+
+After installing somewhere in $PATH, you should be able to do eg.
+
+$  echo "eg er ein fisk" | apertium nno-eng
+I am a fish
+
+The following command runs tests which are on the Apertium wiki page:
+
+$ ./regression-tests.sh 
+
+Files and data
+===============================================================================
+
+For monolingual data, see the modules apertium-nor and apertium-eng.
+
+* apertium-nor-eng.nor-eng.lrx         - Lexical selection rules for translating into English
+* apertium-nor-eng.nor-eng.t1x         - Transfer rules for translating into English (first pass)
+* apertium-nor-eng.nor-eng.t2x         - Transfer rules for translating into English (second pass)
+* apertium-nor-eng.nor-eng.t3x         - Transfer rules for translating into English (third pass)
+
+* apertium-nor-eng.nor-eng.dix         - Bilingual dictionary 
+
+* modes.xml                            - Translation modes
+
+For more information
+===============================================================================
+
+* http://wiki.apertium.org/wiki/Installation
+* http://wiki.apertium.org/wiki/English_and_Norwegian
+* http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+* http://wiki.apertium.org/wiki/Constraint_Grammar
+
+Help and support
+===============================================================================
+
+If you need help using this language pair or data, you can contact:
+
+* Mailing list: apertium-turkic@lists.sourceforge.net
+* IRC: #apertium on irc.freenode.net
+
+See also the file AUTHORS included in this distribution.
