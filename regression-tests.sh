@@ -8,6 +8,6 @@ then
     GREP='[*#/]'
 fi
 
-sh wiki-tests.sh Regression no en update | grep -C $C "$GREP"
+sh wiki-tests.sh Regression nob eng update | grep -C $C "$GREP"
 
 

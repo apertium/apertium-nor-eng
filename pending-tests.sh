@@ -8,6 +8,6 @@ then
     GREP='WORKS'
 fi
 
-sh wiki-tests.sh Pending no en update | grep -C $C "$GREP"
+sh wiki-tests.sh Pending nob eng update | grep -C $C "$GREP"
 
 

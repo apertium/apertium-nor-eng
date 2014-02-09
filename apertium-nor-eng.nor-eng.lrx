@@ -126,6 +126,26 @@
 </rule>
 
 <rule>
+    <match lemma="arbeide" tags="vblex.*">
+      <select lemma="work" tags="vblex.*"/>
+    </match>
+</rule>
+
+<rule>
+    <match lemma="språk" tags="n.*">
+      <select lemma="language" tags="n.*"/>
+    </match>
+</rule>
+
+<rule>
+    <match lemma="hjelp" tags="n.*">
+      <select lemma="aid" tags="n.*"/>
+    </match>
+    <match lemma="organisasjon"/> 
+</rule>
+
+
+<rule>
     <match lemma="før" tags="pr">
       <select lemma="before" tags="pr"/>
     </match>
