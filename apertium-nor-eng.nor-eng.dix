@@ -165,6 +165,7 @@
     <!-- SECTION Particles -->
 
     <e c="infinitive mark"><p><l>å<s n="part"/></l><r>to<s n="pr"/></r></p></e>
+    <e c="infinitive mark"><p><l>å<s n="cnjsub"/></l><r>to<s n="pr"/></r></p></e> <!--check-->
 
     <!-- SECTION Conjunctions: -->
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
@@ -459,6 +460,7 @@
     <e><p><l>seg<b/>selv<s n="prn"/><s n="ref"/><s n="p2"/></l><r>yourself<s n="prn"/><s n="p2"/></r></p></e>
     <e><p><l>seg<b/>selv<s n="prn"/><s n="ref"/><s n="p3"/></l><r>himself<s n="prn"/><s n="p3"/></r></p></e>
 
+    <e><p><l>seg<s n="prn"/><s n="ref"/><s n="p1"/></l><r>myself<s n="prn"/><s n="p1"/></r></p></e>
     <e><p><l>seg<s n="prn"/><s n="ref"/><s n="p3"/></l><r>himself<s n="prn"/><s n="p3"/></r></p></e>
 
     <e><p><l>noe<s n="prn"/><s n="p3"/></l><r>something<s n="prn"/><s n="ind"/></r></p></e>
@@ -767,6 +769,7 @@
 <e slr="1"><p><l>apotek<s n="n"/><s n="nt"/></l><r>chemist's<s n="n"/></r></p></e>
 <e slr="2"><p><l>apotek<s n="n"/><s n="nt"/></l><r>drugstore<s n="n"/></r></p></e>
 <e c="  0"><p><l>apoteker<s n="n"/><s n="m"/></l><r>chemist<s n="n"/></r></p></e>
+<e c="  0"><p><l>moralist<s n="n"/><s n="m"/></l><r>moralist<s n="n"/></r></p></e>
 <e c="  0"><p><l>azteker<s n="n"/><s n="m"/></l><r>Aztec<s n="n"/></r></p></e>
 <e c="  0"><p><l>apparat<s n="n"/><s n="nt"/></l><r>apparatus<s n="n"/></r></p></e>
 <e c="  0"><p><l>appell<s n="n"/><s n="m"/></l><r>appeal<s n="n"/></r></p></e>
@@ -1669,6 +1672,7 @@
 <e>        <p><l>eggstokk<s n="n"/><s n="m"/></l><r>ovary<s n="n"/></r></p></e>
 <e>        <p><l>egn<s n="n"/><s n="m"/></l> <r>region<s n="n"/></r></p></e>
 <e>        <p><l>egoisme<s n="n"/><s n="m"/></l><r>egoism<s n="n"/></r></p></e>
+<e>        <p><l>moralisme<s n="n"/><s n="m"/></l><r>moralism<s n="n"/></r></p></e>
 <e>        <p><l>egoist<s n="n"/><s n="m"/></l><r>egoist<s n="n"/></r></p></e>
 <e>        <p><l>eie<s n="n"/><s n="nt"/></l><r>own<s n="n"/></r></p></e>
 <e slr="1"><p><l>eie<s n="n"/><s n="nt"/></l><r>possess<s n="n"/></r></p></e>
@@ -2035,6 +2039,7 @@
 <e>        <p><l>flanell<s n="n"/><s n="m"/></l><r>flannel<s n="n"/></r></p></e>
 <e>        <p><l>flanke<s n="n"/><s n="m"/></l><r>flank<s n="n"/></r></p></e>
 <e>        <p><l>flass<s n="n"/><s n="nt"/></l><r>dandruff<s n="n"/></r></p></e>
+<e>        <p><l>bløff<s n="n"/><s n="m"/></l><r>bluff<s n="n"/></r></p></e>
 <e>        <p><l>flate<s n="n"/></l>         <r>surface<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>flate<s n="n"/></l>         <r>area<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>flekk<s n="n"/><s n="m"/></l><r>stain<s n="n"/></r></p></e>
@@ -7497,7 +7502,7 @@
 <e>        <p><l>øyeblikk<s n="n"/><s n="nt"/></l><r>moment<s n="n"/></r></p></e>
 <e slr="1"><p><l>øyeblikk<s n="n"/><s n="nt"/></l><r>instant<s n="n"/></r></p></e>
 <e>        <p><l>øygruppe<s n="n"/></l>      <r>archipelago<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e c="  0"><p><l>å<s n="n"/></l><r>river<s n="n"/><s n="m"/></r></p><par n="f|m_LR_f"/></e>
+<!--<e c="  0"><p><l>å<s n="n"/></l><r>river<s n="n"/><s n="m"/></r></p><par n="f|m_LR_f"/></e>-->
 
 <e>        <p><l>million<s n="n"/><s n="m"/></l><r>million<s n="n"/></r></p></e>
 <e c="  0"><p><l>bygging<s n="n"/></l>     <r>building<s n="n"/></r></p><par n="m_LR_f"/></e>
@@ -8065,6 +8070,7 @@
     <e c="  0"><p><l>aspirasjon<s n="n"/><s n="m"/></l><r>aspiration<s n="n"/></r></p></e>
     <e c="  0"><p><l>arbeidsorganisasjon<s n="n"/><s n="m"/></l><r>labour<b/>organisation<s n="n"/></r></p></e>
     <e c="  0"><p><l>arbeidsgiverfunksjon<s n="n"/><s n="m"/></l><r>employer<b/>function<s n="n"/></r></p></e>
+    <e c="  0"><p><l>arbeidsgiver<s n="n"/><s n="m"/></l><r>employer<s n="n"/></r></p></e>
     <e c="  0"><p><l>apparisjon<s n="n"/><s n="m"/></l><r>apparition<s n="n"/></r></p></e>
     <e c="  0"><p><l>ammunisjonsfabrikk<s n="n"/><s n="m"/></l><r>munitions<b/>factory<s n="n"/></r></p></e>
     <e c="  0"><p><l>ambassadefunksjonær<s n="n"/><s n="m"/></l><r>embassy<b/>official<s n="n"/></r></p></e>
@@ -14122,6 +14128,10 @@
     <e><p><l>Chris<s n="np"/></l><r>Chris<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Michael<s n="np"/></l><r>Michael<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Petersen<s n="np"/></l><r>Petersen<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Grostad<s n="np"/></l><r>Grostad<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Mosfjell<s n="np"/></l><r>Mosfjell<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Kotsadam<s n="np"/></l><r>Kotsadam<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Rahm<s n="np"/></l><r>Rahm<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Woods<s n="np"/></l><r>Woods<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     <e><p><l>Bill<s n="np"/></l><r>Bill<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Irene<s n="np"/></l><r>Irene<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
@@ -17602,6 +17612,10 @@
     <e><p><l>Cross<s n="np"/></l><r>Cross<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
         
     <!-- SECTION Adjectives, checked: -->
+
+<e c="  0"><p><l>veldig<s n="adj"/></l><r>very<s n="preadv"/></r></p></e>
+<e c="  1"><p><l>veldig<s n="adj"/></l><r>really<s n="preadv"/></r></p></e>
+
 <e c="  0"><p><l>adelig<s n="adj"/></l><r>noble<s n="adj"/><s n="sint"/></r></p></e>
 <e c="  0"><p><l>administrativ<s n="adj"/></l><r>administrative<s n="adj"/></r></p></e>
 <e c="  0"><p><l>afghansk<s n="adj"/></l><r>Afghan<s n="adj"/></r></p></e>
@@ -17633,6 +17647,8 @@
 <e c="  0"><p><l>artig<s n="adj"/></l><r>fun<s n="adj"/><s n="sint"/></r></p></e>
 <e c="  0"><p><l>artistisk<s n="adj"/></l><r>artistic<s n="adj"/></r></p></e>
 <e c="  0"><p><l>arvelig<s n="adj"/></l><r>hereditary<s n="adj"/></r></p></e>
+<e c="  0"><p><l>moralistisk<s n="adj"/></l><r>moral<s n="adj"/></r></p></e>
+<e slr="1"><p><l>moralistisk<s n="adj"/></l><r>moralistic<s n="adj"/></r></p></e>
 <e c="  0"><p><l>asiatisk<s n="adj"/></l><r>Asian<s n="adj"/></r></p></e>
 <e c="  0"><p><l>atletisk<s n="adj"/></l><r>athletic<s n="adj"/></r></p></e>
 <e c="  0"><p><l>atomfri<s n="adj"/></l><r>*atomfri<s n="adj"/></r></p></e>
@@ -21873,6 +21889,7 @@
     <e c="  0"><p><l>angi</l><r>denounce<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>anklage</l><r>impeachment<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>anklage</l><r>incriminate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+    <e c="  0"><p><l>hyre</l><r>hire<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>ansette</l><r>engage<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="1"><p><l>ansette</l><r>hire<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e slr="2"><p><l>ansette</l><r>employ<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
@@ -24736,6 +24753,7 @@
 
     <e c="  0"><p><l>nei<s n="ij"/></l><r>no<s n="ij"/></r></p></e>
     <e c="  0"><p><l>ja<s n="ij"/></l><r>yes<s n="ij"/></r></p></e>
+    <e c="  0"><p><l>pøh<s n="ij"/></l><r>pah<s n="ij"/></r></p></e>
 
     <!-- SECTION: Punctuation -->
 

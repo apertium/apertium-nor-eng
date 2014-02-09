@@ -18,8 +18,8 @@ TARGETS_COMMON = \
      $(PREFIX1b).automorf.bin \
      $(PREFIX1b).rlx.bin \
      $(PREFIX1b).prob \
-     $(PREFIX1).lex.bin \
      $(PREFIX1).autobil.bin \
+     $(PREFIX1).autolex.bin \
      $(PREFIX1).t1x.bin \
      $(PREFIX1).t2x.bin \
      $(PREFIX1).t3x.bin \
@@ -38,9 +38,8 @@ TARGETS_COMMON = \
 #	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
 
 # nob-eng
-$(PREFIX1b).automorf.bin: $(AP_SRC1b)/apertium-$(LANG1b).$(LANG1b).dix
-	apertium-validate-dictionary $<
-	lt-comp lr $< $@
+$(PREFIX1b).automorf.bin: $(AP_SRC1b)/apertium-$(LANG1b).$(LANG1b).dix $(PREFIX1).autobil.bin
+	lt-trim $(AP_SRC1b)/$(LANG1b).automorf.bin $(PREFIX1).autobil.bin $@	
 
 $(PREFIX1b).rlx.bin: $(AP_SRC1b)/apertium-$(LANG1b).$(LANG1b).rlx
 	cg-comp $< $@
@@ -49,10 +48,11 @@ $(PREFIX1b).prob: $(AP_LIB1b)/$(LANG1b).prob
 	cp $< $@
 
 # nno-eng
-$(PREFIX1n).automorf.bin: $(AP_SRC1n)/apertium-$(LANG1n).$(LANG1n).dix $(AP_SRC1n)/alt.xsl .deps/.d
-	xsltproc --stringparam alt $(LANG1na) $(AP_SRC1n)/alt.xsl $< > .deps/$@
-	apertium-validate-dictionary .deps/$@
-	lt-comp lr .deps/$@ $@
+$(PREFIX1n).automorf.bin: $(AP_SRC1n)/apertium-$(LANG1n).$(LANG1n).dix $(PREFIX1).autobil.bin $(AP_SRC1n)/alt.xsl .deps/.d
+	xsltproc --stringparam alt $(LANG1na) $(AP_SRC1n)/alt.xsl $< > .deps/$@.dix
+	apertium-validate-dictionary .deps/$@.dix
+	lt-comp lr .deps/$@.dix .deps/$@
+	lt-trim .deps/$@ $(PREFIX1).autobil.bin $@
 
 $(PREFIX1n).rlx.bin: $(AP_SRC1n)/apertium-$(LANG1n).$(LANG1n).rlx
 	cg-comp $< $@
@@ -61,12 +61,11 @@ $(PREFIX1n).prob: $(AP_LIB1n)/$(LANG1n).prob
 	cp $< $@
 
 # no-en (files common to both nb-nn and nn-en)
-$(PREFIX1).lex.bin: $(BASENAME).$(PREFIX1).lex
-	cg-comp $(BASENAME).$(PREFIX1).lex $@
+$(PREFIX1).autolex.bin: $(BASENAME).$(PREFIX1).lrx
+	lrx-comp $(BASENAME).$(PREFIX1).lrx $@
 
 $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	if [ ! -d .deps ]; then mkdir .deps; fi
-#	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > .deps/$(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
 	lt-comp lr $(BASENAME).$(PREFIX1).dix $@
 
@@ -95,6 +94,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1b).dix \
            $(BASENAME).$(PREFIX1b).rlx \
            $(PREFIX1n).prob \
            $(PREFIX1b).prob \
+	   $(BASENAME).$(PREFIX1).lrx \
 	   $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(PREFIX1).t1x \
 	   $(BASENAME).$(PREFIX1).t2x \

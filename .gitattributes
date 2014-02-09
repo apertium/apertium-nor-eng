@@ -6,16 +6,15 @@
 /NEWS -text
 /README -text
 /apertium-nor-eng.nor-eng.dix -text
-/apertium-nor-eng.nor-eng.lex -text
 /apertium-nor-eng.nor-eng.lrx -text
 /apertium-nor-eng.nor-eng.t1x -text
 /apertium-nor-eng.nor-eng.t2x -text
 /apertium-nor-eng.nor-eng.t3x -text
-/apertium-nor-eng.nor-eng3.lrx -text
 /autogen.sh -text
 /configure.ac -text
 dev/RULES-AND-MULTIWORDS -text
 dev/apertium-no-en.no-en.lrx -text
+dev/apertium-nor-eng.nor-eng.lex -text
 dev/bidix/400_high_freq_nouns.dix -text
 dev/bidix/pending_adjectives.txt -text
 dev/bidix/pending_adverbs.txt -text
@@ -36,7 +35,6 @@ dev/lexconcdh1.xml -text
 dev/missing-bidix-freq.sh -text
 dev/testsentences -text
 dev/testvoc.sh -text
-/lexchoicebil.xsl -text
 /modes.xml -text
 /pending-tests.sh -text
 /regression-tests.sh -text
