@@ -38,8 +38,8 @@ TARGETS_COMMON = \
 #	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
 
 # nob-eng
-$(PREFIX1b).automorf.bin: $(AP_SRC1b)/apertium-$(LANG1b).$(LANG1b).dix $(PREFIX1).autobil.bin
-	lt-trim $(AP_SRC1b)/$(LANG1b).automorf.bin $(PREFIX1).autobil.bin $@	
+$(PREFIX1b).automorf.bin: $(AP_LIB1b)/$(LANG1b).automorf.bin $(PREFIX1).autobil.bin
+	lt-trim $(AP_LIB1b)/$(LANG1b).automorf.bin $(PREFIX1).autobil.bin $@	
 
 $(PREFIX1b).rlx.bin: $(AP_SRC1b)/apertium-$(LANG1b).$(LANG1b).rlx
 	cg-comp $< $@
@@ -48,11 +48,8 @@ $(PREFIX1b).prob: $(AP_LIB1b)/$(LANG1b).prob
 	cp $< $@
 
 # nno-eng
-$(PREFIX1n).automorf.bin: $(AP_SRC1n)/apertium-$(LANG1n).$(LANG1n).dix $(PREFIX1).autobil.bin $(AP_SRC1n)/alt.xsl .deps/.d
-	xsltproc --stringparam alt $(LANG1na) $(AP_SRC1n)/alt.xsl $< > .deps/$@.dix
-	apertium-validate-dictionary .deps/$@.dix
-	lt-comp lr .deps/$@.dix .deps/$@
-	lt-trim .deps/$@ $(PREFIX1).autobil.bin $@
+$(PREFIX1n).automorf.bin: $(AP_LIB1n)/$(LANG1n).automorf.bin $(PREFIX1).autobil.bin
+	lt-trim $(AP_LIB1n)/$(LANG1n).automorf.bin $(PREFIX1).autobil.bin $@
 
 $(PREFIX1n).rlx.bin: $(AP_SRC1n)/apertium-$(LANG1n).$(LANG1n).rlx
 	cg-comp $< $@
@@ -112,6 +109,7 @@ modes/$(PREFIX1).mode: modes.xml
 apertium_no_en_DATA=$(TARGETS_COMMON) \
 		    modes.xml 
 
+# All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
 install-data-local:
@@ -120,8 +118,9 @@ install-data-local:
 	rm -rf modes
 	mv modes.bak modes
 	test -d $(DESTDIR)$(apertium_modesdir) || mkdir $(DESTDIR)$(apertium_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_modesdir)
-	rm $(PREFIX1).mode
+	modes=`xmllint --xpath '//mode[@install="yes"]/@name' modes.xml | sed 's/ *name="\([^"]*\)"/\1.mode /g'`; \
+		$(INSTALL_DATA) $$modes $(DESTDIR)$(apertium_modesdir); \
+		rm $$modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_no_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_no_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_no_endir)
