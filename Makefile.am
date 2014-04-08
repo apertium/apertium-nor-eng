@@ -66,7 +66,6 @@ $(PREFIX1).autolex.bin: $(BASENAME).$(PREFIX1).lrx
 	lrx-comp $(BASENAME).$(PREFIX1).lrx $@
 
 $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
-	if [ ! -d .deps ]; then mkdir .deps; fi
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
 	lt-comp lr $(BASENAME).$(PREFIX1).dix $@
 
