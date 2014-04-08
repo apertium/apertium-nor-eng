@@ -1,4 +1,10 @@
-bVERSION=0.1.0
+###############################################################################
+## Makefile for Norwegian--English
+###############################################################################
+
+SUBDIRS=$(AP_SUBDIRS)
+
+VERSION=0.1.0
 LANG1=nor
 LANG1b=nob
 LANG1n=nno
@@ -26,16 +32,14 @@ TARGETS_COMMON = \
      $(PREFIX1).autogen.bin \
      $(PREFIX1).autopgen.bin
 
-# Use this goal for creating .deps, otherwise make -j2 will give problems:
-.deps/.d:
-	if [ ! -d .deps ]; then mkdir .deps; fi
-	touch $@
+# This include defines goals for install-modes, .deps/.d and .mode files:
+@ap_include@
 
-# Prevent the .d file from being removed automatically:
-.PRECIOUS: .deps/.d
+###############################################################################
+## Transducers, disambiguation rules, transfer
+###############################################################################
 
-#.deps/$(BASENAME).$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix lexchoicebil.xsl .deps/.d
-#	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
+
 
 # nob-eng
 $(PREFIX1b).automorf.bin: $(AP_LIB1b)/$(LANG1b).automorf.bin $(PREFIX1).autobil.bin
@@ -87,6 +91,10 @@ $(PREFIX1).autopgen.bin: $(MK_EN)/apertium-mk-en.post-en.dix
 	lt-comp lr $(MK_EN)/apertium-mk-en.post-en.dix $@
 
 
+###############################################################################
+## Distribution
+###############################################################################
+
 EXTRA_DIST=$(BASENAME).$(LANG1b).dix \
            $(BASENAME).$(PREFIX1b).rlx \
            $(PREFIX1n).prob \
@@ -98,32 +106,26 @@ EXTRA_DIST=$(BASENAME).$(LANG1b).dix \
 	   $(BASENAME).$(PREFIX1).t3x \
 	   modes.xml lexchoicebil.xsl
 
-apertium_no_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_modesdir=$(prefix)/share/apertium/modes/
+###############################################################################
+## Installation
+###############################################################################
 
-modes/$(PREFIX1).mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
+apertium_no_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 
 apertium_no_en_DATA=$(TARGETS_COMMON) \
+	$(BASENAME).$(PREFIX1).t1x \
+	$(BASENAME).$(PREFIX1).t2x \
+	$(BASENAME).$(PREFIX1).t3x \
 		    modes.xml 
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
-install-data-local:
-	mv modes modes.bak
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	rm -rf modes
-	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_modesdir) || mkdir $(DESTDIR)$(apertium_modesdir)
-	modes=`xmllint --xpath '//mode[@install="yes"]/@name' modes.xml | sed 's/ *name="\([^"]*\)"/\1.mode /g'`; \
-		$(INSTALL_DATA) $$modes $(DESTDIR)$(apertium_modesdir); \
-		rm $$modes
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_no_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_no_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_no_endir)
+install-data-local: install-modes
+
+###############################################################################
+## Cleanup
+###############################################################################
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local: 

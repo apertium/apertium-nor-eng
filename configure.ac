@@ -3,8 +3,8 @@
 
 AC_PREREQ(2.52)
 
-m4_define([required_apertium_version], [3.2.0])
-m4_define([required_lttolbox_version], [3.1.2])
+m4_define([required_apertium_version], [3.3.0])
+m4_define([required_lttolbox_version], [3.3.0])
 
 AC_INIT([apertium-nor-eng], [0.1.0], [ftyers@prompsit.com])
 AM_INIT_AUTOMAKE([apertium-no-en], [0.1.0], no-define)
@@ -63,5 +63,7 @@ m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertiu
 
 AP_CHECK_LING([1n], [apertium-nno])
 AP_CHECK_LING([1b], [apertium-nob])
+
+AP_MKINCLUDE
 
 AC_OUTPUT([Makefile])
