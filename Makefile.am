@@ -42,23 +42,23 @@ TARGETS_COMMON = \
 
 
 # nob-eng
-$(PREFIX1b).automorf.bin: $(AP_LIB1b)/$(LANG1b).automorf.bin $(PREFIX1).autobil.bin
-	lt-trim $(AP_LIB1b)/$(LANG1b).automorf.bin $(PREFIX1).autobil.bin $@	
+$(PREFIX1b).automorf.bin: $(AP_SRC1b)/$(LANG1b).automorf.bin $(PREFIX1).autobil.bin
+	lt-trim $(AP_SRC1b)/$(LANG1b).automorf.bin $(PREFIX1).autobil.bin $@	
 
 $(PREFIX1b).rlx.bin: $(AP_SRC1b)/apertium-$(LANG1b).$(LANG1b).rlx
 	cg-comp $< $@
 
-$(PREFIX1b).prob: $(AP_LIB1b)/$(LANG1b).prob
+$(PREFIX1b).prob: $(AP_SRC1b)/$(LANG1b).prob
 	cp $< $@
 
 # nno-eng
-$(PREFIX1n).automorf.bin: $(AP_LIB1n)/$(LANG1n).automorf.bin $(PREFIX1).autobil.bin
-	lt-trim $(AP_LIB1n)/$(LANG1n).automorf.bin $(PREFIX1).autobil.bin $@
+$(PREFIX1n).automorf.bin: $(AP_SRC1n)/$(LANG1n).automorf.bin $(PREFIX1).autobil.bin
+	lt-trim $(AP_SRC1n)/$(LANG1n).automorf.bin $(PREFIX1).autobil.bin $@
 
 $(PREFIX1n).rlx.bin: $(AP_SRC1n)/apertium-$(LANG1n).$(LANG1n).rlx
 	cg-comp $< $@
 
-$(PREFIX1n).prob: $(AP_LIB1n)/$(LANG1n).prob
+$(PREFIX1n).prob: $(AP_SRC1n)/$(LANG1n).prob
 	cp $< $@
 
 # no-en (files common to both nb-nn and nn-en)
