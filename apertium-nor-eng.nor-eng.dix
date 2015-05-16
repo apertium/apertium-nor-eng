@@ -3713,7 +3713,8 @@
 <e slr="1"><p><l>kystlinje<s n="n"/></l>    <r>seaboard<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>kål<s n="n"/><s n="m"/></l> <r>cabbage<s n="n"/></r></p></e>
 <e>        <p><l>kårde<s n="n"/><s n="m"/></l><r>sword<s n="n"/></r></p></e>
-<e>        <p><l>kåseri<s n="n"/><s n="nt"/></l><r>talk<s n="n"/></r></p></e>
+<e>        <p><l>kåseri<s n="n"/><s n="nt"/></l><r>causerie<s n="n"/></r></p></e>
+<e>        <p><l>kåseri<s n="n"/><s n="nt"/></l><r>column<s n="n"/></r></p></e>
 <e>        <p><l>kø<s n="n"/><s n="m"/></l>  <r>queue<s n="n"/></r></p></e>
 <e slr="1"><p><l>kø<s n="n"/><s n="m"/></l>  <r>cue<s n="n"/></r></p></e>
 <e>        <p><l>labb<s n="n"/><s n="m"/></l><r>paw<s n="n"/></r></p></e>
@@ -6022,6 +6023,7 @@
 <e>        <p><l>smørbrød<s n="n"/><s n="nt"/></l><r>sandwich<s n="n"/></r></p></e>
 <e>        <p><l>snabel<s n="n"/><s n="m"/></l><r>trunk<s n="n"/></r></p></e>
 <e>        <p><l>snakk<s n="n"/><s n="nt"/></l><r>talk<s n="n"/></r></p></e>
+<e>        <p><l>åpningsforedrag<s n="n"/><s n="nt"/></l><r>keynote<b/>talk<s n="n"/></r></p></e>
 <e>        <p><l>snarvei<s n="n"/><s n="m"/></l><r>shortcut<s n="n"/></r></p></e>
 <e>        <p><l>snekker<s n="n"/><s n="m"/></l><r>carpenter<s n="n"/></r></p></e>
 <e>        <p><l>snerk<s n="n"/><s n="m"/></l><r>crust<s n="n"/></r></p></e>
