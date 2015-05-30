@@ -5,11 +5,15 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-nor-eng.eng-nor.lrx -text
+/apertium-nor-eng.eng-nor.t1x -text svneol=unset#text/plain
+/apertium-nor-eng.eng-nor.t2x -text svneol=unset#text/plain
+/apertium-nor-eng.eng-nor.t3x -text svneol=unset#text/plain
 /apertium-nor-eng.nor-eng.dix -text
 /apertium-nor-eng.nor-eng.lrx -text
-/apertium-nor-eng.nor-eng.t1x -text
-/apertium-nor-eng.nor-eng.t2x -text
-/apertium-nor-eng.nor-eng.t3x -text
+/apertium-nor-eng.nor-eng.t1x -text svneol=unset#text/plain
+/apertium-nor-eng.nor-eng.t2x -text svneol=unset#text/plain
+/apertium-nor-eng.nor-eng.t3x -text svneol=unset#text/plain
 /autogen.sh -text
 /configure.ac -text
 dev/RULES-AND-MULTIWORDS -text

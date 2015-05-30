@@ -10,7 +10,7 @@ and English. What you can use this language package for:
 * Morphological analysis of Norwegian and English
 * Part-of-speech tagging of Norwegian and English
 
-For information on the latter two points, see subheading "For more 
+For information on the latter two points, see subheading "For more
 information" below
 
 Requirements
@@ -18,12 +18,12 @@ Requirements
 
 You will need the following software installed:
 
-* lttoolbox (>= 3.1.2)
-* apertium (>= 3.2.0)
-* vislcg3 (>= 0.9.7.5129)
+* lttoolbox (>= 3.3.0)
+* apertium (>= 3.4.0)
+* vislcg3 (>= 0.9.9.10297)
 * apertium-nno
 * apertium-nob
-* apertium-eng
+* apertium-eng (or incubator/apertium-eng_feil for a larger but wronger lexicon)
 
 If this does not make any sense, we recommend you look at: www.apertium.org
 
@@ -33,7 +33,7 @@ Compiling
 Given the requirements being installed, you should be able to just run:
 
 $ ./configure
-$ make MK_EN=../../trunk/apertium-mk-en/
+$ make
 # make install
 
 You can use ./autogen.sh instead of ./configure you're compiling from
@@ -56,21 +56,23 @@ I am a fish
 
 The following command runs tests which are on the Apertium wiki page:
 
-$ ./regression-tests.sh 
+$ ./regression-tests.sh
 
 Files and data
 ===============================================================================
 
 For monolingual data, see the modules apertium-nor and apertium-eng.
 
-* apertium-nor-eng.nor-eng.lrx         - Lexical selection rules for translating into English
-* apertium-nor-eng.nor-eng.t1x         - Transfer rules for translating into English (first pass)
-* apertium-nor-eng.nor-eng.t2x         - Transfer rules for translating into English (second pass)
-* apertium-nor-eng.nor-eng.t3x         - Transfer rules for translating into English (third pass)
-
-* apertium-nor-eng.nor-eng.dix         - Bilingual dictionary 
-
-* modes.xml                            - Translation modes
+* apertium-nor-eng.nor-eng.dix  - Bilingual dictionary
+* apertium-nor-eng.nor-eng.t1x  - Chunking rules for translating into Norwegian
+* apertium-nor-eng.eng-nor.t1x  - Chunking rules for translating into English
+* apertium-nor-eng.nor-eng.t2x  - Chunking rules for translating into Norwegian
+* apertium-nor-eng.eng-nor.t2x  - Chunking rules for translating into English
+* apertium-nor-eng.nor-eng.t3x  - Chunking rules for translating into Norwegian
+* apertium-nor-eng.eng-nor.t3x  - Chunking rules for translating into English
+* apertium-nor-eng.nor-eng.lrx  - Lexical selection rules for translating into Norwegian
+* apertium-nor-eng.eng-nor.lrx  - Lexical selection rules for translating into English
+* modes.xml                     - Translation modes
 
 For more information
 ===============================================================================
@@ -78,7 +80,6 @@ For more information
 * http://wiki.apertium.org/wiki/Installation
 * http://wiki.apertium.org/wiki/English_and_Norwegian
 * http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
-* http://wiki.apertium.org/wiki/Constraint_Grammar
 
 Help and support
 ===============================================================================

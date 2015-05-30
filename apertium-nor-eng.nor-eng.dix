@@ -101,8 +101,10 @@
     </pardef>
 
     <pardef n="f|m_LR_f" c="TODO: use for nouns that are m_LR_f in nb, but only f in nn">
-      <e> <p><l><s n="m"/></l>	<r></r></p></e>
       <e r="LR"><p><l><s n="f"/></l>	<r></r></p></e>
+      <e r="LR"><p><l><s n="m"/></l>	<r></r></p></e>
+      <e r="RL" vl="nob"><p><l><s n="m"/></l>	<r></r></p></e>
+      <e r="RL" vl="nno"><p><l><s n="f"/></l>	<r></r></p></e>
     </pardef>
     <pardef n="m_LR_f">
       <e> <p><l><s n="m"/></l>	<r></r></p></e>
@@ -1260,6 +1262,8 @@
 <e slr="2"><p><l>bod<s n="n"/><s n="m"/></l> <r>booth<s n="n"/></r></p></e>
 <e c="ham"><p><l>bog<s n="n"/><s n="m"/></l> <r>shoulder<s n="n"/></r></p></e>
 <e>        <p><l>bok<s n="n"/></l>           <r>book<s n="n"/></r></p><par n="f|m_LR_f"/></e>
+<e>        <p><l>flis<s n="n"/></l>           <r>tile<s n="n"/></r></p><par n="f|m_LR_f"/></e>
+<e>        <p><l>flis<s n="n"/></l>           <r>splinter<s n="n"/></r></p><par n="f|m_LR_f"/></e>
 <e>        <p><l>bokhandel<s n="n"/><s n="m"/></l><r>bookshop<s n="n"/></r></p></e>
 <e>        <p><l>bokrygg<s n="n"/><s n="m"/></l><r>spine<s n="n"/></r></p></e>
 <e>        <p><l>boks<s n="n"/><s n="m"/></l><r>tin<s n="n"/></r></p></e>
@@ -3251,6 +3255,7 @@
 <e slr="1"><p><l>kapital<s n="n"/><s n="m"/></l><r>funding<s n="n"/></r></p></e>
 <e>        <p><l>kapitel<s n="n"/><s n="nt"/></l><r>chapter<s n="n"/></r></p></e>
 <e>        <p><l>kapittel<s n="n"/><s n="nt"/></l><r>chapter<s n="n"/></r></p></e>
+<e>        <p><l>flis<s n="n"/></l>         <r>robe<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>kappe<s n="n"/></l>         <r>robe<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>kappe<s n="n"/></l>         <r>gown<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>kappe<s n="n"/></l>         <r>mantle<s n="n"/></r></p><par n="m_LR_f"/></e>
@@ -7418,7 +7423,7 @@
 <e>        <p><l>våpen<s n="n"/><s n="nt"/></l><r>weapon<s n="n"/></r></p></e>
 <e>        <p><l>vår<s n="n"/><s n="m"/></l> <r>spring<s n="n"/></r></p></e>
 <e>        <p><l>vær<s n="n"/><s n="nt"/></l><r>weather<s n="n"/></r></p></e>
-<e slr="1"><p><l>vær<s n="n"/><s n="nt"/></l><r>ram<s n="n"/></r></p></e>
+<e>        <p><l>vær<s n="n"/><s n="m"/></l><r>ram<s n="n"/></r></p></e>
 <e>        <p><l>værelse<s n="n"/><s n="nt"/></l><r>room<s n="n"/></r></p></e>
 <e slr="1"><p><l>værelse<s n="n"/><s n="nt"/></l><r>chamber<s n="n"/></r></p></e>
 <e>        <p><l>væske<s n="n"/></l>         <r>liquid<s n="n"/></r></p><par n="m_LR_f"/></e>

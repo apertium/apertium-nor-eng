@@ -63,6 +63,12 @@
     </match>
 </rule>
 
+<rule>
+    <match lemma="hus" tags="n.*">
+      <select lemma="house" tags="n.*"/>
+    </match>
+</rule>
+
 <!-- Vi er i samme klasse. We are in the same class. -->
 
 <rule>
@@ -128,6 +134,12 @@
 <rule>
     <match lemma="arbeide" tags="vblex.*">
       <select lemma="work" tags="vblex.*"/>
+    </match>
+</rule>
+
+<rule>
+    <match lemma="love" tags="vblex.*">
+      <select lemma="promise" tags="vblex.*"/>
     </match>
 </rule>
 
