@@ -104,7 +104,7 @@
       <program name="lrx-proc">
         <file name="nor-eng.autolex.bin"/>
       </program>
-      <program name="apertium-transfer -b">
+      <program name="apertium-transfer -b -t">
         <file name="apertium-nor-eng.nor-eng.t1x"/>
         <file name="nor-eng.t1x.bin"/>
       </program>
@@ -133,7 +133,7 @@
         <file name="apertium-nor-eng.nor-eng.t1x"/>
         <file name="nor-eng.t1x.bin"/>
       </program>
-      <program name="apertium-interchunk">
+      <program name="apertium-interchunk -t">
         <file name="apertium-nor-eng.nor-eng.t2x"/>
         <file name="nor-eng.t2x.bin"/>
       </program>
@@ -378,7 +378,7 @@
       <program name="lrx-proc">
         <file name="nor-eng.autolex.bin"/>
       </program>
-      <program name="apertium-transfer -b">
+      <program name="apertium-transfer -b -t">
         <file name="apertium-nor-eng.nor-eng.t1x"/>
         <file name="nor-eng.t1x.bin"/>
       </program>
@@ -407,7 +407,7 @@
         <file name="apertium-nor-eng.nor-eng.t1x"/>
         <file name="nor-eng.t1x.bin"/>
       </program>
-      <program name="apertium-interchunk">
+      <program name="apertium-interchunk -t">
         <file name="apertium-nor-eng.nor-eng.t2x"/>
         <file name="nor-eng.t2x.bin"/>
       </program>

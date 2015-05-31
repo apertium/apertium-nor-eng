@@ -78,26 +78,14 @@
         <choose>
           <when>
             <test><and>
-              <not><equal>
-                <clip pos="1" part="a_verb"/>
-                <lit-tag v="vaux"/>
-              </equal></not>
-              <equal>
-                <clip pos="0" part="pers"/>
-                <lit-tag v="p3"/>
-              </equal>
-              <equal>
-                <clip pos="0" part="nbr"/>
-                <lit-tag v="sg"/>
-              </equal>
-              <equal>
-                <clip pos="1" part="pers"/>
-                <lit v=""/>
-              </equal>
-              <equal>
-                <clip pos="1" part="nbr"/>
-                <lit v=""/>
-              </equal>
+              <not><equal><clip pos="1" part="a_verb"/><lit-tag v="vaux"/></equal></not>
+              <or>
+                <equal><clip pos="0" part="pers"/><lit-tag v="p3"/></equal>
+                <equal><clip pos="0" part="pers"/><lit-tag v="p1"/></equal>
+              </or>
+              <equal><clip pos="0" part="nbr"/><lit-tag v="sg"/></equal>
+              <equal><clip pos="1" part="pers"/><lit v=""/></equal>
+              <equal><clip pos="1" part="nbr"/><lit v=""/></equal>
             </and></test>
             <let>
               <clip pos="1" part="tags"/>

@@ -69,7 +69,23 @@
         <pattern-item n="SV"/>
       </pattern>
       <action>
-        <choose><when>
+        <choose>
+          <when>
+          <test><and>
+            <equal><clip pos="1" part="nbr"/><lit-tag v="sg"/></equal>
+            <equal><clip pos="1" part="pers"/><lit-tag v="p1"/></equal>
+            <equal><clip pos="2" part="temps"/><lit-tag v="pres"/></equal>
+          </and></test>
+          <let>
+            <clip pos="2" part="tags"/>
+            <concat>
+              <clip pos="2" part="tags"/>
+              <lit-tag v="p1"/>
+              <lit-tag v="sg"/>
+            </concat>
+          </let>
+          </when>
+          <when>
           <test><and>
             <not><equal><clip pos="1" part="nbr"/><lit-tag v="pl"/></equal></not>
             <not><equal><clip pos="1" part="pers"/><lit-tag v="p1"/></equal></not>
@@ -84,7 +100,8 @@
               <lit-tag v="sg"/>
             </concat>
           </let>
-        </when></choose>
+          </when>
+        </choose>
         <out>
           <chunk>
             <clip pos="1" part="lem"/>
