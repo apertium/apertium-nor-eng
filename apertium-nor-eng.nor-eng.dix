@@ -64,6 +64,8 @@
     <sdef n="acc"         c="Object case (Norwegian)"/>
 
     <sdef n="pret"       c="Preterite"/>
+    <sdef n="pri"        c="Present indicative"/>
+    <sdef n="prs"        c="Present subjunctive"/>
     <sdef n="pres"       c="Present"/>
     <sdef n="past"       c="Past"/>
     <sdef n="pstv"       c="Lexicalised passive"/>
@@ -91,6 +93,8 @@
     </pardef>
 
     <pardef n="vblex_vblex" c="specifies pos on nb side">
+      <e> <p><l><s n="vblex"/><s n="pres"/></l>	<r><s n="pri"/></r></p></e>
+      <e r="RL"><p><l><s n="vblex"/><s n="pres"/></l>	<r><s n="prs"/></r></p></e>
       <e> <p><l><s n="vblex"/><s n="pret"/></l>	<r><s n="past"/></r></p></e>
       <e r="LR"> <p><l><s n="vblex"/><s n="imp"/></l>	<r><s n="inf"/></r></p></e>
       <e> <p><l><s n="vblex"/></l>	<r></r></p></e>

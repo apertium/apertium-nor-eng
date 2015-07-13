@@ -33,6 +33,8 @@
       <attr-item tags="ND"/>
     </def-attr>
     <def-attr n="temps">
+      <attr-item tags="prs"/>
+      <attr-item tags="pri"/>
       <attr-item tags="pres"/>
       <attr-item tags="past"/>
       <attr-item tags="inf"/>
@@ -74,7 +76,7 @@
           <test><and>
             <equal><clip pos="1" part="nbr"/><lit-tag v="sg"/></equal>
             <equal><clip pos="1" part="pers"/><lit-tag v="p1"/></equal>
-            <equal><clip pos="2" part="temps"/><lit-tag v="pres"/></equal>
+            <equal><clip pos="2" part="temps"/><lit-tag v="pri"/></equal>
           </and></test>
           <let>
             <clip pos="2" part="tags"/>
@@ -90,7 +92,7 @@
             <not><equal><clip pos="1" part="nbr"/><lit-tag v="pl"/></equal></not>
             <not><equal><clip pos="1" part="pers"/><lit-tag v="p1"/></equal></not>
             <not><equal><clip pos="1" part="pers"/><lit-tag v="p2"/></equal></not>
-            <equal><clip pos="2" part="temps"/><lit-tag v="pres"/></equal>
+            <equal><clip pos="2" part="temps"/><lit-tag v="pri"/></equal>
           </and></test>
           <let>
             <clip pos="2" part="tags"/>
