@@ -1,5 +1,29 @@
 <rules>
 
+<!-- India er verdens sjuende største land. India is the world's seventh largest country. -->
+
+<rule weight="1.0">
+    <or>
+      <match lemma="stor" tags="adj.sup.*"/> 
+      <match lemma="farlig" tags="adj.sup.*"/> 
+      <match lemma="velstående" tags="adj.*"/> 
+    </or>
+    <match lemma="land" tags="n.*"><select lemma="country" tags="n.*"/></match>
+</rule>
+
+<rule weight="1.0">
+    <or>
+      <match lemma="ny" tags="adj.*"/> 
+      <match lemma="mye" tags="adj.*"/> 
+    </or>
+    <match lemma="land" tags="n.*.sg.*"><select lemma="land" tags="n.sg.*"/></match>
+</rule>
+    
+<rule weight="2.0">
+    <match lemma="land" tags="n.*"><select lemma="country" tags="n.*"/></match>
+</rule>
+
+
 <!-- Jeg har ikke den fjerneste anelse om hva det neste han vil gjøre er. I don't have the remotest inkling about what he will do next. -->
 
 <rule>
@@ -39,7 +63,7 @@
 </rule>
 
 
-<!-- Vi er i samme/femte klasse. We are in the same grade.
+<!-- Vi er i samme/femte klasse. We are in the same grade. -->
 
 <rule weight="2.0">
     <or>
@@ -56,33 +80,6 @@
 </rule>
 
 
-
-<!-- India er verdens sjuende største land. India is the world's seventh largest country. -->
-
-<rule weight="1.0">
-    <or>
-      <match lemma="stor" tags="adj.sup.*"/> 
-      <match lemma="farlig" tags="adj.sup.*"/> 
-      <match lemma="velstående" tags="adj.*"/> 
-    </or>
-    <match lemma="land" tags="n.*">
-      <select lemma="country" tags="n.*"/>
-    </match>
-</rule>
-
-<rule weight="1.0">
-    <or>
-      <match lemma="ny" tags="adj.*"/> 
-      <match lemma="mye" tags="adj.*"/> 
-    </or>
-    <match lemma="land" tags="n.*.sg.*">
-      <select lemma="land" tags="n.sg.*"/>
-    </match>
-</rule>
-    
-<rule weight="2.0">
-<match lemma="land" tags="n.*"><select lemma="country" tags="n.*"/></match>
-</rule>
 
 <!-- Nordmenn sutrer over for lav lønn. Norwegians whine over low pay. -->
 
