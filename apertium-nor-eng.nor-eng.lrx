@@ -39,44 +39,27 @@
 </rule>
 
 
-<!-- Vi er i samme klasse. We are in the same grade.
-
-<rule weight="2.0">
-    <match lemma="samme" tags="det.*"/> 
-    <match lemma="klasse" tags="n.*">
-      <select lemma="grade" tags="n.*"/>
-    </match>
-</rule>
- -->
+<!-- Vi er i samme/femte klasse. We are in the same grade.
 
 <rule weight="2.0">
     <or>
     <match lemma="samme" tags="det.*"/> 
-    <match tags="num.ord.*"/>
+    <match tags="adj.ord.*"/>
     </or>
     <match lemma="klasse" tags="n.*">
       <select lemma="grade" tags="n.*"/>
     </match>
 </rule>
 
-<rule weight="1.0"><match lemma="klasse" tags="n.*"><select lemma="class" tags="n.*"/></match></rule>
-
-
-<!-- Produktene er av god kvalitet. The products are of good quality. -->
-
-<rule>
-    <or>
-      <match lemma="god" tags="adj.*"/>
-      <match lemma="darlig" tags="adj.*"/>
-    </or>
-    <match lemma="kvalitet" tags="n.*/">
-      <select lemma="quality" tags="n.*"/>
-    </match>
+<rule weight="1.0">
+  <match lemma="klasse" tags="n.*"><select lemma="class" tags="n.*"/></match>
 </rule>
+
+
 
 <!-- India er verdens sjuende største land. India is the world's seventh largest country. -->
 
-<rule>
+<rule weight="1.0">
     <or>
       <match lemma="stor" tags="adj.sup.*"/> 
       <match lemma="farlig" tags="adj.sup.*"/> 
@@ -87,14 +70,18 @@
     </match>
 </rule>
 
-<rule>
+<rule weight="1.0">
     <or>
       <match lemma="ny" tags="adj.*"/> 
       <match lemma="mye" tags="adj.*"/> 
     </or>
-    <match lemma="land" tags="n.*">
-      <select lemma="land" tags="n.*"/>
+    <match lemma="land" tags="n.*.sg.*">
+      <select lemma="land" tags="n.sg.*"/>
     </match>
+</rule>
+    
+<rule weight="2.0">
+<match lemma="land" tags="n.*"><select lemma="country" tags="n.*"/></match>
 </rule>
 
 <!-- Nordmenn sutrer over for lav lønn. Norwegians whine over low pay. -->
