@@ -16,11 +16,11 @@
 
 <rule>
     <or>
-      <match lemma="markant" tags="adj"/>
-      <match lemma="betydelig" tags="adj"/>
+      <match lemma="markant" tags="adj.*"/>
+      <match lemma="betydelig" tags="adj.*"/>
     </or>
-    <match lemma="forskjell" tags="n.sg">
-      <select lemma="difference" tags="n.sg"/>
+    <match lemma="forskjell" tags="n.sg.*">
+      <select lemma="difference" tags="n.sg.*"/>
     </match>
 </rule>
 
@@ -28,11 +28,11 @@
 
 <rule>
     <or>
-      <match lemma="tekniske" tags="adj"/>
-      <match lemma="nok" tags="adj"/>
+      <match lemma="teknisk" tags="adj.*"/>
+      <match lemma="nok" tags="adv.*"/>
     </or>
-    <match lemma="bevis" tags="n.sg">
-      <select lemma="evidence" tags="n.sg"/>
+    <match lemma="bevis" tags="n.*">
+      <select lemma="evidence" tags="n.*"/>
     </match>
 </rule>
 
@@ -40,11 +40,11 @@
 
 <rule>
     <or>
-      <match lemma="lang" tags="adj"/>
-      <match lemma="vakker" tags="adj"/>
+      <match lemma="lang" tags="adj.*"/>
+      <match lemma="vakker" tags="adj.*"/>
     </or>
-    <match lemma="kjole" tags="n.sg">
-      <select lemma="dress" tags="n.sg"/>
+    <match lemma="kjole" tags="n.sg.*">
+      <select lemma="dress" tags="n.sg.*"/>
     </match>
 </rule>
 
@@ -54,12 +54,12 @@
 <rule>
     <or>
       <match lemma="billig" tags="adj.*"/> 
-      <match lemma="and" tags="n"/> 
-      <match lemma="kylling" tags="n.sg"/> 
-      <match lemma="hest" tags="n.sg"/> 
+      <match lemma="and" tags="n.*"/> 
+      <match lemma="kylling" tags="n.sg.*"/> 
+      <match lemma="hest" tags="n.sg.*"/> 
     </or>
-    <match lemma="kjøtt" tags="n.sg">
-      <select lemma="meat" tags="n.sg"/>
+    <match lemma="kjøtt" tags="n.sg.*">
+      <select lemma="meat" tags="n.sg.*"/>
     </match>
 </rule>
 
@@ -73,36 +73,26 @@
 
 <rule>
     <or>
-      <match lemma="samme" tags="det"/> 
-      <match lemma="morgen" tags="adj"/> 
-      <match lemma="ettermiddag" tags="adj"/> 
+      <match lemma="samme" tags="det.*"/> 
+      <match lemma="morgen" tags="adj.*"/> 
+      <match lemma="ettermiddag" tags="adj.*"/> 
     </or>
-    <match lemma="klasse" tags="n.sg">
-      <select lemma="class" tags="n.sg"/>
+    <match lemma="klasse" tags="n.sg.*">
+      <select lemma="class" tags="n.sg.*"/>
     </match>
 </rule>
 
-<!-- Han har sterk kontroll over tidsplanen. He has strong control over the schedule. -->
 
-<rule>
-    <or>    
-      <match lemma="sterk" tags="adj"/>
-      <match lemma="ubegrenset" tags="adj"/>
-    </or>
-    <match lemma="kontroll" tags="n">
-      <select lemma="control" tags="n"/>
-    </match>
-</rule>
 
 <!-- Produktene er av god kvalitet. The products are of good quality. -->
 
 <rule>
     <or>
-      <match lemma="god" tags="adj"/>
-      <match lemma="darlig" tags="adj"/>
+      <match lemma="god" tags="adj.*"/>
+      <match lemma="darlig" tags="adj.*"/>
     </or>
-    <match lemma="kvalitet" tags="n">
-      <select lemma="quality" tags="n"/>
+    <match lemma="kvalitet" tags="n.*/">
+      <select lemma="quality" tags="n.*"/>
     </match>
 </rule>
 
@@ -111,11 +101,21 @@
 <rule>
     <or>
       <match lemma="stor" tags="adj.sup.*"/> 
-      <match lemma="farlig" tags="adj.sup"/> 
+      <match lemma="farlig" tags="adj.sup.*"/> 
       <match lemma="velstående" tags="adj.*"/> 
     </or>
-    <match lemma="land" tags="n.sg">
-      <select lemma="country" tags="n.sg"/>
+    <match lemma="land" tags="n.sg.*">
+      <select lemma="country" tags="n.sg.*"/>
+    </match>
+</rule>
+
+<rule>
+    <or>
+      <match lemma="ny" tags="adj.*"/> 
+      <match lemma="mye" tags="adj.*"/> 
+    </or>
+    <match lemma="land" tags="n.sg.*">
+      <select lemma="land" tags="n.sg.*"/>
     </match>
 </rule>
 
@@ -252,6 +252,11 @@
     </match>
 </rule>
 
+<rule>
+    <match lemma="artikkel" tags="n.m.*"><select lemma="paragraph" tags="n.*"/> </match>
+    <match tag="num.*"/>
+</rule>
+
 <!-- Dette er ikke en kommersiell avbrytelse. This is not a commercial interruption. -->
 
 <rule>
@@ -286,6 +291,18 @@
     <match lemma="avreise" tags="n.*">
       <select lemma="departure" tags="n.*"/>
     </match>
+</rule>
+
+<rule>
+      <match lemma="fortelle" tags="vblex.*"><select lemma="narrate" tags="vblex.*"/></match>
+    <or>    
+      <match lemma="handling" tags="n.*"/>     
+      <match lemma="plot" tags="n.*"/>     
+    </or>
+</rule>
+
+<rule>
+      <match lemma="fortelle" tags="vblex.*"><select lemma="tell" tags="vblex.*"/></match>
 </rule>
 
 

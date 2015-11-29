@@ -238,6 +238,8 @@
 
     <!-- SECTION Prepositions, checked: -->
 
+    <e c="  0"><p><l>foran<s n="pr"/></l><r>in<b/>front<b/>of<s n="pr"/></r></p></e>
+
     <e c="  0"><p><l>med<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>fra<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
@@ -20787,7 +20789,7 @@
 <e slr="2"><p><l>forstyrre</l><r>disturb<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>forsvinne</l><r>disappear<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>fortelle</l><r>tell<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-<e slr="1"><p><l>fortelle</l><r>narrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
+<e slr="1"><p><l>fortelle</l><r>narrate<s n="vblex"/></r></p><par n="vblex_vblex"/></e>  
 <e c="  0"><p><l>fortære</l><r>eat<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e c="  0"><p><l>forutse</l><r>foresee<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
 <e slr="1"><p><l>forutse</l><r>predict<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
