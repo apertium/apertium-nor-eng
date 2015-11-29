@@ -39,18 +39,27 @@
 </rule>
 
 
-<!-- Vi er i samme klasse. We are in the same grade. -->
+<!-- Vi er i samme klasse. We are in the same grade.
 
-<rule>
+<rule weight="2.0">
     <match lemma="samme" tags="det.*"/> 
     <match lemma="klasse" tags="n.*">
       <select lemma="grade" tags="n.*"/>
     </match>
 </rule>
+ -->
 
-<!--
-<rule><match lemma="klasse" tags="n.*"><select lemma="class" tags="n.*"/></match></rule>
--->
+<rule weight="2.0">
+    <or>
+    <match lemma="samme" tags="det.*"/> 
+    <match tags="num.ord.*"/>
+    </or>
+    <match lemma="klasse" tags="n.*">
+      <select lemma="grade" tags="n.*"/>
+    </match>
+</rule>
+
+<rule weight="1.0"><match lemma="klasse" tags="n.*"><select lemma="class" tags="n.*"/></match></rule>
 
 
 <!-- Produktene er av god kvalitet. The products are of good quality. -->
