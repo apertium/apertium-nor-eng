@@ -3488,8 +3488,8 @@
 <e>        <p><l>klappstol<s n="n"/><s n="m"/></l><r>folding<b/>chair<s n="n"/></r></p></e>
 <e>        <p><l>klask<s n="n"/><s n="nt"/></l><r>whack<s n="n"/></r></p></e>
 <e slr="1"><p><l>klask<s n="n"/><s n="nt"/></l><r>smack<s n="n"/></r></p></e>
+<e>        <p><l>klasse<s n="n"/></l>        <r>class<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>klasse<s n="n"/></l>        <r>grade<s n="n"/></r></p><par n="m_LR_f"/></e>
-<e slr="1"><p><l>klasse<s n="n"/></l>        <r>class<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>klatt<s n="n"/><s n="m"/></l><r>blot<s n="n"/></r></p></e>
 <e>        <p><l>klaviatur<s n="n"/><s n="nt"/></l><r>keyboard<s n="n"/></r></p></e>
 <e>        <p><l>kleberstein<s n="n"/><s n="m"/></l><r>steatite<s n="n"/></r></p></e>
@@ -23606,7 +23606,6 @@
     <e c="  0"><p><l>motarbeide</l><r>oppose<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>tørre</l><r>dry<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>rakke</l><r>disparage<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
-    <e c="  0"><p><l>klasse</l><r>grade<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>underlegge</l><r>add<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>duke</l><r>duke<s n="vblex"/></r></p><par n="vblex_vblex"/></e>
     <e c="  0"><p><l>arme</l><r>be<g><b/>poor</g><s n="vblex"/></r></p><par n="vblex_vblex"/></e>

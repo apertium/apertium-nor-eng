@@ -3,26 +3,16 @@
 <!-- Jeg har ikke den fjerneste anelse om hva det neste han vil gjøre er. I don't have the remotest inkling about what he will do next. -->
 
 <rule>
-                <or>
-      <match lemma="minst" tags="adj.def.*"/>
-                  <match lemma="fjern" tags="adj.sup.*"/>
-    </or>
-                <match lemma="anelse" tags="n.sg">
-                        <select lemma="inkling" tags="n.sg"/>
-                </match>
-</rule>
-
-<!-- Det er en markant forskjell mellom de to. There is a marked difference between them.  -->
-
-<rule>
     <or>
-      <match lemma="markant" tags="adj.*"/>
-      <match lemma="betydelig" tags="adj.*"/>
+      <match lemma="liten" tags="adj.*"/>
+      <match lemma="fjern" tags="adj.*"/>
     </or>
-    <match lemma="forskjell" tags="n.*">
-      <select lemma="difference" tags="n.*"/>
+    <match lemma="anelse" tags="n.*">
+      <select lemma="inkling" tags="n.*"/>
     </match>
 </rule>
+
+
 
 <!-- Tyskland hadde ikke nok bevis til å arrestere ham. Germany did not have enough evidence to arrest him.  -->
 
@@ -49,39 +39,18 @@
 </rule>
 
 
-<!-- Det blir ikke god suppe av billig kjøtt. Cheap meat doesn't make a good soup. -->
+<!-- Vi er i samme klasse. We are in the same grade. -->
 
 <rule>
-    <or>
-      <match lemma="billig" tags="adj.*"/> 
-      <match lemma="and" tags="n.*"/> 
-      <match lemma="kylling" tags="n.*"/> 
-      <match lemma="hest" tags="n.*"/> 
-    </or>
-    <match lemma="kjøtt" tags="n.*">
-      <select lemma="meat" tags="n.*"/>
-    </match>
-</rule>
-
-<rule>
-    <match lemma="hus" tags="n.*">
-      <select lemma="house" tags="n.*"/>
-    </match>
-</rule>
-
-<!-- Vi er i samme klasse. We are in the same class. -->
-
-<rule>
-    <or>
-      <match lemma="samme" tags="det.*"/> 
-      <match lemma="morgen" tags="adj.*"/> 
-      <match lemma="ettermiddag" tags="adj.*"/> 
-    </or>
+    <match lemma="samme" tags="det.*"/> 
     <match lemma="klasse" tags="n.*">
-      <select lemma="class" tags="n.*"/>
+      <select lemma="grade" tags="n.*"/>
     </match>
 </rule>
 
+<!--
+<rule><match lemma="klasse" tags="n.*"><select lemma="class" tags="n.*"/></match></rule>
+-->
 
 
 <!-- Produktene er av god kvalitet. The products are of good quality. -->
