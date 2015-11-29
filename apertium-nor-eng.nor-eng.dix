@@ -238,6 +238,7 @@
 
     <!-- SECTION Prepositions, checked: -->
 
+    <e c="  0"><p><l>i<b/>stedet<b/>for<s n="pr"/></l><r>instead<b/>of<s n="pr"/></r></p></e> <!--(in the place of)-->
     <e c="  0"><p><l>foran<s n="pr"/></l><r>in<b/>front<b/>of<s n="pr"/></r></p></e>
 
     <e c="  0"><p><l>med<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
@@ -1629,6 +1630,7 @@
 <e slr="1"><p><l>dom<s n="n"/><s n="m"/></l> <r>sentence<s n="n"/></r></p></e>
 <e slr="2"><p><l>dom<s n="n"/><s n="m"/></l> <r>verdict<s n="n"/></r></p></e>
 <e>        <p><l>domkirke<s n="n"/></l>      <r>cathedral<s n="n"/></r></p><par n="m_LR_f"/></e>
+<e>        <p><l>stavkirke<s n="n"/></l>      <r>stave<b/>church<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>domkirke<s n="n"/></l>      <r>minster<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e>        <p><l>dommedag<s n="n"/><s n="m"/></l><r>doomsday<s n="n"/></r></p></e>
 <e>        <p><l>dommer<s n="n"/><s n="m"/></l><r>umpire<s n="n"/></r></p></e>
@@ -3796,6 +3798,8 @@
 <e>        <p><l>labb<s n="n"/><s n="m"/></l><r>paw<s n="n"/></r></p></e>
 <e>        <p><l>laboratorium<s n="n"/><s n="nt"/></l><r>laboratory<s n="n"/></r></p></e>
 <e>        <p><l>labyrint<s n="n"/><s n="m"/></l><r>maze<s n="n"/></r></p></e>
+<e>        <p><l>landslag<s n="n"/><s n="nt"/></l><r>national<b/>team<s n="n"/></r></p></e>
+<e>        <p><l>landslagsspiller<s n="n"/><s n="nt"/></l><r>national<b/>team<b/>player<s n="n"/></r></p></e>
 <e>        <p><l>lag<s n="n"/><s n="nt"/></l><r>team<s n="n"/></r></p></e>
 <e slr="1"><p><l>lag<s n="n"/><s n="nt"/></l><r>squad<s n="n"/></r></p></e>
 <e slr="2"><p><l>lag<s n="n"/><s n="nt"/></l><r>layer<s n="n"/></r></p></e>

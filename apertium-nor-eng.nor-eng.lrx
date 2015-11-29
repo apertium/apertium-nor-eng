@@ -235,7 +235,7 @@
 
 <rule>
     <or>
-      <match lemma="Høy" tags="adj.*"/> 
+      <match lemma="høy" tags="adj.*"/> 
       <match lemma="kvalmende" tags="*"/>     
     </or>
     <match lemma="avhengighet" tags="n.*">
@@ -266,6 +266,15 @@
 <rule>
       <match lemma="fortelle" tags="vblex.*"><select lemma="tell" tags="vblex.*"/></match>
 </rule>
+
+<rule>
+      <match lemma="fylke" tags="n.*"><select lemma="county" tags="n.*"/></match>
+</rule>
+
+
+
+<rule><match lemma="mynt" tags="n.*"><select lemma="coin" tags="n.*"/></match></rule>
+<rule weight="2.0"><match lemma="sted" tags="n.*"><select lemma="place" tags="n.*"/></match></rule>
 
 
 
