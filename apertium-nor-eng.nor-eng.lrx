@@ -19,8 +19,8 @@
       <match lemma="markant" tags="adj.*"/>
       <match lemma="betydelig" tags="adj.*"/>
     </or>
-    <match lemma="forskjell" tags="n.sg.*">
-      <select lemma="difference" tags="n.sg.*"/>
+    <match lemma="forskjell" tags="n.*">
+      <select lemma="difference" tags="n.*"/>
     </match>
 </rule>
 
@@ -43,8 +43,8 @@
       <match lemma="lang" tags="adj.*"/>
       <match lemma="vakker" tags="adj.*"/>
     </or>
-    <match lemma="kjole" tags="n.sg.*">
-      <select lemma="dress" tags="n.sg.*"/>
+    <match lemma="kjole" tags="n.*">
+      <select lemma="dress" tags="n.*"/>
     </match>
 </rule>
 
@@ -55,11 +55,11 @@
     <or>
       <match lemma="billig" tags="adj.*"/> 
       <match lemma="and" tags="n.*"/> 
-      <match lemma="kylling" tags="n.sg.*"/> 
-      <match lemma="hest" tags="n.sg.*"/> 
+      <match lemma="kylling" tags="n.*"/> 
+      <match lemma="hest" tags="n.*"/> 
     </or>
-    <match lemma="kjøtt" tags="n.sg.*">
-      <select lemma="meat" tags="n.sg.*"/>
+    <match lemma="kjøtt" tags="n.*">
+      <select lemma="meat" tags="n.*"/>
     </match>
 </rule>
 
@@ -77,8 +77,8 @@
       <match lemma="morgen" tags="adj.*"/> 
       <match lemma="ettermiddag" tags="adj.*"/> 
     </or>
-    <match lemma="klasse" tags="n.sg.*">
-      <select lemma="class" tags="n.sg.*"/>
+    <match lemma="klasse" tags="n.*">
+      <select lemma="class" tags="n.*"/>
     </match>
 </rule>
 
@@ -104,8 +104,8 @@
       <match lemma="farlig" tags="adj.sup.*"/> 
       <match lemma="velstående" tags="adj.*"/> 
     </or>
-    <match lemma="land" tags="n.sg.*">
-      <select lemma="country" tags="n.sg.*"/>
+    <match lemma="land" tags="n.*">
+      <select lemma="country" tags="n.*"/>
     </match>
 </rule>
 
@@ -114,8 +114,8 @@
       <match lemma="ny" tags="adj.*"/> 
       <match lemma="mye" tags="adj.*"/> 
     </or>
-    <match lemma="land" tags="n.sg.*">
-      <select lemma="land" tags="n.sg.*"/>
+    <match lemma="land" tags="n.*">
+      <select lemma="land" tags="n.*"/>
     </match>
 </rule>
 
