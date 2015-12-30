@@ -5,8 +5,9 @@ AC_PREREQ(2.52)
 
 m4_define([required_apertium_version], [3.4.0])
 
-AC_INIT([apertium-nor-eng], [0.1.1], [ftyers@prompsit.com])
-AM_INIT_AUTOMAKE([apertium-nor-eng], [0.1.1], no-define)
+AC_INIT([Apertium Norwegian-English], [0.1.1], [ftyers@prompsit.com], [apertium-nor-eng], [http://wiki.apertium.org/wiki/Apertium-nor-eng])
+AM_INIT_AUTOMAKE
+
 AC_PROG_LN_S
 AC_PROG_AWK
 
