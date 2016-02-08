@@ -6821,6 +6821,7 @@
 <e slr="1"><p><l>tillegg<s n="n"/><s n="nt"/></l><r>increment<s n="n"/></r></p></e>
 <e slr="2"><p><l>tillegg<s n="n"/><s n="nt"/></l><r>adjunct<s n="n"/></r></p></e>
 <e slr="3"><p><l>tillegg<s n="n"/><s n="nt"/></l><r>supplement<s n="n"/></r></p></e>
+<e>        <p><l>tillegg<s n="n"/><s n="nt"/></l><r>addition<s n="n"/></r></p></e>
 <e>        <p><l>tillit<s n="n"/></l>        <r>faith<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="1"><p><l>tillit<s n="n"/></l>        <r>trust<s n="n"/></r></p><par n="m_LR_f"/></e>
 <e slr="2"><p><l>tillit<s n="n"/></l>        <r>reliance<s n="n"/></r></p><par n="m_LR_f"/></e>
