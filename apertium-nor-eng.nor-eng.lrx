@@ -2,6 +2,35 @@
 
 <!-- India er verdens sjuende største land. India is the world's seventh largest country. -->
 
+
+
+<rule weight="2.0">
+    <match lemma="i" tags="pr"/>
+    <match lemma="tillegg" tags="n.*">
+      <select lemma="addition" tags="n.*"/>
+    </match> 
+    <or>
+     <match tags="tr"/>
+     <match tags="vblex.*"/>
+    </or>
+</rule>
+
+<rule weight="1.0">
+    <match lemma="tillegg" tags="n.*">
+      <select lemma="supplement" tags="n.*"/>
+    </match> 
+</rule>
+
+
+
+<rule weight="2.0">
+    <match tags="pr"/>
+    <match lemma="dag" tags="n.m.sg.def.gen.*">
+      <select lemma="today" tags="adv.*"/>
+    </match> 
+    <match tags="np.*"/>
+</rule>
+
 <rule weight="1.0">
     <or>
       <match lemma="stor" tags="adj.sup.*"/> 
