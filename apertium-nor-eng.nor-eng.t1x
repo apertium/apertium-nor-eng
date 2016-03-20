@@ -159,6 +159,7 @@
     <def-attr n="temps">
       <attr-item tags="pres"/>
       <attr-item tags="past"/>
+      <attr-item tags="pri"/>
       <attr-item tags="pret"/>
       <attr-item tags="inf"/>
       <attr-item tags="imp"/>
