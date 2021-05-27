@@ -5,7 +5,7 @@ AC_PREREQ(2.52)
 
 m4_define([required_apertium_version], [3.4.0])
 
-AC_INIT([Apertium Norwegian-English], [0.1.1], [ftyers@prompsit.com], [apertium-nor-eng], [http://wiki.apertium.org/wiki/Apertium-nor-eng])
+AC_INIT([Apertium Norwegian-English], [0.1.1], [ftyers@prompsit.com], [apertium-nor-eng], [https://wiki.apertium.org/wiki/Apertium-nor-eng])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
@@ -27,7 +27,7 @@ AC_PATH_PROG([PKGCONFIG], [pkg-config], [false], [$PATH$PATH_SEPARATOR$with_pkg_
 AS_IF([test x$PKGCONFIG = xfalse], [AC_MSG_ERROR([You don't have pkg-config installed])])
 
 
-m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertium.m4 in ACLOCAL_PATH? See: http://wiki.apertium.org/wiki/Installation_troubleshooting])])
+m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertium.m4 in ACLOCAL_PATH? See: https://wiki.apertium.org/wiki/Installation_troubleshooting])])
 
 AP_CHECK_LING([1n], [apertium-nno])
 AP_CHECK_LING([1b], [apertium-nob])

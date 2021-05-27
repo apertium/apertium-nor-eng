@@ -922,7 +922,7 @@
       1 ^@seide<adj>$
       1 ^@sediment<n><pl>$ - ^so-called<adj>$
       1 ^*scholar$ - ^@in<adj>$ - ^*residence$
-      1 ^scandinavian<adj>$ - ^*wikipedia$ @ ^*freenode$
+      1 ^scandinavian<adj>$ - ^*wikipedia$ @ ^*OFTC$
       1 ^@sause<adj>$
       1 ^*sar$ - ^@ele<vblex><imp>$ - ^national<adj>$
       1 ^@san<n><sg>$ - ^francisco<np><ant><m><sg>$ - ^high<adj><sint>$
