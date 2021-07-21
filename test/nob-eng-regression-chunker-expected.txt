@@ -1,0 +1,22 @@
+[2jrPAE35JpzJ#0] ^det<NMOD>{^This<det><dem><sg>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^mod_nom<SN><sg>{^a<det><ind><sg>$ ^horse<n><2>$}$^default<default>{^.<sent>$}$
+[/2jrPAE35JpzJ]
+[2xshsSqoJoXi#0] ^default<default>{^Wed<vblex><inf>$}$ ^v<SV><pri>{^come<vblex><2>$}$ ^default<default>{^from<pr>$}$ ^nom<SN><sg>{^Norway<np><top><2>$}$^default<default>{^.<sent>$}$
+[/2xshsSqoJoXi]
+[Ciy87lQmvP63#0] ^unknown<unknown>{^*Han$}$ ^v<SV><past>{^have<vbhaver><2>$}$ ^default<default>{^not<adv>$}$ ^pp<SA><pp>{^wait<vblex><2>$}$ ^mod_nom<SN><sg>{^that<det><dem><sg>$ ^reply<n><2>$}$^default<default>{^.<sent>$}$
+[/Ciy87lQmvP63]
+[EK6SDSJIB52h#0] ^unknown<unknown>{^*Hun$}$ ^v<SV><pri>{^come<vblex><2>$}$ ^default<default>{^from<pr>$}$ ^nom<SN><sg>{^Norway<np><top><2>$}$^default<default>{^.<sent>$}$
+[/EK6SDSJIB52h]
+[_vEz1eYX0_EQ#0] ^unknown<unknown>{^*De$}$ ^det<NMOD>{^four<num><pl>$}$ ^adj<SA>{^big<adj><sint><sup>$}$ ^adj_nom<SN><pl>{^Norwegian<adj><sint>$ ^aid organisation<n><2>$}$^default<default>{^.<sent>$}$
+[/_vEz1eYX0_EQ]
+[acOcK0nSW7zL#0] ^det_adj_nom<SN><sg>{^The<det><def><sg>$ ^Swedish<adj><sint>$ ^king<n><2>$}$ ^v<SV><inf>{^should<vaux><2>$}$ ^inf<SV><inf>{^negotiate<vblex><2>$}$ ^default<default>{^with<pr>$}$ ^det_adj_nom<SN><sg>{^the<det><def><sg>$ ^Norwegian<adj><sint>$ ^parliament<n><2>$}$ ^default<default>{^about<pr>$}$ ^mod_nom<SN><sg>{^a<det><ind><sg>$ ^union<n><2>$}$ ^default<default>{^between<pr>$}$ ^nom<SN><sg>{^Norway<np><top><2>$}$ ^cnjcoo<CC>{^and<cnjcoo>$}$ ^nom<SN><sg>{^Sweden<np><top><2>$}$^default<default>{^.<sent>$}$
+[/acOcK0nSW7zL]
+[clUj0z3m3FHY#0] ^unknown<unknown>{^*De$}$ ^det_adj_nom<SN><pl>{^four<num><pl>$ ^big<adj><sint><sup>$ ^aid organisation<n><2>$}$^default<default>{^.<sent>$}$
+[/clUj0z3m3FHY]
+[qAoRbCPWbJoE#0] ^unknown<unknown>{^*De$}$ ^adj_nom<SN><pl>{^big<adj><sint><sup>$ ^aid organisation<n><2>$}$^default<default>{^.<sent>$}$
+[/qAoRbCPWbJoE]
+[qSGysWiln8eK#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><pri>{^come<vblex><2>$}$ ^default<default>{^from<pr>$}$ ^nom<SN><sg>{^Norway<np><top><2>$}$^default<default>{^.<sent>$}$
+[/qSGysWiln8eK]
+[sIzNJPOtaSf0#0] ^unknown<unknown>{^*Du$}$ ^v<SV><pri>{^come<vblex><2>$}$ ^default<default>{^from<pr>$}$ ^nom<SN><sg>{^Norway<np><top><2>$}$^default<default>{^.<sent>$}$
+[/sIzNJPOtaSf0]
+[xDysq9l_syiU#0] ^unknown<unknown>{^*Han$}$ ^v<SV><pri>{^come<vblex><2>$}$ ^default<default>{^from<pr>$}$ ^nom<SN><sg>{^Norway<np><top><2>$}$^default<default>{^.<sent>$}$
+[/xDysq9l_syiU]

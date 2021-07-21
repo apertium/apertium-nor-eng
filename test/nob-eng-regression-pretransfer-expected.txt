@@ -1,0 +1,22 @@
+[2jrPAE35JpzJ#0] ^Denne<det><dem><nt><sg>$ ^være<vblex><pres>$ ^en<det><qnt><m><sg>$ ^hest<n><m><sg><ind>$^.<sent><clb>$
+[/2jrPAE35JpzJ]
+[2xshsSqoJoXi#0] ^Vie<vblex><imp>$ ^komme<vblex><pres>$ ^fra<pr>$ ^Norge<np><top>$^.<sent><clb>$
+[/2xshsSqoJoXi]
+[Ciy87lQmvP63#0] ^*Han$ ^ha<vblex><pret>$ ^ikke<adv>$ ^vente<vblex><pp>$ ^den<det><dem><nt><sg>$ ^svar<n><nt><sg><def>$^.<sent><clb>$
+[/Ciy87lQmvP63]
+[EK6SDSJIB52h#0] ^*Hun$ ^komme<vblex><pres>$ ^fra<pr>$ ^Norge<np><top>$^.<sent><clb>$
+[/EK6SDSJIB52h]
+[_vEz1eYX0_EQ#0] ^*De$ ^fire<det><qnt><un><pl>$ ^stor<adj><sint><sup><un><sp><def>$ ^norsk<adj><sint><pst><un><pl><ind>$ ^hjelpeorganisasjon<n><m><pl><def>$^.<sent><clb>$
+[/_vEz1eYX0_EQ]
+[acOcK0nSW7zL#0] ^Den<det><dem><m><sg>$ ^svensk<adj><sint><pst><un><sp><def>$ ^konge<n><m><sg><def>$ ^skulle<vblex><pret>$ ^forhandle<vblex><inf>$ ^med<pr>$ ^den<det><dem><nt><sg>$ ^norsk<adj><sint><pst><un><sp><def>$ ^storting<n><nt><sg><def>$ ^om<pr>$ ^en<det><qnt><m><sg>$ ^union<n><m><sg><ind>$ ^mellom<pr>$ ^Norge<np><top>$ ^og<cnjcoo>$ ^Sverige<np><top>$^.<sent><clb>$
+[/acOcK0nSW7zL]
+[clUj0z3m3FHY#0] ^*De$ ^fire<det><qnt><un><pl>$ ^stor<adj><sint><sup><un><sp><def>$ ^hjelpeorganisasjon<n><m><pl><def>$^.<sent><clb>$
+[/clUj0z3m3FHY]
+[qAoRbCPWbJoE#0] ^*De$ ^stor<adj><sint><sup><un><sp><def>$ ^hjelpeorganisasjon<n><m><pl><def>$^.<sent><clb>$
+[/qAoRbCPWbJoE]
+[qSGysWiln8eK#0] ^*Jeg$ ^komme<vblex><pres>$ ^fra<pr>$ ^Norge<np><top>$^.<sent><clb>$
+[/qSGysWiln8eK]
+[sIzNJPOtaSf0#0] ^*Du$ ^komme<vblex><pres>$ ^fra<pr>$ ^Norge<np><top>$^.<sent><clb>$
+[/sIzNJPOtaSf0]
+[xDysq9l_syiU#0] ^*Han$ ^komme<vblex><pres>$ ^fra<pr>$ ^Norge<np><top>$^.<sent><clb>$
+[/xDysq9l_syiU]

@@ -1,0 +1,18 @@
+{
+    "eng-nno": {
+        "input": "eng-nno-input.txt",
+        "mode": "eng-nno"
+    },
+    "nno-eng": {
+        "input": "nno-eng-input.txt",
+        "mode": "nno-eng"
+    },
+    "nob-eng-pending": {
+        "input": "nob-eng-pending-input.txt",
+        "mode": "nob-eng"
+    },
+    "nob-eng-regression": {
+        "input": "nob-eng-regression-input.txt",
+        "mode": "nob-eng"
+    }
+}

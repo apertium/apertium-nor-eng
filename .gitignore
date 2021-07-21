@@ -39,3 +39,11 @@
 /nor-eng.t1x.bin
 /nor-eng.t2x.bin
 /nor-eng.t3x.bin
+/*.hfst
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/config.in
+/config
+/test/*-output.txt

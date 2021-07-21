@@ -1,0 +1,240 @@
+[-5LH44G3HO2j#0] ^En<det><qnt><m><sg>$
+[/-5LH44G3HO2j]
+[-OEW4ICNYJFH#0] ^En<det><qnt><f><sg>$ ^avis<n><f><sg><ind>$
+[/-OEW4ICNYJFH]
+[-RaQOqMszMoD#0] ^*Jeg$ ^måtte<vblex><pres>$ ^skifte<vblex><inf>$ ^jobb<n><m><sg><ind>$ ^fordi<cnjsub>$ ^*jeg$ ^ikke<adv>$ ^tjene<vblex><pres>$ ^nok<adv>$ ^penge<n><m><pl><ind>$ ^nå<adv>$^.<sent><clb>$
+[/-RaQOqMszMoD]
+[0QFN3Ke5b1O_#0] ^Hus<n><nt><sg><def>$ ^være<vblex><pres>$ ^ved<pr>$ ^sjø<n><m><sg><def>$^.<sent><clb>$
+[/0QFN3Ke5b1O_]
+[0s6cj7C9qkfr#0] ^Eple<n><nt><pl><ind>$
+[/0s6cj7C9qkfr]
+[0tTJ2v68Tsv3#0] ^Syv<det><qnt><un><pl>$
+[/0tTJ2v68Tsv3]
+[1r8SolY0ngGr#0] ^Tretti<det><qnt><un><pl>$
+[/1r8SolY0ngGr]
+[2d-eniyOKn0G#0] ^Den<det><dem><nt><sg>$ ^skulle<vblex><pret>$ ^få<vblex><inf>$ ^motor<n><m><sg><def>$ ^til<pr>$ ^å<part>$ ^virke<vblex><inf>$^.<sent><clb>$
+[/2d-eniyOKn0G]
+[2qX-dLnfkoWK#0] ^Være<vblex><pres>$ ^*du$ ^*arbeidssøkende$ ^i<pr>$ ^Norge<np><top>$ ^skulle<vblex><pres>$ ^*du$ ^melde<vblex><inf>$ ^*deg$ ^hos<pr>$ ^politi<n><nt><sg><def>$ ^innen<pr>$ ^tre<det><qnt><un><pl>$ ^måned<n><m><pl><ind>$ ^fra<pr>$ ^innreise<n><f><sg><ind>$^.<sent><clb>$
+[/2qX-dLnfkoWK]
+[3m0iEk_r5R-j#0] ^Alltid<adv>$
+[/3m0iEk_r5R-j]
+[4-_3qoseoziX#0] ^Seks<det><qnt><un><pl>$
+[/4-_3qoseoziX]
+[47-dB3sqt0vf#0] ^*Jeg$ ^måtte<vblex><pres>$ ^gjøre<vblex><inf>$ ^*leksene$ ^nå<adv>$ ^for<pr>$ ^*jeg$ ^måtte<vblex><pres>$ ^arbeide<vblex><inf>$ ^i<pr>$ ^kveld<n><m><sg><ind>$
+[/47-dB3sqt0vf]
+[5-_tamlXtpkj#0] ^Hundre<det><qnt><un><pl>$
+[/5-_tamlXtpkj]
+[5skPOkPd5dae#0] ^Stor<adj><sint><pst><un><pl><ind>$ ^hus<n><nt><pl><ind>$ ^være<vblex><pres>$ ^ved<pr>$ ^sjø<n><m><sg><def>$^.<sent><clb>$
+[/5skPOkPd5dae]
+[5vneo6plli2G#0] ^*Jeg$ ^være<vblex><pres>$ ^den<det><dem><m><sg>$ ^høy<adj><sint><sup><un><sp><def>$ ^*guten$ ^i<pr>$ ^klasse<n><m><sg><def>$ ^mine<vblex><imp>$^.<sent><clb>$
+[/5vneo6plli2G]
+[5zMQ6j0uvWu-#0] ^Siden<cnjsub>$ ^den<det><dem><nt><sg>$ ^være<vblex><pret>$ ^så<adv>$ ^kald<adj><sint><pst><nt><sg><ind>$ ^ute<pr>$^,<cm><clb>$ ^gå<vblex><pret>$ ^vie<vblex><imp>$ ^på<pr>$ ^kino<n><m><sg><ind>$
+[/5zMQ6j0uvWu-]
+[6ATxhKv20x-q#0] ^Vegg<n><m><pl><ind>$
+[/6ATxhKv20x-q]
+[71AX61oxqNLj#0] ^Klok<adj><sint><pst><un><pl><ind>$ ^dame<n><f><pl><ind>$
+[/71AX61oxqNLj]
+[7wlG_jXiis8G#0] ^Fordi<cnjsub>$ ^*jeg$ ^ha<vblex><pres>$ ^familie<n><m><sg><ind>$ ^i<pr>$ ^Norge<np><top>$^,<cm><clb>$ ^lære<vblex><pres>$ ^*jeg$ ^norsk<n><m><sg><ind>$^.<sent><clb>$
+[/7wlG_jXiis8G]
+[8TiZAwH57ZEG#0] ^*Tri$
+[/8TiZAwH57ZEG]
+[95Vfi2-EJdas#0] ^Sytti<det><qnt><un><pl>$
+[/95Vfi2-EJdas]
+[9LBu9tPIFDb2#0] ^To<det><qnt><un><pl>$
+[/9LBu9tPIFDb2]
+[9vex0wW2FVGq#0] ^Hus<n><nt><sg><def>$ ^*mitt$
+[/9vex0wW2FVGq]
+[A-R9QGzq4HaP#0] ^Når<adv>$ ^finne<vblex><pret>$ ^*du$ ^kak<n><m><sg><def>$ ^mine<vblex><imp>$^?<sent><clb>$
+[/A-R9QGzq4HaP]
+[BgRvmjp5DrBK#0] ^Hvorfor<adv>$ ^spise<vblex><pret>$ ^*du$ ^kak<n><m><sg><def>$ ^mine<vblex><imp>$^?<sent><clb>$
+[/BgRvmjp5DrBK]
+[Bk95VgiATEjY#0] ^*Hun$ ^spise<vblex><pres>$ ^kak<n><m><sg><def>$^,<cm>$ ^som<pr>$ ^*jeg$ ^kjøpe<vblex><pret>$
+[/Bk95VgiATEjY]
+[CR8zZO4qqMiQ#0] ^Hvem<prn><itg>$ ^spise<vblex><pret>$ ^kak<n><m><sg><def>$ ^mine<vblex><imp>$^?<sent><clb>$
+[/CR8zZO4qqMiQ]
+[CS5HUJ3OCmXx#0] ^Gammel<adj><sint><pst><mf><sg><ind>$ ^mann<n><m><sg><ind>$
+[/CS5HUJ3OCmXx]
+[CbSaF2IxsAH5#0] ^Dum<adj><sint><pst><un><sp><def>$ ^ape<n><f><sg><ind>$
+[/CbSaF2IxsAH5]
+[DhUIP7AULoQ2#0] ^Azteker<n><m><pl><def>$ ^snakke<vblex><pret>$ ^en<det><qnt><m><sg>$ ^variant<n><m><sg><ind>$ ^av<pr>$ ^språk<n><nt><sg><def>$ ^som<cnjsub>$ ^nå<adv>$ ^være<vblex><pres>$ ^kjenne<adj><pp><nt><sg><ind>$ ^som<pr>$ ^klassisk<adj><sint><pst><nt><sg><ind>$ ^*nahuatl$^.<sent><clb>$
+[/DhUIP7AULoQ2]
+[EcmdcuFOhnLE#0] ^I<pr>$ ^Norge<np><top>$ ^kunne<vblex><pres>$ ^*jeg$ ^gå# på ski<vblex><inf>$^.<sent><clb>$
+[/EcmdcuFOhnLE]
+[H5kLW37eblr8#0] ^Hus<n><nt><sg><def>$
+[/H5kLW37eblr8]
+[IU_q8WTUuBVI#0] ^Bilde<n><nt><pl><ind>$
+[/IU_q8WTUuBVI]
+[K8ojH5jnybjf#0] ^Grønn<adj><sint><pst><mf><sg><ind>$ ^bil<n><m><sg><ind>$
+[/K8ojH5jnybjf]
+[KRhnhE5KgPo6#0] ^Da<cnjsub>$ ^*jeg$ ^være<vblex><pret>$ ^ferdig<adj><sint><pst><nt><sg><ind>$ ^på<pr>$ ^skole<n><m><sg><def>$^,<cm><clb>$ ^dra<vblex><pret>$ ^*jeg$ ^hjem<pr>$
+[/KRhnhE5KgPo6]
+[Knic3Wx-u9cH#0] ^*Jeg$ ^gå<vblex><pret>$ ^en<det><qnt><m><sg>$ ^tur<n><m><sg><ind>$ ^selv om<cnjsub>$ ^den<det><dem><nt><sg>$ ^regne<vblex><pret>$ ^ute<pr>$
+[/Knic3Wx-u9cH]
+[Krpgj7DjYA5h#0] ^Vaske<vblex><imp>$ ^seg selv<prn><ref><p2><mf><sg><acc>$^!<sent><clb>$
+[/Krpgj7DjYA5h]
+[KzHdPNHwP0UZ#0] ^*Jeg$ ^skulle<vblex><pres>$ ^spille<vblex><inf>$ ^tennis<n><m><sg><ind>$ ^hvis<cnjsub>$ ^den<det><dem><nt><sg>$ ^ikke<adv>$ ^bli<vblex><pres>$ ^fin<adj><sint><pst><nt><sg><ind>$ ^vær<n><nt><sg><ind>$
+[/KzHdPNHwP0UZ]
+[LObZvDWhW0nQ#0] ^*Jeg$ ^være<vblex><pres>$ ^sult<n><m><sg><def>$
+[/LObZvDWhW0nQ]
+[LqxPapwb-MHk#0] ^Ti<det><qnt><un><pl>$
+[/LqxPapwb-MHk]
+[M11eKafl-iW9#0] ^Hvis<cnjsub>$ ^den<det><dem><nt><sg>$ ^bli<vblex><pres>$ ^fin<adj><sint><pst><nt><sg><ind>$ ^vær<n><nt><sg><ind>$^,<cm><clb>$ ^skulle<vblex><pres>$ ^*jeg$ ^spille<vblex><inf>$ ^tennis<n><m><sg><ind>$
+[/M11eKafl-iW9]
+[M1Cefjmi9SFO#0] ^*Han$ ^være<vblex><pres>$ ^sult<n><m><sg><def>$
+[/M1Cefjmi9SFO]
+[NKfXoK7F0vSj#0] ^Mann<n><m><sg><def>$
+[/NKfXoK7F0vSj]
+[NanK513_gDuO#0] ^Tjue<det><qnt><un><pl>$
+[/NanK513_gDuO]
+[O7-i2q-Bt9Mt#0] ^Hvor<adv>$ ^finne<vblex><pret>$ ^*du$ ^kak<n><m><sg><def>$ ^mine<vblex><imp>$^?<sent><clb>$
+[/O7-i2q-Bt9Mt]
+[OE6U6m2MychO#0] ^*Jeg$ ^lære<vblex><pres>$ ^norsk<n><nt><sp>$ ^fordi<cnjsub>$ ^*jeg$ ^ha<vblex><pres>$ ^familie<n><m><sg><ind>$ ^i<pr>$ ^Norge<np><top>$^.<sent><clb>$
+[/OE6U6m2MychO]
+[OtaUvIhvB8m9#0] ^Her<adv>$ ^være<vblex><pres>$ ^stol<n><m><sg><def>$^,<cm>$ ^som<cnjsub>$ ^*jeg$ ^sitte<vblex><pres>$ ^på<pr>$
+[/OtaUvIhvB8m9]
+[OzKMVcpNPob0#0] ^Kake<n><m><sg><ind>$
+[/OzKMVcpNPob0]
+[Qa1fvgYZ5ytt#0] ^Tre<det><qnt><un><pl>$
+[/Qa1fvgYZ5ytt]
+[RhvmvpEzq5Im#0] ^Hus<n><nt><sg><def>$ ^*hennes$
+[/RhvmvpEzq5Im]
+[S19qNl71PPt4#0] ^Hus<n><nt><sg><def>$ ^*deres$
+[/S19qNl71PPt4]
+[SNaQVmvzy6Jg#0] ^Kopp<n><m><sg><ind>$
+[/SNaQVmvzy6Jg]
+[TCHFTI20AToL#0] ^*Jeg$ ^dra<vblex><pret>$ ^hjem<pr>$ ^da<cnjsub>$ ^*jeg$ ^være<vblex><pret>$ ^ferdig<adj><sint><pst><nt><sg><ind>$ ^på<pr>$ ^skole<n><m><sg><def>$
+[/TCHFTI20AToL]
+[TgXWIao0Xa1s#0] ^Vie<vblex><imp>$ ^gå<vblex><pret>$ ^på<pr>$ ^kino<n><m><sg><ind>$ ^siden<cnjsub>$ ^den<det><dem><nt><sg>$ ^være<vblex><pret>$ ^så<adv>$ ^kald<adj><sint><pst><nt><sg><ind>$ ^ute<pr>$^.<sent><clb>$
+[/TgXWIao0Xa1s]
+[UWrNQZyp6k_B#0] ^Åtte<det><qnt><un><pl>$
+[/UWrNQZyp6k_B]
+[VefvPCzBo0B1#0] ^Ni<det><qnt><un><pl>$
+[/VefvPCzBo0B1]
+[Vi_MXQNeLRc2#0] ^*Jeg$ ^se<vblex><pres>$ ^på<pr>$ ^TV<n><m><sg><ind>$ ^mens<cnjsub>$ ^*jeg$ ^gjøre<vblex><pres>$ ^*leksene$ ^mine<vblex><inf>$
+[/Vi_MXQNeLRc2]
+[X2wyRh0k9_LI#0] ^*Disse$ ^kake<n><f><pl><def>$ ^være<vblex><pres>$ ^stor<adj><sint><pst><un><pl><ind>$
+[/X2wyRh0k9_LI]
+[YZibbc-g0vbd#0] ^Hus<n><nt><sg><def>$ ^*ditt$
+[/YZibbc-g0vbd]
+[Z25-HSZlRXJS#0] ^Hvordan<adv>$ ^finne<vblex><pret>$ ^*du$ ^kak<n><m><sg><def>$ ^mine<vblex><imp>$^?<sent><clb>$
+[/Z25-HSZlRXJS]
+[ZOgFpFL4FoT5#0] ^Tredje<adj><ord><pst><un><sp><def>$
+[/ZOgFpFL4FoT5]
+[_4RWQD0av-AN#0] ^Fem<det><qnt><un><pl>$
+[/_4RWQD0av-AN]
+[_KmDaQ50keyL#0] ^Om<pr>$ ^sommer<n><m><sg><def>$ ^svømme<vblex><pres>$ ^*jeg$ ^ofte<adv>$^.<sent><clb>$
+[/_KmDaQ50keyL]
+[_aDGPVTUY0Q1#0] ^Før<cnjsub>$ ^*jeg$ ^legge<vblex><pres>$ ^*meg$^,<cm><clb>$ ^drikke<vblex><pres>$ ^*jeg$ ^en<det><qnt><nt><sg>$ ^glass<n><nt><sg><ind>$ ^vin<n><m><sg><ind>$
+[/_aDGPVTUY0Q1]
+[_eVc_kWRACIj#0] ^En<det><qnt><m><sg>$ ^mann<n><m><sg><ind>$
+[/_eVc_kWRACIj]
+[_vEz1eYX0_EQ#0] ^*De$ ^fire<det><qnt><un><pl>$ ^stor<adj><sint><sup><un><sp><def>$ ^norsk<adj><sint><pst><un><pl><ind>$ ^hjelpeorganisasjon<n><m><pl><def>$^.<sent><clb>$
+[/_vEz1eYX0_EQ]
+[aGx6wXRa3ddT#0] ^John<np><ant><m>$ ^være<vblex><pres>$ ^like<adv>$ ^smart<adj><sint><pst><mf><sg><ind>$ ^som<pr>$ ^Mary<np><ant><f>$^.<sent><clb>$
+[/aGx6wXRa3ddT]
+[aJn0Ff-Sx2IX#0] ^Hvis<cnjsub>$ ^den<det><dem><nt><sg>$ ^ikke<adv>$ ^bli<vblex><pres>$ ^fin<adj><sint><pst><nt><sg><ind>$ ^vær<n><nt><sg><ind>$^,<cm><clb>$ ^skulle<vblex><pres>$ ^*jeg$ ^spille<vblex><inf>$ ^tennis<n><m><sg><ind>$
+[/aJn0Ff-Sx2IX]
+[anjiJhvLrQUE#0] ^*Jeg$ ^drikke<vblex><pres>$ ^en<det><qnt><nt><sg>$ ^glass<n><nt><sg><ind>$ ^vin<n><m><sg><ind>$ ^før<cnjsub>$ ^*jeg$ ^legge<vblex><pres>$ ^*meg$
+[/anjiJhvLrQUE]
+[bJ8F1VEgrVvI#0] ^*Du$ ^være<vblex><pres>$ ^sult<n><m><sg><def>$
+[/bJ8F1VEgrVvI]
+[bT7J65YqD9vr#0] ^Hva<prn><itg>$ ^*slaks$ ^kake<n><m><sg><ind>$ ^være<vblex><pres>$ ^den<det><dem><nt><sg>$^?<sent><clb>$
+[/bT7J65YqD9vr]
+[c4HHsGRzZZNl#0] ^Hvem<prn><itg>$ ^sine<vblex><imp>$ ^kake<n><f><sg><ind>$ ^være<vblex><pres>$ ^den<det><dem><nt><sg>$^?<sent><clb>$
+[/c4HHsGRzZZNl]
+[coFsNr1ASoD0#0] ^Aldri<adv>$
+[/coFsNr1ASoD0]
+[e7wIBOBYJBgr#0] ^Hus<n><nt><pl><def>$ ^være<vblex><pres>$ ^ved<pr>$ ^sjø<n><m><sg><def>$^.<sent><clb>$
+[/e7wIBOBYJBgr]
+[eDg8pJin8UBQ#0] ^Tretti<det><qnt><un><pl>$
+[/eDg8pJin8UBQ]
+[eo5_uKQJ80z_#0] ^Siden<cnjsub>$ ^den<det><dem><nt><sg>$ ^alltid<adv>$ ^være<vblex><pres>$ ^så<adv>$ ^kald<adj><sint><pst><nt><sg><ind>$ ^her<adv>$^,<cm><clb>$ ^trene<vblex><pres>$ ^vie<vblex><imp>$ ^i<pr>$ ^idrett<n><m><sg><ind><cmp>$ ^bygning<n><m><sg><def>$^.<sent><clb>$
+[/eo5_uKQJ80z_]
+[fBokaVLDeNhV#0] ^Den<det><dem><m><sg>$ ^være<vblex><pres>$ ^stor<adj><sint><pst><mf><sg><ind>$
+[/fBokaVLDeNhV]
+[h_uzXwuvqCL5#0] ^Hva<adv>$ ^hete<vblex><pres>$ ^*han$^?<sent><clb>$
+[/h_uzXwuvqCL5]
+[hk0ns68ZSy41#0] ^*Nahuatl$ ^være<vblex><pres>$ ^i dag<adv>$ ^den<det><dem><nt><sg>$ ^nest<adv>$ ^mye<adj><sint><sup><un><sp><ind>$ ^bruke<adj><pp><sg><def>$ ^språk<n><nt><sg><def>$ ^i<pr>$ ^Mexico<np><top>$ ^etter<pr>$ ^spansk<n><nt><sp>$^.<sent><clb>$
+[/hk0ns68ZSy41]
+[iLmyRO04ICue#0] ^*Han$ ^vaske<vblex><pres>$ ^seg<prn><ref><p3><un><sp><acc>$
+[/iLmyRO04ICue]
+[iZdcQYCfKoA-#0] ^Tjue<det><qnt><un><pl>$
+[/iZdcQYCfKoA-]
+[izGmCWdqeXPB#0] ^Nitti<det><qnt><un><pl>$
+[/izGmCWdqeXPB]
+[jHhfRZ-kZLZY#0] ^Lars<np><ant><m>$ ^arbeide<vblex><pres>$ ^ikke<adv>$ ^i dag<adv>$^.<sent><clb>$
+[/jHhfRZ-kZLZY]
+[kVZzEqsU1hi7#0] ^Avis<n><f><sg><def>$
+[/kVZzEqsU1hi7]
+[kchJYUKd0wUX#0] ^En<det><qnt><nt><sg>$ ^hus<n><nt><sg><ind>$
+[/kchJYUKd0wUX]
+[kh4dlWiUYBLU#0] ^Selv om<cnjsub>$ ^den<det><dem><nt><sg>$ ^ikke<adv>$ ^regne<vblex><pres>$ ^nå<adv>$^,<cm><clb>$ ^bli<vblex><pres>$ ^*jeg$ ^inne<pr>$^.<sent><clb>$
+[/kh4dlWiUYBLU]
+[lajGpRbCpR3D#0] ^*Hun$ ^være<vblex><pres>$ ^sult<n><m><sg><def>$
+[/lajGpRbCpR3D]
+[lasQVWmZqPRg#0] ^En<det><qnt><nt><sg>$ ^hus<n><nt><sg><ind>$ ^ved<pr>$ ^sjø<n><m><sg><def>$^.<sent><clb>$
+[/lasQVWmZqPRg]
+[mF1YQxv58Qgf#0] ^Fugl<n><m><sg><ind>$
+[/mF1YQxv58Qgf]
+[mW1rmVpPxDXG#0] ^Når<cnjsub>$ ^*jeg$ ^ikke<adv>$ ^gjøre<vblex><pres>$ ^*leksene$ ^mine<n><f><sg><ind>$^,<cm><clb>$ ^bli<vblex><pres>$ ^*jeg$ ^i<pr>$ ^dårlig<adj><sint><pst><nt><sg><ind>$ ^humør<n><nt><sg><ind>$
+[/mW1rmVpPxDXG]
+[n3BXSjkf1qr9#0] ^Borde<vblex><imp>$
+[/n3BXSjkf1qr9]
+[nFCEIaO-NKpm#0] ^Camilla<np><ant><f>$ ^ville<vblex><pres>$ ^ikke<adv>$ ^gå<vblex><inf>$ ^på<pr>$ ^kino<n><m><sg><ind>$^.<sent><clb>$
+[/nFCEIaO-NKpm]
+[nHAYqjMOOl4J#0] ^Vie<vblex><imp>$ ^være<vblex><pres>$ ^sulten<adj><sint><pst><un><pl><ind>$
+[/nHAYqjMOOl4J]
+[nZcm0sZIKgQu#0] ^Andre<adj><ord><pst><nt><sg><ind>$
+[/nZcm0sZIKgQu]
+[nzrnROQsrK1Y#0] ^*Jeg$ ^skulle<vblex><pres>$ ^spille<vblex><inf>$ ^tennis<n><m><sg><ind>$ ^hvis<cnjsub>$ ^den<det><dem><nt><sg>$ ^bli<vblex><pres>$ ^fin<adj><sint><pst><nt><sg><ind>$ ^vær<n><nt><sg><ind>$
+[/nzrnROQsrK1Y]
+[pPg5yTPh1zcs#0] ^Syv<det><qnt><un><pl>$
+[/pPg5yTPh1zcs]
+[pxEav8TCCSw8#0] ^Når<cnjsub>$ ^*jeg$ ^være<vblex><pres>$ ^ferdig<adj><sint><pst><nt><sg><ind>$ ^med<pr>$ ^*leksene$^,<cm><clb>$ ^skulle<vblex><pres>$ ^*jeg$ ^gå<vblex><inf>$ ^ut<adv>$
+[/pxEav8TCCSw8]
+[qMaMI3LSHsEf#0] ^*Jeg$ ^skulle<vblex><pres>$ ^gå<vblex><inf>$ ^på<pr>$ ^kino<n><m><sg><ind>$ ^etter<pr>$ ^at<cnjsub>$ ^*jeg$ ^ha<vblex><pres>$ ^gjøre<vblex><pp>$ ^*leksene$
+[/qMaMI3LSHsEf]
+[r9QHyF1Y8xe_#0] ^*Jeg$ ^skulle<vblex><pres>$ ^gå<vblex><inf>$ ^ut<adv>$ ^når<cnjsub>$ ^*jeg$ ^være<vblex><pres>$ ^ferdig<adj><sint><pst><nt><sg><ind>$ ^med<pr>$ ^*leksene$
+[/r9QHyF1Y8xe_]
+[rlhbKIC1itQT#0] ^Den<det><dem><m><sg>$ ^være<vblex><pres>$ ^sulten<adj><sint><pst><mf><sg><ind>$
+[/rlhbKIC1itQT]
+[ryq_6K9_Tbo_#0] ^Første<adj><ord><pst><un><sp><def>$
+[/ryq_6K9_Tbo_]
+[s0ASBd9PaTj8#0] ^Stor<adj><sint><pst><mf><sg><ind>$ ^fisk<n><m><sg><ind>$
+[/s0ASBd9PaTj8]
+[s2Fj1lY7i4sj#0] ^Lyse<vblex><imp>$
+[/s2Fj1lY7i4sj]
+[sSisw8d3KWX2#0] ^Merete<np><ant><f>$ ^kunne<vblex><pres>$ ^snakke<vblex><inf>$ ^norsk<n><m><sg><ind>$^.<sent><clb>$
+[/sSisw8d3KWX2]
+[si7osFVuL7CN#0] ^Etter<pr>$ ^at<cnjsub>$ ^*jeg$ ^ha<vblex><pres>$ ^gjøre<vblex><pp>$ ^*leksene$^,<cm><clb>$ ^skulle<vblex><pres>$ ^*jeg$ ^gå<vblex><inf>$ ^på<pr>$ ^kino<n><m><sg><ind>$
+[/si7osFVuL7CN]
+[sl9Ov5POB15M#0] ^*Dere$ ^være<vblex><pres>$ ^sulten<adj><sint><pst><un><pl><ind>$
+[/sl9Ov5POB15M]
+[sm9ZOCUalDA-#0] ^Vie<vblex><imp>$ ^trener<n><m><sg><ind>$ ^i<pr>$ ^idrett<n><m><sg><ind><cmp>$ ^bygning<n><m><sg><def>$ ^siden<cnjsub>$ ^den<det><dem><nt><sg>$ ^alltid<adv>$ ^være<vblex><pres>$ ^så<adv>$ ^kald<adj><sint><pst><nt><sg><ind>$ ^her<adv>$^.<sent><clb>$
+[/sm9ZOCUalDA-]
+[t-W7I8R4_Khm#0] ^*Regnbuen$ ^ha<vblex><pres>$ ^mange<det><qnt><un><pl>$ ^farge<n><m><pl><ind>$^.<sent><clb>$
+[/t-W7I8R4_Khm]
+[tFnFTnBB-rTr#0] ^Fordi<cnjsub>$ ^*jeg$ ^ikke<adv>$ ^tjene<vblex><pres>$ ^nok<adv>$ ^penge<n><m><pl><ind>$ ^nå<adv>$^,<cm><clb>$ ^måtte<vblex><pres>$ ^*jeg$ ^skifte<vblex><inf>$ ^jobb<n><m><sg><ind>$^.<sent><clb>$
+[/tFnFTnBB-rTr]
+[ujtVptso2t6B#0] ^Hvor mange<det><qnt><un><pl>$ ^kak<n><m><pl><ind>$ ^spise<vblex><pret>$ ^*du$ ^i går<adv>$^?<sent><clb>$
+[/ujtVptso2t6B]
+[uomeWoMLdH70#0] ^*Jeg$ ^bli<vblex><pres>$ ^i<pr>$ ^dårlig<adj><sint><pst><nt><sg><ind>$ ^humør<n><nt><sg><ind>$ ^når<cnjsub>$ ^*jeg$ ^ikke<adv>$ ^gjøre<vblex><pres>$ ^*leksene$ ^mine<n><f><sg><ind>$
+[/uomeWoMLdH70]
+[uueYQSvDMbZw#0] ^Mens<cnjsub>$ ^*jeg$ ^gjøre<vblex><pres>$ ^*leksene$ ^mine<n><f><sg><ind>$^,<cm><clb>$ ^se<vblex><pres>$ ^*jeg$ ^på<pr>$ ^TV<n><m><sg><ind>$
+[/uueYQSvDMbZw]
+[vSaYhx7v3jKP#0] ^Av og til<adv>$
+[/vSaYhx7v3jKP]
+[wMWWB49J-7qG#0] ^Selv om<cnjsub>$ ^den<det><dem><nt><sg>$ ^regne<vblex><pret>$ ^ute<pr>$^,<cm><clb>$ ^gå<vblex><pret>$ ^*jeg$ ^en<det><qnt><m><sg>$ ^tur<n><m><sg><ind>$
+[/wMWWB49J-7qG]
+[wT8-8TL0upVP#0] ^*Jeg$ ^bli<vblex><pres>$ ^inne<pr>$ ^selv om<cnjsub>$ ^den<det><dem><nt><sg>$ ^ikke<adv>$ ^regne<vblex><pres>$ ^nå<adv>$^.<sent><clb>$
+[/wT8-8TL0upVP]
+[wUH6qA5DoRkJ#0] ^Fire<det><qnt><un><pl>$
+[/wUH6qA5DoRkJ]
+[xIH1mAEv241c#0] ^Hus<n><nt><sg><def>$ ^*vårt$
+[/xIH1mAEv241c]
+[yoLaO3X0dneM#0] ^*De$ ^vaske<vblex><pres>$ ^seg<prn><ref><p3><un><sp><acc>$
+[/yoLaO3X0dneM]
+[z5lGznsRgNZG#0] ^Huse<vblex><imp>$
+[/z5lGznsRgNZG]
+[zMn38VCvB-l_#0] ^Hus<n><nt><sg><def>$ ^*hans$
+[/zMn38VCvB-l_]

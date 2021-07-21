@@ -1,0 +1,22 @@
+[2jrPAE35JpzJ#0] ^This<det><dem><sg>$ ^be<vbser><pri>$ ^a<det><ind><sg>$ ^horse<n><sg>$^.<sent>$
+[/2jrPAE35JpzJ]
+[2xshsSqoJoXi#0] ^Wed<vblex><inf>$ ^come<vblex><pri>$ ^from<pr>$ ^Norway<np><top><sg>$^.<sent>$
+[/2xshsSqoJoXi]
+[Ciy87lQmvP63#0] ^*Han$ ^have<vbhaver><past>$ ^not<adv>$ ^wait<vblex><pp>$ ^that<det><dem><sg>$ ^reply<n><sg>$^.<sent>$
+[/Ciy87lQmvP63]
+[EK6SDSJIB52h#0] ^*Hun$ ^come<vblex><pri>$ ^from<pr>$ ^Norway<np><top><sg>$^.<sent>$
+[/EK6SDSJIB52h]
+[_vEz1eYX0_EQ#0] ^*De$ ^four<num><pl>$ ^big<adj><sint><sup>$ ^Norwegian<adj><sint>$ ^aid organisation<n><pl>$^.<sent>$
+[/_vEz1eYX0_EQ]
+[acOcK0nSW7zL#0] ^The<det><def><sg>$ ^Swedish<adj><sint>$ ^king<n><sg>$ ^should<vaux><inf>$ ^negotiate<vblex><inf>$ ^with<pr>$ ^the<det><def><sg>$ ^Norwegian<adj><sint>$ ^parliament<n><sg>$ ^about<pr>$ ^a<det><ind><sg>$ ^union<n><sg>$ ^between<pr>$ ^Norway<np><top><sg>$ ^and<cnjcoo>$ ^Sweden<np><top><sg>$^.<sent>$
+[/acOcK0nSW7zL]
+[clUj0z3m3FHY#0] ^*De$ ^four<num><pl>$ ^big<adj><sint><sup>$ ^aid organisation<n><pl>$^.<sent>$
+[/clUj0z3m3FHY]
+[qAoRbCPWbJoE#0] ^*De$ ^big<adj><sint><sup>$ ^aid organisation<n><pl>$^.<sent>$
+[/qAoRbCPWbJoE]
+[qSGysWiln8eK#0] ^*Jeg$ ^come<vblex><pri>$ ^from<pr>$ ^Norway<np><top><sg>$^.<sent>$
+[/qSGysWiln8eK]
+[sIzNJPOtaSf0#0] ^*Du$ ^come<vblex><pri>$ ^from<pr>$ ^Norway<np><top><sg>$^.<sent>$
+[/sIzNJPOtaSf0]
+[xDysq9l_syiU#0] ^*Han$ ^come<vblex><pri>$ ^from<pr>$ ^Norway<np><top><sg>$^.<sent>$
+[/xDysq9l_syiU]

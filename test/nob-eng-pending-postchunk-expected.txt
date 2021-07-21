@@ -1,0 +1,240 @@
+[-5LH44G3HO2j#0] ^A<det><ind><sg>$
+[/-5LH44G3HO2j]
+[-OEW4ICNYJFH#0] ^A<det><ind><sg>$ ^journal<n><sg>$
+[/-OEW4ICNYJFH]
+[-RaQOqMszMoD#0] ^*Jeg$ ^must<vbmod><pri>$ ^shift<vblex><inf>$ ^job<n><sg>$ ^because<cnjsub>$ ^*jeg$ ^not<adv>$ ^earn<vblex><pri>$ ^enough<adv>$ ^money<n><sg>$ ^now<adv>$^.<sent>$
+[/-RaQOqMszMoD]
+[0QFN3Ke5b1O_#0] ^Home<n><sg>$ ^be<vbser><pri><p3><sg>$ ^on<pr>$ ^sea<n><sg>$^.<sent>$
+[/0QFN3Ke5b1O_]
+[0s6cj7C9qkfr#0] ^Apple<n><pl>$
+[/0s6cj7C9qkfr]
+[0tTJ2v68Tsv3#0] ^Seven<num><pl>$
+[/0tTJ2v68Tsv3]
+[1r8SolY0ngGr#0] ^Thirty<num><pl>$
+[/1r8SolY0ngGr]
+[2d-eniyOKn0G#0] ^That<det><dem><sg>$ ^should<vaux><inf>$ ^get<vblex><inf>$ ^engine<n><sg>$ ^to<pr>$ ^to<pr>$ ^seem<vblex><inf>$^.<sent>$
+[/2d-eniyOKn0G]
+[2qX-dLnfkoWK#0] ^Be<vbser><pri>$ ^*du$ ^*arbeidssøkende$ ^in<pr>$ ^Norway<np><top><sg>$ ^shall<vaux><inf>$ ^*du$ ^announce<vblex><inf>$ ^*deg$ ^at<pr>$ ^police<n><pl>$ ^within<pr>$ ^three<num><pl>$ ^month<n><pl>$ ^from<pr>$ ^arrival<n><sg>$^.<sent>$
+[/2qX-dLnfkoWK]
+[3m0iEk_r5R-j#0] ^Anyway<adv>$
+[/3m0iEk_r5R-j]
+[4-_3qoseoziX#0] ^Six<num><pl>$
+[/4-_3qoseoziX]
+[47-dB3sqt0vf#0] ^*Jeg$ ^must<vbmod><pri>$ ^do<vblex><inf>$ ^*leksene$ ^now<adv>$ ^for<pr>$ ^*jeg$ ^must<vbmod><pri>$ ^work<vblex><inf>$ ^in<pr>$ ^night<n><sg>$
+[/47-dB3sqt0vf]
+[5-_tamlXtpkj#0] ^Hundred<num><pl>$
+[/5-_tamlXtpkj]
+[5skPOkPd5dae#0] ^Big<adj><sint>$ ^home<n><pl>$ ^be<vbser><pri>$ ^on<pr>$ ^sea<n><sg>$^.<sent>$
+[/5skPOkPd5dae]
+[5vneo6plli2G#0] ^*Jeg$ ^be<vbser><pri>$ ^that<det><dem><sg>$ ^high<adj><sint><sup>$ ^*guten$ ^in<pr>$ ^class<n><sg>$ ^look<vblex><inf>$^.<sent>$
+[/5vneo6plli2G]
+[5zMQ6j0uvWu-#0] ^Since<cnjsub>$ ^that<det><dem><sg>$ ^be<vbser><past>$ ^so<cnjadv>$ ^cold<adj><sint>$ ^out<pr>$^,<cm>$ ^go<vblex><past>$ ^wed<vblex><inf>$ ^on<pr>$ ^cinema<n><sg>$
+[/5zMQ6j0uvWu-]
+[6ATxhKv20x-q#0] ^Wall<n><pl>$
+[/6ATxhKv20x-q]
+[71AX61oxqNLj#0] ^Wise<adj><sint>$ ^lady<n><pl>$
+[/71AX61oxqNLj]
+[7wlG_jXiis8G#0] ^Because<cnjsub>$ ^*jeg$ ^have<vbhaver><pri>$ ^family<n><sg>$ ^in<pr>$ ^Norway<np><top><sg>$^,<cm>$ ^teach<vblex><pri>$ ^*jeg$ ^Norwegian<n><sg>$^.<sent>$
+[/7wlG_jXiis8G]
+[8TiZAwH57ZEG#0] ^*Tri$
+[/8TiZAwH57ZEG]
+[95Vfi2-EJdas#0] ^Seventy<num><pl>$
+[/95Vfi2-EJdas]
+[9LBu9tPIFDb2#0] ^Two<num><pl>$
+[/9LBu9tPIFDb2]
+[9vex0wW2FVGq#0] ^Home<n><sg>$ ^*mitt$
+[/9vex0wW2FVGq]
+[A-R9QGzq4HaP#0] ^When<adv><itg>$ ^find<vblex><past>$ ^*du$ ^cake<n><sg>$ ^look<vblex><inf>$^?<sent>$
+[/A-R9QGzq4HaP]
+[BgRvmjp5DrBK#0] ^Why<adv><itg>$ ^eat<vblex><past>$ ^*du$ ^cake<n><sg>$ ^look<vblex><inf>$^?<sent>$
+[/BgRvmjp5DrBK]
+[Bk95VgiATEjY#0] ^*Hun$ ^eat<vblex><pri>$ ^cake<n><sg>$^,<cm>$ ^as<pr>$ ^*jeg$ ^buy<vblex><past>$
+[/Bk95VgiATEjY]
+[CR8zZO4qqMiQ#0] ^Who<prn><itg><mf><sp>$ ^eat<vblex><past>$ ^cake<n><sg>$ ^look<vblex><inf>$^?<sent>$
+[/CR8zZO4qqMiQ]
+[CS5HUJ3OCmXx#0] ^Old<adj><sint>$ ^man<n><sg>$
+[/CS5HUJ3OCmXx]
+[CbSaF2IxsAH5#0] ^Stupid<adj><sint>$ ^ape<n><sg>$
+[/CbSaF2IxsAH5]
+[DhUIP7AULoQ2#0] ^Aztec<n><pl>$ ^speak<vblex><past>$ ^a<det><ind><sg>$ ^variant<n><sg>$ ^of<pr>$ ^language<n><sg>$ ^that<cnjsub>$ ^now<adv>$ ^be<vbser><pri>$ ^know<vblex><pp>$ ^as<pr>$ ^classic<adj><sint>$ ^*nahuatl$^.<sent>$
+[/DhUIP7AULoQ2]
+[EcmdcuFOhnLE#0] ^In<pr>$ ^Norway<np><top><sg>$ ^can<vaux><pri>$ ^*jeg$ ^go<vblex><inf># skiing$^.<sent>$
+[/EcmdcuFOhnLE]
+[H5kLW37eblr8#0] ^Home<n><sg>$
+[/H5kLW37eblr8]
+[IU_q8WTUuBVI#0] ^Image<n><pl>$
+[/IU_q8WTUuBVI]
+[K8ojH5jnybjf#0] ^Green<adj><sint>$ ^car<n><sg>$
+[/K8ojH5jnybjf]
+[KRhnhE5KgPo6#0] ^When<cnjsub>$ ^*jeg$ ^be<vbser><past>$ ^exhaust<adj><sint>$ ^on<pr>$ ^school<n><sg>$^,<cm>$ ^go<vblex><past>$ ^*jeg$ ^home<pr>$
+[/KRhnhE5KgPo6]
+[Knic3Wx-u9cH#0] ^*Jeg$ ^go<vblex><past>$ ^a<det><ind><sg>$ ^tour<n><sg>$ ^even though<cnjadv>$ ^that<det><dem><sg>$ ^rain<vblex><past>$ ^out<pr>$
+[/Knic3Wx-u9cH]
+[Krpgj7DjYA5h#0] ^Wash<vblex><inf>$ ^yourself<prn><p2><mf><sg><acc>$^!<sent>$
+[/Krpgj7DjYA5h]
+[KzHdPNHwP0UZ#0] ^*Jeg$ ^shall<vaux><inf>$ ^play<vblex><inf>$ ^tennis<n><sg>$ ^if<cnjsub>$ ^that<det><dem><sg>$ ^not<adv>$ ^be<vbser><pri>$ ^fine<adj><sint>$ ^weather<n><sg>$
+[/KzHdPNHwP0UZ]
+[LObZvDWhW0nQ#0] ^*Jeg$ ^be<vbser><pri>$ ^hunger<n><sg>$
+[/LObZvDWhW0nQ]
+[LqxPapwb-MHk#0] ^Ten<num><pl>$
+[/LqxPapwb-MHk]
+[M11eKafl-iW9#0] ^If<cnjsub>$ ^that<det><dem><sg>$ ^be<vbser><pri>$ ^fine<adj><sint>$ ^weather<n><sg>$^,<cm>$ ^shall<vaux><inf>$ ^*jeg$ ^play<vblex><inf>$ ^tennis<n><sg>$
+[/M11eKafl-iW9]
+[M1Cefjmi9SFO#0] ^*Han$ ^be<vbser><pri>$ ^hunger<n><sg>$
+[/M1Cefjmi9SFO]
+[NKfXoK7F0vSj#0] ^Man<n><sg>$
+[/NKfXoK7F0vSj]
+[NanK513_gDuO#0] ^Twenty<num><pl>$
+[/NanK513_gDuO]
+[O7-i2q-Bt9Mt#0] ^Where<adv><itg>$ ^find<vblex><past>$ ^*du$ ^cake<n><sg>$ ^look<vblex><inf>$^?<sent>$
+[/O7-i2q-Bt9Mt]
+[OE6U6m2MychO#0] ^*Jeg$ ^teach<vblex><pri>$ ^Norwegian<n><sg>$ ^because<cnjsub>$ ^*jeg$ ^have<vbhaver><pri>$ ^family<n><sg>$ ^in<pr>$ ^Norway<np><top><sg>$^.<sent>$
+[/OE6U6m2MychO]
+[OtaUvIhvB8m9#0] ^Here<adv>$ ^be<vbser><pri>$ ^chair<n><sg>$^,<cm>$ ^that<cnjsub>$ ^*jeg$ ^sit<vblex><pri>$ ^on<pr>$
+[/OtaUvIhvB8m9]
+[OzKMVcpNPob0#0] ^Cake<n><sg>$
+[/OzKMVcpNPob0]
+[Qa1fvgYZ5ytt#0] ^Three<num><pl>$
+[/Qa1fvgYZ5ytt]
+[RhvmvpEzq5Im#0] ^Home<n><sg>$ ^*hennes$
+[/RhvmvpEzq5Im]
+[S19qNl71PPt4#0] ^Home<n><sg>$ ^*deres$
+[/S19qNl71PPt4]
+[SNaQVmvzy6Jg#0] ^Cup<n><sg>$
+[/SNaQVmvzy6Jg]
+[TCHFTI20AToL#0] ^*Jeg$ ^go<vblex><past>$ ^home<pr>$ ^when<cnjsub>$ ^*jeg$ ^be<vbser><past>$ ^exhaust<adj><sint>$ ^on<pr>$ ^school<n><sg>$
+[/TCHFTI20AToL]
+[TgXWIao0Xa1s#0] ^Wed<vblex><inf>$ ^go<vblex><past>$ ^on<pr>$ ^cinema<n><sg>$ ^since<cnjsub>$ ^that<det><dem><sg>$ ^be<vbser><past>$ ^so<cnjadv>$ ^cold<adj><sint>$ ^out<pr>$^.<sent>$
+[/TgXWIao0Xa1s]
+[UWrNQZyp6k_B#0] ^Eight<num><pl>$
+[/UWrNQZyp6k_B]
+[VefvPCzBo0B1#0] ^Nine<num><pl>$
+[/VefvPCzBo0B1]
+[Vi_MXQNeLRc2#0] ^*Jeg$ ^see<vblex><pri>$ ^on<pr>$ ^TV<n><sg>$ ^while<cnjsub>$ ^*jeg$ ^do<vblex><pri>$ ^*leksene$ ^look<vblex><inf>$
+[/Vi_MXQNeLRc2]
+[X2wyRh0k9_LI#0] ^*Disse$ ^cake<n><pl>$ ^be<vbser><pri>$ ^big<adj><sint>$
+[/X2wyRh0k9_LI]
+[YZibbc-g0vbd#0] ^Home<n><sg>$ ^*ditt$
+[/YZibbc-g0vbd]
+[Z25-HSZlRXJS#0] ^How<adv><itg>$ ^find<vblex><past>$ ^*du$ ^cake<n><sg>$ ^look<vblex><inf>$^?<sent>$
+[/Z25-HSZlRXJS]
+[ZOgFpFL4FoT5#0] ^Third<adj><ord>$
+[/ZOgFpFL4FoT5]
+[_4RWQD0av-AN#0] ^Five<num><pl>$
+[/_4RWQD0av-AN]
+[_KmDaQ50keyL#0] ^About<pr>$ ^summer<n><sg>$ ^swim<vblex><pri><p3><sg>$ ^*jeg$ ^often<adv>$^.<sent>$
+[/_KmDaQ50keyL]
+[_aDGPVTUY0Q1#0] ^Before<cnjsub>$ ^*jeg$ ^put<vblex><pri>$ ^*meg$^,<cm>$ ^drink<vblex><pri>$ ^*jeg$ ^a<det><ind><sg>$ ^glass<n><sg>$ ^wine<n><sg>$
+[/_aDGPVTUY0Q1]
+[_eVc_kWRACIj#0] ^A<det><ind><sg>$ ^man<n><sg>$
+[/_eVc_kWRACIj]
+[_vEz1eYX0_EQ#0] ^*De$ ^four<num><pl>$ ^big<adj><sint><sup>$ ^Norwegian<adj><sint>$ ^aid organisation<n><pl>$^.<sent>$
+[/_vEz1eYX0_EQ]
+[aGx6wXRa3ddT#0] ^John<np><ant><m><sg>$ ^be<vbser><pri><p3><sg>$ ^just<adv>$ ^smart<adj><sint>$ ^as<pr>$ ^Mary<np><ant><f><sg>$^.<sent>$
+[/aGx6wXRa3ddT]
+[aJn0Ff-Sx2IX#0] ^If<cnjsub>$ ^that<det><dem><sg>$ ^not<adv>$ ^be<vbser><pri>$ ^fine<adj><sint>$ ^weather<n><sg>$^,<cm>$ ^shall<vaux><inf>$ ^*jeg$ ^play<vblex><inf>$ ^tennis<n><sg>$
+[/aJn0Ff-Sx2IX]
+[anjiJhvLrQUE#0] ^*Jeg$ ^drink<vblex><pri>$ ^a<det><ind><sg>$ ^glass<n><sg>$ ^wine<n><sg>$ ^before<cnjsub>$ ^*jeg$ ^put<vblex><pri>$ ^*meg$
+[/anjiJhvLrQUE]
+[bJ8F1VEgrVvI#0] ^*Du$ ^be<vbser><pri>$ ^hunger<n><sg>$
+[/bJ8F1VEgrVvI]
+[bT7J65YqD9vr#0] ^What<prn><itg><mf><sp>$ ^*slaks$ ^cake<n><sg>$ ^be<vbser><pri><p3><sg>$ ^that<det><dem><sg>$^?<sent>$
+[/bT7J65YqD9vr]
+[c4HHsGRzZZNl#0] ^Who<prn><itg><mf><sp>$ ^its<vblex><inf>$ ^cake<n><sg>$ ^be<vbser><pri><p3><sg>$ ^that<det><dem><sg>$^?<sent>$
+[/c4HHsGRzZZNl]
+[coFsNr1ASoD0#0] ^Never<adv>$
+[/coFsNr1ASoD0]
+[e7wIBOBYJBgr#0] ^Home<n><pl>$ ^be<vbser><pri>$ ^on<pr>$ ^sea<n><sg>$^.<sent>$
+[/e7wIBOBYJBgr]
+[eDg8pJin8UBQ#0] ^Thirty<num><pl>$
+[/eDg8pJin8UBQ]
+[eo5_uKQJ80z_#0] ^Since<cnjsub>$ ^that<det><dem><sg>$ ^anyway<adv>$ ^be<vbser><pri>$ ^so<cnjadv>$ ^cold<adj><sint>$ ^here<adv>$^,<cm>$ ^train<vblex><pri>$ ^wed<vblex><inf>$ ^in<pr>$ ^sport<n><sg>$ ^building<n><sg>$^.<sent>$
+[/eo5_uKQJ80z_]
+[fBokaVLDeNhV#0] ^That<det><dem><sg>$ ^be<vbser><pri>$ ^big<adj><sint>$
+[/fBokaVLDeNhV]
+[h_uzXwuvqCL5#0] ^What<det><itg><sp>$ ^be<vblex><pri># called$ ^*han$^?<sent>$
+[/h_uzXwuvqCL5]
+[hk0ns68ZSy41#0] ^*Nahuatl$ ^be<vbser><pri>$ ^today<adv>$ ^the<det><def><sg>$ ^next<adv>$ ^much<det><qnt><sp>$ ^use<vblex><pp>$ ^language<n><sg>$ ^in<pr>$ ^Mexico<np><top><sg>$ ^after<pr>$ ^Spanish<n><sg>$^.<sent>$
+[/hk0ns68ZSy41]
+[iLmyRO04ICue#0] ^*Han$ ^wash<vblex><pri>$ ^himself<prn><p3><un><sp><acc>$
+[/iLmyRO04ICue]
+[iZdcQYCfKoA-#0] ^Twenty<num><pl>$
+[/iZdcQYCfKoA-]
+[izGmCWdqeXPB#0] ^Ninety<num><pl>$
+[/izGmCWdqeXPB]
+[jHhfRZ-kZLZY#0] ^Lars<np><ant><m><sg>$ ^work<vblex><pri><p3><sg>$ ^not<adv>$ ^today<adv>$^.<sent>$
+[/jHhfRZ-kZLZY]
+[kVZzEqsU1hi7#0] ^Journal<n><sg>$
+[/kVZzEqsU1hi7]
+[kchJYUKd0wUX#0] ^A<det><ind><sg>$ ^home<n><sg>$
+[/kchJYUKd0wUX]
+[kh4dlWiUYBLU#0] ^Even though<cnjadv>$ ^that<det><dem><sg>$ ^not<adv>$ ^rain<vblex><pri>$ ^now<adv>$^,<cm>$ ^be<vbser><pri>$ ^*jeg$ ^in<pr>$^.<sent>$
+[/kh4dlWiUYBLU]
+[lajGpRbCpR3D#0] ^*Hun$ ^be<vbser><pri>$ ^hunger<n><sg>$
+[/lajGpRbCpR3D]
+[lasQVWmZqPRg#0] ^A<det><ind><sg>$ ^home<n><sg>$ ^on<pr>$ ^sea<n><sg>$^.<sent>$
+[/lasQVWmZqPRg]
+[mF1YQxv58Qgf#0] ^Bird<n><sg>$
+[/mF1YQxv58Qgf]
+[mW1rmVpPxDXG#0] ^When<cnjsub>$ ^*jeg$ ^not<adv>$ ^do<vblex><pri>$ ^*leksene$ ^mine<n><sg>$^,<cm>$ ^be<vbser><pri>$ ^*jeg$ ^in<pr>$ ^bad<adj><sint>$ ^spirit<n><sg>$
+[/mW1rmVpPxDXG]
+[n3BXSjkf1qr9#0] ^Table<vblex><inf>$
+[/n3BXSjkf1qr9]
+[nFCEIaO-NKpm#0] ^Camilla<np><ant><f><sg>$ ^will<vblex><pri><p3><sg>$ ^not<adv>$ ^go<vblex><inf>$ ^on<pr>$ ^cinema<n><sg>$^.<sent>$
+[/nFCEIaO-NKpm]
+[nHAYqjMOOl4J#0] ^Wed<vblex><inf>$ ^be<vbser><pri>$ ^hungry<adj><sint>$
+[/nHAYqjMOOl4J]
+[nZcm0sZIKgQu#0] ^Second<adj><ord>$
+[/nZcm0sZIKgQu]
+[nzrnROQsrK1Y#0] ^*Jeg$ ^shall<vaux><inf>$ ^play<vblex><inf>$ ^tennis<n><sg>$ ^if<cnjsub>$ ^that<det><dem><sg>$ ^be<vbser><pri>$ ^fine<adj><sint>$ ^weather<n><sg>$
+[/nzrnROQsrK1Y]
+[pPg5yTPh1zcs#0] ^Seven<num><pl>$
+[/pPg5yTPh1zcs]
+[pxEav8TCCSw8#0] ^When<cnjsub>$ ^*jeg$ ^be<vbser><pri>$ ^exhaust<adj><sint>$ ^with<pr>$ ^*leksene$^,<cm>$ ^shall<vaux><inf>$ ^*jeg$ ^go<vblex><inf>$ ^out<adv>$
+[/pxEav8TCCSw8]
+[qMaMI3LSHsEf#0] ^*Jeg$ ^shall<vaux><inf>$ ^go<vblex><inf>$ ^on<pr>$ ^cinema<n><sg>$ ^after<pr>$ ^that<cnjsub>$ ^*jeg$ ^have<vbhaver><pri>$ ^do<vblex><pp>$ ^*leksene$
+[/qMaMI3LSHsEf]
+[r9QHyF1Y8xe_#0] ^*Jeg$ ^shall<vaux><inf>$ ^go<vblex><inf>$ ^out<adv>$ ^when<cnjsub>$ ^*jeg$ ^be<vbser><pri>$ ^exhaust<adj><sint>$ ^with<pr>$ ^*leksene$
+[/r9QHyF1Y8xe_]
+[rlhbKIC1itQT#0] ^That<det><dem><sg>$ ^be<vbser><pri>$ ^hungry<adj><sint>$
+[/rlhbKIC1itQT]
+[ryq_6K9_Tbo_#0] ^First<adj><ord>$
+[/ryq_6K9_Tbo_]
+[s0ASBd9PaTj8#0] ^Big<adj><sint>$ ^fish<n><sg>$
+[/s0ASBd9PaTj8]
+[s2Fj1lY7i4sj#0] ^Shine<vblex><inf>$
+[/s2Fj1lY7i4sj]
+[sSisw8d3KWX2#0] ^Merete<np><ant><f><sg>$ ^can<vaux><pri>$ ^speak<vblex><inf>$ ^Norwegian<n><sg>$^.<sent>$
+[/sSisw8d3KWX2]
+[si7osFVuL7CN#0] ^After<pr>$ ^that<cnjsub>$ ^*jeg$ ^have<vbhaver><pri>$ ^do<vblex><pp>$ ^*leksene$^,<cm>$ ^shall<vaux><inf>$ ^*jeg$ ^go<vblex><inf>$ ^on<pr>$ ^cinema<n><sg>$
+[/si7osFVuL7CN]
+[sl9Ov5POB15M#0] ^*Dere$ ^be<vbser><pri>$ ^hungry<adj><sint>$
+[/sl9Ov5POB15M]
+[sm9ZOCUalDA-#0] ^Wed<vblex><inf>$ ^coach<n><sg>$ ^in<pr>$ ^sport<n><sg>$ ^building<n><sg>$ ^since<cnjsub>$ ^that<det><dem><sg>$ ^anyway<adv>$ ^be<vbser><pri>$ ^so<cnjadv>$ ^cold<adj><sint>$ ^here<adv>$^.<sent>$
+[/sm9ZOCUalDA-]
+[t-W7I8R4_Khm#0] ^*Regnbuen$ ^have<vbhaver><pri>$ ^many<det><qnt><pl>$ ^suit<n><pl>$^.<sent>$
+[/t-W7I8R4_Khm]
+[tFnFTnBB-rTr#0] ^Because<cnjsub>$ ^*jeg$ ^not<adv>$ ^earn<vblex><pri>$ ^enough<adv>$ ^money<n><sg>$ ^now<adv>$^,<cm>$ ^must<vbmod><pri>$ ^*jeg$ ^shift<vblex><inf>$ ^job<n><sg>$^.<sent>$
+[/tFnFTnBB-rTr]
+[ujtVptso2t6B#0] ^How many<det><itg><pl>$ ^cake<n><pl>$ ^eat<vblex><past>$ ^*du$ ^yesterday<adv>$^?<sent>$
+[/ujtVptso2t6B]
+[uomeWoMLdH70#0] ^*Jeg$ ^be<vbser><pri>$ ^in<pr>$ ^bad<adj><sint>$ ^spirit<n><sg>$ ^when<cnjsub>$ ^*jeg$ ^not<adv>$ ^do<vblex><pri>$ ^*leksene$ ^mine<n><sg>$
+[/uomeWoMLdH70]
+[uueYQSvDMbZw#0] ^While<cnjsub>$ ^*jeg$ ^do<vblex><pri>$ ^*leksene$ ^mine<n><sg>$^,<cm>$ ^see<vblex><pri>$ ^*jeg$ ^on<pr>$ ^TV<n><sg>$
+[/uueYQSvDMbZw]
+[vSaYhx7v3jKP#0] ^At times<adv>$
+[/vSaYhx7v3jKP]
+[wMWWB49J-7qG#0] ^Even though<cnjadv>$ ^that<det><dem><sg>$ ^rain<vblex><past>$ ^out<pr>$^,<cm>$ ^go<vblex><past>$ ^*jeg$ ^a<det><ind><sg>$ ^tour<n><sg>$
+[/wMWWB49J-7qG]
+[wT8-8TL0upVP#0] ^*Jeg$ ^be<vbser><pri>$ ^in<pr>$ ^even though<cnjadv>$ ^that<det><dem><sg>$ ^not<adv>$ ^rain<vblex><pri>$ ^now<adv>$^.<sent>$
+[/wT8-8TL0upVP]
+[wUH6qA5DoRkJ#0] ^Four<num><pl>$
+[/wUH6qA5DoRkJ]
+[xIH1mAEv241c#0] ^Home<n><sg>$ ^*vårt$
+[/xIH1mAEv241c]
+[yoLaO3X0dneM#0] ^*De$ ^wash<vblex><pri>$ ^himself<prn><p3><un><sp><acc>$
+[/yoLaO3X0dneM]
+[z5lGznsRgNZG#0] ^House<vblex><inf>$
+[/z5lGznsRgNZG]
+[zMn38VCvB-l_#0] ^Home<n><sg>$ ^*hans$
+[/zMn38VCvB-l_]

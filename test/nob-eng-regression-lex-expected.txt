@@ -1,0 +1,22 @@
+[2jrPAE35JpzJ#0] ^Denne<det><dem><nt><sg>/This<det><dem><sg>$ ^være<vblex><pres>/be<vbser><pri>$ ^en<det><qnt><m><sg>/a<det><ind><sg>$ ^hest<n><m><sg><ind>/horse<n><sg><ind>$^.<sent><clb>/.<sent>$
+[/2jrPAE35JpzJ]
+[2xshsSqoJoXi#0] ^Vie<vblex><imp>/Wed<vblex><inf>/Dedicate<vblex><inf>$ ^komme<vblex><pres>/come<vblex><pri>$ ^fra<pr>/from<pr>$ ^Norge<np><top>/Norway<np><top><sg>$^.<sent><clb>/.<sent>$
+[/2xshsSqoJoXi]
+[Ciy87lQmvP63#0] ^*Han/*Han$ ^ha<vblex><pret>/have<vbhaver><past>$ ^ikke<adv>/not<adv>$ ^vente<vblex><pp>/wait<vblex><pp>/delay<vblex><pp>/expect<vblex><pp>/be# ready<vblex><pp>/stay# put<vblex><pp>$ ^den<det><dem><nt><sg>/that<det><dem><sg>$ ^svar<n><nt><sg><def>/reply<n><sg><def>/answer<n><sg><def>/response<n><sg><def>$^.<sent><clb>/.<sent>$
+[/Ciy87lQmvP63]
+[EK6SDSJIB52h#0] ^*Hun/*Hun$ ^komme<vblex><pres>/come<vblex><pri>$ ^fra<pr>/from<pr>$ ^Norge<np><top>/Norway<np><top><sg>$^.<sent><clb>/.<sent>$
+[/EK6SDSJIB52h]
+[_vEz1eYX0_EQ#0] ^*De/*De$ ^fire<det><qnt><un><pl>/four<num><un><pl>$ ^stor<adj><sint><sup><un><sp><def>/big<adj><sint><sint><sup><un><sp><def>$ ^norsk<adj><sint><pst><un><pl><ind>/Norwegian<adj><sint><pst><un><pl><ind>$ ^hjelpeorganisasjon<n><m><pl><def>/aid organisation<n><pl><def>$^.<sent><clb>/.<sent>$
+[/_vEz1eYX0_EQ]
+[acOcK0nSW7zL#0] ^Den<det><dem><m><sg>/That<det><dem><sg>$ ^svensk<adj><sint><pst><un><sp><def>/Swedish<adj><sint><pst><un><sp><def>$ ^konge<n><m><sg><def>/king<n><sg><def>$ ^skulle<vblex><pret>/should<vaux><inf>$ ^forhandle<vblex><inf>/negotiate<vblex><inf>$ ^med<pr>/with<pr>$ ^den<det><dem><nt><sg>/that<det><dem><sg>$ ^norsk<adj><sint><pst><un><sp><def>/Norwegian<adj><sint><pst><un><sp><def>$ ^storting<n><nt><sg><def>/parliament<n><sg><def>$ ^om<pr>/about<pr>$ ^en<det><qnt><m><sg>/a<det><ind><sg>$ ^union<n><m><sg><ind>/union<n><sg><ind>$ ^mellom<pr>/between<pr>$ ^Norge<np><top>/Norway<np><top><sg>$ ^og<cnjcoo>/and<cnjcoo>$ ^Sverige<np><top>/Sweden<np><top><sg>$^.<sent><clb>/.<sent>$
+[/acOcK0nSW7zL]
+[clUj0z3m3FHY#0] ^*De/*De$ ^fire<det><qnt><un><pl>/four<num><un><pl>$ ^stor<adj><sint><sup><un><sp><def>/big<adj><sint><sint><sup><un><sp><def>$ ^hjelpeorganisasjon<n><m><pl><def>/aid organisation<n><pl><def>$^.<sent><clb>/.<sent>$
+[/clUj0z3m3FHY]
+[qAoRbCPWbJoE#0] ^*De/*De$ ^stor<adj><sint><sup><un><sp><def>/big<adj><sint><sint><sup><un><sp><def>$ ^hjelpeorganisasjon<n><m><pl><def>/aid organisation<n><pl><def>$^.<sent><clb>/.<sent>$
+[/qAoRbCPWbJoE]
+[qSGysWiln8eK#0] ^*Jeg/*Jeg$ ^komme<vblex><pres>/come<vblex><pri>$ ^fra<pr>/from<pr>$ ^Norge<np><top>/Norway<np><top><sg>$^.<sent><clb>/.<sent>$
+[/qSGysWiln8eK]
+[sIzNJPOtaSf0#0] ^*Du/*Du$ ^komme<vblex><pres>/come<vblex><pri>$ ^fra<pr>/from<pr>$ ^Norge<np><top>/Norway<np><top><sg>$^.<sent><clb>/.<sent>$
+[/sIzNJPOtaSf0]
+[xDysq9l_syiU#0] ^*Han/*Han$ ^komme<vblex><pres>/come<vblex><pri>$ ^fra<pr>/from<pr>$ ^Norge<np><top>/Norway<np><top><sg>$^.<sent><clb>/.<sent>$
+[/xDysq9l_syiU]

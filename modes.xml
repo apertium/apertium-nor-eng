@@ -559,7 +559,7 @@
       <program name="cg-proc -w">
         <file name="eng-nor.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-nor.prob"/>
       </program>
       <program name="apertium-pretransfer"/>

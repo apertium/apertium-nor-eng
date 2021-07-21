@@ -2,7 +2,6 @@
 ## Makefile for Norwegian--English
 ###############################################################################
 
-VERSION=0.1.0
 LANG1=nor
 LANG1b=nob
 LANG1n=nno
@@ -235,10 +234,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "eg er ein fisk" | apertium -d . nno-eng | tee .test-mt
-	@echo "I am a fish" > .test-ref
-	@diff .test-ref .test-mt
-	echo "the house" | apertium -d . eng-nno | tee .test-mt
-	@echo "huset" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
+	apertium-regtest test

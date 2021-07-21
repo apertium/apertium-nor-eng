@@ -1,0 +1,240 @@
+[-5LH44G3HO2j#0] ^det<NMOD>{^A<det><ind><sg>$}$
+[/-5LH44G3HO2j]
+[-OEW4ICNYJFH#0] ^mod_nom<SN><sg>{^A<det><ind><sg>$ ^journal<n><2>$}$
+[/-OEW4ICNYJFH]
+[-RaQOqMszMoD#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><pri>{^must<vbmod><2>$}$ ^inf<SV><inf>{^shift<vblex><2>$}$ ^nom<SN><sg>{^job<n><2>$}$ ^default<default>{^because<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^default<default>{^not<adv>$}$ ^v<SV><pri>{^earn<vblex><2>$}$ ^default<default>{^enough<adv>$}$ ^nom<SN><sg>{^money<n><2>$}$ ^default<default>{^now<adv>$}$^default<default>{^.<sent>$}$
+[/-RaQOqMszMoD]
+[0QFN3Ke5b1O_#0] ^nom<SN><sg>{^Home<n><2>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^sea<n><2>$}$^default<default>{^.<sent>$}$
+[/0QFN3Ke5b1O_]
+[0s6cj7C9qkfr#0] ^nom<SN><pl>{^Apple<n><2>$}$
+[/0s6cj7C9qkfr]
+[0tTJ2v68Tsv3#0] ^det<NMOD>{^Seven<num><pl>$}$
+[/0tTJ2v68Tsv3]
+[1r8SolY0ngGr#0] ^det<NMOD>{^Thirty<num><pl>$}$
+[/1r8SolY0ngGr]
+[2d-eniyOKn0G#0] ^det<NMOD>{^That<det><dem><sg>$}$ ^v<SV><inf>{^should<vaux><2>$}$ ^inf<SV><inf>{^get<vblex><2>$}$ ^nom<SN><sg>{^engine<n><2>$}$ ^default<default>{^to<pr>$}$ ^default<default>{^to<pr>$}$ ^inf<SV><inf>{^seem<vblex><2>$}$^default<default>{^.<sent>$}$
+[/2d-eniyOKn0G]
+[2qX-dLnfkoWK#0] ^v<SV><pri>{^Be<vbser><2>$}$ ^unknown<unknown>{^*du$}$ ^unknown<unknown>{^*arbeidssøkende$}$ ^default<default>{^in<pr>$}$ ^nom<SN><sg>{^Norway<np><top><2>$}$ ^v<SV><inf>{^shall<vaux><2>$}$ ^unknown<unknown>{^*du$}$ ^inf<SV><inf>{^announce<vblex><2>$}$ ^unknown<unknown>{^*deg$}$ ^default<default>{^at<pr>$}$ ^nom<SN><pl>{^police<n><2>$}$ ^default<default>{^within<pr>$}$ ^mod_nom<SN><pl>{^three<num><pl>$ ^month<n><2>$}$ ^default<default>{^from<pr>$}$ ^nom<SN><sg>{^arrival<n><2>$}$^default<default>{^.<sent>$}$
+[/2qX-dLnfkoWK]
+[3m0iEk_r5R-j#0] ^default<default>{^Anyway<adv>$}$
+[/3m0iEk_r5R-j]
+[4-_3qoseoziX#0] ^det<NMOD>{^Six<num><pl>$}$
+[/4-_3qoseoziX]
+[47-dB3sqt0vf#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><pri>{^must<vbmod><2>$}$ ^inf<SV><inf>{^do<vblex><2>$}$ ^unknown<unknown>{^*leksene$}$ ^default<default>{^now<adv>$}$ ^default<default>{^for<pr>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^must<vbmod><2>$}$ ^inf<SV><inf>{^work<vblex><2>$}$ ^default<default>{^in<pr>$}$ ^nom<SN><sg>{^night<n><2>$}$
+[/47-dB3sqt0vf]
+[5-_tamlXtpkj#0] ^det<NMOD>{^Hundred<num><pl>$}$
+[/5-_tamlXtpkj]
+[5skPOkPd5dae#0] ^adj_nom<SN><pl>{^Big<adj><sint>$ ^home<n><2>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^sea<n><2>$}$^default<default>{^.<sent>$}$
+[/5skPOkPd5dae]
+[5vneo6plli2G#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^adj<SA>{^high<adj><sint><sup>$}$ ^unknown<unknown>{^*guten$}$ ^default<default>{^in<pr>$}$ ^nom<SN><sg>{^class<n><2>$}$ ^default<default>{^look<vblex><inf>$}$^default<default>{^.<sent>$}$
+[/5vneo6plli2G]
+[5zMQ6j0uvWu-#0] ^default<default>{^Since<cnjsub>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^v<SV><past>{^be<vbser><2>$}$ ^default<default>{^so<cnjadv>$}$ ^adj<SA>{^cold<adj><sint>$}$ ^default<default>{^out<pr>$}$^coma<cm>{^,<cm>$}$ ^v<SV><past>{^go<vblex><2>$}$ ^default<default>{^wed<vblex><inf>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^cinema<n><2>$}$
+[/5zMQ6j0uvWu-]
+[6ATxhKv20x-q#0] ^nom<SN><pl>{^Wall<n><2>$}$
+[/6ATxhKv20x-q]
+[71AX61oxqNLj#0] ^adj_nom<SN><pl>{^Wise<adj><sint>$ ^lady<n><2>$}$
+[/71AX61oxqNLj]
+[7wlG_jXiis8G#0] ^default<default>{^Because<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^have<vbhaver><2>$}$ ^nom<SN><sg>{^family<n><2>$}$ ^default<default>{^in<pr>$}$ ^nom<SN><sg>{^Norway<np><top><2>$}$^coma<cm>{^,<cm>$}$ ^v<SV><pri>{^teach<vblex><2>$}$ ^unknown<unknown>{^*jeg$}$ ^nom<SN><sg>{^Norwegian<n><2>$}$^default<default>{^.<sent>$}$
+[/7wlG_jXiis8G]
+[8TiZAwH57ZEG#0] ^unknown<unknown>{^*Tri$}$
+[/8TiZAwH57ZEG]
+[95Vfi2-EJdas#0] ^det<NMOD>{^Seventy<num><pl>$}$
+[/95Vfi2-EJdas]
+[9LBu9tPIFDb2#0] ^det<NMOD>{^Two<num><pl>$}$
+[/9LBu9tPIFDb2]
+[9vex0wW2FVGq#0] ^nom<SN><sg>{^Home<n><2>$}$ ^unknown<unknown>{^*mitt$}$
+[/9vex0wW2FVGq]
+[A-R9QGzq4HaP#0] ^default<default>{^When<adv><itg>$}$ ^v<SV><past>{^find<vblex><2>$}$ ^unknown<unknown>{^*du$}$ ^nom<SN><sg>{^cake<n><2>$}$ ^default<default>{^look<vblex><inf>$}$^default<default>{^?<sent>$}$
+[/A-R9QGzq4HaP]
+[BgRvmjp5DrBK#0] ^default<default>{^Why<adv><itg>$}$ ^v<SV><past>{^eat<vblex><2>$}$ ^unknown<unknown>{^*du$}$ ^nom<SN><sg>{^cake<n><2>$}$ ^default<default>{^look<vblex><inf>$}$^default<default>{^?<sent>$}$
+[/BgRvmjp5DrBK]
+[Bk95VgiATEjY#0] ^unknown<unknown>{^*Hun$}$ ^v<SV><pri>{^eat<vblex><2>$}$ ^nom<SN><sg>{^cake<n><2>$}$^coma<cm>{^,<cm>$}$ ^default<default>{^as<pr>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><past>{^buy<vblex><2>$}$
+[/Bk95VgiATEjY]
+[CR8zZO4qqMiQ#0] ^default<default>{^Who<prn><itg><mf><sp>$}$ ^v<SV><past>{^eat<vblex><2>$}$ ^nom<SN><sg>{^cake<n><2>$}$ ^default<default>{^look<vblex><inf>$}$^default<default>{^?<sent>$}$
+[/CR8zZO4qqMiQ]
+[CS5HUJ3OCmXx#0] ^adj_nom<SN><sg>{^Old<adj><sint>$ ^man<n><2>$}$
+[/CS5HUJ3OCmXx]
+[CbSaF2IxsAH5#0] ^adj_nom<SN><sg>{^Stupid<adj><sint>$ ^ape<n><2>$}$
+[/CbSaF2IxsAH5]
+[DhUIP7AULoQ2#0] ^nom<SN><pl>{^Aztec<n><2>$}$ ^v<SV><past>{^speak<vblex><2>$}$ ^mod_nom<SN><sg>{^a<det><ind><sg>$ ^variant<n><2>$}$ ^default<default>{^of<pr>$}$ ^nom<SN><sg>{^language<n><2>$}$ ^default<default>{^that<cnjsub>$}$ ^default<default>{^now<adv>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj<SA>{^know<vblex><pp>$}$ ^default<default>{^as<pr>$}$ ^adj<SA>{^classic<adj><sint>$}$ ^unknown<unknown>{^*nahuatl$}$^default<default>{^.<sent>$}$
+[/DhUIP7AULoQ2]
+[EcmdcuFOhnLE#0] ^default<default>{^In<pr>$}$ ^nom<SN><sg>{^Norway<np><top><2>$}$ ^v<SV><pri>{^can<vaux><2>$}$ ^unknown<unknown>{^*jeg$}$ ^inf<SV><inf>{^go<vblex><2># skiing$}$^default<default>{^.<sent>$}$
+[/EcmdcuFOhnLE]
+[H5kLW37eblr8#0] ^nom<SN><sg>{^Home<n><2>$}$
+[/H5kLW37eblr8]
+[IU_q8WTUuBVI#0] ^nom<SN><pl>{^Image<n><2>$}$
+[/IU_q8WTUuBVI]
+[K8ojH5jnybjf#0] ^adj_nom<SN><sg>{^Green<adj><sint>$ ^car<n><2>$}$
+[/K8ojH5jnybjf]
+[KRhnhE5KgPo6#0] ^default<default>{^When<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><past>{^be<vbser><2>$}$ ^adj<SA>{^exhaust<adj><sint>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^school<n><2>$}$^coma<cm>{^,<cm>$}$ ^v<SV><past>{^go<vblex><2>$}$ ^unknown<unknown>{^*jeg$}$ ^default<default>{^home<pr>$}$
+[/KRhnhE5KgPo6]
+[Knic3Wx-u9cH#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><past>{^go<vblex><2>$}$ ^mod_nom<SN><sg>{^a<det><ind><sg>$ ^tour<n><2>$}$ ^default<default>{^even though<cnjadv>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^v<SV><past>{^rain<vblex><2>$}$ ^default<default>{^out<pr>$}$
+[/Knic3Wx-u9cH]
+[Krpgj7DjYA5h#0] ^default<default>{^Wash<vblex><inf>$}$ ^default<default>{^yourself<prn><p2><mf><sg><acc>$}$^default<default>{^!<sent>$}$
+[/Krpgj7DjYA5h]
+[KzHdPNHwP0UZ#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><inf>{^shall<vaux><2>$}$ ^inf<SV><inf>{^play<vblex><2>$}$ ^nom<SN><sg>{^tennis<n><2>$}$ ^default<default>{^if<cnjsub>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^default<default>{^not<adv>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj_nom<SN><sg>{^fine<adj><sint>$ ^weather<n><2>$}$
+[/KzHdPNHwP0UZ]
+[LObZvDWhW0nQ#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^nom<SN><sg>{^hunger<n><2>$}$
+[/LObZvDWhW0nQ]
+[LqxPapwb-MHk#0] ^det<NMOD>{^Ten<num><pl>$}$
+[/LqxPapwb-MHk]
+[M11eKafl-iW9#0] ^default<default>{^If<cnjsub>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj_nom<SN><sg>{^fine<adj><sint>$ ^weather<n><2>$}$^coma<cm>{^,<cm>$}$ ^v<SV><inf>{^shall<vaux><2>$}$ ^unknown<unknown>{^*jeg$}$ ^inf<SV><inf>{^play<vblex><2>$}$ ^nom<SN><sg>{^tennis<n><2>$}$
+[/M11eKafl-iW9]
+[M1Cefjmi9SFO#0] ^unknown<unknown>{^*Han$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^nom<SN><sg>{^hunger<n><2>$}$
+[/M1Cefjmi9SFO]
+[NKfXoK7F0vSj#0] ^nom<SN><sg>{^Man<n><2>$}$
+[/NKfXoK7F0vSj]
+[NanK513_gDuO#0] ^det<NMOD>{^Twenty<num><pl>$}$
+[/NanK513_gDuO]
+[O7-i2q-Bt9Mt#0] ^default<default>{^Where<adv><itg>$}$ ^v<SV><past>{^find<vblex><2>$}$ ^unknown<unknown>{^*du$}$ ^nom<SN><sg>{^cake<n><2>$}$ ^default<default>{^look<vblex><inf>$}$^default<default>{^?<sent>$}$
+[/O7-i2q-Bt9Mt]
+[OE6U6m2MychO#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><pri>{^teach<vblex><2>$}$ ^nom<SN><sg>{^Norwegian<n><2>$}$ ^default<default>{^because<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^have<vbhaver><2>$}$ ^nom<SN><sg>{^family<n><2>$}$ ^default<default>{^in<pr>$}$ ^nom<SN><sg>{^Norway<np><top><2>$}$^default<default>{^.<sent>$}$
+[/OE6U6m2MychO]
+[OtaUvIhvB8m9#0] ^default<default>{^Here<adv>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^nom<SN><sg>{^chair<n><2>$}$^coma<cm>{^,<cm>$}$ ^default<default>{^that<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^sit<vblex><2>$}$ ^default<default>{^on<pr>$}$
+[/OtaUvIhvB8m9]
+[OzKMVcpNPob0#0] ^nom<SN><sg>{^Cake<n><2>$}$
+[/OzKMVcpNPob0]
+[Qa1fvgYZ5ytt#0] ^det<NMOD>{^Three<num><pl>$}$
+[/Qa1fvgYZ5ytt]
+[RhvmvpEzq5Im#0] ^nom<SN><sg>{^Home<n><2>$}$ ^unknown<unknown>{^*hennes$}$
+[/RhvmvpEzq5Im]
+[S19qNl71PPt4#0] ^nom<SN><sg>{^Home<n><2>$}$ ^unknown<unknown>{^*deres$}$
+[/S19qNl71PPt4]
+[SNaQVmvzy6Jg#0] ^nom<SN><sg>{^Cup<n><2>$}$
+[/SNaQVmvzy6Jg]
+[TCHFTI20AToL#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><past>{^go<vblex><2>$}$ ^default<default>{^home<pr>$}$ ^default<default>{^when<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><past>{^be<vbser><2>$}$ ^adj<SA>{^exhaust<adj><sint>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^school<n><2>$}$
+[/TCHFTI20AToL]
+[TgXWIao0Xa1s#0] ^default<default>{^Wed<vblex><inf>$}$ ^v<SV><past>{^go<vblex><2>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^cinema<n><2>$}$ ^default<default>{^since<cnjsub>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^v<SV><past>{^be<vbser><2>$}$ ^default<default>{^so<cnjadv>$}$ ^adj<SA>{^cold<adj><sint>$}$ ^default<default>{^out<pr>$}$^default<default>{^.<sent>$}$
+[/TgXWIao0Xa1s]
+[UWrNQZyp6k_B#0] ^det<NMOD>{^Eight<num><pl>$}$
+[/UWrNQZyp6k_B]
+[VefvPCzBo0B1#0] ^det<NMOD>{^Nine<num><pl>$}$
+[/VefvPCzBo0B1]
+[Vi_MXQNeLRc2#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><pri>{^see<vblex><2>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^TV<n><2>$}$ ^default<default>{^while<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^do<vblex><2>$}$ ^unknown<unknown>{^*leksene$}$ ^inf<SV><inf>{^look<vblex><2>$}$
+[/Vi_MXQNeLRc2]
+[X2wyRh0k9_LI#0] ^unknown<unknown>{^*Disse$}$ ^nom<SN><pl>{^cake<n><2>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj<SA>{^big<adj><sint>$}$
+[/X2wyRh0k9_LI]
+[YZibbc-g0vbd#0] ^nom<SN><sg>{^Home<n><2>$}$ ^unknown<unknown>{^*ditt$}$
+[/YZibbc-g0vbd]
+[Z25-HSZlRXJS#0] ^default<default>{^How<adv><itg>$}$ ^v<SV><past>{^find<vblex><2>$}$ ^unknown<unknown>{^*du$}$ ^nom<SN><sg>{^cake<n><2>$}$ ^default<default>{^look<vblex><inf>$}$^default<default>{^?<sent>$}$
+[/Z25-HSZlRXJS]
+[ZOgFpFL4FoT5#0] ^adj<SA>{^Third<adj><ord>$}$
+[/ZOgFpFL4FoT5]
+[_4RWQD0av-AN#0] ^det<NMOD>{^Five<num><pl>$}$
+[/_4RWQD0av-AN]
+[_KmDaQ50keyL#0] ^default<default>{^About<pr>$}$ ^nom<SN><sg>{^summer<n><2>$}$ ^v<SV><pri>{^swim<vblex><2>$}$ ^unknown<unknown>{^*jeg$}$ ^default<default>{^often<adv>$}$^default<default>{^.<sent>$}$
+[/_KmDaQ50keyL]
+[_aDGPVTUY0Q1#0] ^default<default>{^Before<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^put<vblex><2>$}$ ^unknown<unknown>{^*meg$}$^coma<cm>{^,<cm>$}$ ^v<SV><pri>{^drink<vblex><2>$}$ ^unknown<unknown>{^*jeg$}$ ^mod_nom<SN><sg>{^a<det><ind><sg>$ ^glass<n><2>$}$ ^nom<SN><sg>{^wine<n><2>$}$
+[/_aDGPVTUY0Q1]
+[_eVc_kWRACIj#0] ^mod_nom<SN><sg>{^A<det><ind><sg>$ ^man<n><2>$}$
+[/_eVc_kWRACIj]
+[_vEz1eYX0_EQ#0] ^unknown<unknown>{^*De$}$ ^det<NMOD>{^four<num><pl>$}$ ^adj<SA>{^big<adj><sint><sup>$}$ ^adj_nom<SN><pl>{^Norwegian<adj><sint>$ ^aid organisation<n><2>$}$^default<default>{^.<sent>$}$
+[/_vEz1eYX0_EQ]
+[aGx6wXRa3ddT#0] ^nom<SN><sg>{^John<np><ant><m><2>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^default<default>{^just<adv>$}$ ^adj<SA>{^smart<adj><sint>$}$ ^default<default>{^as<pr>$}$ ^nom<SN><sg>{^Mary<np><ant><f><2>$}$^default<default>{^.<sent>$}$
+[/aGx6wXRa3ddT]
+[aJn0Ff-Sx2IX#0] ^default<default>{^If<cnjsub>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^default<default>{^not<adv>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj_nom<SN><sg>{^fine<adj><sint>$ ^weather<n><2>$}$^coma<cm>{^,<cm>$}$ ^v<SV><inf>{^shall<vaux><2>$}$ ^unknown<unknown>{^*jeg$}$ ^inf<SV><inf>{^play<vblex><2>$}$ ^nom<SN><sg>{^tennis<n><2>$}$
+[/aJn0Ff-Sx2IX]
+[anjiJhvLrQUE#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><pri>{^drink<vblex><2>$}$ ^mod_nom<SN><sg>{^a<det><ind><sg>$ ^glass<n><2>$}$ ^nom<SN><sg>{^wine<n><2>$}$ ^default<default>{^before<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^put<vblex><2>$}$ ^unknown<unknown>{^*meg$}$
+[/anjiJhvLrQUE]
+[bJ8F1VEgrVvI#0] ^unknown<unknown>{^*Du$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^nom<SN><sg>{^hunger<n><2>$}$
+[/bJ8F1VEgrVvI]
+[bT7J65YqD9vr#0] ^default<default>{^What<prn><itg><mf><sp>$}$ ^unknown<unknown>{^*slaks$}$ ^nom<SN><sg>{^cake<n><2>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^det<NMOD>{^that<det><dem><sg>$}$^default<default>{^?<sent>$}$
+[/bT7J65YqD9vr]
+[c4HHsGRzZZNl#0] ^default<default>{^Who<prn><itg><mf><sp>$}$ ^default<default>{^its<vblex><inf>$}$ ^nom<SN><sg>{^cake<n><2>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^det<NMOD>{^that<det><dem><sg>$}$^default<default>{^?<sent>$}$
+[/c4HHsGRzZZNl]
+[coFsNr1ASoD0#0] ^default<default>{^Never<adv>$}$
+[/coFsNr1ASoD0]
+[e7wIBOBYJBgr#0] ^nom<SN><pl>{^Home<n><2>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^sea<n><2>$}$^default<default>{^.<sent>$}$
+[/e7wIBOBYJBgr]
+[eDg8pJin8UBQ#0] ^det<NMOD>{^Thirty<num><pl>$}$
+[/eDg8pJin8UBQ]
+[eo5_uKQJ80z_#0] ^default<default>{^Since<cnjsub>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^default<default>{^anyway<adv>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^default<default>{^so<cnjadv>$}$ ^adj<SA>{^cold<adj><sint>$}$ ^default<default>{^here<adv>$}$^coma<cm>{^,<cm>$}$ ^v<SV><pri>{^train<vblex><2>$}$ ^default<default>{^wed<vblex><inf>$}$ ^default<default>{^in<pr>$}$ ^nom<SN><sg>{^sport<n><2>$}$ ^nom<SN><sg>{^building<n><2>$}$^default<default>{^.<sent>$}$
+[/eo5_uKQJ80z_]
+[fBokaVLDeNhV#0] ^det<NMOD>{^That<det><dem><sg>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj<SA>{^big<adj><sint>$}$
+[/fBokaVLDeNhV]
+[h_uzXwuvqCL5#0] ^default<default>{^What<det><itg><sp>$}$ ^v<SV><pri>{^be<vblex><2># called$}$ ^unknown<unknown>{^*han$}$^default<default>{^?<sent>$}$
+[/h_uzXwuvqCL5]
+[hk0ns68ZSy41#0] ^unknown<unknown>{^*Nahuatl$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^default<default>{^today<adv>$}$ ^det_num_adj_adj_nom<SN><sg>{^the<det><def><sg>$ ^next<adv>$ ^much<det><qnt><sp>$ ^use<vblex><pp>$ ^language<n><2>$}$ ^default<default>{^in<pr>$}$ ^nom<SN><sg>{^Mexico<np><top><2>$}$ ^default<default>{^after<pr>$}$ ^nom<SN><sg>{^Spanish<n><2>$}$^default<default>{^.<sent>$}$
+[/hk0ns68ZSy41]
+[iLmyRO04ICue#0] ^unknown<unknown>{^*Han$}$ ^v<SV><pri>{^wash<vblex><2>$}$ ^default<default>{^himself<prn><p3><un><sp><acc>$}$
+[/iLmyRO04ICue]
+[iZdcQYCfKoA-#0] ^det<NMOD>{^Twenty<num><pl>$}$
+[/iZdcQYCfKoA-]
+[izGmCWdqeXPB#0] ^det<NMOD>{^Ninety<num><pl>$}$
+[/izGmCWdqeXPB]
+[jHhfRZ-kZLZY#0] ^nom<SN><sg>{^Lars<np><ant><m><2>$}$ ^v<SV><pri>{^work<vblex><2>$}$ ^default<default>{^not<adv>$}$ ^default<default>{^today<adv>$}$^default<default>{^.<sent>$}$
+[/jHhfRZ-kZLZY]
+[kVZzEqsU1hi7#0] ^nom<SN><sg>{^Journal<n><2>$}$
+[/kVZzEqsU1hi7]
+[kchJYUKd0wUX#0] ^mod_nom<SN><sg>{^A<det><ind><sg>$ ^home<n><2>$}$
+[/kchJYUKd0wUX]
+[kh4dlWiUYBLU#0] ^default<default>{^Even though<cnjadv>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^default<default>{^not<adv>$}$ ^v<SV><pri>{^rain<vblex><2>$}$ ^default<default>{^now<adv>$}$^coma<cm>{^,<cm>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^unknown<unknown>{^*jeg$}$ ^default<default>{^in<pr>$}$^default<default>{^.<sent>$}$
+[/kh4dlWiUYBLU]
+[lajGpRbCpR3D#0] ^unknown<unknown>{^*Hun$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^nom<SN><sg>{^hunger<n><2>$}$
+[/lajGpRbCpR3D]
+[lasQVWmZqPRg#0] ^mod_nom<SN><sg>{^A<det><ind><sg>$ ^home<n><2>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^sea<n><2>$}$^default<default>{^.<sent>$}$
+[/lasQVWmZqPRg]
+[mF1YQxv58Qgf#0] ^nom<SN><sg>{^Bird<n><2>$}$
+[/mF1YQxv58Qgf]
+[mW1rmVpPxDXG#0] ^default<default>{^When<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^default<default>{^not<adv>$}$ ^v<SV><pri>{^do<vblex><2>$}$ ^unknown<unknown>{^*leksene$}$ ^nom<SN><sg>{^mine<n><2>$}$^coma<cm>{^,<cm>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^unknown<unknown>{^*jeg$}$ ^default<default>{^in<pr>$}$ ^adj_nom<SN><sg>{^bad<adj><sint>$ ^spirit<n><2>$}$
+[/mW1rmVpPxDXG]
+[n3BXSjkf1qr9#0] ^default<default>{^Table<vblex><inf>$}$
+[/n3BXSjkf1qr9]
+[nFCEIaO-NKpm#0] ^nom<SN><sg>{^Camilla<np><ant><f><2>$}$ ^v<SV><pri>{^will<vblex><2>$}$ ^default<default>{^not<adv>$}$ ^inf<SV><inf>{^go<vblex><2>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^cinema<n><2>$}$^default<default>{^.<sent>$}$
+[/nFCEIaO-NKpm]
+[nHAYqjMOOl4J#0] ^default<default>{^Wed<vblex><inf>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj<SA>{^hungry<adj><sint>$}$
+[/nHAYqjMOOl4J]
+[nZcm0sZIKgQu#0] ^adj<SA>{^Second<adj><ord>$}$
+[/nZcm0sZIKgQu]
+[nzrnROQsrK1Y#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><inf>{^shall<vaux><2>$}$ ^inf<SV><inf>{^play<vblex><2>$}$ ^nom<SN><sg>{^tennis<n><2>$}$ ^default<default>{^if<cnjsub>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj_nom<SN><sg>{^fine<adj><sint>$ ^weather<n><2>$}$
+[/nzrnROQsrK1Y]
+[pPg5yTPh1zcs#0] ^det<NMOD>{^Seven<num><pl>$}$
+[/pPg5yTPh1zcs]
+[pxEav8TCCSw8#0] ^default<default>{^When<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj<SA>{^exhaust<adj><sint>$}$ ^default<default>{^with<pr>$}$ ^unknown<unknown>{^*leksene$}$^coma<cm>{^,<cm>$}$ ^v<SV><inf>{^shall<vaux><2>$}$ ^unknown<unknown>{^*jeg$}$ ^inf<SV><inf>{^go<vblex><2>$}$ ^default<default>{^out<adv>$}$
+[/pxEav8TCCSw8]
+[qMaMI3LSHsEf#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><inf>{^shall<vaux><2>$}$ ^inf<SV><inf>{^go<vblex><2>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^cinema<n><2>$}$ ^default<default>{^after<pr>$}$ ^default<default>{^that<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^have<vbhaver><2>$}$ ^pp<SA><pp>{^do<vblex><2>$}$ ^unknown<unknown>{^*leksene$}$
+[/qMaMI3LSHsEf]
+[r9QHyF1Y8xe_#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><inf>{^shall<vaux><2>$}$ ^inf<SV><inf>{^go<vblex><2>$}$ ^default<default>{^out<adv>$}$ ^default<default>{^when<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj<SA>{^exhaust<adj><sint>$}$ ^default<default>{^with<pr>$}$ ^unknown<unknown>{^*leksene$}$
+[/r9QHyF1Y8xe_]
+[rlhbKIC1itQT#0] ^det<NMOD>{^That<det><dem><sg>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj<SA>{^hungry<adj><sint>$}$
+[/rlhbKIC1itQT]
+[ryq_6K9_Tbo_#0] ^adj<SA>{^First<adj><ord>$}$
+[/ryq_6K9_Tbo_]
+[s0ASBd9PaTj8#0] ^adj_nom<SN><sg>{^Big<adj><sint>$ ^fish<n><2>$}$
+[/s0ASBd9PaTj8]
+[s2Fj1lY7i4sj#0] ^default<default>{^Shine<vblex><inf>$}$
+[/s2Fj1lY7i4sj]
+[sSisw8d3KWX2#0] ^nom<SN><sg>{^Merete<np><ant><f><2>$}$ ^v<SV><pri>{^can<vaux><2>$}$ ^inf<SV><inf>{^speak<vblex><2>$}$ ^nom<SN><sg>{^Norwegian<n><2>$}$^default<default>{^.<sent>$}$
+[/sSisw8d3KWX2]
+[si7osFVuL7CN#0] ^default<default>{^After<pr>$}$ ^default<default>{^that<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^have<vbhaver><2>$}$ ^pp<SA><pp>{^do<vblex><2>$}$ ^unknown<unknown>{^*leksene$}$^coma<cm>{^,<cm>$}$ ^v<SV><inf>{^shall<vaux><2>$}$ ^unknown<unknown>{^*jeg$}$ ^inf<SV><inf>{^go<vblex><2>$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^cinema<n><2>$}$
+[/si7osFVuL7CN]
+[sl9Ov5POB15M#0] ^unknown<unknown>{^*Dere$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^adj<SA>{^hungry<adj><sint>$}$
+[/sl9Ov5POB15M]
+[sm9ZOCUalDA-#0] ^default<default>{^Wed<vblex><inf>$}$ ^nom<SN><sg>{^coach<n><2>$}$ ^default<default>{^in<pr>$}$ ^nom<SN><sg>{^sport<n><2>$}$ ^nom<SN><sg>{^building<n><2>$}$ ^default<default>{^since<cnjsub>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^default<default>{^anyway<adv>$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^default<default>{^so<cnjadv>$}$ ^adj<SA>{^cold<adj><sint>$}$ ^default<default>{^here<adv>$}$^default<default>{^.<sent>$}$
+[/sm9ZOCUalDA-]
+[t-W7I8R4_Khm#0] ^unknown<unknown>{^*Regnbuen$}$ ^v<SV><pri>{^have<vbhaver><2>$}$ ^mod_nom<SN><pl>{^many<det><qnt><pl>$ ^suit<n><2>$}$^default<default>{^.<sent>$}$
+[/t-W7I8R4_Khm]
+[tFnFTnBB-rTr#0] ^default<default>{^Because<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^default<default>{^not<adv>$}$ ^v<SV><pri>{^earn<vblex><2>$}$ ^default<default>{^enough<adv>$}$ ^nom<SN><sg>{^money<n><2>$}$ ^default<default>{^now<adv>$}$^coma<cm>{^,<cm>$}$ ^v<SV><pri>{^must<vbmod><2>$}$ ^unknown<unknown>{^*jeg$}$ ^inf<SV><inf>{^shift<vblex><2>$}$ ^nom<SN><sg>{^job<n><2>$}$^default<default>{^.<sent>$}$
+[/tFnFTnBB-rTr]
+[ujtVptso2t6B#0] ^mod_nom<SN><pl>{^How many<det><itg><pl>$ ^cake<n><2>$}$ ^v<SV><past>{^eat<vblex><2>$}$ ^unknown<unknown>{^*du$}$ ^default<default>{^yesterday<adv>$}$^default<default>{^?<sent>$}$
+[/ujtVptso2t6B]
+[uomeWoMLdH70#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^default<default>{^in<pr>$}$ ^adj_nom<SN><sg>{^bad<adj><sint>$ ^spirit<n><2>$}$ ^default<default>{^when<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^default<default>{^not<adv>$}$ ^v<SV><pri>{^do<vblex><2>$}$ ^unknown<unknown>{^*leksene$}$ ^nom<SN><sg>{^mine<n><2>$}$
+[/uomeWoMLdH70]
+[uueYQSvDMbZw#0] ^default<default>{^While<cnjsub>$}$ ^unknown<unknown>{^*jeg$}$ ^v<SV><pri>{^do<vblex><2>$}$ ^unknown<unknown>{^*leksene$}$ ^nom<SN><sg>{^mine<n><2>$}$^coma<cm>{^,<cm>$}$ ^v<SV><pri>{^see<vblex><2>$}$ ^unknown<unknown>{^*jeg$}$ ^default<default>{^on<pr>$}$ ^nom<SN><sg>{^TV<n><2>$}$
+[/uueYQSvDMbZw]
+[vSaYhx7v3jKP#0] ^default<default>{^At times<adv>$}$
+[/vSaYhx7v3jKP]
+[wMWWB49J-7qG#0] ^default<default>{^Even though<cnjadv>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^v<SV><past>{^rain<vblex><2>$}$ ^default<default>{^out<pr>$}$^coma<cm>{^,<cm>$}$ ^v<SV><past>{^go<vblex><2>$}$ ^unknown<unknown>{^*jeg$}$ ^mod_nom<SN><sg>{^a<det><ind><sg>$ ^tour<n><2>$}$
+[/wMWWB49J-7qG]
+[wT8-8TL0upVP#0] ^unknown<unknown>{^*Jeg$}$ ^v<SV><pri>{^be<vbser><2>$}$ ^default<default>{^in<pr>$}$ ^default<default>{^even though<cnjadv>$}$ ^det<NMOD>{^that<det><dem><sg>$}$ ^default<default>{^not<adv>$}$ ^v<SV><pri>{^rain<vblex><2>$}$ ^default<default>{^now<adv>$}$^default<default>{^.<sent>$}$
+[/wT8-8TL0upVP]
+[wUH6qA5DoRkJ#0] ^det<NMOD>{^Four<num><pl>$}$
+[/wUH6qA5DoRkJ]
+[xIH1mAEv241c#0] ^nom<SN><sg>{^Home<n><2>$}$ ^unknown<unknown>{^*vårt$}$
+[/xIH1mAEv241c]
+[yoLaO3X0dneM#0] ^unknown<unknown>{^*De$}$ ^v<SV><pri>{^wash<vblex><2>$}$ ^default<default>{^himself<prn><p3><un><sp><acc>$}$
+[/yoLaO3X0dneM]
+[z5lGznsRgNZG#0] ^default<default>{^House<vblex><inf>$}$
+[/z5lGznsRgNZG]
+[zMn38VCvB-l_#0] ^nom<SN><sg>{^Home<n><2>$}$ ^unknown<unknown>{^*hans$}$
+[/zMn38VCvB-l_]
