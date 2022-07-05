@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rules>
 
 <!-- India er verdens sjuende største land. India is the world's seventh largest country. -->
@@ -245,7 +246,7 @@
 
 <rule>
     <match lemma="artikkel" tags="n.m.*"><select lemma="paragraph" tags="n.*"/> </match>
-    <match tag="num.*"/>
+    <match tags="num.*"/>
 </rule>
 
 <!-- Dette er ikke en kommersiell avbrytelse. This is not a commercial interruption. -->
