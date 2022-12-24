@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
   <alphabet/>
   <sdefs>
@@ -10126,6 +10127,7 @@
     <e><p><l>grensedisputt<s n="n"/><s n="m"/></l><r>border<b/>dispute<s n="n"/></r></p><par n="sp_sg"/></e>
     <e><p><l>kolonialisme<s n="n"/><s n="m"/></l><r>colonialism<s n="n"/></r></p></e>
     <e><p><l>gravemaskin<s n="n"/><s n="m"/></l><r>excavator<s n="n"/></r></p></e>
+    <e><p><l>edderkopp<s n="n"/><s n="m"/></l><r>spider<s n="n"/></r></p></e>
 
 
 
